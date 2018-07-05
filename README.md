@@ -1,5 +1,5 @@
-# 106 學年度夏季學院 【資料科學程式設計】
-#CS+X Data Science Programming
+# 106 學年度夏季學院 【資料科學程式設計】  
+# CS+X Data Science Programming
 
 # Introduction
 
