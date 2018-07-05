@@ -12,4 +12,4 @@ CS+X Data Science Programming
 
 ## Week 1
 
-### [HW1](https://lulu-lee.github.io/106-Summer-Class/)
+### [HW1](https://lulu-lee.github.io/106-Summer-Class/week_1/HW1)
