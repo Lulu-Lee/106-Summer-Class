@@ -9,4 +9,5 @@ ggplot(data=df, aes(x=dose, y=len, group=1)) + geom_line() + geom_point()
 ggplot(data=df, aes(x=dose, y=len, group=1)) + geom_line(linetype = "dashed") + geom_point()
 #change the color
 ggplot(data=df, aes(x=dose, y=len, group=1)) + geom_line(color = "red") + geom_point()
-library(grid)
+
+
