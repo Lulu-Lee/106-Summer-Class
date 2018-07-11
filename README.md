@@ -16,4 +16,4 @@ CS+X Data Science Programming
 
 ## Week 2
 
-### [HW2]
+### [HW2](https://lulu-lee.github.io/106-Summer-Class/Week_2/practice1)
