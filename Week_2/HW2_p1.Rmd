@@ -3,9 +3,27 @@ title: "HW2"
 output: html_document
 ---
 
+# 畫圖
+
 ```{r}
 library(ggplot2)
+```
+## Bar (長條圖) for data "attitude"
+```{r}
+ggplot(data=attitude, aes(x=learning, y=raises)) + geom_bar(fill="lightgreen", color="gray", stat="identity")
+```
 
-ggplot(data=attitude, aes(x=learning, y=raises)) + geom_bar(stat="identity")
+## Points (散佈圖) for data "attitude"
+```{r}
+ggplot(data=attitude, aes(x=rating, y=complaints)) + geom_point(color="blue")
+```
 
+## Violins Plots (小提琴圖) for data "iris"
+```{r}
+ggplot(data=iris, aes(y=Sepal.Length, x=Species)) + geom_violin(fill="pink", color="white")
+```
+
+## Others (Path + Points) for data "iris"
+```{r}
+ggplot(data=iris, aes(x=Sepal.Width, y=Petal.Width)) + geom_path(color="violet", size=2) + geom_point(color="yellow", size=3)
 ```
