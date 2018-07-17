@@ -29,6 +29,7 @@ CS+X Data Science Programming
 	Know more about R   
 自己動手做分析（R語言）__ https://www.youtube.com/watch?v=3k0FPGNhTOY  
 	Understand the function of “chunk” and the principle of R  
+	Try to draw different plots/bars to complete HW2_Part1  
 
 
 ### [Class_Practice1](https://lulu-lee.github.io/106-Summer-Class/Week_2/practice1)
