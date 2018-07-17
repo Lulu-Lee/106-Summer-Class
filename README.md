@@ -12,9 +12,24 @@ CS+X Data Science Programming
 
 ## Week 1
 
+### Progress  
+	Sign up GitHub  
+	Install GitHub Desktop, R, RStudio, and Sublime Text 3  
+	Edit READ.ME through Sublime Text 3 and GitHub Desktop  
+	Add HW1(R Markdown and R HTML) through RStudio  
+	Learn Introduction to R in DataCamp  
+
+
 ### [HW1](https://lulu-lee.github.io/106-Summer-Class/Week_1/HW1)  
 
 ## Week 2
+
+### Progress
+	Add Class_Practice1  
+	Know more about R   
+自己動手做分析（R語言）__ https://www.youtube.com/watch?v=3k0FPGNhTOY  
+	Understand the function of “chunk” and the principle of R  
+
 
 ### [Class_Practice1](https://lulu-lee.github.io/106-Summer-Class/Week_2/practice1)
 
