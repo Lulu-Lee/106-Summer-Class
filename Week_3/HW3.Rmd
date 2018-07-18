@@ -1,0 +1,15 @@
+---
+title: "Practice1"
+output: html_document
+---
+
+# Data From:
+# https://www.kaggle.com/erikbruin/titanic-2nd-degree-families-and-majority-voting/notebook
+
+```{r}
+TestData = read.csv('./Practice1/all_(1)/test.csv')
+```
+
+
+
+
