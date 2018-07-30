@@ -1,1484 +1,1432 @@
 "x"
-"1" "作者qmqmqm ()看板Tech_Job標題Re: [新聞] 〈鴻海的進擊1〉郭台銘9月再砍7千人 台灣時間Sat Jul 28 00:24:15 2018
-再多跟大家喇篇關於人性的莫名
+"1" "�@��qmqmqm ()�ݪOTech_Job���DRe: [�s�D] �q�E�����i��1�r���x��9��A��7�d�H �x�W�ɶ�Sat Jul 28 00:24:15 2018
+�A�h��j�a��g����H�ʪ����W
 
-以$還有效益上來看, 當然是砍老的省, 又可讓年輕人發揮
-但為什麼企業還是砍年輕人洗年輕人, 很少動到老的?
+�H$�٦��įq�W�Ӭ�, ���M�O��Ѫ���, �S�i���~���H�o��
+����������~�٬O��~���H�~�~���H, �ܤְʨ�Ѫ�?
 
-其實不論什麼產業公司, 總是有那種資深但其實沒做啥的老員工
-不是說這種人是冗員, 而是他似乎和單位產生一種連體性
+��ꤣ�פ��򲣷~���q, �`�O�����ظ�`�����S��ԣ���ѭ��u
+���O���o�ؤH�O����, �ӬO�L���G�M��첣�ͤ@�سs���
 
-不是單位文化上少了他可能也不行 (氣氛上)
-就是砍了他可能跟你拼命讓公司上社會新聞
-因為上有老母下有妻小
+���O����ƤW�֤F�L�i��]���� (��^�W)
+�N�O��F�L�i���A���R�����q�W���|�s�D
+�]���W���ѥ��U���d�p
 
-在大規模裁員中, 不管估計砍多少人省幾億
-只要有一個跟你拼上社會新聞就吃不消了
-所以用各種方式弄走逼走考驗人性
+�b�j�W�ҵ�����, ���ަ��p��h�֤H�ٴX��
+�u�n���@�Ӹ�A���W���|�s�D�N�Y�����F
+�ҥH�ΦU�ؤ覡�˨��G������H��
 
-也因為40歲以下年輕人碰到這種情境
-比較會選擇出去再拚, 而不是拿刀還有汽油桶來跟你拼
-所以被裁還真沒啥道理, 很多時候就是因為是你這樣
+�]�]��40���H�U�~���H�I��o�ر���
+����|��ܥX�h�A��, �Ӥ��O���M�٦��T�o���Ӹ�A��
+�ҥH�Q���ٯu�Sԣ�D�z, �ܦh�ɭԴN�O�]���O�A�o��
 
 --
-※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 59.115.117.147
-※ 文章網址: https://www.ptt.cc/bbs/Tech_Job/M.1532708659.A.8C1.html
-推 luckyBF: 拜託，砍我 07/28 00:25
-※ 編輯: qmqmqm (59.115.117.147), 07/28/2018 00:28:48
-噓 abstainer: 2017年調薪10%~20%,不就是為了今年2018裁員 07/28 00:42
-推 bearian: 一堆人要失業了 07/28 09:37
-推 squard: 沒錯，砍50歲的人，真的會跟你拚命，上有老母下有小孩 07/28 10:25
-推 pj9999123: 明年新鮮人你就給他看著 別再被騙進來海邊了 會裁員 07/28 11:04
-推 Asbarla: 其實還有一點 老人罵人比較屌 吵的贏就能叫的動了 07/28 11:05
-推 pj9999123: 他們就是裁掉也不怕沒人新血會加入 不管老人超沒人性 07/28 11:07
-→ pj9999123: 難怪人家說血汗工廠 台清交成兩科中字輩別再被騙了 07/28 11:08
-→ pj9999123: 就連台大機械所畢業陳博 都無法顧好自己的人 被裁了 07/28 11:10
-推 angelvictor: 因為名單首先是這群人決定的 07/28 13:12
-推 AkiMinoriko: 用不著擔心 2018年新世代最嚮往企業第五名不怕招不到 07/28 13:30
-→ AkiMinoriko: 新人進來這家幸福企業的 07/28 13:30
-→ holsety: 際上部門砍得起的只有菜鳥，連中等年資都沒錢砍 07/28 17:18
-→ holsety: 因為砍人頭的費用一般都是部門自己出 07/28 17:18
-→ zoo0602: 慘兮兮…… 07/28 17:20
-→ seafloor: 1.新人沒形成戰力 2.老的沒做事的。在大規模人事行動下 07/29 09:52
-→ seafloor: 一定是先砍的一批人 07/29 09:52
-→ seafloor: 在這種陣仗下你覺得還會顧及你上有老下有小？又不是只 07/29 09:55
-→ seafloor: 砍一兩個。 07/29 09:55
-→ seafloor: 就算是頭也知道最起碼要留下能幫自己做事的。不然下批 07/29 09:57
-→ seafloor: 就是你了 07/29 09:57
-→ seafloor: 誰知道會砍幾波。 07/29 09:58
+�� �o�H��: �����~�{(ptt.cc), �Ӧ�: 59.115.117.147
+�� �峹���}: https://www.ptt.cc/bbs/Tech_Job/M.1532708659.A.8C1.html
+�� luckyBF: ���U�A��� 07/28 00:25
+�� �s��: qmqmqm (59.115.117.147), 07/28/2018 00:28:48
+�N abstainer: 2017�~���~10%~20%,���N�O���F���~2018���� 07/28 00:42
+�� bearian: �@��H�n���~�F 07/28 09:37
+�� squard: �S���A��50�����H�A�u���|��A��R�A�W���ѥ��U���p�� 07/28 10:25
+�� pj9999123: ���~�s�A�H�A�N���L�ݵ� �O�A�Q�F�i�Ӯ���F �|���� 07/28 11:04
+�� Asbarla: ����٦��@�I �ѤH�|�H����x �n��Ĺ�N��s���ʤF 07/28 11:05
+�� pj9999123: �L�̴N�O�����]���ȨS�H�s��|�[�J ���ަѤH�W�S�H�� 07/28 11:07
+�� pj9999123: ���ǤH�a���妽�u�t �x�M�榨��줤�r���O�A�Q�F�F 07/28 11:08
+�� pj9999123: �N�s�x�j����Ҳ��~���� ���L�k�U�n�ۤv���H �Q���F 07/28 11:10
+�� angelvictor: �]���W�歺���O�o�s�H�M�w�� 07/28 13:12
+�� AkiMinoriko: �Τ��۾�� 2018�~�s�@�N���Q�����~�Ĥ��W���ȩۤ��� 07/28 13:30
+�� AkiMinoriko: �s�H�i�ӳo�a���֥��~�� 07/28 13:30
+�� holsety: �ڤW������o�_���u���泾�A�s�����~�곣�S���� 07/28 17:18
+�� holsety: �]����H�Y���O�Τ@�볣�O�����ۤv�X 07/28 17:18
+�� zoo0602: �G�����K�K 07/28 17:20
+�� seafloor: 1.�s�H�S�Φ��ԤO 2.�Ѫ��S���ƪ��C�b�j�W�ҤH�Ʀ�ʤU 07/29 09:52
+�� seafloor: �@�w�O���媺�@��H 07/29 09:52
+�� seafloor: �b�o�ذ}�M�U�Aı�o�ٷ|�U�ΧA�W���ѤU���p�H�S���O�u 07/29 09:55
+�� seafloor: ��@��ӡC 07/29 09:55
+�� seafloor: �N��O�Y�]���D�̰_�X�n�d�U�����ۤv���ƪ��C���M�U�� 07/29 09:57
+�� seafloor: �N�O�A�F 07/29 09:57
+�� seafloor: �֪��D�|��X�i�C 07/29 09:58
 "
 "2" NA
 "3" NA
-"4" "作者jacky9220 (小天)看板Tech_Job標題[請益] 北部科技園區或員工餐廳擺攤 (手工餅乾)時間Sat Jul 28 00:35:35 2018
+"4" "�@��jacky9220 (�p��)�ݪOTech_Job���D[�Яq] �_����޶�ϩέ��u�\�U�\�u (��u�氮)�ɶ�Sat Jul 28 00:35:35 2018
 
-不好意思，
-打擾各位，
-代友po文，想詢問各位科技新貴，
-是否有北部科技園區或員工餐廳擺攤(賣手工餅乾)可介紹，
-因之前朋友有查過網路，
-打過幾家公司福委會，
-但被告知他們沒有擺攤的位置，
-故想請問各位板上的科技新貴們，
-北部(台北,新北,桃園,新竹)是否有可擺攤的可介紹？
-先感謝大家的分享
-拜託拜託
+���n�N��A
+���Z�U��A
+�N��po��A�Q�߰ݦU���޷s�Q�A
+�O�_���_����޶�ϩέ��u�\�U�\�u(���u�氮)�i���СA
+�]���e�B�ͦ��d�L�����A
+���L�X�a���q�֩e�|�A
+���Q�i���L�̨S���\�u����m�A
+�G�Q�аݦU��O�W����޷s�Q�̡A
+�_��(�x�_,�s�_,���,�s��)�O�_���i�\�u���i���СH
+���P�¤j�a������
+���U���U
 
-ps. 之前有擺過中華電信園區、竹科園區，想知道更多資訊
-　　換個不同地方擺攤賣賣看
+ps. ���e���\�L���عq�H��ϡB�ˬ��ϡA�Q���D��h��T
+�@�@���Ӥ��P�a���\�u����
 
 --
-※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 223.136.136.2
-※ 文章網址: https://www.ptt.cc/bbs/Tech_Job/M.1532709338.A.E91.html
-→ sc1: 先進科技業 被裁再擺攤 07/28 00:39
-推 yuimoest: 去海邊悶口擺 07/28 01:08
-→ popher: 汐科，東科大樓一樓走廊，你找大樓管委會問看看 07/28 02:39
-→ avgirl: 你要站的點應該是找那種沒事就會訂下午茶吃點心的公司 07/28 02:53
-→ Destery: 汐止東科一樓比較有可能，沒人流擺了賣誰 07/28 06:54
-→ interactive: 新北產業園區應該滿多的 07/28 07:14
-推 htaurwen: 新店中和遠東工業區中午直接路邊賣試試 07/28 07:34
-→ sendtony6: 想太多，那個都要有關係才進的去 07/28 08:48
-→ sendtony6: 否則憑什麼讓你擺攤 07/28 08:48
-→ Roderickey: 關係是要靠錢跟女人買通嗎? 07/28 08:51
-推 googoo1102: 西湖站出口就有人再擺攤啊 07/28 09:59
-推 gary7076: 竹北台元有機會 07/28 10:36
-→ cphe: 科技版真是什麼文章都有... 07/28 13:24
-→ csfgsj: 南港軟體園區，有日租攤位，洽管委會 07/28 13:33
-推 jovi0001: 內科中午隨便腳踏車賣吃的都排隊 07/28 16:41
-→ jovi0001: http://i.imgur.com/Jkg5ZGs.jpg 07/28 16:41
-推 zoo0602: 有餐廳的廠應該都能擺攤吧？照理說很多啊！ 07/28 17:09
-推 bightn: GG有 07/28 17:18
-→ SlightCloud: 凌陽有   台元可以問管理中心 美食街常有人擺 07/28 17:24
-推 nanikono: 擺攤的眼色要好，亂擺可能會吃慶記的 07/29 08:12
+�� �o�H��: �����~�{(ptt.cc), �Ӧ�: 223.136.136.2
+�� �峹���}: https://www.ptt.cc/bbs/Tech_Job/M.1532709338.A.E91.html
+�� sc1: ���i��޷~ �Q���A�\�u 07/28 00:39
+�� yuimoest: �h����e�f�\ 07/28 01:08
+�� popher: ����A�F��j�Ӥ@�Ө��Y�A�A��j�Ӻީe�|�ݬݬ� 07/28 02:39
+�� avgirl: �A�n�����I���ӬO�䨺�بS�ƴN�|�q�U�ȯ��Y�I�ߪ����q 07/28 02:53
+�� Destery: ����F��@�Ӥ�����i��A�S�H�y�\�F��� 07/28 06:54
+�� interactive: �s�_���~������Ӻ��h�� 07/28 07:14
+�� htaurwen: �s�����M���F�u�~�Ϥ��Ȫ��������ո� 07/28 07:34
+�� sendtony6: �Q�Ӧh�A���ӳ��n�����Y�~�i���h 07/28 08:48
+�� sendtony6: �_�h�̤������A�\�u 07/28 08:48
+�� Roderickey: ���Y�O�n�a����k�H�R�q��? 07/28 08:51
+�� googoo1102: ��򯸥X�f�N���H�A�\�u�� 07/28 09:59
+�� gary7076: �˥_�x�������| 07/28 10:36
+�� cphe: ��ު��u�O����峹����... 07/28 13:24
+�� csfgsj: �n��n���ϡA���鯲�u��A���ީe�| 07/28 13:33
+�� jovi0001: ���줤���H�K�}�񨮽�Y�����ƶ� 07/28 16:41
+�� jovi0001: http://i.imgur.com/Jkg5ZGs.jpg 07/28 16:41
+�� zoo0602: ���\�U���t���ӳ����\�u�a�H�Ӳz���ܦh�ڡI 07/28 17:09
+�� bightn: GG�� 07/28 17:18
+�� SlightCloud: �⶧��   �x���i�H�ݺ޲z���� ������`���H�\ 07/28 17:24
+�� nanikono: �\�u������n�n�A���\�i��|�Y�y�O�� 07/29 08:12
 "
 "5" NA
 "6" NA
-"7" "作者typeking (  )看板Tech_Job標題[請益] 冰箱的食物被自己的主管偷吃了時間Sat Jul 28 01:27:56 2018
-如題
+"7" "�@��typeking (  )�ݪOTech_Job���D[�Яq] �B�c�������Q�ۤv���D�ް��Y�F�ɶ�Sat Jul 28 01:27:56 2018
+�p�D
 
-星期日的時候在冰箱裡面冰了冰淇淋，星期一來的時候發現不翼而飛
+�P���骺�ɭԦb�B�c�̭��B�F�B�N�O�A�P���@�Ӫ��ɭԵo�{���l�ӭ�
 
-調了監視攝影機的時候發現吃的人不是別人，正是自己的主管
+�դF�ʵ���v�����ɭԵo�{�Y���H���O�O�H�A���O�ۤv���D��
 
-一開始原本想說會不會是他自己也有買了相同的冰而剛好吃到我的
+�@�}�l�쥻�Q���|���|�O�L�ۤv�]���R�F�ۦP���B�ӭ�n�Y��ڪ�
 
-想辦法跟他聊天套話的時候得知他根本沒有在公司冰箱冰過任何東西，因為怕被別人偷吃
+�Q��k��L��ѮM�ܪ��ɭԱo���L�ڥ��S���b���q�B�c�B�L����F��A�]���ȳQ�O�H���Y
 
-請問各位遇到這種情況的話會怎麼處理？
+�аݦU��J��o�ر��p���ܷ|���B�z�H
 
-1. 報警抓他讓他沒工作
+1. ��ĵ��L���L�S�u�@
 
-2. 想辦法讓他知道他吃的是自己的東西，以這點讓自己今年的考績upup
+2. �Q��k���L���D�L�Y���O�ۤv���F��A�H�o�I���ۤv���~�����Zupup
 
-3. 當沒事
+3. ���S��
 
-4. 繼續買冰放冰箱，讓他繼續吃，並想辦法讓他知道是自己的，讓自己今年考績upup
+4. �~��R�B��B�c�A���L�~��Y�A�÷Q��k���L���D�O�ۤv���A���ۤv���~���Zupup
 
 --
-※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 122.116.98.54
-※ 文章網址: https://www.ptt.cc/bbs/Tech_Job/M.1532712478.A.5C0.html
-推 PauFrank5566: 報警吧   偷竊是公訴罪 07/28 01:29
-→ toshiba978: 你的2跟4有甚麼不同嗎? 07/28 01:30
-→ typeking: 2的話不會繼續再買  4的話會繼續再買 07/28 01:30
-→ willism: 直接講，讓他還你不就好了...耍一堆權術是吃飽太閒膩 07/28 01:31
-→ willism: 微罪100%緩起訴，自找麻煩 07/28 01:33
-推 ttt95217: 看薪水和冰棒價格的比值來決定 07/28 01:35
-推 owen5566: 太可惡了吧！冰淇淋耶！是我就告到他破產！！ 07/28 01:38
-推 hbkhhhdx2006: 這種小確幸被剝奪不能忍 07/28 01:40
-推 roamer1005: 3.但以後就不會再放 07/28 01:51
-推 dalinman: 4 XDDDD 笑死 07/28 02:01
-→ windlll: 你可放會燃燒的烏龍茶，他下午一定會很ㄎ一ㄤ..XD 07/28 02:04
-推 NSYSUEE: 度你可以在冰淇淋裡面參雜強力瀉藥，讓他拉到屎 07/28 02:10
-噓 amingfirst: 到底大家是過得多不快樂 哈哈哈哈哈 07/28 02:12
-推 LLika: 加入罌X汁，嘿嘿嘿 07/28 02:14
-推 kevin50605: 找個機會找他一起吃一樣的冰淇淋 他就會知道了 07/28 02:18
-推 DarkIllusion: 放精心製作的食物模型  如:瓦楞紙炸雞排,熱熔膠雪糕 07/28 02:19
-→ sc1: 放瀉藥在食物裡面 07/28 02:26
-→ popher: 2跟4 確定主管被抓包不會惱羞? 07/28 02:40
-推 shan1010: 上面kevin大的建議不錯啊，不用明講出來 07/28 03:52
-推 amethystboy: 這id... 07/28 07:02
-→ KeyFSN: 提醒一下 放瀉藥之類的行為是犯法的 別犯傻 07/28 07:16
-推 eatingshit: 加洨跟瀉藥 07/28 07:21
-推 siemen: 加洨應該不犯法吧 07/28 07:36
-推 Csir: 加春藥在裡面  然後每天屁股對他 07/28 07:37
-推 EniX444: 放蟑螂沉進去啊 讓他吃到一半有驚喜 07/28 07:43
-推 Seikan: 變成買兩個 一個貼名字 一個不貼 放在一起 他會懂的XD 07/28 07:52
-→ killlove: 放瀉藥正解 07/28 08:00
-推 giantwinter: 報警 07/28 08:03
-→ lighthearted: 下班就帶回家嘛 07/28 08:23
-推 Roderickey: 大家對這id也在認真回XDDD 07/28 08:31
-→ z1288: 冰淇淋的蓋子上可以寫\"誰吃了,我讓他懷孕!!\" 07/28 08:45
-推 wingod3256: 4 這個有幫助 07/28 08:57
-推 letmesay: 我自己要吃瀉藥冰淇淋犯什麼法？ 07/28 08:58
-→ letmesay: 又不是我拿瀉藥給別人吃 07/28 08:59
-推 codehard: 5 以此要脅肛他 從此愛上你不可自拔 07/28 09:00
-推 labdog: 不好意思，是我吃的。小事可以不用這麼張揚嗎？ 07/28 09:24
-推 mathrew: 4 你要確定不會缺錢  獎金錢>買零食的錢 07/28 09:27
-→ mathrew:               虧 07/28 09:28
-推 ap954212: 最近才有一個養樂多被偷喝 告別人的 試試看吧 07/28 09:31
-噓 QQ5566: 看到id先按2 07/28 09:59
-噓 roygb61215: 滾回去八卦版 07/28 10:04
-推 CCOOGG: 5 繼續放冰給他吃 但是用自己大便做的 特調咖啡口味 07/28 10:09
-→ CCOOGG: 然後再問他口味如何 好不好吃 07/28 10:09
-推 hizuki: 貼名字 07/28 10:15
-推 Refauth: 放瀉藥+1，然後驚恐地說\"食物好像壞掉不能吃了\"=完全合法 07/28 10:19
-→ Refauth: 放炭疽菌，然後驚恐地說\"食物好像壞掉不能吃了\"=完全合法 07/28 10:20
-→ Refauth: 放肉毒菌，然後驚恐地說\"食物好像壞掉不能吃了\"=完全合法 07/28 10:21
-→ Refauth: 各位朋友，食物腐敗可能產生各種病菌，要小心唷鳩咪鳩咪 07/28 10:21
-→ javis3021: 支持提告 07/28 10:33
-推 SCLEE5566: 下一篇: 自己的老婆被主管偷吃 07/28 10:41
-噓 Asbarla: 滾 07/28 11:02
-推 ptta: 幻想文 07/28 11:20
-推 ckallen: 2B.再買一個冰淇淋給主管 說你知道他喜歡這個 考績upupup 07/28 11:34
-→ willism: 如果調過攝影機了，那...鎖定特定人的下毒or放瀉藥，屬 07/28 11:54
-→ willism: 於犯罪... 07/28 11:54
-→ willism: 網友的那些爛理由，騙騙三歲小孩還可以 07/28 11:56
-推 bla: 想升官當然是4啊，馬屁拍好拍滿很難嗎？ 07/28 11:58
-→ tingiy: 你七點就下班了嗎 07/28 12:11
-推 followwar: 最近便秘加瀉藥在自己的冰淇淋裡錯了嗎? 有鎖定特定人? 07/28 12:17
-推 samblow2000: 冰淇淋上面貼自己的名條 如果在被吃 就加安眠藥 07/28 12:27
-→ zuan: 4是在公司養寵物，還用公用冰箱冰寵物零食，會被記過喔 07/28 12:31
-→ willism: 爭贏我沒用啊，先想想檢察官和法官信不信 07/28 12:43
-噓 physicsdk: 主管不知情你有辦法調公司監視器？ 套得了主管話？ 醒 07/28 13:00
-→ physicsdk: 醒吧你沒這能耐 07/28 13:00
-推 LinuxKernel: 1啦，記得上來回報後續 07/28 13:03
-推 followwar: 那我就好奇了，未經別人同意吃了別人的東西拉肚子 07/28 13:09
-→ followwar: 那應該我先告他偷竊呢?  還是他先告我下藥? 07/28 13:10
-推 botnet: 下次買同樣的冰淇淋，加點料 07/28 13:13
-→ felixr0123: 繼續放一堆東西，下次放十萬現金 從此主管小秘密被你 07/28 13:29
-→ felixr0123: 抓住 07/28 13:29
-噓 s860134: 我覺得你應該要小心他偷吹你的直笛 07/28 13:31
-→ s860134: 科技版活脫像小學生版... 07/28 13:32
-推 tim790809: 5 瀉藥加下去 07/28 14:11
-推 knight313: 裝攝影機，然後告他，最後你變成主管 07/28 14:17
-→ willism: 你可以舉發他竊盜，公訴罪，可惜微罪不舉，隨便google都 07/28 14:18
-→ willism: 一堆案例。但是你先調過監視器，已知特定人吃你東西，知 07/28 14:18
-→ willism: 道後還下毒就是預謀(佈陷阱)，輕則傷害重則殺人罪，然後 07/28 14:18
-→ willism: 到法庭慢慢哭去吧。 07/28 14:18
-→ willism: 至於冰淇淋加瀉藥，說要自己吃這種...還好我小學有畢業 07/28 14:19
-→ willism: ，騙不了我 07/28 14:19
-推 gj942l41l4: 跟他提一下自己冰在冰箱的冰淇淋不見了很難過  就好了 07/28 14:20
-→ gj942l41l4: 報警抓他  你在公司大概也混不下去 07/28 14:20
-推 rattrapante: 居然是打字王！！！ 07/28 14:25
-→ rattrapante: 會偷吃別人東西, 這人品似乎不太好 07/28 14:25
-→ ACDC69: 再買一次冰下洩藥 07/28 14:44
-推 AnewMitch: https://i.imgur.com/tpSusr0.jpg 07/28 15:05
-推 xyz1010: 類似偷吃蛋糕的人，只好標記名字了。 07/28 15:32
-推 cocoyan: 4XDDD 07/28 16:30
-推 thomaskov: 下毒ㄚ 07/28 18:37
-推 kotohira: My Sandwich! My Sandwich! 07/28 19:05
-→ sendtony6: 放瀉藥 07/28 19:22
-推 Edaw: 5. 繼續放 且 跟主管說是買來請大家吃的  考績up!up!!up!!! 07/28 20:03
-推 xczh: 可以把照片貼上來嗎? 我一直很好奇偷吃別人食物的人長什麼樣 07/28 20:07
-→ twinmick: 就看考績能多up就買多少放冰箱啊，要是能up到第一，你就 07/28 20:28
-→ twinmick: 塞爆冰箱，然後說主管請吃的。 07/28 20:29
-推 jordom148: 放瀉藥自己就不能吃啦 07/28 20:36
-推 deray: 鳥籠奶是什麼 07/28 21:34
-→ AvatarH: 放瀉藥的會得到一張紙寫 \"我也這樣做了\" 07/28 21:57
-→ AvatarH: 曾經我在飲料外貼一張紙寫\"有放瀉藥\"，就得到上面的紙了 07/28 21:59
-推 p00o99o: 你可以學小隊長 07/28 23:08
-推 tyantmf: 4 XD 07/28 23:17
-推 maxherman: 只是冰，貼紙條要求還就好，真沒啥 07/28 23:57
-推 zxnstu3104: 報警處理了，讓他死 07/29 00:45
-噓 Busufu: 你們跟打字王認真三小... 07/29 02:54
-噓 trama: 大家真客氣，這種一看就知道是唬爛的廢文也可以討論的這麼 07/29 15:35
-→ trama: 爽 07/29 15:35
-→ saram: 用瀉藥 07/29 22:35
-噓 D49361128: 我都在裡面偷加冬泉火酒  給你參考 07/29 23:12
+�� �o�H��: �����~�{(ptt.cc), �Ӧ�: 122.116.98.54
+�� �峹���}: https://www.ptt.cc/bbs/Tech_Job/M.1532712478.A.5C0.html
+�� PauFrank5566: ��ĵ�a   ���ѬO���D�o 07/28 01:29
+�� toshiba978: �A��2��4���ƻ򤣦P��? 07/28 01:30
+�� typeking: 2���ܤ��|�~��A�R  4���ܷ|�~��A�R 07/28 01:30
+�� willism: �������A���L�٧A���N�n�F...�A�@���v�N�O�Y���Ӷ��� 07/28 01:31
+�� willism: �L�o100%�w�_�D�A�ۧ�·� 07/28 01:33
+�� ttt95217: ���~���M�B�λ��檺��ȨӨM�w 07/28 01:35
+�� owen5566: �ӥi�c�F�a�I�B�N�O�C�I�O�ڴN�i��L�}���I�I 07/28 01:38
+�� hbkhhhdx2006: �o�ؤp�T���Q��ܤ���� 07/28 01:40
+�� roamer1005: 3.���H��N���|�A�� 07/28 01:51
+�� dalinman: 4 XDDDD ���� 07/28 02:01
+�� windlll: �A�i��|�U�N���Q�s���A�L�U�Ȥ@�w�|�ܣ}�@��..XD 07/28 02:04
+�� NSYSUEE: �קA�i�H�b�B�N�O�̭������j�O�m�ġA���L�Ԩ�� 07/28 02:10
+�N amingfirst: �쩳�j�a�O�L�o�h���ּ� ���������� 07/28 02:12
+�� LLika: �[�JĢX�ġA�K�K�K 07/28 02:14
+�� kevin50605: ��Ӿ��|��L�@�_�Y�@�˪��B�N�O �L�N�|���D�F 07/28 02:18
+�� DarkIllusion: ���߻s�@�������ҫ�  �p:�˷��Ȭ�����,���������| 07/28 02:19
+�� sc1: ���m�Ħb�����̭� 07/28 02:26
+�� popher: 2��4 �T�w�D�޳Q��]���|�o��? 07/28 02:40
+�� shan1010: �W��kevin�j����ĳ�����ڡA���Ω����X�� 07/28 03:52
+�� amethystboy: �oid... 07/28 07:02
+�� KeyFSN: �����@�U ���m�Ĥ������欰�O�Ǫk�� �O�Ƕ� 07/28 07:16
+�� eatingshit: �[�m���m�� 07/28 07:21
+�� siemen: �[�m���Ӥ��Ǫk�a 07/28 07:36
+�� Csir: �[�K�Ħb�̭�  �M��C�ѧ��ѹ�L 07/28 07:37
+�� EniX444: �������I�i�h�� ���L�Y��@�b����� 07/28 07:43
+�� Seikan: �ܦ��R��� �@�ӶK�W�r �@�Ӥ��K ��b�@�_ �L�|����XD 07/28 07:52
+�� killlove: ���m�ĥ��� 07/28 08:00
+�� giantwinter: ��ĵ 07/28 08:03
+�� lighthearted: �U�Z�N�a�^�a�� 07/28 08:23
+�� Roderickey: �j�a��oid�]�b�{�u�^XDDD 07/28 08:31
+�� z1288: �B�N�O���\�l�W�i�H�g\"�֦Y�F,�����L�h��!!\" 07/28 08:45
+�� wingod3256: 4 �o�Ӧ����U 07/28 08:57
+�� letmesay: �ڦۤv�n�Y�m�ĦB�N�O�Ǥ���k�H 07/28 08:58
+�� letmesay: �S���O�ڮ��m�ĵ��O�H�Y 07/28 08:59
+�� codehard: 5 �H���n�٨z�L �q���R�W�A���i�۩� 07/28 09:00
+�� labdog: ���n�N��A�O�ڦY���C�p�ƥi�H���γo��i���ܡH 07/28 09:24
+�� mathrew: 4 �A�n�T�w���|�ʿ�  ������>�R�s������ 07/28 09:27
+�� mathrew:               �� 07/28 09:28
+�� ap954212: �̪�~���@�Ӿi�֦h�Q���� �i�O�H�� �ոլݧa 07/28 09:31
+�N QQ5566: �ݨ�id����2 07/28 09:59
+�N roygb61215: �u�^�h�K���� 07/28 10:04
+�� CCOOGG: 5 �~���B���L�Y ���O�Φۤv�j�K���� �S�թ@�ؤf�� 07/28 10:09
+�� CCOOGG: �M��A�ݥL�f���p�� �n���n�Y 07/28 10:09
+�� hizuki: �K�W�r 07/28 10:15
+�� Refauth: ���m��+1�A�M���宣�a��\"�����n���a������Y�F\"=�����X�k 07/28 10:19
+�� Refauth: �񬴯j�ߡA�M���宣�a��\"�����n���a������Y�F\"=�����X�k 07/28 10:20
+�� Refauth: ��׬r�ߡA�M���宣�a��\"�����n���a������Y�F\"=�����X�k 07/28 10:21
+�� Refauth: �U��B�͡A�����G�ѥi�ಣ�ͦU�دf�ߡA�n�p�߭򹧫}���} 07/28 10:21
+�� javis3021: ������i 07/28 10:33
+�� SCLEE5566: �U�@�g: �ۤv���ѱC�Q�D�ް��Y 07/28 10:41
+�N Asbarla: �u 07/28 11:02
+�� ptta: �۷Q�� 07/28 11:20
+�� ckallen: 2B.�A�R�@�ӦB�N�O���D�� ���A���D�L���w�o�� ���Zupupup 07/28 11:34
+�� willism: �p�G�չL��v���F�A��...��w�S�w�H���U�ror���m�ġA�� 07/28 11:54
+�� willism: ��Ǹo... 07/28 11:54
+�� willism: ���ͪ�������z�ѡA�F�F�T���p���٥i�H 07/28 11:56
+�� bla: �Q�ɩx���M�O4�ڡA������n�纡�����ܡH 07/28 11:58
+�� tingiy: �A�C�I�N�U�Z�F�� 07/28 12:11
+�� followwar: �̪�K���[�m�Ħb�ۤv���B�N�O�̿��F��? ����w�S�w�H? 07/28 12:17
+�� samblow2000: �B�N�O�W���K�ۤv���W�� �p�G�b�Q�Y �N�[�w�v�� 07/28 12:27
+�� zuan: 4�O�b���q�i�d���A�٥Τ��ΦB�c�B�d���s���A�|�Q�O�L�� 07/28 12:31
+�� willism: ��Ĺ�ڨS�ΰڡA���Q�Q�˹�x�M�k�x�H���H 07/28 12:43
+�N physicsdk: �D�ޤ������A����k�դ��q�ʵ����H �M�o�F�D�޸ܡH �� 07/28 13:00
+�� physicsdk: ���a�A�S�o��@ 07/28 13:00
+�� LinuxKernel: 1�աA�O�o�W�Ӧ^������ 07/28 13:03
+�� followwar: ���ڴN�n�_�F�A���g�O�H�P�N�Y�F�O�H���F��Ԩ{�l 07/28 13:09
+�� followwar: �����ӧڥ��i�L���ѩO?  �٬O�L���i�ڤU��? 07/28 13:10
+�� botnet: �U���R�P�˪��B�N�O�A�[�I�� 07/28 13:13
+�� felixr0123: �~���@��F��A�U����Q�U�{�� �q���D�ޤp���K�Q�A 07/28 13:29
+�� felixr0123: ��� 07/28 13:29
+�N s860134: ��ı�o�A���ӭn�p�ߥL���j�A������ 07/28 13:31
+�� s860134: ��ު����湳�p�ǥͪ�... 07/28 13:32
+�� tim790809: 5 �m�ĥ[�U�h 07/28 14:11
+�� knight313: ����v���A�M��i�L�A�̫�A�ܦ��D�� 07/28 14:17
+�� willism: �A�i�H�|�o�L�ѵs�A���D�o�A�i���L�o���|�A�H�Kgoogle�� 07/28 14:18
+�� willism: �@��רҡC���O�A���չL�ʵ����A�w���S�w�H�Y�A�F��A�� 07/28 14:18
+�� willism: �D���٤U�r�N�O�w��(�G����)�A���h�ˮ`���h���H�o�A�M�� 07/28 14:18
+�� willism: ��k�x�C�C���h�a�C 07/28 14:18
+�� willism: �ܩ�B�N�O�[�m�ġA���n�ۤv�Y�o��...�٦n�ڤp�Ǧ����~ 07/28 14:19
+�� willism: �A�F���F�� 07/28 14:19
+�� gj942l41l4: ��L���@�U�ۤv�B�b�B�c���B�N�O�����F�����L  �N�n�F 07/28 14:20
+�� gj942l41l4: ��ĵ��L  �A�b���q�j���]�V���U�h 07/28 14:20
+�� rattrapante: �~�M�O���r���I�I�I 07/28 14:25
+�� rattrapante: �|���Y�O�H�F��, �o�H�~���G���Ӧn 07/28 14:25
+�� ACDC69: �A�R�@���B�U���� 07/28 14:44
+�� AnewMitch: https://i.imgur.com/tpSusr0.jpg 07/28 15:05
+�� xyz1010: �������Y�J�|���H�A�u�n�аO�W�r�F�C 07/28 15:32
+�� cocoyan: 4XDDD 07/28 16:30
+�� thomaskov: �U�r�� 07/28 18:37
+�� kotohira: My Sandwich! My Sandwich! 07/28 19:05
+�� sendtony6: ���m�� 07/28 19:22
+�� Edaw: 5. �~��� �B ��D�޻��O�R�ӽФj�a�Y��  ���Zup!up!!up!!! 07/28 20:03
+�� xczh: �i�H��Ӥ��K�W�Ӷ�? �ڤ@���ܦn�_���Y�O�H�������H������� 07/28 20:07
+�� twinmick: �N�ݦ��Z��hup�N�R�h�֩�B�c�ڡA�n�O��up��Ĥ@�A�A�N 07/28 20:28
+�� twinmick: ���z�B�c�A�M�ỡ�D�޽ЦY���C 07/28 20:29
+�� jordom148: ���m�Ħۤv�N����Y�� 07/28 20:36
+�� deray: ��Ţ���O���� 07/28 21:34
+�� AvatarH: ���m�Ī��|�o��@�i�ȼg \"�ڤ]�o�˰��F\" 07/28 21:57
+�� AvatarH: ���g�ڦb���ƥ~�K�@�i�ȼg\"�����m��\"�A�N�o��W�����ȤF 07/28 21:59
+�� p00o99o: �A�i�H�Ǥp���� 07/28 23:08
+�� tyantmf: 4 XD 07/28 23:17
+�� maxherman: �u�O�B�A�K�ȱ��n�D�ٴN�n�A�u�Sԣ 07/28 23:57
+�� zxnstu3104: ��ĵ�B�z�F�A���L�� 07/29 00:45
+�N Busufu: �A�̸򥴦r���{�u�T�p... 07/29 02:54
+�N trama: �j�a�u�Ȯ�A�o�ؤ@�ݴN���D�O���ꪺ�o��]�i�H�Q�ת��o�� 07/29 15:35
+�� trama: �n 07/29 15:35
+�� saram: ���m�� 07/29 22:35
+�N D49361128: �ڳ��b�̭����[�V�u���s  ���A�Ѧ� 07/29 23:12
+�� newstar2007: ����ĵ�N�U�ħr 07/30 14:33
 "
 "8" NA
 "9" NA
-"10" "作者qdvhi4235 (pppp)看板Tech_Job標題[請益] 環鴻 數據分析時間Sat Jul 28 01:30:42 2018
-（代朋友po)
+"10" "�@��AAAB ()�ݪOTech_Job���D[�s�D] �x�W�S����G�IGDP��j��20�W 1������Юɶ�Sat Jul 28 03:23:59 2018
+�x�W�S����G�IGDP��j��20�W 1������ШgĹ50�W
+2018�~7��27��00:01
 
-小弟國立碩畢
+�j�����~�����~��֧Q�A�����֨�賓���骺�x�W�~���Hı�o�u�^���h�F�v�A����޷~��
+�h�P�ġA���F������u�쪺�ݹJ�~�A���D�~���H�S����L�Ҷq�ܡH���ޥx�WGDP�ƦW�鵹
+�j���A���x�W�٦��������~����Ī���O�A�ȱo�~���H�d�U�ӡC
 
-有幸拿到環鴻數據分析相關的offer
+�u�_�ʡB�W���B�s�{���@�B�G�u�����A�L�׬O�w��γn��A���i�B�o�ܧ֡A�]���ܦh�зs
+���ӷ~�Ҧ��C���`ı�o�N���@�L��������a�A���G�֤F�@�Ө��D�C�v�x�W�L�n��`��z�i
+�߷~�bMedium������X�A�HGDP�ӬݡA�j�����y�ƦW��2�A�x�W�u�W�C��22�A���M�j������
+��x�W�j�ܦh�A�i�O�ڭ̰l�D���N�u�������j�p���~�����C�H���S���O�����Хi�H�Ŷq��
+���󭫭n���ơH
 
-想請教有無前輩能分享此職缺相關的資訊（如詳細工作內容、工作風氣、發展性等等）
+�L�d��t�@����GNH�]��������`�ȡ^�A�x�W���y�ƦW��33�A�j���ƦW86�A�饻��54�W�A
+�n����57�W�A�����76�W�A�@�ɲ�1�W�O���¡C�p�G�l�D�����u�O�����A�ӬO�ּ֡A���x
+�W�i��O�Ȭw��a�W�C�e͹�C
 
-也歡迎站內信，先謝謝各位前輩了！
+AppWorks�п�H�L�����e�b�Ʀ�зs�׾¤����X�@���[�I�A�u�x�W�O�Ȭw���ˤz�F�]
+Wakanda�^�A�x�W���u�O�Ӥp��A�����\�h���H��Ī����B�P��O�A�S�Q�~�ɬݨ�C
 
---
-※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 115.82.105.105
-※ 文章網址: https://www.ptt.cc/bbs/Tech_Job/M.1532712644.A.81A.html
-※ 編輯: qdvhi4235 (115.82.105.105), 07/28/2018 01:55:20
-推 a61156114: 為什麼面試的時候都沒問…… 07/28 21:32
-"
-"11" NA
-"12" NA
-"13" "作者linshanno (Shannon)看板Tech_Job標題[請益] 信邦電子offer時間Sat Jul 28 02:37:35 2018
+�Ҧp�A�x�W�֦����y�̰�92.5%��Smart Phone Penetration�B���y�Ĥ��jGoogle Play
+Revenue�B���y��Open�Φh�ˤƪ�Mobile Users�B���y�����Social Media Panetration
+�B���y������q�l�Ӱ�EC Penetration��15%�C
 
-版上這家公司討論的不多 翻來覆去睡不著只好上來發廢文了 希望大家鞭小力一點
-應徵的是研發助理
+�i�߷~�{���A�o�ǫ��г����x�W�b���y�Ʀ�g�٪��o�i�A�e���D�`�n���Բ���m�C
 
-本人是30幾歲的嫁不出去的老妹 工作要求除了待遇外就是希望公司有足夠的穩定度可以做到退休（被裁怕了
+���~�A�N�p�L����һ��A�ˤz�F���Q���ݡu�ƦX���v�A�x�W�̬öQ���겣�O�u�H�~�v�A�x
+�W����Apple�BGoogle�BMicrosoft�BNvidia����ڤj�Ȥ�\�h�n�w�骺�ѨM��סA�\�h��
+�ڤj�t�]���b�x�W�]�߬�o���ߡC
 
-面試過程(4個小時)：填基本資料 > 性向測驗 > 多益模擬測驗 > 邏輯題x2(之後主管進來再回答）+專業性的測驗 > HR面談
-
-基本上與主管及人資面談過程都很愉快
-
-已知年薪13個月
-請問有人知道這家公司績效獎金大概多少嗎？
-是否需要常加班？
-公司內部氣氛如何 有聽主管說氣氛很自由融洽 很多人都做了十幾年
-
-希望可以聽聽大家的意見及指點
-先謝謝各位了！
-
-
-
-
-
-
------
-Sent from JPTT on my iPhone
-
---
-※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 101.8.147.56
-※ 文章網址: https://www.ptt.cc/bbs/Tech_Job/M.1532716658.A.21D.html
-※ 編輯: linshanno (101.8.147.56), 07/28/2018 02:40:53
-※ 編輯: linshanno (101.8.147.56), 07/28/2018 02:42:05
-※ 編輯: linshanno (101.8.147.56), 07/28/2018 02:43:42
-※ 編輯: linshanno (101.8.147.56), 07/28/2018 02:45:56
-推 bjock: 可以加入信邦的感覺都是正妹！ 07/28 11:54
-→ linshanno: 咦 人家要問的是公司內部情況啦～ 07/28 12:48
-推 gnemail183: 公司氣氛不錯 滿操的 07/28 13:21
-→ gnemail183: 第二年應該就破百了 07/28 13:23
-→ linshanno: 助理也這麼操嗎@@ 07/28 14:48
-→ asb0401: 信邦破百? 2016面汐止軟體工程師只有32K耶...QQ 07/28 17:52
-→ asb0401: 當場說我無法接受 拍拍屁股走人 07/28 17:52
-→ michaelgodtw: 它是講業務吧!但要賣掉破百!業績不會差到哪 07/28 18:37
-→ oushiza: 第二年破百？？？甘嘸柯零。 07/28 21:18
-推 Rocker5566: 這裏一堆人亂扯啊 根本不知道哪間公司 07/28 23:59
-→ Beluga1976: 多年前去面試過,有拿到offer,砍了我20%的薪水之後,跟 07/29 00:59
-→ Beluga1976: 我說,我們很有誠意邀請你加入我們公司 07/29 01:00
-→ Beluga1976: 從年薪破百到年薪不到800K....還真有誠意 07/29 01:01
-→ linshanno: 感謝大家的回覆！好像都是待遇不高的問題 但我是比較怕 07/29 05:35
-→ linshanno: 太操傷身體嗚嗚 而且工作太忙更交不到男朋友了啦（淚 07/29 05:35
-推 Derrick906: 信邦破百....？ 07/30 00:17
-"
-"14" NA
-"15" NA
-"16" "作者AAAB ()看板Tech_Job標題[新聞] 台灣沒那麼慘！GDP輸大陸20名 1關鍵指標時間Sat Jul 28 03:23:59 2018
-台灣沒那麼慘！GDP輸大陸20名 1關鍵指標狂贏50名
-2018年7月27日00:01
-
-大陸企業給的薪資福利，讓不少到對岸打拚的台灣年輕人覺得「回不去了」，有科技業高
-層感嘆，除了拿到更優渥的待遇外，難道年輕人沒有其他考量嗎？儘管台灣GDP排名輸給
-大陸，但台灣還有不少讓外界驚嘆的實力，值得年輕人留下來。
-
-「北京、上海、廣州等一、二線城市，無論是硬體或軟體，都進步得很快，也有很多創新
-的商業模式。但總覺得就像一盤精美的佳餚，似乎少了一個味道。」台灣微軟資深協理張
-立業在Medium撰文指出，以GDP來看，大陸全球排名第2，台灣只名列第22，當然大陸市場
-比台灣大很多，可是我們追求的就只有市場大小跟薪水高低？有沒有別的指標可以衡量其
-它更重要的事？
-
-他查到另一指標GNH（國民幸福總值），台灣全球排名第33，大陸排名86，日本第54名，
-南韓第57名，香港第76名，世界第1名是挪威。如果追求的不只是金錢，而是快樂，那台
-灣可算是亞洲國家名列前芧。
-
-AppWorks創辦人林之晨日前在數位創新論壇中提出一個觀點，「台灣是亞洲的瓦干達（
-Wakanda），台灣雖只是個小國，但有許多讓人驚嘆的長處與實力，沒被外界看到。
-
-例如，台灣擁有全球最高92.5%的Smart Phone Penetration、全球第五大Google Play
-Revenue、全球最Open及多樣化的Mobile Users、全球領先的Social Media Panetration
-、全球領先的電子商務EC Penetration約15%。
-
-張立業認為，這些指標都讓台灣在全球數位經濟的發展，占有非常好的戰略位置。
-
-此外，就如林之晨所說，瓦干達有貴金屬「汎合金」，台灣最珍貴的資產是「人才」，台
-灣提供Apple、Google、Microsoft、Nvidia等國際大客戶許多軟硬體的解決方案，許多國
-際大廠也都在台灣設立研發中心。
-
-「有人追求幸福快樂，有人追逐的是名利，無所謂對或錯。」張立業提醒，打算離鄉背井
-、去外地工作的年輕人，是否該評估你到底想追求的是什麼？如果你最終想追求的是幸福
-（包含親情、友誼、自由、健康），就不該拿薪水這把尺來衡量，不是嗎？
+�u���H�l�D���ּ֧֡A���H�l�v���O�W�Q�A�L�ҿ׹�ο��C�v�i�߷~�����A�������m�I��
+�B�h�~�a�u�@���~���H�A�O�_�ӵ����A�쩳�Q�l�D���O����H�p�G�A�̲׷Q�l�D���O����
+�]�]�t�˱��B�ͽˡB�ۥѡB���d�^�A�N���Ӯ��~���o��بӿŶq�A���O�ܡH
 
 http://www.chinatimes.com/realtimenews/20180727000016-260410
 
 --
-※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 1.173.166.89
-※ 文章網址: https://www.ptt.cc/bbs/Tech_Job/M.1532719442.A.E8E.html
-噓 zombiechen: 直接拿gdp比？台灣都贏瑞典了 07/28 03:42
-噓 Cliffx: 貼這垃圾報導幹麻 討噓？ 07/28 03:52
-噓 Cliffx: 這種垃圾文不知從哪吐嘈起 07/28 03:54
-→ dslite: 真奇怪 人人22k 課金還能課到全球第五大? 07/28 04:17
-噓 Destery: 奴才吧？ 07/28 06:53
-→ b18902040: 還以為台灣是烏干達還是不丹，很窮很快樂 07/28 07:00
-推 chocoboex: 這篇真的蠻垃圾的 07/28 07:04
-噓 sqt: 。台灣要向不丹看齊？？ 07/28 07:28
-噓 MonkeyCL: 2300萬人口的國家有很小嗎？ 07/28 07:40
-噓 jonaswang01: 幸福？？？ 07/28 08:12
-噓 cloudgoogle: 廢文 07/28 08:19
-推 poi963841: 台灣有很多只會靠北的廢物年輕人 07/28 08:27
-噓 da1234527123: 中屎必噓 07/28 08:29
-噓 Tapqou: 在無能主管手下做事不靠北怎麼幹得下去XD 07/28 08:40
-噓 sendtony6: 幸你老木 07/28 08:47
-噓 atpx: 去你的當年不丹也是幸福感第一阿, 有去過的人就知道根本鄉下 07/28 08:48
-推 alau: 盛產覺青 07/28 08:57
-噓 stitchris: 精神勝利法, 我們最幸福 07/28 09:07
-噓 csii5566: 偶素老輪 偶覺der在呆丸hen姓胡ㄚ 光健保就潮爽der ㄎㄎ 07/28 09:11
-噓 lostman: 這三小精神勝利法 07/28 09:12
-→ csii5566: 年輕輪別一直陶ㄚ 偶還要靠尼棉才能安心養老ㄋ ㄎㄎㄎ 07/28 09:12
-噓 PerfectID: 這種報導就是要酸台灣先天條件極差,產業轉型徹底失敗吧 07/28 09:29
-→ KurakiMaki: 看一下中國跟日本的休假天數，台灣幸福？笑死 07/28 09:30
-噓 badid: 該回高雄領22k了,幸福無價 07/28 09:31
-噓 XiWen: 還以為是高雄 07/28 09:36
-噓 xyz30317: 閱 07/28 09:39
-推 lrock: 國民辛福指數還是老人辛福指數？ 07/28 09:45
-→ zaiter: 台灣人爛 洗腦自己是原因 07/28 10:31
-噓 synd: 不知道為什麼很愛跟那麼大的經濟體對幹GDP 07/28 10:39
-噓 maxweel: 如果你今天晚生，領基層的錢看會不會再嘴!! 07/28 10:43
-噓 lai526: 作賤自己 07/28 10:51
-噓 furio: s大,中時現在是中國養的,是中國要跟台灣比GDP 07/28 10:51
-噓 William74613: 壓榨老百姓換來的指標幸福 07/28 11:59
-噓 windlll: 中時不噓不行，垃圾報導 07/28 12:07
-噓 goheihaley: 支那人 馬的類 人口這麼多 GDP才這樣應該算很鳥吧 怎 07/28 12:14
-→ goheihaley: 不比平均呢 只會拿精華區說嘴 FuckChina 07/28 12:14
-噓 samblow2000: 原來幸福指數可以量化...那怎麼不查個民怨指數etc..? 07/28 12:26
-噓 brad84622: 翻譯:不要只看錢 奴一點好嗎 07/28 12:34
-推 damd430: 可惜政府是滯脹 07/28 12:50
-噓 Bijala: 這新聞到底是… 07/28 12:57
-噓 CCNCCN: 要看也看人均GDP吧.... 07/28 13:15
-→ jack258258: 但我真的很少看到22k耶 07/28 14:25
-噓 larun70: 沒錢，工作不也是狗屁？沒生活，工作又是為了甚麼？ 07/28 14:30
-噓 Colossus: 9487 XDDD 高雄還是幸福低薪城市咧，瓦干達是漫畫虛構的 07/28 15:33
-噓 Vibird: 鬼島精神勝利法又來了~鬼島奴工雖然低薪但是做功德很幸福 07/28 15:35
-→ Yousitdown: 台灣還是很幸福的 07/28 15:59
-推 zoo0602: 沒錯事情就是如此一件事沒有絕對的答案就看你需要的是什 07/28 16:47
-→ zoo0602: 麼 07/28 16:47
-噓 Lorekeeper: 鬼島幸福到年輕人都不想生小孩奴化下一代了... 07/28 17:10
-噓 holsety: 這跟幸福城市一樣好笑 07/28 17:17
-→ remax: 對岸的一線城市連下水道都沒有，還比不上台灣的小鎮 07/28 20:05
-→ meowyih: 這篇好笑，不管是看衰台灣或護航台灣的都罵XD 07/28 20:39
-噓 eason77: 沒錢那來的幸福 07/28 22:31
-噓 anding: 在大陸賺的錢拿得回來嗎 07/28 23:12
-噓 maxherman: 22 07/28 23:53
-→ KobeEatShit: 台灣真的不缺這種覺青自慰文 07/29 00:09
-推 joe00825128: 整個台灣都是幸福城市欸 07/29 00:19
-噓 uysnhoj: 一堆無能垃圾高層 07/29 01:56
-噓 firstneko: 這新聞吐槽點多到難以想像 中時不意外 07/29 11:39
-噓 h888512: 2300萬比13億 很棒 07/29 15:32
-推 angelvictor: 台灣主力不是要轉服務業了嗎？ 07/29 16:51
-推 pentoxide: 大家對自己國家的好新聞反而不支持 大陸網民多喜歡看微 07/29 18:50
-→ pentoxide: 博上黑台灣的新聞 不知不覺鄉民也幫統一推一把 07/29 18:50
-噓 vector210: 台灣有這麼幸福?? 07/29 21:44
-噓 ywchenz: 低薪，慣老闆，加班時數全球第一 07/29 22:33
+�� �o�H��: �����~�{(ptt.cc), �Ӧ�: 1.173.166.89
+�� �峹���}: https://www.ptt.cc/bbs/Tech_Job/M.1532719442.A.E8E.html
+�N zombiechen: ������gdp��H�x�W��Ĺ���F 07/28 03:42
+�N Cliffx: �K�o�U�����ɷF�� �Q�N�H 07/28 03:52
+�N Cliffx: �o�ةU���夣���q���R�˰_ 07/28 03:54
+�� dslite: �u�_�� �H�H22k �Ҫ��ٯ�Ҩ���y�Ĥ��j? 07/28 04:17
+�N Destery: ���~�a�H 07/28 06:53
+�� b18902040: �٥H���x�W�O�Q�z�F�٬O�����A�ܽa�ܧּ� 07/28 07:00
+�� chocoboex: �o�g�u���Z�U���� 07/28 07:04
+�N sqt: �C�x�W�n�V�����ݻ��H�H 07/28 07:28
+�N MonkeyCL: 2300�U�H�f����a���ܤp�ܡH 07/28 07:40
+�N jonaswang01: ���֡H�H�H 07/28 08:12
+�N cloudgoogle: �o�� 07/28 08:19
+�� poi963841: �x�W���ܦh�u�|�a�_���o���~���H 07/28 08:27
+�N da1234527123: ���˥��N 07/28 08:29
+�N Tapqou: �b�L��D�ޤ�U���Ƥ��a�_���F�o�U�hXD 07/28 08:40
+�N sendtony6: ���A�Ѥ� 07/28 08:47
+�N atpx: �h�A�����~�����]�O���ַP�Ĥ@��, ���h�L���H�N���D�ڥ��m�U 07/28 08:48
+�� alau: ����ı�C 07/28 08:57
+�N stitchris: �믫�ӧQ�k, �ڭ̳̩��� 07/28 09:07
+�N csii5566: �����ѽ� ��ıder�b�b�Yhen�m�J�� �����O�N��nder �}�} 07/28 09:11
+�N lostman: �o�T�p�믫�ӧQ�k 07/28 09:12
+�� csii5566: �~�����O�@������ ���٭n�a���֤~��w�߾i�ѣz �}�}�} 07/28 09:12
+�N PerfectID: �o�س��ɴN�O�n�ĥx�W���ѱ��󷥮t,���~�૬�������ѧa 07/28 09:29
+�� KurakiMaki: �ݤ@�U�����饻���𰲤ѼơA�x�W���֡H���� 07/28 09:30
+�N badid: �Ӧ^������22k�F,���ֵL�� 07/28 09:31
+�N XiWen: �٥H���O���� 07/28 09:36
+�N xyz30317: �\ 07/28 09:39
+�� lrock: ������֫����٬O�ѤH���֫��ơH 07/28 09:45
+�� zaiter: �x�W�H�� �~���ۤv�O��] 07/28 10:31
+�N synd: �����D������ܷR�򨺻�j���g�����FGDP 07/28 10:39
+�N maxweel: �p�G�A���ѱߥ͡A���h�����ݷ|���|�A�L!! 07/28 10:43
+�N lai526: �@��ۤv 07/28 10:51
+�N furio: s�j,���ɲ{�b�O����i��,�O����n��x�W��GDP 07/28 10:51
+�N William74613: ���^�Ѧʩm���Ӫ����Щ��� 07/28 11:59
+�N windlll: ���ɤ��N����A�U������ 07/28 12:07
+�N goheihaley: �䨺�H ������ �H�f�o��h GDP�~�o�����Ӻ�ܳ��a �� 07/28 12:14
+�� goheihaley: ���񥭧��O �u�|����ذϻ��L FuckChina 07/28 12:14
+�N samblow2000: ��ө��֫��ƥi�H�q��...����򤣬d�ӥ������etc..? 07/28 12:26
+�N brad84622: ½Ķ:���n�u�ݿ� ���@�I�n�� 07/28 12:34
+�� damd430: �i���F���O���� 07/28 12:50
+�N Bijala: �o�s�D�쩳�O�K 07/28 12:57
+�N CCNCCN: �n�ݤ]�ݤH��GDP�a.... 07/28 13:15
+�� jack258258: ���گu���ܤ֬ݨ�22k�C 07/28 14:25
+�N larun70: �S���A�u�@���]�O�����H�S�ͬ��A�u�@�S�O���F�ƻ�H 07/28 14:30
+�N Colossus: 9487 XDDD �����٬O���֧C�~�������A�ˤz�F�O���e��c�� 07/28 15:33
+�N Vibird: ���q�믫�ӧQ�k�S�ӤF~���q���u���M�C�~���O���\�w�ܩ��� 07/28 15:35
+�� Yousitdown: �x�W�٬O�ܩ��֪� 07/28 15:59
+�� zoo0602: �S���Ʊ��N�O�p���@��ƨS�����諸���״N�ݧA�ݭn���O�� 07/28 16:47
+�� zoo0602: �� 07/28 16:47
+�N Lorekeeper: ���q���֨�~���H�����Q�ͤp�ĥ��ƤU�@�N�F... 07/28 17:10
+�N holsety: �o�򩯺֫����@�˦n�� 07/28 17:17
+�� remax: �賓���@�u�����s�U���D���S���A�٤񤣤W�x�W���p�� 07/28 20:05
+�� meowyih: �o�g�n���A���ެO�ݰI�x�W���@��x�W�����|XD 07/28 20:39
+�N eason77: �S�����Ӫ����� 07/28 22:31
+�N anding: �b�j���Ȫ������o�^�Ӷ� 07/28 23:12
+�N maxherman: 22 07/28 23:53
+�� KobeEatShit: �x�W�u�����ʳo��ı�C�ۼ��� 07/29 00:09
+�� joe00825128: ��ӥx�W���O���֫����� 07/29 00:19
+�N uysnhoj: �@��L��U�����h 07/29 01:56
+�N firstneko: �o�s�D�R���I�h�����H�Q�� ���ɤ��N�~ 07/29 11:39
+�N h888512: 2300�U��13�� �ܴ� 07/29 15:32
+�� angelvictor: �x�W�D�O���O�n��A�ȷ~�F�ܡH 07/29 16:51
+�� pentoxide: �j�a��ۤv��a���n�s�D�ϦӤ���� �j�������h���w�ݷL 07/29 18:50
+�� pentoxide: �դW�¥x�W���s�D ������ı�m���]���Τ@���@�� 07/29 18:50
+�N vector210: �x�W���o�򩯺�?? 07/29 21:44
+�N ywchenz: �C�~�A�D����A�[�Z�ɼƥ��y�Ĥ@ 07/29 22:33
+�N yu0716: �n���� 07/30 07:01
+�N f41101: �j�a�u�ݿ��N�O�q�p�ЧA�u�n�b�G���Ƴy���� 07/30 09:59
+"
+"11" NA
+"12" NA
+"13" "�@��d062637776 (Sylar)�ݪOTech_Job���D[�Q��] �j�a���u�ɳ��h�[(�t��) �ɶ�Sat Jul 28 05:46:00 2018
+�g��G��W�Z�ڨC�Ѥu��8�p��
+
+���j�������٭n�[�W��1�p��
+
+��ڤW�ܦ��O�n�ݦb���q9�p��
+
+�o�u����8�p�ɪ���
+
+���H�]�t�𮧮ɶ��u�n�ݦb���q8�p�ɪ��ܡH
+
+(���O�𮧮ɶ��]�O�n�ݩR�����ءA�O�u���i�H�����𮧪�)
+
+--
+�� �o�H��: �����~�{(ptt.cc), �Ӧ�: 27.247.129.213
+�� �峹���}: https://www.ptt.cc/bbs/Tech_Job/M.1532727962.A.7C5.html
+�� alin4308: 13�p�A���5-6�ѡA����w����~�|���7-8�� 07/28 06:59
+�� canallchen: �W�Z�W�ܤ[�ܹ��C 07/28 07:26
+�� belatrixluci: ���a��쳣�S���F�A��p�p�H���~ 07/28 07:44
+�� davidrockcom: �ڹ��@���Ȩ��@�p�ɦY����ı�A�]���n�s��8�p 07/28 07:45
+�� nike320320: �o���ڤ��q�ٺ⤣�� 07/28 07:52
+�� killlove: �𮧮ɶ��N���mail���n�z ���N�����𮧤F 07/28 07:59
+�� gn01657736: �ǲ�����11hr 07/28 08:02
+�� love942cg: �ڬw��a���C�u�ɦ��]�t�𮧮ɶ��ܡH�Z�n�_�L�̪��C�u 07/28 08:20
+�� love942cg: �� 07/28 08:20
+�N louis10452: �ڬw��a�ܳ�  �p�G�A�Q�Q�@��Ĳv�C���H�𦺡C 07/28 08:34
+�� louis10452: �u�O�֥[�Z  ���ܦh�C �@��§�����`�W�Z�ɶ�  ����40h 07/28 08:35
+�� louis10452: r 07/28 08:35
+�� ctx705f: ���𮧮ɶ��A�N�Y����ı�� �S���A���٨���}�ߤu�@�� 07/28 08:54
+�� spkyuan: �ڭ̤��q�u�ݤ����K�p��(���t��)�A�������Nhighlight 07/28 09:11
+�� spkyuan: �A�ާA��L�ѬO���O�W�L�A�ڧ��Ӥ�s�X�ӡA�������Q�X 07/28 09:11
+�� spkyuan: �Ӥp��... 07/28 09:11
+�� disyou: �Q�G�[�Z�S���٭n�j��𮧮ɶ� 07/28 09:44
+�� hey5566: 13�W�U 07/28 09:46
+�� wtl: ����8�p�� �Ʊ����n�N�n �~�� 07/28 10:00
+�� wxtab019: ���Ʊ��٬O�n���� ���M����ɶ�delay�@��H�|�g�� 07/28 10:15
+�� wxtab019: �A��d���elay�O�]�����ȥh�𮧩ҥH�~delay�@�w�Q�F�z 07/28 10:16
+�� furio: �A���ӭn�����a10�p�ɬ�����u���8�p�ɿ� 07/28 10:40
+�� MUMUKON: 8-12�C��[0��3�Ѷg�� ���Τp�j�] 07/28 10:56
+�� MUMUKON: �p�G�𮧨��@�p�ɥi���A�~�X�����٦n�a 07/28 10:59
+�� alittleghost: 9:00~17:30,���Ȱe���q�� 07/28 11:25
+�� Eric0605: �~�ӫܦh����8�p�ɪ� 07/28 12:06
+�� zhi5566: ���O�k�W�W�w ��ڤW�K�p�ɧڬݤ@��H�����Ƥ�� ��� 07/28 12:44
+�� zhi5566: �ݦ��S�����p�� 07/28 12:45
+�� william826: 8-9�p�� �P�ƷƤ������ �M���F�[�Z���]��XD 07/28 13:04
+�� william826: �ڬw�ڥh�L�Y�����W��޼t �u�ɫܰ� ���\������10�� 07/28 13:05
+�� william826: ���ѨM �x�W���̥u�|�|�S�� 07/28 13:05
+�� porschesun: ���� ���Ȥj���b�p�� ��ڤu�ɤj��8.25hr 07/28 13:22
+�� lovebridget: ���ȥi�H�X�h�� �ֻ��W�w�ݤ��q 07/28 13:26
+�� Messibugoo: 10-18 �t��8�p�� 07/28 13:43
+�� kimsuperkimo: �n�_�ݤ@�U,���cRD,69k���~,�~�~��14��,�¤E�ߤ� 07/28 13:49
+�� kimsuperkimo: �o�˺�CP�Ȱ���? 07/28 13:49
+�� shadowppt: ��10��11,12�Acp�ȷ��C 07/28 14:04
+�� ACDC69: 9.5�p 07/28 14:14
+�� cplusplus426: kim�j�ڥ������z 07/28 14:36
+�� erial: ����� 07/28 16:03
+�� wxtab019: ���T�� �C��12�p�� �j����1/3�H�W���b�������²�T 07/28 17:16
+�� wxtab019: ���p�h���ɭԤj���C�����@�q�q�� 10��²�T��`�A�a 07/28 17:16
+�� wxtab019: �W�Z�ɶ����T�X�G���b�Ƥ�� ���q�� �˹q���� 07/28 17:17
+�� physicsdk: ���Ǥ��q�ڥ����Υ��d�A���Ӥ]�L�ҿסA�n�� 07/28 17:54
+�� usoppp: 8�p��4�p�bptt�A�o ���A�Ѧ� 07/28 17:55
+�� newshoes123: �u���ȯZ���H�b�֦Ӥw 07/28 18:37
+�� bestmoe: �ڥD�ޤj��1-2�p�A���z�Ѧ� 07/28 19:21
+�� mike0327: 9:30~18:00 �����𮧨�p��  �U�ȥi�H�U�h�ܬP�ڧJ 07/28 19:30
+�� Edaw: 9:30 ~ 10:30  ���A�Ѧ�  (�w�\�w�꺡 07/28 20:14
+�� Edaw:         p.s. ���@�g�� ~ 11:30 07/28 20:15
+�� torder: �ǲ� 0700-1800 07/28 20:57
+�� Alphaz: ��.....���V���ɶ��n���n���~���H 07/28 21:29
+�� ck940560: �W�Ӥ�ݦb���q���ɶ���400�p��...�S�[�Z�O�]����~�X 07/28 23:59
+�� ck940560: �줽�Ǹ򨮶��S�~���]����a���z�����...���\�ɶ�1�p�� 07/29 00:00
+�� tinglottery: �j���C�ѹ��2��3�p�ɧt�}�|�A���z�Ѧ� 07/29 06:24
+�� meowmeowgo: 12h 07/29 09:47
+�� B9207036: �ګݹL�y�D�B��~�A���Z¾�쪺�A1�ѤW�Z��U�Z8�p�ɡA 07/29 12:58
+�� B9207036: ������������1-2�p�ɡA�]�O����u�� 07/29 12:58
+�� GoldDeath: �C�ѳ�10�I�~�i�줽�ǡA�U�ȥ|�I�W������ 07/29 21:00
+�� GoldDeath: �Y���ɶ��H�N�A11:00��13:30 07/29 21:00
+"
+"14" NA
+"15" NA
+"16" "�@��Jedson (Jedson)�ݪOTech_Job���DRe: [�Яq] ���E �ƾڤ��R�ɶ�Sat Jul 28 08:27:27 2018
+�z���o��¾�����ӬO�ݩ�g��޲z������A���Ʒ~���ݦ�����X�յ������A�ޱ����y�o�˪��A�ڭ̳������@�b�H�W�H�W�O���o�˪�����]�b�`�g�z�ǡ^
+
+�γ\¾�d�W�|���I���P�A���O���n�ݤj�q�����A���ƾڸ�Ƶ�����ݪ�����A�p�G�A�O���g�窺�H���ӷ|���֤W��C
+
+
+�ݹJ���ܭn�ݧA��¾���A�o�S��Ǿ����ܤj���Y�A¾���ۦP�~��i�ण�P�A���~�@�~�@�զ��O�n�ݦ���A�]�i�ण�վ�C
+
+���𪺸ܡA�㶡���q���u�����~35��60�����u�ܦh�B�j�h�Ƴ����a�x�F�A�򥻤W���ӥ[�Z�A��í�w�ܾA�X�i�ѡA
+
+���O�A���W�o�i���S�����|���n�@�w�A¾����~�~��ɯšA�򥻤W�ܦwí�A���A�Y�O�ܷQ���ܫܦ��īl���~���H�A�A���ӷ|�J��ܤ���ê�C
+
+���`�̰��ѡA��B�����@�ťD�޳�60�H�W�A�[�����ѡA�ܦh�~�ȥX���A�ҥH��ۤv�ܦ��۫H�A���Ӯe�������s�[���C
+
+���A�ѦҤ@�U�C
+
+--
+�� �o�H��: �����~�{(ptt.cc), �Ӧ�: 111.252.42.215
+�� �峹���}: https://www.ptt.cc/bbs/Tech_Job/M.1532737650.A.909.html
+�� tolaman: �P���q �P�P���� 07/28 09:22
+�� v00623: �o�˪�¾�����I���|�p�H�٥H���ƾڤ��R�O�j�ƾڤ����� 07/28 10:05
+�� lianyiing: �P�P���� 07/28 11:14
+�� isong199: �o�˴y�z���Ӱ�BI,�ӷ~���z 07/28 12:09
+�� TNgarbg: �o�����I�N�O�ѤH�Ӧh�B�a�I�ӵL��A�@�ӤH�q�~�a�Ӫ��� 07/28 15:26
+�� TNgarbg: �|�L�ᦺ�A����L�譱�ӻ��ٺ⤣�������q 07/28 15:27
+�� qdvhi4235: ���«e�����^�СA���L�B�ͩұo�����u�@���e�O�j�ƾڤ� 07/28 15:55
+�� qdvhi4235: �R�����A����ä��R���u��ƩM�إ߼ҫ� 07/28 15:55
+�� blakehung: �P�P���� 07/29 08:35
 "
 "17" NA
 "18" NA
-"19" "作者d062637776 (Sylar)看板Tech_Job標題[討論] 大家的工時都多久(含休息) 時間Sat Jul 28 05:46:00 2018
-週休二日上班族每天工時8小時
+"19" "�@��Amebaman (���H)�ݪOTech_Job���DRe: [�Q��] ����Y�t�����e�i���ܷR�o�H�ɶ�Sat Jul 28 08:36:01 2018
+�� �ޭz�malbert1119 (�j���@��)�n���ʨ��G
+: �� �ޭz�mclbismw (�μ����U�N�ڷQ)�n���ʨ��G
+: : ť���o�������O���~��40%
+: : �U���L�~�⪺�O�~��60%
+: : ���`�Oı�o �U���|��o�����
+: : �M������u�� gogoro
+: : �d�G....
+: �o�����q�H�ƺ֧Q��ׯu���ܯS�O
+: �q�h�~��A�������אּ30%-70%�줵�~�C��S��f���O40%-60%
+: ���S�H�ા�D�ۤv�쩳�O���X�w�r�A�Pı�N�O�b�N�Y
+: �t�~��b�e�b�~�N��X���~��40%�A�Pı�N�O���~���������N�b�~��H�ƹw���n�F
+: ���C�~���q���|�b�����e��A���i�楼�ӭn�@����}
+: �쩳�����O���N��n�F�A�٬O�|�򤵦~�~�Z�j�w���H�ܲV��
+: �o�ǰ��D�������ݹL�֢�A�o�̥u��W�������X��
+: ���U�Ӧ��Z�אּ�@���ʡA�|���|�O���F�h�~�n½�Ѫ��@��������׾Q���A�N���ڭ̬ݤU�h
+: ���L�Y�O�Q�i�o�a���q���A��ĳ�i�H��֢�ͽͬݦ~�~�A��ꤽ�q�q�H�e�N���~�~�X��
+: �u�n����O�P�g��B���D�ޤS�Q�n�A�A�~�~�X���O�i�H�Q������
+: �~�~�X���O�O�Ҥ@�~�ܤT�~�����A�������_���`�������
+: �Y�O�u�������~�өγ��Ӫ����O�]�⤣�������
+: PS:�h�~BU��ỡ�����n��BU�Ȥ��ȿ��A�h�~���������BU�٬O�����i���A�P�H��
 
-但大部分都還要加上休息1小時
+2013�s�D: https://tw.appledaily.com/finance/daily/20130726/35176771
+���~�ѧQ:https://imgur.com/a/EIiWiHu
+��Ū: ���q���ȿ����ɭԬ��h����, ���ѪF,�����D��,���Ʒ|���Ѫ��t�������
+�v�T: ���ɭ�i���q1~4�~�����u��󤽥q���۫פj��,�o��H�O�S��L�Ѳ��������@�N,
+      �n���e���ǳ����}�s���,��q�٨Slevel up, �N����F�@�j�M
 
-實際上變成是要待在公司9小時
+2017�s�D: https://news.tvbs.com.tw/life/736707
+��Ū: �a���X�{,�Q�����Z�t,�~��L���u�����Ӱh
+�v�T: �a�����a�ȨS��, ���W���H�ˬO���@��, ���ͥN�j����,�L�k�g��ǩ�, loading
+      �����b�ѤU���H, �s�H�ɤ��i��, �c�ʴ`��
 
-卻只有領8小時的錢
+https://www.upmedia.mg/news_info.php?SerialNo=8030
+�o�˪����֥��~�u�O�n�δΩO~
 
-有人包含休息時間只要待在公司8小時的嗎？
-
-(不是休息時間也是要待命的那種，是真的可以完全休息的)
 
 --
-※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 27.247.129.213
-※ 文章網址: https://www.ptt.cc/bbs/Tech_Job/M.1532727962.A.7C5.html
-推 alin4308: 13小，月休5-6天，有國定假日才會月休7-8天 07/28 06:59
-推 canallchen: 上班上很久很厭。 07/28 07:26
-推 belatrixluci: 公家單位都沒有了，何況私人企業 07/28 07:44
-→ davidrockcom: 我寧願中午那一小時吃飯睡覺，也不要連續做8小 07/28 07:45
-→ nike320320: 這講我公司還算不錯 07/28 07:52
-推 killlove: 休息時間就手機mail不要理 不就完全休息了 07/28 07:59
-推 gn01657736: 傳產平均11hr 07/28 08:02
-推 love942cg: 歐洲國家的低工時有包含休息時間嗎？蠻好奇他們的低工 07/28 08:20
-→ love942cg: 時 07/28 08:20
-噓 louis10452: 歐洲國家很鳥  如果你想被一堆效率低的人氣死。 07/28 08:34
-→ louis10452: 只是少加班  假很多。 一個禮拜正常上班時間  接近40h 07/28 08:35
-→ louis10452: r 07/28 08:35
-→ ctx705f: 阿休息時間你就吃飯睡覺啊 沒給你錢還那麼開心工作喔 07/28 08:54
-→ spkyuan: 我們公司只看不滿八小時(不含休息)，有不滿就highlight 07/28 09:11
-→ spkyuan: ，管你其他天是不是超過，我把整個月叫出來，平均都十幾 07/28 09:11
-→ spkyuan: 個小時... 07/28 09:11
-推 disyou: 被逼加班沒休息還要強制扣休息時間 07/28 09:44
-推 hey5566: 13上下 07/28 09:46
-→ wtl: 不滿8小時 事情做好就好 外商 07/28 10:00
-→ wxtab019: 有事情還是要做阿 不然交機時間delay一堆人會狂問 07/28 10:15
-→ wxtab019: 你說d交機elay是因為中午去休息所以才delay一定被幹爆 07/28 10:16
-推 furio: 你應該要問離家10小時為什麼只能領8小時錢 07/28 10:40
-→ MUMUKON: 8-12每月加0～3天週末 不用小大夜 07/28 10:56
-→ MUMUKON: 如果休息那一小時可讓你外出應該還好吧 07/28 10:59
-推 alittleghost: 9:00~17:30,中午送公司啦 07/28 11:25
-推 Eric0605: 外商很多不到8小時的 07/28 12:06
-→ zhi5566: 那是法規規定 實際上八小時我看一堆人扣掉滑手機 聊天 07/28 12:44
-→ zhi5566: 看有沒有六小時 07/28 12:45
-推 william826: 8-9小時 同事滑手機網購 然後騙加班的也有XD 07/28 13:04
-推 william826: 歐洲我去過某間知名科技廠 工時很高 午餐部門都10分 07/28 13:05
-→ william826: 鐘解決 台灣妓者只會舉特例 07/28 13:05
-推 porschesun: 荷蘭 中午大概半小時 實際工時大概8.25hr 07/28 13:22
-→ lovebridget: 中午可以出去阿 誰說規定待公司 07/28 13:26
-推 Messibugoo: 10-18 含休息8小時 07/28 13:43
-推 kimsuperkimo: 好奇問一下,機構RD,69k月薪,年薪約14月,朝九晚六 07/28 13:49
-→ kimsuperkimo: 這樣算CP值高嗎? 07/28 13:49
-推 shadowppt: 早10晚11,12，cp值極低 07/28 14:04
-→ ACDC69: 9.5小 07/28 14:14
-推 cplusplus426: kim大根本高到爆 07/28 14:36
-推 erial: 草莓文 07/28 16:03
-→ wxtab019: 的確阿 每天12小時 大概有1/3以上都在講手機看簡訊 07/28 17:16
-→ wxtab019: 機況多的時候大概每分鐘一通電話 10封簡訊算常態吧 07/28 17:16
-→ wxtab019: 上班時間的確幾乎都在滑手機 講電話 弄電腦的 07/28 17:17
-推 physicsdk: 有些公司根本不用打卡，不來也無所謂，爽雙 07/28 17:54
-推 usoppp: 8小有4小在ptt耍廢 給你參考 07/28 17:55
-推 newshoes123: 只有值班的人在累而已 07/28 18:37
-推 bestmoe: 我主管大概1-2小，給您參考 07/28 19:21
-→ mike0327: 9:30~18:00 中間休息兩小時  下午可以下去喝星巴克 07/28 19:30
-推 Edaw: 9:30 ~ 10:30  給你參考  (已功德圓滿 07/28 20:14
-→ Edaw:         p.s. 有一週都 ~ 11:30 07/28 20:15
-推 torder: 傳產 0700-1800 07/28 20:57
-→ Alphaz: 那.....打混的時間要不要扣薪水？ 07/28 21:29
-→ ck940560: 上個月待在公司的時間約400小時...沒加班費也不能外出 07/28 23:59
-→ ck940560: 辦公室跟車間沒外網也不能帶智慧型手機...用餐時間1小時 07/29 00:00
-推 tinglottery: 大概每天實際2～3小時含開會，給您參考 07/29 06:24
-推 meowmeowgo: 12h 07/29 09:47
-推 B9207036: 我待過軌道運輸業，輪班職位的，1天上班到下班8小時， 07/29 12:58
-→ B9207036: 中間有完全休息1-2小時，也是有算工時 07/29 12:58
-推 GoldDeath: 每天都10點才進辦公室，下午四點上健身房 07/29 21:00
-→ GoldDeath: 吃飯時間隨意，11:00～13:30 07/29 21:00
+�� �o�H��: �����~�{(ptt.cc), �Ӧ�: 123.193.180.14
+�� �峹���}: https://www.ptt.cc/bbs/Tech_Job/M.1532738166.A.98B.html
+�� Roderickey: �a�ȨS��XDD 07/28 08:40
+�� qazedcrfv: �ӤW���A�a�Ȧ��N�����n�X�Ӥ먫���F�o 07/28 09:08
+�� chuegou: �a�������Ⱞ�F�a 07/28 09:24
+�� hey5566: ���֥��~�� �W�Z�����u��a���̧� 07/28 09:32
+�� Diplexer: �a�����~�|�A�}�i�X�s 07/28 10:00
+�� myboyfriend: �o�O�b���ڭ̤��q�a�� == 07/28 10:03
+�� claymath: ���� 07/28 10:11
+�� isscc2016: 2013�~�s�D����{�b���s�ˬY���qIC�t�ܹ�XD 07/28 10:11
+�� erichui1011: ���ֱ��A���}���H�h��i�H�}�P�Ƿ|�F�A�o�_�h�S�T�� 07/28 10:18
+�� erichui1011: �~�ɤ��_�� 07/28 10:18
+�� ckp4131025: �ڦP�Ǫ��ҥh�~�i�a���A��{�b�@�~�����������ѤF 07/28 10:29
+�� ckp4131025: �u�ѽҪ��~��貦�~�s���� 07/28 10:30
+�� manlike: pool�u�O���j���o���A�٤U���ָ껺�O�I 07/28 10:33
+�� kai0914: �t�μt���`�A 07/28 10:52
+�N time456: Costdown�@�eɫ�� 07/28 11:34
+�� HailToObov: �i�d�i��S�n�f���F 07/28 11:56
+�� ptta: ���u�N�O�K�~�_�A�A�|�������K�~�_�H 07/28 12:55
+�� BaGaJohn5566: ���h������N�O�o�˸��� 07/28 13:08
+�� BaGaJohn5566: ���ǯd�����H ��O���O�t�μt�L�� 07/28 13:08
+�N touurtn: �o������I�� 07/28 13:11
+�� agbr2: pool�ٯ�z�L�C�X���ೡ���A�̲רS�Q�D�����N�|�Q����¾�A 07/28 13:12
+�� agbr2: �]��pool��O�i�H�o�ը��������D�N�A�`�񪽱��껺�ӱo�n�A 07/28 13:12
+�� agbr2: ���Ǧ���t���~���H�ٯ�z�L�����C�X������ 07/28 13:12
+�� shadowppt: pool�u���Ӧ�S 07/28 13:38
+�� shimimay: �ܦhpool���X�Ӫ��o�{�Ӽo���G���O�ۤv�����N�O�Q�Ш� 07/28 13:45
+�� shimimay: ���ެO���س��O�֨�{�u���ƪ��H 07/28 13:45
+�N owem777: �H�ܤ�...��@�~�u���֦� 07/28 14:15
+�� owem777: �b���ɤH�]�Q�k�F 07/28 14:16
+�� owem777: ���Z��W���n.�����o�Y��.�C�~�󤣥νͤF..���� 07/28 14:17
+�� iljie: �ȿ���40%���ȿ���60% 07/28 14:39
+�� xczh: https://youtu.be/WpAiRjjPUrU �Q��Gavin Belson�]���a�� 07/28 15:21
+�� xczh: 1:38�}�l�|�H����� \"�A�b��Ϯ̥|�~�ڤ]���b�G\" 07/28 15:21
+�� remmurds: ���Y�g�g�g 07/28 17:42
+�N joujima: �M�X�F�ܪ����q  �D�ޤ]�O 07/28 17:45
+�� lukuboy: �n�}�l���H�YH���q�Ҧ�! 07/28 19:29
+�� uysnhoj: �YH�O�H 07/29 01:31
+�� c41231717: �i�a���L�ҿקa �ϦӦb���W���ܮe���Q���N�� 07/30 00:27
 "
 "20" NA
 "21" NA
-"22" "作者Jedson (Jedson)看板Tech_Job標題Re: [請益] 環鴻 數據分析時間Sat Jul 28 08:27:27 2018
-您的這個職位應該是屬於經營管理的角色，替事業單位看成本支出啦等等的，管控金流這樣的，我們部門有一半以上以上是做這樣的角色（在總經理室）
-
-或許職責上會有點不同，但是都要看大量報表，做數據資料給老闆看的角色，如果你是有經驗的人應該會滿快上手。
-
-
-待遇的話要看你的職等，這又跟學歷有很大關係，職等相同薪資可能不同，調薪一年一調但是要看老闆，也可能不調整。
-
-風氣的話，整間公司員工偏中年35～60的員工很多、大多數都有家庭了，基本上不太加班，很穩定很適合養老，
-
-但是再往上發展有沒有機會不要一定，職等兩年才能升級，基本上很安穩，但你若是很想改變很有衝勁的年輕人，你應該會遇到很不阻礙。
-
-副總們偏老，營運長等一級主管都60以上，觀念偏老，很多業務出身，所以對自己很有自信，不太容易接受新觀念。
-
-給你參考一下。
-
---
-※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 111.252.42.215
-※ 文章網址: https://www.ptt.cc/bbs/Tech_Job/M.1532737650.A.909.html
-推 tolaman: 同公司 感同身受 07/28 09:22
-推 v00623: 這樣的職位怎麼有點像會計？還以為數據分析是大數據之類的 07/28 10:05
-推 lianyiing: 感同身受 07/28 11:14
-推 isong199: 這樣描述應該做BI,商業智慧 07/28 12:09
-推 TNgarbg: 這間缺點就是老人太多、地點太無聊，一個人從外地來的話 07/28 15:26
-→ TNgarbg: 會無聊死，但其他方面來說還算不錯的公司 07/28 15:27
-推 qdvhi4235: 謝謝前輩的回覆，不過朋友所得知的工作內容是大數據分 07/28 15:55
-→ qdvhi4235: 析相關，獲取並分析產線資料和建立模型 07/28 15:55
-推 blakehung: 感同身受 07/29 08:35
-"
-"23" NA
-"24" NA
-"25" "作者Amebaman (原虫人)看板Tech_Job標題Re: [討論] 關渡某廠獎金前夕都很愛發信時間Sat Jul 28 08:36:01 2018
-※ 引述《albert1119 (大叔一號)》之銘言：
-: ※ 引述《clbismw (用熱情燃燒夢想)》之銘言：
-: : 聽說這次分紅是分年度40%
-: : 下次過年領的是年度60%
-: : 但總是覺得 下次會比這次更少
-: : 然後尾牙只剩 gogoro
-: : 悲慘....
-: 這間公司人事福利制度真的很特別
-: 從去年跟你說分紅改為30%-70%到今年七月又改口說是40%-60%
-: 但沒人能知道自己到底是拿幾趴呀，感覺就是在摸頭
-: 另外能在前半年就算出全年的40%，感覺就是全年的分紅早就在年初人事預算算好了
-: 但每年公司都會在分紅前跟你說展望未來要共體時艱
-: 到底分紅是早就算好了，還是會跟今年業績綁定讓人很混亂
-: 這些問題有直接問過ＨＲ，她們只能苦笑說不出話
-: 接下來考績改為一次性，會不會是為了去年吵翻天的一次分紅制度鋪路，就讓我們看下去
-: 不過若是想進這家公司的，建議可以跟ＨＲ談談看年薪，其實公司從以前就有年薪合約
-: 只要有能力與經驗且單位主管又想要你，年薪合約是可以被接受的
-: 年薪合約是保證一年至三年不等，結束後恢復正常分紅制度
-: 若是短期當跳外商或陸商的跳板也算不錯的選擇
-: PS:去年BU制後說分紅要看BU賺不賺錢，去年虧錢的手機BU還是有紅可分，感人～
-
-2013新聞: https://tw.appledaily.com/finance/daily/20130726/35176771
-歷年股利:https://imgur.com/a/EIiWiHu
-解讀: 公司最賺錢的時候砍基層分紅, 但股東,高階主管,董事會持股的配息不能少
-影響: 此時剛進公司1~4年的員工對於公司忠誠度大減,這批人是沒領過股票分紅的世代,
-      好不容易準備離開新手村,血量還沒level up, 就先砍了一大刀
-
-2017新聞: https://news.tvbs.com.tw/life/736707
-解讀: 泳池出現,想讓考績差,年資淺員工知難而退
-影響: 泳池的泳客沒走, 岸上的人倒是走一堆, 中生代大失血,無法經驗傳承, loading
-      集中在剩下的人, 新人補不進來, 惡性循環
-
-https://www.upmedia.mg/news_info.php?SerialNo=8030
-這樣的幸福企業真是好棒棒呢~
-
-
---
-※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 123.193.180.14
-※ 文章網址: https://www.ptt.cc/bbs/Tech_Job/M.1532738166.A.98B.html
-推 Roderickey: 泳客沒走XDD 07/28 08:40
-→ qazedcrfv: 樓上的，泳客早就都拿好幾個月走掉了囉 07/28 09:08
-推 chuegou: 泳池水都抽乾了吧 07/28 09:24
-推 hey5566: 幸福企業啊 上班讓員工游泳哪裡找 07/28 09:32
-→ Diplexer: 泳池今年會再開張擴編 07/28 10:00
-→ myboyfriend: 這是在講我們公司吧～ == 07/28 10:03
-推 claymath: 哈哈 07/28 10:11
-→ isscc2016: 2013年新聞怎麼跟現在的新竹某網通IC廠很像XD 07/28 10:11
-推 erichui1011: 中肯推，離開的人多到可以開同學會了，這斷層沒三五 07/28 10:18
-→ erichui1011: 年補不起來 07/28 10:18
-推 ckp4131025: 我同學的課去年進泳池，到現在一年內全部都跳槽了 07/28 10:29
-→ ckp4131025: 只剩課長繼續剛畢業新收的 07/28 10:30
-推 manlike: pool真是偉大的發明，省下不少資遣費！ 07/28 10:33
-推 kai0914: 系統廠的常態 07/28 10:52
-噓 time456: Costdown一貫伎倆 07/28 11:34
-推 HailToObov: 可悲可能又要殞落了 07/28 11:56
-推 ptta: 員工就是免洗筷，你會分錢給免洗筷？ 07/28 12:55
-推 BaGaJohn5566: 高層的思維就是這樣腦殘 07/28 13:08
-→ BaGaJohn5566: 難怪留不住人 跟是不是系統廠無關 07/28 13:08
-噓 touurtn: 這什麼爛截圖 07/28 13:11
-推 agbr2: pool還能透過媒合內轉部門，最終沒被挑走的就會被迫離職， 07/28 13:12
-→ agbr2: 因此pool算是可以得諾貝爾獎的主意，總比直接資遣來得好， 07/28 13:12
-→ agbr2: 有些有抱負的年輕人還能透過內部媒合換部門 07/28 13:12
-推 shadowppt: pool真的太佛惹 07/28 13:38
-推 shimimay: 很多pool撈出來的發現太廢結果不是自己跳走就是被請走 07/28 13:45
-→ shimimay: 不管是哪種都是累到認真做事的人 07/28 13:45
-噓 owem777: 人變少...近一年真的累死 07/28 14:15
-→ owem777: 在不補人也想逃了 07/28 14:16
-→ owem777: 考績比上次好.分紅卻縮水.低薪更不用談了..絕望 07/28 14:17
-→ iljie: 賺錢的40%不賺錢的60% 07/28 14:39
-推 xczh: https://youtu.be/WpAiRjjPUrU 想到Gavin Belson也有泳池 07/28 15:21
-→ xczh: 1:38開始罵人的轉折 \"你在園區晃四年我也不在乎\" 07/28 15:21
-推 remmurds: 石頭讚讚讚 07/28 17:42
-噓 joujima: 專出幹話的公司  主管也是 07/28 17:45
-→ lukuboy: 要開始跟隨某H公司模式! 07/28 19:29
-推 uysnhoj: 某H是？ 07/29 01:31
-"
-"26" NA
-"27" NA
-"28" "作者kof70380 (小隆)看板Tech_Job標題[新聞] 英特爾10奈米量產 再延宕時間Sat Jul 28 08:43:25 2018
-來源：
+"22" "�@��kof70380 (�p��)�ݪOTech_Job���D[�s�D] �^�S��10�`�̶q�� �A���X�ɶ�Sat Jul 28 08:43:25 2018
+�ӷ��G
 
 http://www.chinatimes.com/newspapers/20180728000285-260203
 
-原文：
+���G
 
 
-    全球第2大晶片業者英特爾周四美股盤後公布第2季（至6月底止）業績時，再次將10奈
+    ���y��2�j�����~�̭^�S���P�|���ѽL�᤽����2�u�]��6�멳��^�~�Z�ɡA�A���N10�`
 
-米晶片量產時間推延至明年底，加上高成長的資料中心部門營收不如預期，引發股價重挫
+�̴����q���ɶ������ܩ��~���A�[�W����������Ƥ��߳����禬���p�w���A�޵o�ѻ�����
 
-。英特爾股價周五盤中暴跌8.7％，每股47.64美元。
-
-
-    英特爾代理執行長史旺（Robert Swan）在投資人會議表示，預期搭載10奈米晶片的電
-
-腦將於2019年的年終購物旺季上市。英特爾晶片架構長倫度金塔拉（Murthy Renduchintal
-
-a）表示，10奈米資料中心晶片將在消費者個人電腦晶片發布後不久推出。
+�C�^�S���ѻ��P���L���ɶ^8.7�H�A�C��47.64�����C
 
 
-    英特爾在前次4月的法說會將10奈米晶片量產時間由2018年延後至2019年，但未透露確
+    �^�S���N�z������v���]Robert Swan�^�b���H�|ĳ���ܡA�w���f��10�`�̴������q
 
-切時間，該公司最初預估10奈米晶片在2015年量產。New Street Research分析師費拉古
+���N��2019�~���~���ʪ����u�W���C�^�S�������[�c���۫ת���ԡ]Murthy Renduchintal
 
-（Pierre Ferragu）表示，新的時程令人失望。
-
-
-    英特爾上季資料中心事業營收年增26.9％，至55.5億美元，遜於FactSet調查分析師意
-
-見預估的56.3億美元。自個人電腦出貨量於2011年觸頂以來，英特爾逐漸將業務重心移至
-
-資料中心，該部門貢獻公司近半數營收。
+a�^���ܡA10�`�̸�Ƥ��ߴ����N�b���O�̭ӤH�q�������o���ᤣ�[���X�C
 
 
-    拜個人電腦市場回溫所賜，電腦晶片部門上季營收年增6％至87.3億美元，超越分析師
+    �^�S���b�e��4�몺�k���|�N10�`�̴����q���ɶ���2018�~�����2019�~�A�����z�S�T
 
-預估的84.8億美元。顧能（Gartner）統計，第2季全球個人電腦銷售創下6年來首見成長。
+���ɶ��A�Ӥ��q�̪�w��10�`�̴����b2015�~�q���CNew Street Research���R�v�O�ԥj
 
-
-    整體而言，英特爾上季淨利年增78％至50.1億美元，每股盈餘達1.05美元。扣除一次
-
-性項目後，每股盈餘為1.04美元，優於市場預期的96美分。上季營收年增15％至169.6億美
-
-元，優於市場預期的167.7億美元。
+�]Pierre Ferragu�^���ܡA�s���ɵ{�O�H����C
 
 
-    展望未來，英特爾預估本季營收約在181億美元加減5億美元，調整後每股盈餘1.15美
+    �^�S���W�u��Ƥ��ߨƷ~�禬�~�W26.9�H�A��55.5�������A����FactSet�լd���R�v�N
 
-元加減5美分，相較於分析師平均預期176億美元和每股1.08美元。不過費拉古表示，本季
+���w����56.3�������C�ۭӤH�q���X�f�q��2011�~Ĳ���H�ӡA�^�S���v���N�~�ȭ��߲���
 
-財測意味著毛利率將下滑。
+��Ƥ��ߡA�ӳ����^�m���q��b���禬�C
+
+
+    ���ӤH�q�������^�ũҽ�A�q�����������W�u�禬�~�W6�H��87.3�������A�W�V���R�v
+
+�w����84.8�������C�U��]Gartner�^�έp�A��2�u���y�ӤH�q���P��ФU6�~�ӭ��������C
+
+
+    ����Ө��A�^�S���W�u�b�Q�~�W78�H��50.1�������A�C�Ѭվl�F1.05�����C�����@��
+
+�ʶ��ث�A�C�Ѭվl��1.04�����A�u�󥫳��w����96�����C�W�u�禬�~�W15�H��169.6����
+
+���A�u�󥫳��w����167.7�������C
+
+
+    �i�楼�ӡA�^�S���w�����u�禬���b181�������[��5�������A�վ��C�Ѭվl1.15��
+
+���[��5�����A�۸�����R�v�����w��176�������M�C��1.08�����C���L�O�ԥj���ܡA���u
+
+�]���N���ۤ�Q�v�N�U�ơC
 
 --
-※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 36.239.124.3
-※ 文章網址: https://www.ptt.cc/bbs/Tech_Job/M.1532738608.A.299.html
-推 ww578912tw: 10nm延宕又如何 難不成你要買AMD? 07/28 09:00
-→ ww578912tw: 對，沒錯~ 07/28 09:00
-推 oxygenlucky7: 19年底？I社都只靠vender,沒養設備輪班星人果然不 07/28 09:10
-→ oxygenlucky7: 行 07/28 09:10
-→ TBEX: 真。10奈米 07/28 09:25
-推 rogergon: 這回AMD將首度在製程上跟Intel平起平坐甚至超車。 07/28 09:36
-推 zhi5566: 笑死 明年底難道不能在延嗎 我看至少2020才有機會 07/28 09:39
-噓 lastchristma: 廢物 07/28 09:44
-推 ECZEMA: 不是說要出來晶圓代工了 該不會連 Globalfoundries 也輸 07/28 09:45
-推 ZXCWS: 研發跟量產 兩碼事 07/28 09:47
-推 manlike: 台積電都要出3奈米了！ 07/28 09:49
-推 iPadProPlus: 弱弱的 07/28 09:50
-推 Merkle: 還不快點來台灣設廠 台灣輪班星人幫你衝良率啦 07/28 09:54
-→ kof70380: 台積電表示：超車的感覺就是爽！ 07/28 09:59
-推 ftrhalcyon: AMD讚讚 07/28 10:38
-推 Battie: 顧機台很專業的 連intel都搞不定 07/28 10:39
-→ Battie: 台灣應該成立設備系研究所博士班 07/28 10:40
-推 Battie: 能進GG設備的人 專業跟成就已經不輸IEEE Fellow了 07/28 10:46
-推 illidan23: 這麼慘... 07/28 11:52
-推 Seikan: 到底在延什麼可以一直延... 07/28 11:54
-推 motan: 難怪要分割出去，沒競爭力齁，變現比較實在 07/28 12:28
-推 lovebridget: 快點趁還有價錢賣給GG吧 晚點只能當廢鐵進回收場了 07/28 12:33
-推 jyuan1993: 不進GG，人生GG 07/28 12:37
-推 sendtony6: 台積已經要玩3奈米了 07/28 12:44
-噓 titigirl: 爛死勒 07/28 12:49
-推 JFNfrog: 感謝十萬青年的努力 07/28 12:49
-推 yikkung: 開始喊口號 07/28 12:53
-→ yikkung: 十 07/28 12:53
-推 vallwesture: 萬 07/28 13:06
-推 BaGaJohn5566: 推應該成立設備系  全台灣不知道會有多少人搶報名 07/28 13:10
-推 zzxx1322: 設備輪起來 07/28 13:32
-推 liaore: 搞到後來，該不會 AMD 跟 INTC 都得請 TSM 作晶圓！？ 07/28 15:37
-→ rogergon: 我覺得老外會出陰招 07/28 15:48
-→ Windcws9Z: 樓下a90 07/28 15:49
-噓 get951753: 14nm+++++++++++++++++++++++ 07/28 15:50
-推 Sex5F: AMD讚讚讚 07/28 16:31
-推 oxygenlucky7: 再怎樣的'真'10奈米，難道會比別人的5奈米效能還強 07/28 17:23
-→ oxygenlucky7: 嗎？ 07/28 17:23
-推 youkiller: intel: 領先台積電三年  本家14nm視同GG 三星1奈米 07/28 18:08
-推 lovebridget: 盡早跪求gg收購 可能還能當個子公司 07/28 18:25
-→ lovebridget: 再晚只能當個pc事業部了 07/28 18:26
-→ lovebridget: 堂堂intel淪落到一個部的慘狀我們都不想看到 07/28 18:27
-推 youkiller: intel能走成這樣，真的很不簡單 07/28 19:28
-推 Qcloud: GG又要起飛囉 07/28 19:35
-→ titigirl: intel 在台灣也只能是個三流公司吧 07/28 23:03
-推 frank1994012: AMD股價最近蠻猛的呀 07/29 12:14
-推 antyallen: 這是第3次跳票了？ 07/29 20:00
+�� �o�H��: �����~�{(ptt.cc), �Ӧ�: 36.239.124.3
+�� �峹���}: https://www.ptt.cc/bbs/Tech_Job/M.1532738608.A.299.html
+�� ww578912tw: 10nm���X�S�p�� �������A�n�RAMD? 07/28 09:00
+�� ww578912tw: ��A�S��~ 07/28 09:00
+�� oxygenlucky7: 19�~���HI�����u�avender,�S�i�]�ƽ��Z�P�H�G�M�� 07/28 09:10
+�� oxygenlucky7: �� 07/28 09:10
+�� TBEX: �u�C10�`�� 07/28 09:25
+�� rogergon: �o�^AMD�N���צb�s�{�W��Intel���_�����ƦܶW���C 07/28 09:36
+�� zhi5566: ���� ���~�����D����b���� �ڬݦܤ�2020�~�����| 07/28 09:39
+�N lastchristma: �o�� 07/28 09:44
+�� ECZEMA: ���O���n�X�Ӵ���N�u�F �Ӥ��|�s Globalfoundries �]�� 07/28 09:45
+�� ZXCWS: ��o��q�� ��X�� 07/28 09:47
+�� manlike: �x�n�q���n�X3�`�̤F�I 07/28 09:49
+�� iPadProPlus: �z�z�� 07/28 09:50
+�� Merkle: �٤����I�ӥx�W�]�t �x�W���Z�P�H���A�Ĩ}�v�� 07/28 09:54
+�� kof70380: �x�n�q���ܡG�W�����Pı�N�O�n�I 07/28 09:59
+�� ftrhalcyon: AMD�g�g 07/28 10:38
+�� Battie: �U���x�ܱM�~�� �sintel���d���w 07/28 10:39
+�� Battie: �x�W���Ӧ��߳]�ƨt��s�ҳդh�Z 07/28 10:40
+�� Battie: ��iGG�]�ƪ��H �M�~�򦨴N�w�g����IEEE Fellow�F 07/28 10:46
+�� illidan23: �o��G... 07/28 11:52
+�� Seikan: �쩳�b������i�H�@����... 07/28 11:54
+�� motan: ���ǭn���ΥX�h�A�S�v���O���A�ܲ{�����b 07/28 12:28
+�� lovebridget: ���I�X�٦������浹GG�a ���I�u����o�K�i�^�����F 07/28 12:33
+�� jyuan1993: ���iGG�A�H��GG 07/28 12:37
+�� sendtony6: �x�n�w�g�n��3�`�̤F 07/28 12:44
+�N titigirl: �ꦺ�� 07/28 12:49
+�� JFNfrog: �P�¤Q�U�C�~���V�O 07/28 12:49
+�� yikkung: �}�l�ۤf�� 07/28 12:53
+�� yikkung: �Q 07/28 12:53
+�� vallwesture: �U 07/28 13:06
+�� BaGaJohn5566: �����Ӧ��߳]�ƨt  ���x�W�����D�|���h�֤H�m���W 07/28 13:10
+�� zzxx1322: �]�ƽ��_�� 07/28 13:32
+�� liaore: �d���ӡA�Ӥ��| AMD �� INTC ���o�� TSM �@����I�H 07/28 15:37
+�� rogergon: ��ı�o�ѥ~�|�X���� 07/28 15:48
+�� Windcws9Z: �ӤUa90 07/28 15:49
+�N get951753: 14nm+++++++++++++++++++++++ 07/28 15:50
+�� Sex5F: AMD�g�g�g 07/28 16:31
+�� oxygenlucky7: �A��˪�'�u'10�`�̡A���D�|��O�H��5�`�̮į��ٱj 07/28 17:23
+�� oxygenlucky7: �ܡH 07/28 17:23
+�� youkiller: intel: ����x�n�q�T�~  ���a14nm���PGG �T�P1�`�� 07/28 18:08
+�� lovebridget: �ɦ����Dgg���� �i���ٯ���Ӥl���q 07/28 18:25
+�� lovebridget: �A�ߥu�����pc�Ʒ~���F 07/28 18:26
+�� lovebridget: ���intel�_����@�ӳ����G���ڭ̳����Q�ݨ� 07/28 18:27
+�� youkiller: intel�ਫ���o�ˡA�u���ܤ�²�� 07/28 19:28
+�� Qcloud: GG�S�n�_���o 07/28 19:35
+�� titigirl: intel �b�x�W�]�u��O�ӤT�y���q�a 07/28 23:03
+�� frank1994012: AMD�ѻ��̪��Z�r���r 07/29 12:14
+�� antyallen: �o�O��3�������F�H 07/29 20:00
+"
+"23" NA
+"24" NA
+"25" "�@��dukosa (��L���L��)�ݪOTech_Job���D[�u��] �x��OR�x��ɶ�Sat Jul 28 09:50:52 2018
+�����������G��offer�A�����@�ǦҶq�I���ګ�����ܡA�Q�ӽаݤj�a���N��
+
+���q        �x��                �x��
+
+¾��        POM�s�{�u�{�v       TPE�s�{�u�{�v
+
+�a�I        �Ÿq(�s��)          ����(�j��)
+
+����        ����                ���a�q�Ԭ�15min
+
+
+�~�ꪺ�����A�ⶡ���O�̤��q�W�w
+�H�U�O�D�n���Ҷq�I�A
+�����~�ٽЦh�h���СI
+
+�x��: �u:�ǻ��o���֥��~,�C�~�T�w�����~���,í�w,
+      ��:�ݭn����,�n��A���̭������
+
+�x��: �u:���a�̳q�Ԥ譱,�Bť��TPE�s�{���b�_��,�n������h���X�t���|
+      ��:�~��֧Q�n����x��t
+
+���¦U�쪺�N��
+
+--
+�� �o�H��: �����~�{(ptt.cc), �Ӧ�: 1.163.206.27
+�� �峹���}: https://www.ptt.cc/bbs/Tech_Job/M.1532742655.A.F5A.html
+�� lolitass: �@�w�n�G��@�N�x�� �x���~���o�i�@�w�۹���t 07/28 09:56
+�� lolitass: �� �i�H���ܦA��� 07/28 09:56
+�� linkunchi: �A��ݬݡC�D���o�w�A�索 07/28 09:58
+�� cscscscs22: ��ĳ����K �{�b�٨Ӫ��� 07/28 10:13
+�� lcnju: �x�� 07/28 10:31
+�N Oseltamivir: �{�b���Ÿq�s��A�S�T�Ӥ�ճ��d�C 07/28 10:56
+�N Oseltamivir: �q�ڳ���W�h������z�A�B�������ܡC 07/28 10:57
+�� Oseltamivir: ���U�D�ީ����{�ǥ��q����B�ѡA�W���D�ޥH���ӫ��� 07/28 10:59
+�� Oseltamivir: �@���M�ӡC 07/28 10:59
+�� Oseltamivir: �����H�v��a�ȱa���Y���@�a���~ 07/28 10:59
+�� z22622003: ���ӤW 07/28 11:17
+�� bla: �P3�� 07/28 11:31
+�� bla: �x��TPE�s�{�u�{�v�y�ʲv������ 07/28 11:32
+�� aalps: X�E�O�H 07/28 11:33
+�� aalps: �M�o��a�P�W�� 07/28 11:34
+�� ian0805: TPE�C�~���b�x�H�A�q10�~�e�ݨ�{�b�� 07/28 11:43
+�� kuwanosan: �u�n���H���a��A�N���H�vlol�j�h�Ƥ��q���@�˧a 07/28 11:53
+�� sean88413: POM�N�u���s��t�� �������|�ճ��d�n�� ��PO�Q�ݥi�p�� 07/28 11:55
+�� bles61211: ����a�̩T�M���n�A���L��ĳ��x�� 07/28 12:35
+�� perfect64732: �x���  �����K���O�Ӿx���� 07/28 12:52
+�� barry610171: �Q�ݤ@�U �̪�x�쭱���ܽЦU�즳����� 07/28 13:00
+�N SaintsRow: ���K�x��@�˳��n�� 07/28 13:20
+�� raya61305: �s�{�u�{�v�i�ॴť�@�U�a ���ǫܹp���ҫܮt 07/28 14:19
+�� mscmobitai: �H�a�u�`�z�ƪ��� �Q���~�H 07/28 14:51
+�� kao81116: ���~�]�դF�ڡA�ӤW�Q���F����? 07/28 15:05
+�� ergotamine: ��4% 07/28 16:16
+�� sam0330: �x��� 07/28 16:32
+�� avgirl: �p�p�p�p�p 07/28 16:41
+�� momofaith: �x��u�n�A�o�X�~���~�~�׳����� 07/28 16:45
+�� aben112008: ��A�o�X�~ 07/28 17:03
+�� TPTC3589: �x��@����N�nñ�}�����o~����s�A�̽խ��̴N�O����... 07/28 17:06
+�� fkman0831: ���a�̴NĹ�F�n�ܡH �x�󤣮t �O�A�ۤv�i��ݤ����Ӥw 07/28 19:58
+�N simonwang661: �����n���Z 07/28 20:16
+�� fcfcegr: �x��pom�Z�n��... 07/28 20:51
+�� ryoutsu0857: ��������n 07/28 21:20
+�� zupo: �YO�Pı�n���Q�h�ݹL���f���A�ݹL���p���~�N���D���t���h 07/28 21:40
+�� zupo: �����K���A�ڦ��{�Ѫ��K�����w�g��F���ֺ֧Q 07/28 21:41
+�� zupo: �٦��H�q���ѥ��͸��L�h���K��o�ᮬ���A�z�u���O�o��l��? 07/28 21:42
+�� zupo: �Ÿq�i�H���ί��СA�i�H��ܦ��J(�ګݹL�s��t�Ϥ@�}�l) 07/28 21:42
+�� zupo: ����ĳ�⼯�����U�B�L�h 07/28 21:43
+�� lolitass: ����CS�}�Y���ڥ��C�g���o�˶ñ� 07/28 22:06
+�� vincewe: ��ĳ��x�� 07/28 22:57
+�� mt580: �@�ﲴ����C������~ �����ꪺ....�����˪����q��?? 07/28 23:23
+�� dotober2005: �x��u�{�v�ܤֽ��Z�ʧa 07/28 23:55
+�� jackloutter: �аݥ�������? 07/29 00:50
+�� JANG19865: �@�w�n��3�Ӥ���Z�V 07/29 02:52
+�N Alkane: �x��u���� ��� 07/29 09:45
+�� Austin1: ���a��̦n 07/29 12:29
+�� qoo60606: ���Z�V�ݦU�t �����N��N��Ӥw 07/29 16:14
+�� kuwanosan: �ڨ���N��ӱq�x������K���ᮬ��lol 07/30 00:18
+�� c41231717: �Ƥu�����l�{�������|�Ӧn ���� �G �Ǫ��ǧ̨�]�� �� 07/30 00:24
+�� c41231717: ���g�f 07/30 00:24
+"
+"26" NA
+"27" NA
+"28" "�@��j123456789 (j1234567890)�ݪOTech_Job���D[����] �ýY��ޭ��դ߱o�ɶ�Sat Jul 28 11:14:29 2018
+�貦�~�A�Q�q�ƺ�����w�����u�@
+���ը�o�a
+
+��i���q���ӵ���
+�j�h�Ƭ� ������w �򥻪�����
+
+�򭱸թx��F�ѴX���I
+
+1.�o�� SI ���\�h���~�u ���j������ ���� �M��w���~
+
+2.��N�z�Ӧ����㪺�Ш|�V�m
+
+3.�ۤv�]���}�Ш|�V�m �V�m�q�կȶ}�l�� �u�{�v �o�I�Z�l�ާڪ�
+
+4.ť�L���̪񤽥q�ۤv���|�@��23���N�Ҩ� CCIE ���C����ı�o�L�̦n���u���|���|�u�{
+�v
+
+5.���@�Ӫ��|�s�A�H�S�Q�ǪF�誺�H�ӻ� �Z���H��
+
+6.�]���ͨ찲�p�����O�� ���q�]�|�X�����
+
+�M��ͨ�ݹJ�譱
+
+1.�@�}�l���ݹJ�ٯ������
+
+2.���M�׼���
+
+3.�åB���u�ȹC�ɧU����
+
+4.����]���ɧU
+
+5.�[�W���q���Ш|�V�m����
+
+�{�b�N�����G�|���|�W�F
+
+
+--
+�� �o�H��: �����~�{(ptt.cc), �Ӧ�: 114.136.254.74
+�� �峹���}: https://www.ptt.cc/bbs/Tech_Job/M.1532747671.A.90D.html
+�� r1006274: �� 07/28 13:05
+�� ptx003c: CCIE�����ҡA���L�x�W�S���o�ӥ����]�S�ΡC 07/28 13:35
+�� Weckle: �p�GSI�n�������P�ACCIE�֤��F 07/28 15:00
 "
 "29" NA
 "30" NA
-"31" "作者dukosa (船過水無痕)看板Tech_Job標題[聘書] 台塑OR台橡時間Sat Jul 28 09:50:52 2018
-近期有幸收到二個offer，都有一些考量點讓我很難抉擇，想來請問大家的意見
-
-公司        台塑                台橡
-
-職稱        POM製程工程師       TPE製程工程師
-
-地點        嘉義(新港)          高雄(大社)
-
-租屋        租屋                住家通勤約15min
-
-
-薪資的部分，兩間都是依公司規定
-以下是主要的考量點，
-有錯誤還請多多指教！
-
-台塑: 優:傳說得幸福企業,每年固定的調薪制度,穩定,
-      缺:需要租屋,要能適應裡面的文化
-
-台橡: 優:住家裡通勤方面,且聽說TPE製程正在起飛,好像比較多的出差機會
-      缺:薪資福利好像比台塑差
-
-謝謝各位的意見
-
---
-※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 1.163.206.27
-※ 文章網址: https://www.ptt.cc/bbs/Tech_Job/M.1532742655.A.F5A.html
-推 lolitass: 一定要二選一就台塑 台橡薪水發展一定相對較差 07/28 09:56
-→ lolitass: 但 可以的話再找找 07/28 09:56
-→ linkunchi: 再找看看。非不得已再選左 07/28 09:58
-推 cscscscs22: 建議選長春 現在還來的及 07/28 10:13
-→ lcnju: 台塑 07/28 10:31
-噓 Oseltamivir: 現在講嘉義新港，沒三個月調麥寮。 07/28 10:56
-噓 Oseltamivir: 從根部到上層完全爛透，且絕不改變。 07/28 10:57
-→ Oseltamivir: 底下主管忽視程序正義隻手遮天，上面主管以為皇城內 07/28 10:59
-→ Oseltamivir: 一片和諧。 07/28 10:59
-→ Oseltamivir: 完全人治跟靠裙帶關係的一家企業 07/28 10:59
-→ z22622003: 推樓上 07/28 11:17
-推 bla: 同3樓 07/28 11:31
-→ bla: 台橡TPE製程工程師流動率滿高的 07/28 11:32
-→ aalps: X聚呢？ 07/28 11:33
-→ aalps: 和這兩家同名的 07/28 11:34
-推 ian0805: TPE每年都在徵人，從10年前看到現在阿 07/28 11:43
-推 kuwanosan: 只要有人的地方，就有人治lol大多數公司都一樣吧 07/28 11:53
-推 sean88413: POM就只有新港廠阿 完全不會調麥寮好嗎 原PO想問可私唷 07/28 11:55
-→ bles61211: 能住家裡固然重要，不過建議選台塑 07/28 12:35
-→ perfect64732: 台塑棒  推長春的是來鬧的嗎 07/28 12:52
-推 barry610171: 想問一下 最近台塑面試邀請各位有收到嗎 07/28 13:00
-噓 SaintsRow: 長春台塑一樣鳥好嗎 07/28 13:20
-推 raya61305: 製程工程師可能打聽一下吧 有些很雷環境很差 07/28 14:19
-推 mscmobitai: 人家工總理事長內 想調薪？ 07/28 14:51
-→ kao81116: 今年也調了啊，樓上想表達什麼? 07/28 15:05
-推 ergotamine: 調4% 07/28 16:16
-推 sam0330: 台塑啦 07/28 16:32
-→ avgirl: 雷雷雷雷雷 07/28 16:41
-→ momofaith: 台塑真好，這幾年調薪年終都不錯 07/28 16:45
-→ aben112008: 嗯，這幾年 07/28 17:03
-→ TPTC3589: 台塑一報到就要簽誓約書囉~之後叫你們調哪裡就是哪裡... 07/28 17:06
-→ fkman0831: 住家裡就贏了好嗎？ 台橡不差 是你自己可能待不住而已 07/28 19:58
-噓 simonwang661: 全都要輪班 07/28 20:16
-推 fcfcegr: 台塑pom蠻爽的... 07/28 20:51
-推 ryoutsu0857: 中鋼比較好 07/28 21:20
-推 zupo: 某O感覺好像被虐待過滿口怨氣，待過中小企業就知道都差不多 07/28 21:40
-→ zupo: 推長春的，我有認識長春的說已經砍了不少福利 07/28 21:41
-→ zupo: 還有人從王老先生跳過去長春後卻後悔的，您真的是這圈子的? 07/28 21:42
-→ zupo: 嘉義可以不用租房，可以選擇住宿(我待過新港廠區一陣子) 07/28 21:42
-→ zupo: 但建議把摩托車託運過去 07/28 21:43
-→ lolitass: 那個CS開頭的根本每篇都這樣亂推 07/28 22:06
-推 vincewe: 建議選台塑 07/28 22:57
-→ mt580: 一堆眼高手低的說詞~ 那說爛的....有推薦的公司嗎?? 07/28 23:23
-→ dotober2005: 台塑工程師很少輪班缺吧 07/28 23:55
-推 jackloutter: 請問必成推嗎? 07/29 00:50
-→ JANG19865: 一定要先3個月輪班訓 07/29 02:52
-噓 Alkane: 台塑真幸福 科科 07/29 09:45
-→ Austin1: 離家近最好 07/29 12:29
-推 qoo60606: 輪班訓看各廠 有的意思意思而已 07/29 16:14
-推 kuwanosan: 我身邊就兩個從台塑跳長春秒後悔的lol 07/30 00:18
-"
-"32" NA
-"33" NA
-"34" "作者j123456789 (j1234567890)看板Tech_Job標題[面試] 永磐科技面試心得時間Sat Jul 28 11:14:29 2018
-剛畢業，想從事網路資安相關工作
-面試到這家
-
-剛進公司有個筆試
-大多數為 網路資安 基本的知識
-
-跟面試官聊了解幾個點
-
-1.這間 SI 有許多產品線 但大部分為 網路 和資安產品
-
-2.跟代理商有完整的教育訓練
-
-3.自己也有開教育訓練 訓練從白紙開始的 工程師 這點蠻吸引我的
-
-4.聽他說最近公司自己培育一個23歲就考到 CCIE 的。讓我覺得他們好像真的會培育工程
-師
-
-5.對於一個社會新鮮人又想學東西的人來說 蠻誘人的
-
-6.也有談到假如後續能力夠 公司也會出錢栽培
-
-然後談到待遇方面
-
-1.一開始的待遇還能夠接受
-
-2.有專案獎金
-
-3.並且員工旅遊補助不少
-
-4.車資也有補助
-
-5.加上公司內教育訓練完整
-
-現在就等結果會不會上了
-
-
---
-※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 114.136.254.74
-※ 文章網址: https://www.ptt.cc/bbs/Tech_Job/M.1532747671.A.90D.html
-推 r1006274: 推 07/28 13:05
-推 ptx003c: CCIE很難考，不過台灣沒有這個市場也沒用。 07/28 13:35
-→ Weckle: 如果SI要有思科金牌，CCIE少不了 07/28 15:00
-"
-"35" NA
-"36" NA
-"37" "作者YenFuOne (焉芙丸)看板Tech_Job標題[新聞] 王文淵轟新南向政策時間Sat Jul 28 14:19:28 2018
-中國時報【黃有容、洪凱音、實習記者林澂薇╱台北報導】
+"31" "�@��YenFuOne (�j�ܤY)�ݪOTech_Job���D[�s�D] ����W�F�s�n�V�F���ɶ�Sat Jul 28 14:19:28 2018
+����ɳ��i�����e�B�x�ͭ��B��߰O�̪L�J�����x�_���ɡj
 
 http://www.chinatimes.com/newspapers/20180728000476-260110
 
-全國工業總會昨（27）日發布「2018產業政策白皮書」，聚焦產業發展、國際經貿及兩岸政
-策等9大主題，向政府提出建言。值得注意的是，面對政府新南向政策，新任工總理事長王
-文淵首度以「業界龍頭」身份重炮轟擊。王文淵批評新南向政策「欠缺有效或是具體的措施
-」，直指政府這樣大力推廣「值得商榷」。
+����u�~�`�|�Q�]27�^��o���u2018���~�F���ե֮ѡv�A�E�J���~�o�i�B��ڸg�T�Ψ⩤�F
+����9�j�D�D�A�V�F�����X�ب��C�ȱo�`�N���O�A����F���s�n�V�F���A�s���u�`�z�ƪ���
+��W���ץH�u�~���s�Y�v���������F���C����W����s�n�V�F���u���ʦ��ĩάO���骺���I
+�v�A�����F���o�ˤj�O���s�u�ȱo�Ӻe�v�C
 
 
-欠具體措施 妥適待商榷
+�����鱹�I ���A�ݰӺe
 
-王文淵在報告中指出，雖然政府鼓勵製造業到東南亞發展，但台灣與南向國家還有很多問題
-有待政府去解決，例如租稅協定、投資保障協定，甚至於如何保護台商人身安全，避免受到
-不理性的抗爭等等，都還欠缺有效或是具體的措施，在這種情況下，就要大力推廣新南向「
-是否妥適，值得商榷」。
+����W�b���i�����X�A���M�F�����y�s�y�~��F�n�ȵo�i�A���x�W�P�n�V��a�٦��ܦh���D
+���ݬF���h�ѨM�A�Ҧp���|��w�B���O�٨�w�A�Ʀܩ�p��O�@�x�ӤH���w���A�קK����
+���z�ʪ��ܪ������A���٤��ʦ��ĩάO���骺���I�A�b�o�ر��p�U�A�N�n�j�O���s�s�n�V�u
+�O�_���A�A�ȱo�Ӻe�v�C
 
-台塑集團在越南投資上千億元河靜大鋼廠，是企業最積極布局新南向的例子，儘管河靜鋼廠
-已進入投產，但期間經歷排廢水爭議、天價賠償金再到高層台幹險遭限制出境等，一路走來
-並不輕鬆。王文淵以「業界龍頭」提此建言，頗值政府深思。
+�x�춰�Φb�V�n���W�d�����e�R�j���t�A�O���~�̿n�������s�n�V���Ҥl�A���ުe�R���t
+�w�i�J�벣�A�������g���Ƽo����ĳ�B�ѻ����v���A�찪�h�x�F�I�D����X�ҵ��A�@������
+�ä����P�C����W�H�u�~���s�Y�v�����ب��A��ȬF���`��C
 
-工總昨天發表「2018產業政策白皮書」，這也是王文淵接任工總理事長後首度提出的白皮書
-。內容針對產業發展、環境安全衛生政策、勞資關係與人力資源、賦稅金融政策、能源政策
-、國際經貿、智慧財產權、青年政策、兩岸政策等9大類議題領域，合計各類建言共231項。
-
-
-盼兩岸釋善意 務實溝通
-
-其中在兩岸議題，工總建議雙方都應放下歷史包袱，相互表達善意、務實溝通、管控分歧、
-求同存異；尤其，大陸市場占台灣出口總額42%，對台灣全球市場布局極為重要，政府誠應
-以「溝通、溝通、再溝通」的精神，建立雙方能夠接受的互動模式。
-
-工總祕書長蔡練生說，工總站在產業角度提出建言，難免與當政者政策相左，由於總統蔡英
-文近日在三三會上疾呼「不要唱衰台灣」，蔡練生也特別強調，工總的建言「不是在唱衰政
-府」。
+�u�`�Q�ѵo���u2018���~�F���ե֮ѡv�A�o�]�O����W�����u�`�z�ƪ��᭺�״��X���ե֮�
+�C���e�w�ﲣ�~�o�i�B���Ҧw���åͬF���B�Ҹ����Y�P�H�O�귽�B��|���ĬF���B�෽�F��
+�B��ڸg�T�B���z�]���v�B�C�~�F���B�⩤�F����9�j��ĳ�D���A�X�p�U���ب��@231���C
 
 
-拚經濟 國發會逐步落實
+�ߨ⩤�����N �ȹ귾�q
 
-針對工總白皮書提出的9大建議方向，國發會提出回應，指行政院長賴清德上任後，以「拚
-經濟」列為最優先工作，在加速投資台灣專案會議上，也承諾會持續排除企業投資障礙、逐
-步落實。對於新南向政策批評，國發會則以會積極尋求經貿談判機會，強化產業融入全球價
-值鏈，未正面回應。
+�䤤�b�⩤ĳ�D�A�u�`��ĳ���賣����U���v�]���A�ۤ����F���N�B�ȹ귾�q�B�ޱ����[�B
+�D�P�s���F�ר�A�j�������e�x�W�X�f�`�B42%�A��x�W���y���������������n�A�F������
+�H�u���q�B���q�B�A���q�v���믫�A�إ����������������ʼҦ��C
+
+�u�`���Ѫ����m�ͻ��A�u�`���b���~���״��X�ب��A���K�P���F�̬F���ۥ��A�ѩ��`�ν��^
+����b�T�T�|�W�e�I�u���n�۰I�x�W�v�A���m�ͤ]�S�O�j�աA�u�`���ب��u���O�b�۰I�F
+���v�C
+
+
+��g�� ��o�|�v�B����
+
+�w��u�`�ե֮Ѵ��X��9�j��ĳ��V�A��o�|���X�^���A����F�|����M�w�W����A�H�u��
+�g�١v�C�����u���u�@�A�b�[�t���x�W�M�׷|ĳ�W�A�]�ӿշ|����ư����~����ê�B�v
+�B����C���s�n�V�F������A��o�|�h�H�|�n���M�D�g�T�ͧP���|�A�j�Ʋ��~�ĤJ���y��
+����A�������^���C
 
 --
 https://i.imgur.com/mF9XUOo.png
 
 --
-※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 180.204.17.145
-※ 文章網址: https://www.ptt.cc/bbs/Tech_Job/M.1532758771.A.B97.html
-※ 編輯: YenFuOne (180.204.17.145), 07/28/2018 14:21:44
-噓 cityhunter04: 自己先跑去越南，出事後就怪政府的政策？沒這個政07/28 14:54
-→ cityhunter04: 策你還不是會去..07/28 14:54
-推 gigaspoil: 哪政府為啥每年收這麼多稅收？收錢不辦事，可以裁掉嗎 07/28 14:57
-→ gigaspoil: ？ 07/28 14:57
+�� �o�H��: �����~�{(ptt.cc), �Ӧ�: 180.204.17.145
+�� �峹���}: https://www.ptt.cc/bbs/Tech_Job/M.1532758771.A.B97.html
+�� �s��: YenFuOne (180.204.17.145), 07/28/2018 14:21:44
+�N cityhunter04: �ۤv���]�h�V�n�A�X�ƫ�N�ǬF�����F���H�S�o�ӬF07/28 14:54
+�� cityhunter04: ���A�٤��O�|�h..07/28 14:54
+�� gigaspoil: ���F����ԣ�C�~���o��h�|���H��������ơA�i�H������ 07/28 14:57
+�� gigaspoil: �H 07/28 14:57
 
-政府不是沒做事,只是方向常常...
-※ 編輯: YenFuOne (180.204.17.145), 07/28/2018 14:59:49
-推 kao81116: 政策本來就不能只是喊喊，任何政策都應該有其配套，想 07/28 15:03
-→ kao81116: 當初越南514暴動，我們的越南辦事處居然是發“我是台灣 07/28 15:03
-→ kao81116: 人”的貼紙叫大家貼在身上，真的不曉得說他們什麼好 07/28 15:03
-推 Colossus: 東南亞國家理你?叫你賠160億,簽汙染認罪協商就乖乖簽下 07/28 15:46
-噓 whizz:   噁心啊 這廝 07/28 16:34
-推 andy763092: 中國現在也在徹底執行環保審查，不要說台商啦、更多 07/28 16:37
-→ andy763092: 本地工廠也是被罰到哭暈在廁所 07/28 16:37
-→ iverson0991: 我來轟懶叫！！！ 07/28 16:39
-推 andy763092: 環保沒達標就改善、改不了就閉嘴倒一邊去，整天在荼毒 07/28 16:39
-→ andy763092: 別人家園然後哭哭說別人不友善，笑死人 07/28 16:39
-噓 JasonIm: 滾 07/28 17:11
-→ Auslayer: 死魚死整個海岸 沒辦法河蟹要付天價賠償 所以是不理性 07/28 17:24
-推 Battie: 沒找到可污染免賠的國家 失敗 07/28 17:28
-噓 kusoduck: 自己違法在先，還怪別的國家不理性，他媽的一群慣老闆 07/28 19:55
-→ kingof303: 吃屎 07/28 20:30
-→ zupo: 樓上一堆沒待過越南的在靠杯什麼，來過越南在來說嘴 07/28 21:44
-→ zupo: 不給人家蓋廠，人家遷到外面去，然後繼續唱雖 07/28 21:45
-→ zupo: 樓上一堆說的比唱得還好聽，好像就在越南生活一樣 07/28 21:46
-推 kayhung8211: 新南向真的就是要廠商去當砲灰的意思阿 07/28 21:57
-→ kayhung8211: 實際最大的市場還是大陸 但台灣民粹可悲到極點 07/28 21:58
-→ soteng: 護照都被扣押，不認罪要幹嘛。 07/28 22:06
-噓 whizz:   看到五毛崩潰就是爽兒~~~  有捲舌兒 聽得懂吧 07/28 22:22
-推 edwardaz01: 中國自己自身難保 最大市場哈哈 看看匯率看看上證指 07/28 22:26
-→ edwardaz01: 數 07/28 22:26
-噓 a960537: 菜總統的南向政策只到屏東 07/28 22:28
-→ atpx: 幫不了民進黨, 老實說新南向真的就跟沒做事一樣 07/28 23:00
-→ atpx: 開一堆東南亞語言課程, 幹你媽的最好有人會去上 07/28 23:00
-→ atpx: 英文都沒搞好還去學越南話? 要也是學西班牙話還比較多人用 07/28 23:01
-噓 vcx530: 怪東怪西！自己不爭氣 07/29 00:45
-推 LiLiLaLa7: 政府確實只是叫大家去，確不談投資保障協定，要人去送 07/29 01:37
-→ LiLiLaLa7: 死而已 07/29 01:37
-噓 enso: 三星都努力撤出中國了，還有台商傻傻的認為中國就是世界 07/29 08:24
+�F�����O�S����,�u�O��V�`�`...
+�� �s��: YenFuOne (180.204.17.145), 07/28/2018 14:59:49
+�� kao81116: �F�����ӴN����u�O�۳ۡA����F�������Ӧ���t�M�A�Q 07/28 15:03
+�� kao81116: ����V�n514�ɰʡA�ڭ̪��V�n��ƳB�~�M�O�o���ڬO�x�W 07/28 15:03
+�� kao81116: �H�����K�ȥs�j�a�K�b���W�A�u������o���L�̤���n 07/28 15:03
+�� Colossus: �F�n�Ȱ�a�z�A?�s�A��160��,ñ���V�{�o��ӴN�Ĩ�ñ�U 07/28 15:46
+�N whizz:   ���߰� �o�r 07/28 16:34
+�� andy763092: ����{�b�]�b�����������O�f�d�A���n���x�ӰաB��h 07/28 16:37
+�� andy763092: ���a�u�t�]�O�Q�@����w�b�Z�� 07/28 16:37
+�� iverson0991: �ڨ��F�i�s�I�I�I 07/28 16:39
+�� andy763092: ���O�S�F�дN�ﵽ�B�藍�F�N���L�ˤ@��h�A��Ѧb���r 07/28 16:39
+�� andy763092: �O�H�a��M��������O�H���͵��A�����H 07/28 16:39
+�N JasonIm: �u 07/28 17:11
+�� Auslayer: ��������Ӯ��� �S��k�e�ɭn�I�ѻ����v �ҥH�O���z�� 07/28 17:24
+�� Battie: �S���i�ìV�K�ߪ���a ���� 07/28 17:28
+�N kusoduck: �ۤv�H�k�b���A�٩ǧO����a���z�ʡA�L�����@�s�D���� 07/28 19:55
+�� kingof303: �Y�� 07/28 20:30
+�� zupo: �ӤW�@��S�ݹL�V�n���b�a�M����A�ӹL�V�n�b�ӻ��L 07/28 21:44
+�� zupo: �����H�a�\�t�A�H�a�E��~���h�A�M���~����� 07/28 21:45
+�� zupo: �ӤW�@�ﻡ����۱o�٦nť�A�n���N�b�V�n�ͬ��@�� 07/28 21:46
+�� kayhung8211: �s�n�V�u���N�O�n�t�ӥh�����Ǫ��N��� 07/28 21:57
+�� kayhung8211: ��ڳ̤j�������٬O�j�� ���x�W����i�d�췥�I 07/28 21:58
+�� soteng: �@�ӳ��Q����A���{�o�n�F���C 07/28 22:06
+�N whizz:   �ݨ줭��Y��N�O�n��~~~  �����ި� ť�o���a 07/28 22:22
+�� edwardaz01: ����ۤv�ۨ����O �̤j�������� �ݬݶײv�ݬݤW�ҫ� 07/28 22:26
+�� edwardaz01: �� 07/28 22:26
+�N a960537: ���`�Ϊ��n�V�F���u��̪F 07/28 22:28
+�� atpx: �����F���i��, �ѹ껡�s�n�V�u���N��S���Ƥ@�� 07/28 23:00
+�� atpx: �}�@��F�n�Ȼy���ҵ{, �F�A�����̦n���H�|�h�W 07/28 23:00
+�� atpx: �^�峣�S�d�n�٥h�ǶV�n��? �n�]�O�Ǧ�Z�����٤���h�H�� 07/28 23:01
+�N vcx530: �ǪF�Ǧ�I�ۤv������ 07/29 00:45
+�� LiLiLaLa7: �F���T��u�O�s�j�a�h�A�T���ͧ��O�٨�w�A�n�H�h�e 07/29 01:37
+�� LiLiLaLa7: ���Ӥw 07/29 01:37
+�N enso: �T�P���V�O�M�X����F�A�٦��x�Ӷ̶̪��{������N�O�@�� 07/29 08:24
+�� wanderincs: ����ɭԼt�Ӫ����I�]�n�F���Ӥ���F...�H 07/30 03:01
+"
+"32" NA
+"33" NA
+"34" "�@��mejichoco (UoU)�ݪOTech_Job���D[�Яq] ��o�u�{�v�Ӹɹq�l�q��?�ɶ�Sat Jul 28 14:49:43 2018
+�]���j�Ǫ��ɭԩ����O��q�Ǯ�
+
+�����]���O�ܦn�A�{�b�X���|�~���D�ǲz�����n
+
+�Q����o�u�{�v�o�i
+
+�S�O�O�q�l�s�����H�Ψ�L�������~
+
+�ݨ�104�W���g
+
+���O���R�B���c�B���ʡB���ǡB�N��B�����B�y�O�B�T�O�B�ʤO�ǵ�
+
+�]���O�γn����R�A�ҥH�O�h���ƾǪ������A��z�ק�����?
+
+�����M�쪺�{��?
+
+���L�h���ƾǳ����A�n�����ӥi��....
+
+�Q�ݤ@�U�A�Ӧ^�h���ݤj�Ǫ��q�l�ǡA�q���ǡA���O��
+
+��ƻ�˪��@�ӵ{�סA������Q��¾�P�o�i
+
+���¦U��!
+
+--
+�� �o�H��: �����~�{(ptt.cc), �Ӧ�: 111.241.215.171
+�� �峹���}: https://www.ptt.cc/bbs/Tech_Job/M.1532760585.A.2A6.html
+�� Homedoni: �ҭӥ|�j��s�Ҥ����b 07/28 14:52
+�N duser: �S�|�j�Ǿ� �@���l���S�e�~ 07/28 14:59
+�� chwu246: ���� �q�� �̶̤����M�� 07/28 15:01
+�� YenFuOne: �q�l�Ǹ���O�ǬO��Ӭ۶Z�ܻ����Ǫ� 07/28 15:01
+���~���n��¦���q�ϼ����A���Ǽ���...
+�� YenFuOne: ���d�M���A�n�d�q�l�q���٬O�N��Žդ������u�@ 07/28 15:02
+�� agbr2: �ɭ^��h�~�� 07/28 15:07
+�^��w�g�O���n!
+�� �s��: mejichoco (111.241.215.171), 07/28/2018 15:10:33
+�� fgkor123: �o�X��t�o��h... 07/28 15:12
+�� fgkor123: ���^��ƾǤ����b 07/28 15:12
+�� komexxx: �Q����o�u�{�v�o�i........ 07/28 15:13
+�� komexxx: �^�h���^�h�ۤv���q�l�ǯ�F���H 07/28 15:14
+�� komexxx: �j�ǭ���Φҥ|�j��s�ҧa 07/28 15:15
+�� YenFuOne: �q�ϼ����ݭn���O�q�Ͼ�,�A���q�l��???�A�u�����D�q 07/28 15:17
+�� YenFuOne: �l�Ǧb���ƻ�� 07/28 15:17
+�� YenFuOne: ���Ǽ����i��ݭn���O���Ǿǧa 07/28 15:17
+�� havochuman: �����ƾǬO����z�ק����H �y�z�z�ת���¦�y���u�| 07/28 15:21
+�� havochuman: �O�ƾ� 07/28 15:21
+�� x246libra: ���a �A�@��¾�� �n��5�j�O�� �u������ ���n�F�ڰ� 07/28 15:48
+�� x246libra: �����@�ӳ����� �󤣭n�� ������b�x�W�`�`�g��k�h 07/28 15:49
+�� x246libra: ���a���q �o��w �n������h? ��ڻ{��������u�@ 07/28 15:49
+�� x246libra: ���@�˰� 07/28 15:49
+�� roymustang: �o�ӧޯ���p�C������]�O���N�h�� 07/28 16:08
+�N stitchris: �����j�ǲ��~? �A�T�w�A�C�X�Ӫ��ݭn�Ψ�q�l�q�� 07/28 16:17
+�N heyhair87: �q�ǩM�O�Ǥ����M�� �G�M�ǩ����� 07/28 16:25
+�N nxuu3u2ye: ��o�u�{�v�|�@�N��A�u�@? 07/28 16:33
+�� workhard0815: ���N��q�l�q�ϰʤO���O�y�O�_�ʾǳ��ɰ_�Ӱ� 07/28 16:35
+�� mathlover: ��po�i��ݭn�˲M���o�C�@�ӾǬ�b�Ǥ��� 07/28 16:37
+�� dulldog: �@�j�����M�~ 07/28 16:43
+�� avgirl: �Q����o�ʡA�A������s�� �A���ݤ@��ѡA�Ǿ��S��S�H�| 07/28 16:47
+�� avgirl: �z�A�A���D�A�ۦ�з~�ۤv�d 07/28 16:48
+�� zasxqw56: 104�W�����N�g�ӰѦҪ��� 07/28 17:02
+�� wowkerker: �⧹�����ۤz������A�@�_���Q����o�u�{�v... 07/28 17:09
+�� wowkerker: ���¤j�Ǫ��۶Ǥ]���|�g���o�˧a... �ݨӤj�ǥͬ� 07/28 17:10
+�� wowkerker: ���ӬO�����@���ť�... �o�w�g���O�n��ԣ�����D�FXD 07/28 17:10
+�� ogisun: �A���D�A�b�������... 07/28 17:15
+�� dos1019: �z�פ��N�O�N�O�ƾǦ� 07/28 17:37
+�N dreamdriver1: ���������D������ ��Ҧ�����A�@�_�ݭn�[�j���� 07/28 17:39
+�� dreamdriver1: ��� ��o�u�{�v�H ������Ū�@Ū�a �j���A10�~ �X 07/28 17:39
+�� dreamdriver1: �� 07/28 17:39
+�� biubiuBOT: �q�ϼ�����������A�ާ@���O���I�A�O�A���D�A�b������ 07/28 17:40
+�� biubiuBOT: ��ܫ��� 07/28 17:40
+�� Chiang51: �o�O����t�ݪ����D�� 07/28 17:48
+�� q79236: �A�g����¾�ʸ�q�l������������ 07/28 17:58
+�� q79236: �n�n�_�A����q�O����ص{��... 07/28 17:59
+�� loveices: ���Q�@�Q �A����Q��RD 07/28 18:24
+�� bohuei8197: �n�|���o��h�A�ҥH�o�ӯʬO�}�h�֡H 07/28 18:33
+�� sef96121: �q�U�u���O�l�}�l����֡A�䰵��ǡC 07/28 18:42
+�� jordom148: �S�Ǿ� ���F�]�S�� �ҥ|�j������n 07/28 18:48
+�N assassinzero: �j�Ǥ��{�u���U��...�s���D�Oԣ�����M�� 07/28 18:53
+�� jungpo: �o�ݰ_�Ӱ��D�ܤj.... 07/28 19:10
+�� fxp87117: �{�ץ��`�@�I�������ͳ����|��q�l�q������y��b�@�_�a 07/28 19:15
+�� fxp87117: ... 07/28 19:15
+�� roktzzt: ����I �q�U�u�}�l���_ 07/28 19:35
+�� freez: �A�C���o�� �M��X���N����H�F 07/28 19:51
+�� kobeyo: ���i�|�j ���O�o�׾i�]�n�m �O�ܨ��ضüN�媺�@ 07/28 19:53
+�� chencjj: �A�쩳�ι��S 07/28 20:21
+�N jasontmk: �n�G... 07/28 20:39
+�� jasontmk: ���j�ǮզW�̭��n... �o�g��O�O�Ҥl 07/28 20:41
+�� jasontmk: ����n�]�������������D�b�]�T�p�O�n����ԣ�H 07/28 20:42
+�� jasontmk: ���O�H�V�O���ѬO��������H �]�����H�٬O�]morning �d 07/28 20:45
+�� jasontmk: ��b�� 07/28 20:45
+�� samm3320: �]�n�ݬO��o���򪺤u�{�v 07/28 21:14
+�� samm3320: ���P���M�~�]���P 07/28 21:14
+�� AnewMitch: ���Ӧ�Ʃ`�̤F�A�A�׭Ӷq�l�O�Ǧp�� 07/28 22:33
+�� dearober: ���O�Ǧ����� ���z�t/�Ƥu�t/���ƨt/�ƾǨt/����t�� �A 07/28 23:19
+�� dearober: ���D�� 07/28 23:19
+�� pippyman: ��ӹq�l�Ǧ�����q�ϼ����A�u���O�����ѤF=.= 07/29 01:06
+�� Borismine: ���ӬO���Ƥu�a �y�O/���ǳ��]���� �٦��ʤO�ǫܼs�� 07/29 07:30
+�� Borismine:  ��po�A�n���n�ݲM�� 07/29 07:30
+�� kclvpc: �ǳo�ǳ��S�~�ӥ|�j�ӭ��n 07/29 08:34
+�� POWERSERIES: �Q����o�o�i���e�� �O�঳�J���� ���O���@��L�ή� 07/29 09:15
+�� POWERSERIES: �ڤ]�Q����ͻ��o�i��  �i�O�ڨSŪ�L��ǰ|���ζ� 07/29 09:16
+�� navysoider: �A�����D�O�s�ݰ��D�������D���D�Oԣ 07/29 10:42
+�N randystock: �S�Ǿ��A�A�s�s�{�����դ��W�A�ǥͦn�n���ѧa 07/29 11:48
+�� randystock: ��q�ǮմN�⮳�Ѩ����٬O�S�H�n�A���������b 07/29 11:49
+�N dannioabc: �q�ϼ�����q�l�Ǯt�o��h�K�u�T�p 07/29 12:11
+�N dannioabc: �ڥ������׹L�A�i�H��A���q�ϼ������ݭn�q�l�Ǫ��F�� 07/29 12:14
+�� shadowppt: ���u���A�ޯ��I���M�ťե|�~�A�h�Ǥ��q�٤���� 07/29 12:26
+�� freeyo: �C�@�ӾǬ쳣���n�X�g�ӻ�쪺���y���Z�νפ�A�N�O�̦��Q 07/29 12:47
+�� freeyo: ���ɭԡA�}�} 07/29 12:47
+�N freedomx20a: ��p�@�_�u�@�W�i�� 07/29 13:22
+�� dannytsai: ���ྦྷ�L�A�u�ߤ��F 07/29 14:41
+�� thousandwave: �o��جO�n��նܡH 07/29 14:50
+�� nogahiel: �h���ƾǡA�H��M�~�|���~�V�A�����A�i�� 07/29 17:36
+�� tingiy: �u���|�j �H�Ͷ��Q �S���|�j �L�k�W�� 07/29 19:28
+�� muserFW: �A�������ǳ��O����b��������... 07/29 19:31
+�N EngivalLirva: ������ 07/29 21:54
+�� baelrog: �c�A�e�����q�l�q���A�U���g���񪺤��j�O�ǡA�p�G�s�o�O 07/30 08:44
+�� baelrog: ���Ӭ�t����س����O�X�ӡA�����h�F�Ѥ@�U�a 07/30 08:44
+�� odahawk: �q�������u�O�h����ʭp��A�ƾǭn������F�� 07/30 09:50
+�� john65240: �ݰݪ����D�N���D���ӤH���{��.... 07/30 12:15
+�� hotel56: ��ĳ���Ǧn���� 07/30 12:33
+"
+"35" NA
+"36" NA
+"37" "�@��bluebluelan (�ճ����ʱj���W�s�ڥ�)�ݪOTech_Job���DRe: [�Q��] relocate�쪿���~��h�֤~�X�A�ɶ�Sat Jul 28 14:52:01 2018
+
+�A�n ���|��L�����x��
+
+
+�a�x���J�x���T�ʸU �����A���
+
+�x���T�ʸU�� �F���覩�@�~�|�������٦���200�a
+
+������O�Q�T�� ���ܤִN�O�|��200*3 600�U�a
+
+
+�p���|+�{�|+���|�w���|+�ǭ����ԩԪ� �ܤ֨ӭӵ|�e1200�U�a �j��40�U������
+
+�[�W�A�٭n���� �@�a����house�@�Ӥ�5000�����@�~���U�ܦX�z�a
+
+��A��Ӭ�����M�n���A�Фl����
+
+�٭nlease�� ��x�a �@�x�W�Z �@�x���ѱC�R��
+
+���q�@�Ӥ�A�ɶK��800�M���Alease��
+
+
+�ҥH��ı�o�~���T�ʸU �ܤ֭n���|�e47�U�����~�X�z��
+
+
+
+
+
+
+
+���L�{��@�ɴN�O��A��title match��Q���q���a�Ptitle���~��
+
+�̤��q�W�w�� �o�Ʀr���Q�n�� �ڭ̥h���L�H�N�n
+
+
+
+���p�G�O�x�ӴN�O�Q�F �@���t�@���\
+
+--
+�� �o�H��: �����~�{(ptt.cc), �Ӧ�: 73.15.255.43
+�� �峹���}: https://www.ptt.cc/bbs/Tech_Job/M.1532760723.A.87F.html
+�� havochuman: �|�e47�U��@�~�u���W�Ű��� �������F�H�A���ܶ}���L1 07/28 15:19
+�� havochuman: 00�U�⪺�Ĥ� 07/28 15:19
+�� iamala: �u�O���F���h�������M���E��ڡA�ݨ��䪺�U�ۦ��U�۪��z 07/28 15:32
+�� iamala: �ѡC 07/28 15:32
+�N pornstar: ����S~ �ں�n�|�e147�U�~�X�z��~ 07/28 15:33
+�� titigirl: �h�����N�O�n���F����  ���Ӧa�賾���ͳJ 07/28 15:38
+�� KeyFSN: �A�⪺���� �ں�j���|�e470�U�t���h 07/28 16:32
+�N lovebridget: 47�U�٤����ѥ[�O�����J���j�� ���� 07/28 16:48
+�� Sex5F: �ڻ{���n�H�����򥻶}�P�Ӻ��覬�J 07/28 17:04
+�� Sex5F: �x�W�~�s150�U�M�����~���s150�U�n�}�h�� 07/28 17:05
+�� Sex5F: �]���x�W�ȤF���]�i�H�h�������O��~ 07/28 17:05
+�� furio: �x�W�~��300�U,�|�̦h�u��50�U,������O�]�S�t3��,�o�g? 07/28 17:45
+�� da1234527123: �����{�b�л��]���_�ӤF 07/28 18:01
+�� steve1012: ���S���Яu���t�ܦh 07/28 18:36
+�� doomx: �����G�M�����_�ڡC47�U��C 07/28 18:54
+�� Unstable: �p�G���p�ġA�A��ӾǰϤ@�_�[�J�x���v�ɡI�����}100�U 07/28 19:32
+�� Unstable: �I 07/28 19:32
+�N fkman0831: �o�g�T���R ���|�Q�S���D �����O�Q�T�� �A�h�L����W 07/28 19:54
+�� fkman0831: ���R�L�F��ܡH 07/28 19:54
+�� fkman0831: �a�x���v����3�������k �x�W�h�ֿ��O �T�������t�h�֡H 07/28 19:55
+�� titigirl: �ӤW����|�S�w�f�~���� 07/28 20:28
+�� titigirl: �ƹ�W�����ӬݬO�Q�T���S�� 07/28 20:28
+�� titigirl: �ӥB�a�x���v�����T�����]�S�h�K�y 07/28 20:36
+�� furio: �Ы�/�T��/�a��/�q��/��A/����/�o�q���˶Q�T��? 07/28 21:05
+�� Narcissuss: 87�U�ڤ~�h 07/28 21:09
+�N da1234527123: �A�̳o�˷m����H�u�@�A���ȳQ���ܡH 07/28 21:29
+�� fkman0831: �����Q�T���H �A�ˬO���ݬݨ��˥��ͥΫ~�Q�x�W�T���� 07/28 22:30
+�� tailau0: �~���Q�T�� 07/28 22:36
+�� tailau0: �פ��q�Q����T���A����ͶQ >>> �T�� 07/28 22:37
+�� tailau0: �j�ǾǶO�Q�T�Q���a 07/28 22:38
+�� tailau0: ���O�j���]����T�� 07/28 22:40
+�� happyennovy: �o�g�b�İ�... �@��ݤ�����XD 07/28 22:48
+�� titigirl: �A�̳o��fkman0831�|�Y��� 07/28 23:01
+�� atpx: �ӫ~�S���Q�T��, �����H�u�Q�Q������ 07/28 23:02
+�� fkman0831: titigirl�p�@�w�O�媼�a �ڬO�����ͥΫ~�C ���H�u�A 07/28 23:16
+�� fkman0831: �Ȫ��� �o�� ���M��x�W�Q ���L�ڪ��D�ڦ^�]�S�� �]�� 07/28 23:16
+�� fkman0831: �p�媼�a 07/28 23:16
+�� fkman0831: �|����� �פ��q�����O�ݤ����r�� �N�O�u�����~ ���� 07/28 23:19
+�� fkman0831: ��x�W�Q �ܥ��`�n�� 07/28 23:19
+�� hbkhhhdx2006: �h����u�@���M���|�u�R���ͥΫ~ ��L���a��Ҽ{�i 07/28 23:34
+�� hbkhhhdx2006: �ӶQ�T���X�z�a 07/28 23:34
+�� tailau0: �n��a�x�}�P���|�u��ӫ~����A�ȡH 07/28 23:34
+�� a000000000: ����   \"�a�x���v�����T�����]�S�h�K�y\"  ??? 07/28 23:45
+�� a000000000: ���M�Aı�o�n�h�K�y   �x�W�p�]���]�n�x��25 30�K 07/28 23:45
+�� furio: ���~���Q3���u���S�h�L����,�A���x���������~��,�q�~���� 07/28 23:49
+�� furio: ���Ƴ��h�t50%,��RUTH'S CHRIS�x�W�٤����������K�y 07/28 23:51
+�� furio: �����פpŢ�]�x�W1����20��,��������1��,�]�u�t50% 07/28 23:53
+�� furio: �����J�M�O�h�u�@,�O�I�򥻤W�����q�X��,���M�ۥI�٬O�� 07/28 23:54
+�� death037: ����j���J1������ �x�W��h�֡H 07/28 23:55
+�� ejnfu: ���ߦӽסA���ӭn�t���h25�U��A�~�j������b�x300�U�a�H�H 07/28 23:58
+�ϥ����ަb�o����h�� �]�n�b���a����~���o�ͩ� ���M�N�~�~�ΤK �̤گR��
+�� furio: ����,���O�o�N�n�Ӯ׺�F 07/28 23:58
+�� titigirl: fkman0831  ���M�V�d�w�ܬ��X�ҳƮ� 07/29 00:00
+�� ejnfu: �p�G�b���i�H���~���ӬO�����|��x�W300�U�n�� 07/29 00:04
+�� tailau0: furio �j�a�үu�n�A�ڦb�������Y����p���A$11 �_���A�b 07/29 01:00
+�� tailau0: �x�W�Y�ӫK�� NT$110 ���N���n�T���H 07/29 01:01
+�� tailau0: Ruth's Chris�o�ءA�کM�ѱC�Q�������Q�A�p�Ī��Ш|�O�� 07/29 01:06
+�� tailau0: ���p�p�Ī��A�����Φ���@�Ӥ�]�n 1500-2000 �� 07/29 01:09
+�� tailau0: �H�K��@�a�����}���G http://bit.ly/2uWvP3a 07/29 01:10
+�� tailau0: ��Ф��J�����@�Ӥ� 2500 ��_���A�o�ǳ��O�n�᪺�� 07/29 01:19
+�� tailau0: �樭�S����޷~�~���O�i�H�L�o�ܵΪA�A���a�x�����@�� 07/29 01:20
+�� a000000000: �j���J�S�������S��   �{�b�u�馩1��QQ 07/29 01:39
+�� a000000000: ��   �o�ˤ]�i�H���׳�   �uZ�` 07/29 01:40
+�� a000000000: ���L����K���K�E���N���S�K   ��⭿�h 07/29 01:41
+�� furio: �j���A��SJ�Ӥ�,�ХD���SJ�� 07/29 01:55
+�� abyssa1: �x�W�~��300�U �T�����ɦY�Y�����ׯ������ܥ��`�a 07/29 02:10
+�� tailau0: furio �j�j�A��po�}�D�N�������A�`���ள�w�{�����a�H 07/29 02:42
+�� tailau0: �x�W�K���]������K�B�E�Q�����A�٬O�T�� 07/29 02:46
+�� iosian: ����ҥi�H��з|�άOcommunity center��,�٨S�W�p�ǯ��� 07/29 03:18
+�� iosian: �i�H�����޾ǰ�,�n��Хi�H��n�W�ﭱ���F�W, Castro Vall 07/29 03:18
+�� iosian: ey, Pleasanton, Dublin, San Ramon�л��M�n�W���@�j�q�t 07/29 03:18
+�� iosian: �Z 07/29 03:18
+�� tailau0: �o�O�ٿ��M�ٮɪ����ˡADublin��n�W�i�H����{�G�p�� 07/29 03:26
+�� �s��: bluebluelan (73.15.255.43), 07/29/2018 04:06:39
+�� iosian: �ҥH���A�̳o�������u�@��,���Ӧh�򤽥q�n�D��q�����֧Q, 07/29 05:25
+�� iosian: �٥i�H�ѨM�����H���먮���D,���q������q��,�Ǯդ����ը� 07/29 05:25
+�� iosian: ,�M��j�a���@�_�W���@�_���� 07/29 05:25
+�� tailau0: �b���Ϫ��j���qGAF�T�a������q���A�p���q���i�঳�A�b�� 07/29 05:43
+�� tailau0: �Ϫ��������A�ҥH�H�A�n���ѡH 07/29 05:44
+�� tailau0: �t����b���l�j���q�i�n�A�����B���줣�F�A�i�n�]�S�� 07/29 05:47
+�� iosian: �N����n�W�h�Ƥ]�O�n��101, 280, 85, 237,���M��q���i�H 07/29 05:54
+�� iosian: �� 07/29 05:55
+�� happyennovy: Ruth's Chris �� restaurant week �h�@�ӤH����40�� 07/29 06:10
+�� happyennovy: ���L�樭�M���i�p�Ī��t�ܦh, �h�t���t�����n�öR�� 07/29 06:11
+�� happyennovy: �A�F��, ���N�h�X�ʥ뭹�O�M�Фl�i��n�h�ӴX�� 07/29 06:12
+�� happyennovy: ���p�ĳ��~�O�u�����I�h�W 07/29 06:12
+�� happyennovy: �ۤv�N���ܧڬOı�o����j���@�Ӥ�300/�H�i�H�Y�Z�n 07/29 06:14
+�� happyennovy: ��Ф��J 2500 �b������K�y���F... 07/29 06:17
+�� steve1012: ���a�x�t�Ӧh�� �u���@�Ǫ����h��ڥ��S�ΰ� 07/29 07:28
+�� a000000000: 2bb�{�b�S�T�d�����Ӯe���K 07/29 09:39
+�� furio: my bad,������a��W���Y�����T�S�O�Q 07/29 09:40
+�� furio: �t�~����Фl����������x�W���h�F,�������򱵪񪺤���� 07/29 09:43
+�� furio: �P�˩л�100W��,������Я��t3~6�� 07/29 09:45
+�N john97611017: �зǶú� �����H 07/29 13:26
+�N xxp680: �o�g�����Ӷê� 07/29 14:52
+�� iksion: ����ۤv�N���Y�K�y��a�_�n�� 07/29 19:05
+�� cheny10: 47�U�Ӹرi�F�A25~28�U�t���h�A���o���~���~���j�e���Q�� 07/30 00:10
 "
 "38" NA
 "39" NA
-"40" "作者mejichoco (UoU)看板Tech_Job標題[請益] 研發工程師該補電子電路?時間Sat Jul 28 14:49:43 2018
-因為大學的時候念的是後段學校
+"40" "�@��cplusplus426 (c++)�ݪOTech_Job���D[�Q��] �綠�q�٬O����~�ɶ�Sat Jul 28 15:32:25 2018
+A���q 50K �ܩT�w14�Ӥ뤣�h�]����
+�S���֧Q �d����  �}�ʭn�ܦh�~
 
-念的也不是很好，現在出社會才知道學理的重要
+B���q  38K ����j��20�Ӥ뤧��i���h�A���M�@�w�O�S�g�boffer�W�O�Ҧh��
+���ݪ��U�h�֩w�}�ʡA���[�Z�O�A�֧Q�ܦh
 
-想往研發工程師發展
+A�i��N�O�`�����ǲ�RD
 
-特別是電子連接器以及其他相關產業
+B�j���N�OGG�Ψ�L�j�����b����
 
-看到104上面寫
 
-應力分析、機構、振動、熱傳、冷凍、噪音、流力、固力、動力學等
+���m���|�h����
 
-因為是用軟體分析，所以是去掉數學的部分，把理論弄懂嗎?
+�`ť��z�׬O���~�~�O�u���A��L���ܵ�
 
-類似專科的程度?
+�i�O���D���H�ؼЬO��(�~�~)�ٶ]�hA����?
 
-不過去掉數學部分，好像不太可能....
 
-想問一下，該回去重看大學的電子學，電路學，熱力學
 
-到甚麼樣的一個程度，比較有利於職涯發展
-
-謝謝各位!
 
 --
-※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 111.241.215.171
-※ 文章網址: https://www.ptt.cc/bbs/Tech_Job/M.1532760585.A.2A6.html
-→ Homedoni: 考個四大研究所比較實在 07/28 14:52
-噓 duser: 沒四大學歷 一輩子都沒前途 07/28 14:59
-→ chwu246: 機械 電機 傻傻分不清楚 07/28 15:01
-→ YenFuOne: 電子學跟熱力學是兩個相距很遠的學門 07/28 15:01
-產品都要基礎的電磁模擬，熱學模擬...
-→ YenFuOne: 先搞清楚你要搞電子電路還是冷凍空調之類的工作 07/28 15:02
-推 agbr2: 補英文去外商 07/28 15:07
-英文已經是必要!
-※ 編輯: mejichoco (111.241.215.171), 07/28/2018 15:10:33
-→ fgkor123: 這幾科差這麼多... 07/28 15:12
-→ fgkor123: 念英文數學比較實在 07/28 15:12
-→ komexxx: 想往研發工程師發展........ 07/28 15:13
-→ komexxx: 回去念回去自己念電子學能幹嘛？ 07/28 15:14
-→ komexxx: 大學重唸或考四大研究所吧 07/28 15:15
-→ YenFuOne: 電磁模擬需要的是電磁學,你扯到電子學???你真的知道電 07/28 15:17
-→ YenFuOne: 子學在講甚麼嗎 07/28 15:17
-→ YenFuOne: 熱學模擬可能需要的是熱傳學吧 07/28 15:17
-→ havochuman: 扣掉數學是怎麼把理論弄懂？ 描述理論的基礎語言只會 07/28 15:21
-→ havochuman: 是數學 07/28 15:21
-推 x246libra: 挖靠 你一個職缺 要懂5大力學 真的假的 不要騙我啊 07/28 15:48
-→ x246libra: 光懂一個都很難 更不要說 機械領域在台灣常常經驗法則 07/28 15:49
-→ x246libra: 哪家公司 這麼硬 要懂那麼多? 跟我認知的機械工作 07/28 15:49
-→ x246libra: 不一樣啊 07/28 15:49
-推 roymustang: 這個技能樹跟小七店員比也是不遑多讓 07/28 16:08
-噓 stitchris: 哪間大學畢業? 你確定你列出來的需要用到電子電路 07/28 16:17
-噓 heyhair87: 電學和力學分不清楚 果然學店水準 07/28 16:25
-噓 nxuu3u2ye: 研發工程師會願意跟你工作? 07/28 16:33
-推 workhard0815: 那就把電子電磁動力熱力流力震動學都補起來啊 07/28 16:35
-推 mathlover: 原po可能需要弄清楚這每一個學科在學什麼 07/28 16:37
-推 dulldog: 一大堆機械專業 07/28 16:43
-→ avgirl: 想做研發缺，你先念研究所 你重看一堆書，學歷沒到沒人會 07/28 16:47
-→ avgirl: 理你，除非你自行創業自己搞 07/28 16:48
-→ zasxqw56: 104上那不就寫來參考的嗎 07/28 17:02
-推 wowkerker: 把完全不相干的領域湊再一起說想當研發工程師... 07/28 17:09
-→ wowkerker: 推甄大學的自傳也不會寫成這樣吧... 看來大學生活 07/28 17:10
-→ wowkerker: 應該是完全一片空白... 這已經不是要補啥的問題了XD 07/28 17:10
-推 ogisun: 你知道你在講什麼嗎... 07/28 17:15
-→ dos1019: 理論不就是就是數學式 07/28 17:37
-噓 dreamdriver1: 完全不知道講什麼 把所有領域湊再一起問要加強什麼 07/28 17:39
-→ dreamdriver1: 能當 研發工程師？ 全部都讀一讀吧 大概再10年 出 07/28 17:39
-→ dreamdriver1: 關 07/28 17:39
-→ biubiuBOT: 電磁模擬熱血模擬，操作不是重點，是你知道你在模擬什 07/28 17:40
-→ biubiuBOT: 麼嗎哈哈 07/28 17:40
-推 Chiang51: 這是本科系問的問題嗎 07/28 17:48
-推 q79236: 你寫的的職缺跟電子完全不相關啊 07/28 17:58
-→ q79236: 好好奇你的後段是到哪種程度... 07/28 17:59
-推 loveices: 先想一想 你為何想當RD 07/28 18:24
-推 bohuei8197: 要會的這麼多，所以這個缺是開多少？ 07/28 18:33
-推 sef96121: 從助工測板子開始比較快，邊做邊學。 07/28 18:42
-推 jordom148: 沒學歷 念了也沒用 考四大比較重要 07/28 18:48
-噓 assassinzero: 大學不認真的下場...連問題是啥都不清楚 07/28 18:53
-推 jungpo: 這看起來問題很大.... 07/28 19:10
-推 fxp87117: 程度正常一點的高中生都不會把電子電路跟熱流扯在一起吧 07/28 19:15
-→ fxp87117: ... 07/28 19:15
-推 roktzzt: 實際點 從助工開始做起 07/28 19:35
-推 freez: 你列的這些 專精幾項就很驚人了 07/28 19:51
-推 kobeyo: 先進四大 但記得修養也要練 別變那種亂噓文的咖 07/28 19:53
-推 chencjj: 你到底睡飽沒 07/28 20:21
-噓 jasontmk: 好慘... 07/28 20:39
-→ jasontmk: 其實大學校名最重要... 這篇血淋淋例子 07/28 20:41
-→ jasontmk: ㄧ堆要跑模擬的都不知道在跑三小是要模擬啥？ 07/28 20:42
-推 jasontmk: 當別人努力念書是念假的喔？ 跑模擬？還是跑morning 卡 07/28 20:45
-→ jasontmk: 實在啦 07/28 20:45
-→ samm3320: 也要看是研發什麼的工程師 07/28 21:14
-→ samm3320: 不同領域專業也不同 07/28 21:14
-→ AnewMitch: 都個位數奈米了，再修個量子力學如何 07/28 22:33
-推 dearober: 熱力學有分偏 物理系/化工系/材料系/化學系/機械系的 你 07/28 23:19
-→ dearober: 知道嗎 07/28 23:19
-推 pippyman: 原來電子學有提到電磁模擬，真的是長知識了=.= 07/29 01:06
-推 Borismine: 應該是偏化工吧 流力/熱傳都包的話 還有動力學很廣欸 07/29 07:30
-→ Borismine:  原po你要不要問清楚 07/29 07:30
-→ kclvpc: 學這些都沒洗個四大碩重要 07/29 08:34
-推 POWERSERIES: 想往研發發展的前提 是能有入場券 不是念一堆無用書 07/29 09:15
-→ POWERSERIES: 我也想往醫生領域發展啊  可是我沒讀過醫學院有用嗎 07/29 09:16
-推 navysoider: 你的問題是連問問題都不知道問題是啥 07/29 10:42
-噓 randystock: 沒學歷，你連製程都面試不上，學生好好念書吧 07/29 11:48
-→ randystock: 後段學校就算拿書卷獎還是沒人要，醒醒比較實在 07/29 11:49
-噓 dannioabc: 電磁模擬跟電子學差這麼多…工三小 07/29 12:11
-噓 dannioabc: 我全部都修過，可以跟你說電磁模擬不需要電子學的東西 07/29 12:14
-推 shadowppt: 說真的，技能點錯和空白四年，去學水電還比較賺 07/29 12:26
-推 freeyo: 每一個學科都有好幾篇該領域的頂尖期刊或論文，就是最有利 07/29 12:47
-→ freeyo: 的時候，ㄎㄎ 07/29 12:47
-噓 freedomx20a: 跟妳一起工作超可憐 07/29 13:22
-推 dannytsai: 左轉儒林，真心不騙 07/29 14:41
-推 thousandwave: 這科目是要唸博嗎？ 07/29 14:50
-推 nogahiel: 去掉數學，以後專業會有瓶頸，很難再進階 07/29 17:36
-→ tingiy: 只有四大 人生順利 沒有四大 無法上版 07/29 19:28
-推 muserFW: 你說的那些都是機械在做的事欸... 07/29 19:31
-噓 EngivalLirva: 哈哈哈 07/29 21:54
+�� �o�H��: �����~�{(ptt.cc), �Ӧ�: 101.8.161.186
+�� �峹���}: https://www.ptt.cc/bbs/Tech_Job/M.1532763147.A.AF5.html
+�� sdbb: A�O����ܡH07/28 15:35
+�� �s��: cplusplus426 (101.8.161.186), 07/28/2018 15:35:46
+�� ncu1319: �����n 07/28 15:35
+�� cityhunter04: �A�n�ݧA���ͲP�W���A�H�ͤ��O�G��@����²��...07/28 15:39
+���T ���o�]�O��ܪ����B!
+�� �s��: cplusplus426 (101.8.161.186), 07/28/2018 15:41:14
+�� iceberg: ��50K�O20����der 07/28 15:43
+�� jerome20106: ����t�����a38k��¾��൹��20�Ӥ몺�r�H���Fgg 07/28 15:45
+�� sjyang: �ȿ��ɭԪ��O���� 07/28 15:55
+�� AragOnk: �a�I �a�x �ܦh�]�����n�C�J�a�H 07/28 15:57
+�� squard: �貦�~�ɿ�B  ����30���ɿ�A 07/28 15:59
+�� erial: �ݤ�s�H�H�H�H�H�H 07/28 15:59
+�� ncuEE: <U+6CA1>���o��h�ﶵ 07/28 16:03
+�� Tawara: 38*20>50*14 07/28 16:13
+�� ivan1209: �ڷ|�ݵo�i�ʸ�ۤv�쩳���w���� 07/28 16:17
+�� ivan1209: ���O�A�ثe�ʿ����ܴN����h���a 07/28 16:18
+�� sai82320: �T�w�|��20�Ӥ���M�hB��.. 07/28 16:21
+�� moses0901: �ѦZ�{�b����19���k 07/28 16:24
+�� ilgnit: �S���u�ɫ��� 07/28 16:32
+�� mathlover: �֩w�}�ʡH 07/28 16:32
+�� zoo0602: �ݦ~�֦~�����ɶ��綠�q�A�W�~���F�N���~�� 07/28 16:40
+�� avgirl: �ݲ��~�� 07/28 16:46
+�� vans320: ��¾���Ӥ���Y��~�N���o�X�ӤF 07/28 16:58
+�� Sex5F: �ݧA�y~�H�ͬO�@���C���A�������]�O�D�ӮM�����@ 07/28 17:07
+�� npsi: ���M�ﰪ���~   �A���Ѥ]������Q 07/28 17:11
+�� mathrew: ��A���@�~  ����  �ͧ��~ 07/28 17:16
+�� mathrew: 38���A�᭱�ͨ�50 VS 50���A�᭱�ͨ�60 07/28 17:16
+�� seanidiot: �~�~�Ӳ��_�~��45�a 07/28 17:32
+�� novell: �����hB�Q���H�hA 07/28 18:12
+�� wxtab019: �ڬO��~�~���� �N����~����C 07/28 18:20
+�� agbr2: ��A�A��íí�i�f�U���~�O�u���C�e�泣�O���� 07/28 18:21
+�� glmkk: �e�泣�O����+1 07/28 18:23
+�� Murasaki0110: �����񻷤@�I�a �`�n���� 07/28 18:32
+�� s910: B�a �~�~�t����h 07/28 18:40
+�� cookies712: ����A, �T�~��ǳƸ��� 07/28 18:40
+�� NSYSUEE: B�ݰ_�ӹ����عq 07/28 18:47
+�� amethystboy: �~�����M��B 07/28 18:59
+�� j0958322080: A�A�O�����~�O�u�� 07/28 19:04
+�� sendtony6: A 07/28 19:20
+�� Ekmund: �p�G�A�pID�O�gC++ �h�ǲ��ܦ��i��g�gwinform 07/28 19:28
+�� Ekmund: ���hMFC ���H��N�ܳ·ФF �����h�� 07/28 19:28
+�� mercurycgt68: �N��u�O�ӦW�� �b����}38 �P�� 07/28 19:29
+�� Ekmund: �J�M�|�� �ڴN�q�A�٦~�� �Y�K�h�FA�������]�O�ݨ��~ 07/28 19:29
+�� theurgy: ��¾��o�i�a 07/28 19:31
+�� wake7078: ����n B�x��A �����a B�٬O�x��A 07/28 19:34
+�� wake7078: �o�u�O�ݿ����`�� ��CP A�@���x��B 07/28 19:35
+�� Adrian: B�n�⧹�㪺�n�ݦh�[�ۤv��@�U�ण��ݨ���[�a 07/28 19:58
+�� warlockeric: 38*20>50*14 07/28 20:06
+�� warlockeric: �����b�� 07/28 20:06
+�� warlockeric: �󦳼�O���]��h 07/28 20:06
+�� warlockeric: ������|�Ҽ{a? 07/28 20:06
+�� lovemost: �~�~�~�O�u�� 07/28 20:15
+�� clamperni: �A�O�Q�ݿ�~�~�٬O����~�� 07/28 20:24
+�� xyz30317: A��]�l87%�� �A�@�~�T���N�󹳤F 07/28 20:31
+�� dean87014200: ���q�n���� ���Mb �ٷQ���Ѫ���a�a 07/28 21:01
+�� Sex5F: https://youtu.be/bKLLBNc2t-8 07/28 21:02
+�� Pet: �d����ǲ�??? 07/28 21:05
+�� randy061: �ͩʧV�O�n�ǸӥhB 07/28 21:37
+�� kainolife: �~���ɿ綠�q��K������ 07/28 21:40
+�� Mozar: �o�@�ɤW�`�O���W�n��n���~���󰪪�C���q 07/28 21:50
+�� Timberlake: ��C�~�~300�U 07/28 22:46
+�� Sex5F: ���M��A�o�٥ηQ? �A���ŶZ38K�ͬ������x�� 07/28 23:09
+�� Sex5F: ���ަ��S������3�~�٬O�n��¾ 07/28 23:10
+�� Sex5F: �Ĥ@�~0�����A�ĤG�~����1/2�A�ĤT�~? �����d���n�G�N���A0 07/28 23:11
+�� Sex5F: ���D�A�M�ڤ@�˦��ƨS�ƴN��D�ޤj�L 07/28 23:11
+�� Sex5F: ��D�ް����A�~��O�ҨB�B���ɡA�~�צ��Z��A+ 07/28 23:12
+�� Sex5F: �p�G�A��38K�٭n���ΡA���N�O�^�����šA�T�~��s�ڷd���n 07/28 23:17
+�� Sex5F: 30�U������ 07/28 23:17
+�� Sex5F: �O���H�Ͷ}���� 07/28 23:18
+�� shortoneal: ���q�W�r���X�Ө��S�൹�Aԣ��ڷN�� 07/28 23:34
+�� cx3373: ��b 07/29 00:11
+�� lovebridget: �󤣿�80K*20? 07/29 00:51
+�� s7503228: ���ı�o�u�@�g��󭫭n�a �p�G�S�J��n���u�@ �_�X���X 07/29 02:16
+�� s7503228: �������F�������� �H�a���h���u 07/29 02:16
+�� youkiller: ���O�ݤ��~�a�C�C�C�O�ݹ�ڦ~�~���h��  �HGG����  �� 07/29 03:45
+�� youkiller: �h���~�O10�U�n�ܡH 07/29 03:45
+�� youkiller: ����ť  �j���q�~�~�C�����v�Aı�o�|��p���q���H 07/29 03:46
+�� youkiller: �p�G�A���j���q�O��ӥ@���v���O�ݤ@�ݤG��  ���N�ȱo 07/29 03:47
+�� youkiller: �h 07/29 03:47
+�� denverkobe: ���~�������ڡA���D��̬OGG 07/29 06:38
+�� XJY13: A�O�Ya�t�μt�� 07/29 09:18
+�� DerLuna: 20�Ӥ�A�۫H�H 07/29 10:09
+�� chickensam: ���M�OA  B���O���Q�Ӥw 07/29 11:04
+�� tttttttiger: �ڷ|��A�AB�@�~�h���U�Ӥw�A�o�h�ܦh���T�w�� 07/29 11:33
+�� CalvinBryant: ��A��20�ӤS���O�O�ҡA�ӥB���ѥ[��h 07/29 11:41
+�� randystock: ��X���|����B�h�ǪF��A�i���]�n�ݡCA��s�H�S�[�� 07/29 11:42
+�� randystock: �p���q�X�ӭn���j���q�A�g�������o�H�a�|�ӻ{ 07/29 11:43
+�� LsugerI: �|�ҥ����Kgg���~�S�o��C�A�u�����C���o�˥h�Ҥ�¾���� 07/29 11:45
+�� LsugerI: �����b 07/29 11:45
+�� LsugerI: ���D�A���e���O�Ǥh�s�H�u���o�˪��u�@�A���N�䦳�o�i 07/29 11:49
+�� LsugerI: �ʦn���Ѫ��A�Ĥ@���u�@���藍�|�O�����[�� 07/29 11:49
+�� bestmoe: ��gg 07/29 12:01
+�� xdd1524: ��X�ӴNB 07/29 18:01
+�� youkiller: ı�o�j���q����שM���e�O�ݭn�ݪ��A���M���|�s���o�� 07/29 20:23
+�� youkiller: �[ 07/29 20:23
+�� c41231717: �����O�ݤѦY����... �A�B�𤣦n �b�D�ޫe�¤F�N�S�� 07/30 00:17
+�� c41231717:  í����~�~�O���D... �A�¤F�A�t�]��14 ���o�n �����~ 07/30 00:17
+�� c41231717: ���n�� 07/30 00:17
+�� c41231717: �ǲ�RD �m���\���W�n�� �����q�[�~���� 07/30 00:20
 "
 "41" NA
 "42" NA
-"43" "作者bluebluelan (白魚挺粗強貝柱連根立)看板Tech_Job標題Re: [討論] relocate到矽谷薪資多少才合適時間Sat Jul 28 14:52:01 2018
+"43" "�@��rtwodtwo (���a)�ݪOTech_Job���D[�s�D] �������~���S�L�i�������u���~��벣�ɶ�Sat Jul 28 17:04:58 2018
+https://money.udn.com/money/story/5641/3277681
 
-你好 本魯鍵盤矽谷台勞
+ �_�������L�q�l��ަ������q�]�����L�q�l�v�^�N���H����10�����]���s�x��45.5��
+���^�b�_�ʥ�����g�٧޳N�}�o�ϡA�سy�ثe���j���ߤ@��ƳW�Ҥƶq����O�����i�u��
+�޳N�Ͳ��u�A�~���S�L�i�n��q���]GaAs MMIC�^�������N�u�A�ȡA�w�p��2019�~��벣
+�ϥΡC
 
+�_�ʰӳ����ɡA�����L�q�l���q�����t�d�H���ܡA���ثئ���A6�TGaAs MMIC�����N�u�t
+�N��ƨC��2�U������C
 
-家庭收入台幣三百萬 我幫你算算
+�ۤW�@��90�~�N�����AGaAs MMIC�N�����L�u�q�T���~���i�ίʪ�ICM����A�è��N�F�g�W
+�B�L�i���̧C�ʯ઺����n��q���C
 
-台幣三百萬嘛 東扣西扣一年稅後應該還有個200吧
+�ѩ�~���S���󪺤u���s�y�L�{�񪿾���x���\�h�A��ثe����A�j�����S���@�a������
+���q�i�H�Ͳ��~���SMMIC�����A����Ͳ��t�өһݪ��~���SMMIC���������̿�i�f�A��j
+�����b���鲣�~�M�q�T���~�y���F���j�����w�C
 
-美國消費貴三倍 那至少就是稅後200*3 600萬吧
+�ӱM�ת��̲ץؼЬO�س]�������y�W�C�e�T���L�i�n��q���]MMIC�^�����ӡA�����j����
+����~���SMMIC�����������ݨD�A����j���~���SMMIC���������̿�i�f�����Q�����C
 
+�_�������L�q�l��ަ������q�O�@�a�޳N��Ф��q�A�ت���5G�MIoT�@�̪i�������ҹJ
+�쪺�D�Զ}�o�X�s���ѨM��סA���Ѱ��ʯ઺�g�W����C
 
-聯邦稅+州稅+社會安全稅+些哩哩拉拉的 至少來個稅前1200萬吧 大概40萬美金拉
+�����L�q�l�~���S����L�i�n��q����o�β��~�ƶ��ءA�N����_�ʿP�F�L�q�l��ަ���
+���q�������t�ЩM���a�i��س]�A�z�L�˭ק�y�ئ��ثe�j���ߤ@��ƳW�Ҥƶq����O��
+���i�u���޳N�Ͳ��u�A�i��MMIC�������N�u�A�ȡC
 
-加上你還要住房 一家住個house一個月5000美金一年六萬很合理吧
-
-把你找來美國當然要給你房子住啊
-
-還要lease車 兩台吧 一台上班 一台給老婆買菜
-
-公司一個月再補貼個800刀給你lease車
-
-
-所以我覺得年收三百萬 至少要有稅前47萬美金才合理拉
-
-
-
-
-
-
-
-不過現實世界就是把你的title match到貴公司當地同title的薪水
-
-依公司規定拉 這數字不想要喔 我們去找其他人就好
+�p���_�ʥ���}�o�Ϥw�E���n��q���W�U����~��100�a�A�w�p��2020�~�A�}�o�Ͽn��q
+�����~�i��{�~�u�~���ȤH����500�����A�Q���H����160�����A�|���H����16�����C
 
 
-
-阿如果是台商就別想了 咖早睏咖五暝
+��2016��800�U�������޳N������?
 
 --
-※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 73.15.255.43
-※ 文章網址: https://www.ptt.cc/bbs/Tech_Job/M.1532760723.A.87F.html
-推 havochuman: 稅前47萬鎂一年真的超級高欸 乾五扣靈？你乾脆開給他1 07/28 15:19
-→ havochuman: 00萬鎂的藥方 07/28 15:19
-推 iamala: 只是為了錢去矽谷當然不划算啊，待那邊的各自有各自的理 07/28 15:32
-→ iamala: 由。 07/28 15:32
-噓 pornstar: 算錯惹~ 我算要稅前147萬才合理啦~ 07/28 15:33
-推 titigirl: 去矽谷就是要為了錢啊  那個地方鳥不生蛋 07/28 15:38
-→ KeyFSN: 你算的不對 我算大概稅前470萬差不多 07/28 16:32
-噓 lovebridget: 47萬還不夠參加慈善撲克王大賽 失敗 07/28 16:48
-→ Sex5F: 我認為要以扣掉基本開銷來算實質收入 07/28 17:04
-→ Sex5F: 台灣年存150萬和矽谷年約存150萬要開多少 07/28 17:05
-→ Sex5F: 因為台灣賺了錢也可以去矽谷消費阿~ 07/28 17:05
-→ furio: 台灣薪資300萬,稅最多只有50萬,美國消費也沒差3倍,這篇? 07/28 17:45
-→ da1234527123: 矽谷現在房價也炒起來了 07/28 18:01
-推 steve1012: 有沒有房真的差很多 07/28 18:36
-推 doomx: 矽谷果然給的起啊。47萬鎂。 07/28 18:54
-推 Unstable: 如果有小孩，再選個學區一起加入軍備競賽！直接開100萬 07/28 19:32
-→ Unstable: ！ 07/28 19:32
-噓 fkman0831: 這篇糞分析 說稅貴沒問題 說消費貴三倍 你去過美國超 07/28 19:54
-→ fkman0831: 市買過東西嗎？ 07/28 19:54
-→ fkman0831: 家庭號洋芋片3美金左右 台灣多少錢呢 汽車機車差多少？ 07/28 19:55
-推 titigirl: 樓上單純舉特定貨品價格 07/28 20:28
-→ titigirl: 事實上平均來看是貴三倍沒錯 07/28 20:28
-→ titigirl: 而且家庭號洋芋片三美金也沒多便宜 07/28 20:36
-→ furio: 房屋/汽車/家具/電器/衣服/食物/油電那樣貴三倍? 07/28 21:05
-推 Narcissuss: 87萬我才去 07/28 21:09
-噓 da1234527123: 你們這樣搶美國人工作，不怕被打嗎？ 07/28 21:29
-推 fkman0831: 平均貴三倍？ 你倒是提看看那樣民生用品貴台灣三倍的 07/28 22:30
-推 tailau0: 外食貴三倍 07/28 22:36
-→ tailau0: 修水電貴不止三倍，看醫生貴 >>> 三倍 07/28 22:37
-→ tailau0: 大學學費貴三十倍吧 07/28 22:38
-→ tailau0: 水費大概也不止三倍 07/28 22:40
-→ happyennovy: 這篇在酸啦... 一堆看不懂的XD 07/28 22:48
-推 titigirl: 你們這樣fkman0831會崩潰啦 07/28 23:01
-→ atpx: 商品沒有貴三倍, 但扯到人工貴十倍不止 07/28 23:02
-→ fkman0831: titigirl妳一定是文盲吧 我是說民生用品耶 扯到人工服 07/28 23:16
-→ fkman0831: 務的錢 廢話 當然比台灣貴 不過我知道我回也沒用 因為 07/28 23:16
-→ fkman0831: 妳文盲吧 07/28 23:16
-→ fkman0831: 舉看醫生 修水電的不是看不懂字的 就是工錢時薪 美國 07/28 23:19
-→ fkman0831: 比台灣貴 很正常好嗎 07/28 23:19
-推 hbkhhhdx2006: 去美國工作當然不會只買民生用品 其他的地方考慮進 07/28 23:34
-→ hbkhhhdx2006: 來貴三倍合理吧 07/28 23:34
-推 tailau0: 要算家庭開銷怎麼會只算商品不算服務？ 07/28 23:34
-推 a000000000: 等等   \"家庭號洋芋片三美金也沒多便宜\"  ??? 07/28 23:45
-→ a000000000: 不然你覺得要多便宜   台灣小包的也要台幣25 30八 07/28 23:45
-推 furio: 說外食貴3倍真的沒去過美國,你拿台美都有的外食,從漢堡到 07/28 23:49
-→ furio: 牛排頂多差50%,像RUTH'S CHRIS台灣還不見的比美國便宜 07/28 23:51
-→ furio: 鼎泰豐小籠包台灣1顆約20元,美國賣美金1元,也只差50% 07/28 23:53
-→ furio: 醫療既然是去工作,保險基本上都公司出的,當然自付還是比 07/28 23:54
-推 death037: 美國大麥克1元美金 台灣賣多少？ 07/28 23:55
-→ ejnfu: 平心而論，應該要差不多25萬鎂，才大概等於在台300萬吧？？ 07/28 23:58
-反正不管在這邊估多少 也要在當地拿到才有得談拉 不然就洗洗睡八 甘巴爹捏
-→ furio: 較高,但是這就要個案算了 07/28 23:58
-推 titigirl: fkman0831  公然侮辱已至派出所備案 07/29 00:00
-→ ejnfu: 如果在美可以雙薪應該是有機會比台灣300萬好的 07/29 00:04
-推 tailau0: furio 大家境真好，我在矽谷都吃路邊小店，$11 起跳，在 07/29 01:00
-→ tailau0: 台灣吃個便當 NT$110 不就正好三倍？ 07/29 01:01
-推 tailau0: Ruth's Chris這種，我和老婆想都不敢想，小孩的教育費啊 07/29 01:06
-推 tailau0: 有小小孩的，托嬰或托兒一個月也要 1500-2000 鎂 07/29 01:09
-→ tailau0: 隨便找一家的公開價： http://bit.ly/2uWvP3a 07/29 01:10
-推 tailau0: 兩房公寓租金一個月 2500 鎂起跳，這些都是要花的錢 07/29 01:19
-→ tailau0: 單身又拿科技業薪水是可以過得很舒服，有家庭的不一樣 07/29 01:20
-→ a000000000: 大麥克特價結束惹喇   現在只折扣1鎂QQ 07/29 01:39
-→ a000000000: 挖   這樣也可以報案喔   真Z害 07/29 01:40
-→ a000000000: 不過路邊便當八九塊就有惹八   算兩倍多 07/29 01:41
-推 furio: 大哥你拿SJ來比,教主怎麼說SJ的 07/29 01:55
-→ abyssa1: 台灣年收300萬 三不五時吃吃鼎泰豐茹絲葵很正常吧 07/29 02:10
-推 tailau0: furio 大大，原po破題就說矽谷，總不能拿德州來講吧？ 07/29 02:42
-推 tailau0: 台灣便當也有不到八、九十塊的，還是三倍 07/29 02:46
-推 iosian: 托兒所可以找教會或是community center的,還沒上小學租房 07/29 03:18
-→ iosian: 可以先不管學區,要找房可以找南灣對面的東灣, Castro Vall 07/29 03:18
-→ iosian: ey, Pleasanton, Dublin, San Ramon房價和南灣有一大段差 07/29 03:18
-→ iosian: 距 07/29 03:18
-推 tailau0: 這是省錢和省時的取捨，Dublin到南灣可以塞到單程二小時 07/29 03:26
-※ 編輯: bluebluelan (73.15.255.43), 07/29/2018 04:06:39
-推 iosian: 所以說你們這些戲谷工作的,應該多跟公司要求交通車的福利, 07/29 05:25
-→ iosian: 還可以解決笑死人的塞車問題,公司不給交通車,學校不給校車 07/29 05:25
-→ iosian: ,然後大家都一起上路一起打結 07/29 05:25
-推 tailau0: 在郊區的大公司GAF三家都有交通車，小公司不可能有，在市 07/29 05:43
-→ tailau0: 區的不必有，所以？你要怎麼解？ 07/29 05:44
-推 tailau0: 聖荷西在拉攏大公司進駐，但捷運都到不了，進駐也沒用 07/29 05:47
-推 iosian: 就算住南灣多數也是要走101, 280, 85, 237,當然交通車可以 07/29 05:54
-→ iosian: 解 07/29 05:55
-→ happyennovy: Ruth's Chris 找 restaurant week 去一個人不到40美 07/29 06:10
-→ happyennovy: 不過單身和有養小孩的差很多, 多配偶配偶不要亂買衣 07/29 06:11
-→ happyennovy: 服幹嘛, 其實就多幾百伙食費和房子可能要多個幾百 07/29 06:12
-→ happyennovy: 有小孩單薪是真的有點痛苦 07/29 06:12
-→ happyennovy: 自己煮的話我是覺得美國大概一個月300/人可以吃蠻好 07/29 06:14
-→ happyennovy: 兩房公寓 2500 在矽谷算便宜的了... 07/29 06:17
-推 steve1012: 有家庭差太多啦 只拿一些物價去比根本沒用啊 07/29 07:28
-推 a000000000: 2bb現在沒三千五不太容易八 07/29 09:39
-→ furio: my bad,矽谷跟地扯上關係的的確特別貴 07/29 09:40
-→ furio: 另外美國房子持有成本比台灣高多了,拿矽谷跟接近的內湖比 07/29 09:43
-→ furio: 同樣房價100W鎂,但兩邊房租差3~6倍 07/29 09:45
-噓 john97611017: 標準亂算 笑鼠人 07/29 13:26
-噓 xxp680: 這篇完全來亂的 07/29 14:52
-→ iksion: 美國自己煮飯吃便宜到靠北好嗎 07/29 19:05
-→ cheny10: 47萬太誇張了，25~28萬差不多，但這種薪水年紀大容易被裁 07/30 00:10
+�� �o�H��: �����~�{(ptt.cc), �Ӧ�: 1.165.43.233
+�� �峹���}: https://www.ptt.cc/bbs/Tech_Job/M.1532768703.A.3A2.html
+�� deltarobot: �~�o��r 07/28 17:26
+�� rainbowcatch: 426ԣ���� �u�o 07/28 17:38
+�� fg008kimo: ���N��í���� 07/28 17:52
+�N da1234527123: �U�� 07/28 17:59
+�� YTVW: íí�����A�ѻ��Y�Y 07/28 18:25
+�� black82465: �U�� í���n�Y�F�� 07/28 18:38
+�� SaintsRow: í�M 07/28 18:41
+�� bbbcccddd2: ���D��AWSC���ܡH 07/28 19:21
+�N manlike: ����o�ӴN�Q��չF 07/28 20:24
+�� centra: �x�W�H�o�u�L�h�� 07/28 21:11
+�� centra: �U�@�ӻ����w�b�|�t 07/28 21:12
+�� mickl8101: 3105... 07/28 21:19
+�N whizz:   �����Q 07/28 21:50
+�� JamesForrest: �z�a�e�X�ӯu�����Ѥl�����A�ڳ��S�ݨ�b������r 07/28 23:45
+�� popxpopxpop: ���e�X�� 07/29 00:46
+�� chen20: #1MsQBo9U (Tech_Job) 07/29 07:52
+�� dvr: 800�N�����M í�����o��o�� 07/30 00:38
+�� wanderincs: �Oí�����S���A����s�D�������L��...... 07/30 02:58
+�� cena9988: �������� �ۥ��v�����n���򳣻��� 07/30 06:56
 "
 "44" NA
 "45" NA
-"46" "作者cplusplus426 (c++)看板Tech_Job標題[討論] 選公司還是選月薪時間Sat Jul 28 15:32:25 2018
-A公司 50K 很固定14個月不多也不少
-沒有福利 責任制  破百要很多年
+"46" "�@��coolboy945 (�p��)�ݪOTech_Job���D[�Яq] �z�a SSD FAE�ɶ�Sat Jul 28 18:14:13 2018
+�B�ͨS�� PTT �b��
 
-B公司  38K 初期大約20個月之後可能更多，當然一定是沒寫在offer上保證多少
-但待的下去肯定破百，有加班費，福利很多
+���B�Ͱݤ@�U
 
-A可能就是常見的傳產RD
+�B�ͪ������ �z�a SSD FAE ����
 
-B大概就是GG或其他大間的半導體
+�Q�ݤ@�U�M�~���窺����
 
+�j���|�ҨǤ���
 
-那鄉民會去哪間
-
-常聽到理論是底薪才是真的，其他都很虛
-
-可是難道有人目標是錢(年薪)還跑去A的嗎?
-
-
-
+FAE ���ݭn�Ҥ���M�~�� QQ
 
 --
-※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 101.8.161.186
-※ 文章網址: https://www.ptt.cc/bbs/Tech_Job/M.1532763147.A.AF5.html
-推 sdbb: A是國營嗎？07/28 15:35
-※ 編輯: cplusplus426 (101.8.161.186), 07/28/2018 15:35:46
-推 ncu1319: 不重要 07/28 15:35
-推 cityhunter04: 你要看你的生涯規劃，人生不是二選一那麼簡單...07/28 15:39
-的確 但這也是選擇的難處!
-※ 編輯: cplusplus426 (101.8.161.186), 07/28/2018 15:41:14
-推 iceberg: 選50K保20葛月der 07/28 15:43
-推 jerome20106: 晶圓廠有那家38k的職位能給到20個月的呀？除了gg 07/28 15:45
-推 sjyang: 賺錢時候的力晶啊 07/28 15:55
-推 AragOnk: 地點 家庭 很多因素都要列入吧？ 07/28 15:57
-推 squard: 剛畢業時選B  接近30歲時選A 07/28 15:59
-推 erial: 看月新？？？？？？ 07/28 15:59
-推 ncuEE: <U+6CA1>有這麼多選項 07/28 16:03
-推 Tawara: 38*20>50*14 07/28 16:13
-推 ivan1209: 我會看發展性跟自己到底喜歡什麼 07/28 16:17
-→ ivan1209: 但是你目前缺錢的話就選錢多的吧 07/28 16:18
-推 sai82320: 確定會有20個月當然去B阿.. 07/28 16:21
-推 moses0901: 天后現在應該19左右 07/28 16:24
-推 ilgnit: 沒有工時怎麼比 07/28 16:32
-推 mathlover: 肯定破百？ 07/28 16:32
-推 zoo0602: 看年齡年輕有時間選公司，上年紀了就看薪水 07/28 16:40
-→ avgirl: 看產業啦 07/28 16:46
-推 vans320: 轉職哪個比較吃香~就分得出來了 07/28 16:58
-→ Sex5F: 看你瞜~人生是一場遊戲，平平玩也是求勝套路之一 07/28 17:07
-→ npsi: 當然選高月薪   再跳槽也比較有利 07/28 17:11
-推 mathrew: 選A做一年  跳槽  談更高薪 07/28 17:16
-→ mathrew: 38讓你後面談到50 VS 50讓你後面談到60 07/28 17:16
-→ seanidiot: 居居碩畢起薪有45吧 07/28 17:32
-推 novell: 當狗去B想當人去A 07/28 18:12
-→ wxtab019: 我是選年薪高的 就算月薪比較低 07/28 18:20
-推 agbr2: 選A，能穩穩進口袋的才是真的。畫餅都是假的 07/28 18:21
-推 glmkk: 畫餅都是假的+1 07/28 18:23
-→ Murasaki0110: 眼光放遠一點吧 總要跳的 07/28 18:32
-推 s910: B吧 年薪差那麼多 07/28 18:40
-推 cookies712: 先選A, 三年後準備跳槽 07/28 18:40
-推 NSYSUEE: B看起來像中華電 07/28 18:47
-推 amethystboy: 年輕當然選B 07/28 18:59
-推 j0958322080: A，保底的才是真的 07/28 19:04
-推 sendtony6: A 07/28 19:20
-推 Ekmund: 如果你如ID是寫C++ 去傳產很有可能寫寫winform 07/28 19:28
-→ Ekmund: 頂多MFC 那以後就很麻煩了 路不多的 07/28 19:28
-推 mercurycgt68: 就算只是個名目 半導體開38 噗嗤 07/28 19:29
-→ Ekmund: 既然會問 我就猜你還年輕 即便去了A之類的也別待到兩年 07/28 19:29
-推 theurgy: 看職位發展吧 07/28 19:31
-→ wake7078: 景氣好 B屌打A 景氣壞 B還是屌打A 07/28 19:34
-→ wake7078: 這只是看錢的總值 算CP A一直屌打B 07/28 19:35
-推 Adrian: B要領完整的要待多久自己算一下能不能待那麼久吧 07/28 19:58
-推 warlockeric: 38*20>50*14 07/28 20:06
-→ warlockeric: 當選選b啊 07/28 20:06
-→ warlockeric: 更有潛力錢也更多 07/28 20:06
-→ warlockeric: 為什麼會考慮a? 07/28 20:06
-推 lovemost: 年薪才是真的 07/28 20:15
-推 clamperni: 你是想問選年薪還是選月薪嗎 07/28 20:24
-推 xyz30317: A跟包子87%像 再一瓶汽水就更像了 07/28 20:31
-→ dean87014200: 公司好的話 當然b 還想跳槽的話a吧 07/28 21:01
-推 Sex5F: https://youtu.be/bKLLBNc2t-8 07/28 21:02
-推 Pet: 責任制的傳產??? 07/28 21:05
-→ randy061: 生性努力好學該去B 07/28 21:37
-→ kainolife: 年輕時選公司方便日後跳槽 07/28 21:40
-→ Mozar: 這世界上總是有名聲更好或薪水更高的C公司 07/28 21:50
-推 Timberlake: 選C年薪300萬 07/28 22:46
-推 Sex5F: 當然選A這還用想? 你的級距38K生活都有困難 07/28 23:09
-→ Sex5F: 不管有沒有分紅3年還是要離職 07/28 23:10
-→ Sex5F: 第一年0分紅，第二年不到1/2，第三年? 哈哈搞不好故意給你0 07/28 23:11
-→ Sex5F: 除非你和我一樣有事沒事就抱主管大腿 07/28 23:11
-→ Sex5F: 拍主管馬屁，才能保證步步高升，年終考績拿A+ 07/28 23:12
-推 Sex5F: 如果你領38K還要租屋，那就是乞丐等級，三年後存款搞不好 07/28 23:17
-→ Sex5F: 30萬都不到 07/28 23:17
-→ Sex5F: 別拿人生開玩笑 07/28 23:18
-→ shortoneal: 公司名字不出來其實沒能給你啥實際意見 07/28 23:34
-推 cx3373: 選b 07/29 00:11
-推 lovebridget: 何不選80K*20? 07/29 00:51
-推 s7503228: 後來覺得工作經驗更重要吧 如果又遇到要換工作 起碼拿出 07/29 02:16
-→ s7503228: 來講的東西比較高檔 人家花更多錢聘 07/29 02:16
-推 youkiller: 不是看月薪吧。。。是看實際年薪有多少  以GG為例  碩 07/29 03:45
-→ youkiller: 士月薪是10萬好嗎？ 07/29 03:45
-→ youkiller: 講難聽  大公司年薪低的機率你覺得會比小公司高？ 07/29 03:46
-→ youkiller: 如果你的大公司是整個世界競爭力屬一屬二的  那就值得 07/29 03:47
-→ youkiller: 去 07/29 03:47
-推 denverkobe: 底薪高比較實際，除非後者是GG 07/29 06:38
-推 XJY13: A是某a系統廠嗎 07/29 09:18
-推 DerLuna: 20個月你相信？ 07/29 10:09
-推 chickensam: 當然是A  B都是假想而已 07/29 11:04
-推 tttttttiger: 我會選A，B一年多六萬而已，卻多很多不確定性 07/29 11:33
-推 CalvinBryant: 選A啊20個又不是保證，而且跳槽加更多 07/29 11:41
-推 randystock: 剛出社會的選B去學東西，履歷也好看。A對新人沒加分 07/29 11:42
-→ randystock: 小公司出來要跳大公司，經歷不見得人家會承認 07/29 11:43
-→ LsugerI: 舉例失當…gg月薪沒這麼低，真的都低成這樣去考公職相關 07/29 11:45
-→ LsugerI: 比較實在 07/29 11:45
-→ LsugerI: 除非你的前提是學士新人只能找這樣的工作，那就找有發展 07/29 11:49
-→ LsugerI: 性好跳槽的，第一份工作絕對不會是做長久的 07/29 11:49
-推 bestmoe: 選gg 07/29 12:01
-→ xdd1524: 剛出來就B 07/29 18:01
-推 youkiller: 覺得大公司的制度和內容是需要看的，不然不會存活這麼 07/29 20:23
-→ youkiller: 久 07/29 20:23
-推 c41231717: 分紅是看天吃飯的... 你運氣不好 在主管前黑了就沒有 07/30 00:17
-→ c41231717:  穩領月薪才是王道... 你黑了再差也有14 做得好 跳槽薪 07/30 00:17
-→ c41231717: 水好談 07/30 00:17
-→ c41231717: 傳產RD 練完功馬上要跳 等公司加薪不快 07/30 00:20
+�� �o�H��: �����~�{(ptt.cc), �Ӧ�: 122.116.232.174
+�� �峹���}: https://www.ptt.cc/bbs/Tech_Job/M.1532772856.A.F51.html
+�� InvincibleK: �A�|�� 07/28 18:34
+�� hbkhhhdx2006: �z�a�g�g�g 07/28 18:44
+�� GenesisXD: �z�a�u���g 07/28 18:49
+�� BaaaSwin: �ܾ�R 07/28 20:21
+�� clamperni: ���W�h���r 07/28 20:42
+�� wu128pcman: �ܤ�������� 07/28 22:18
+�� gn01216674: �ҶR�Эn�R���d�U�n�٤��d�U�n 07/28 22:33
+�� ccc15921: SMI�g�g�g 07/29 00:42
+�� togetherohho: �z�a�g�g�g 07/29 02:53
+�� rfvujm: �o���{�b�O��� ���峣�o�ܤ@�ӫ�ĳ�]�S�� 07/29 04:48
+�� kclvpc: �S�b�������q �u�b�O�Wť���L�z�a�ܦn �O�൹�����ĳ 07/29 08:33
+�� physicsdk: �ӤWr�j�i�H�h�ݥH�e�z�a���峹�A���O�o�o�ʡA��high 07/29 08:54
+�� physicsdk: �εL�~XD �S�ݼz�a�]�w�n�� 07/29 08:54
+�� gn01216674: pp���u��P�P ���smi 07/29 12:10
+�� ywchenz: �W�g�����q 07/29 22:31
+�� DoubleRoll: �o��99%���H���b�̭��O�ݱo�X����F��H 07/30 00:59
+�� physicsdk: ���O�S�H�b�̭��A�u�O�U�۳��g�g�g���i�D�A��>.^ 07/30 01:16
+�� SMInice: ���z�a���g�g�g~ 07/30 09:37
+�� caesar12: �n�i�o�a �A�n���F�ѦP���~�٦����Ǥ��q 07/30 12:27
+�� caesar12: �M�ᦳ�峹�ɤ~���D�n�h�d���g�g�g 07/30 12:28
 "
 "47" NA
 "48" NA
-"49" "作者rtwodtwo (阿災)看板Tech_Job標題[新聞] 陸首條砷化鎵微波晶片產線明年初投產時間Sat Jul 28 17:04:58 2018
-https://money.udn.com/money/story/5641/3277681
+"49" "�@��chengruei1 (R_ruei)�ݪOTech_Job���D[�Яq] Offer ��ܮɶ�Sat Jul 28 18:22:39 2018
+�~�~�ʸU�j�j�A�̦n�A�p�̥ثe�w�������X�����q�A�Q�ݰݬݤj�a�N���A����
 
- 北京雙儀微電子科技有限公司（雙儀微電子」）將投資人民幣10億元（約新台幣45.5億
-元）在北京市亦莊經濟技術開發區，建造目前全大陸唯一具備規模化量產能力的先進工藝
-技術生產線，砷化鎵微波積體電路（GaAs MMIC）晶片的代工服務，預計於2019年初投產
-使用。
+                 �i��             �j�ȹq�u              ���s
 
-北京商報報導，雙儀微電子公司相關負責人表示，項目建成後，6吋GaAs MMIC晶片代工廠
-將具備每月2萬片產能。
+���     ���c��o     ���]�u�u�{�v       ���L��o
 
-自上世紀90年代中期，GaAs MMIC就成為無線通訊產業不可或缺的ICM元件，並取代了射頻
-、微波領域裡低性能的矽基積體電路。
+�u��   0830-2130     0810-1710        0800-1700
 
-由於砷化鎵器件的工藝製造過程比矽器件困難許多，到目前為止，大陸仍沒有一家成熟的
-公司可以生產砷化鎵MMIC晶片，手機生產廠商所需的砷化鎵MMIC晶片全部依賴進口，對大
-陸的半導體產業和通訊產業造成了巨大的隱患。
+��q        ����             �q��30��       ����(���q�J��)
 
-該專案的最終目標是建設成為全球名列前茅的微波積體電路（MMIC）供應商，滿足大陸市
-場對砷化鎵MMIC晶片的迫切需求，扭轉大陸砷化鎵MMIC晶片完全依賴進口的不利局面。
+�~��  (N+2)*13-17     (N-2)*13             (N+2)*14
 
-北京雙儀微電子科技有限公司是一家技術初創公司，目的為5G和IoT毫米波市場領域所遇
-到的挑戰開發出新的解決方案，提供高性能的射頻元件。
+�[�Z�O      �L           ����L���馳             ��
 
-雙儀微電子砷化鎵單片微波積體電路研發及產業化項目，將租賃北京燕東微電子科技有限
-公司的部分廠房和場地進行建設，透過裝修改造建成目前大陸唯一具備規模化量產能力的
-先進工藝技術生產線，進行MMIC晶片的代工服務。
-
-如今北京亦莊開發區已聚集積體電路上下游企業近100家，預計到2020年，開發區積體電
-路產業可實現年工業產值人民幣500億元，利潤人民幣160億元，稅收人民幣16億元。
-
-
-跟2016花800萬挖角偷技術有關嗎?
+N�DGG �s�H���A�i���譱���u�����]�]�t�b�W�z�̡^�A���Τ譱�A���M�p�̻O�n�H�A����
+�i���Z�����A�٬O�ݭn���ΡA���e���L��A�Pı�o�X���j�a�����ӱ��A���٬O�Ʊ�j�j��
+�i�H���ӷN���Aı�o��������n�A����
 
 --
-※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 1.165.43.233
-※ 文章網址: https://www.ptt.cc/bbs/Tech_Job/M.1532768703.A.3A2.html
-推 deltarobot: 砷這麼毒 07/28 17:26
-推 rainbowcatch: 426啥都偷 真廢 07/28 17:38
-推 fg008kimo: 不就偷穩懋的 07/28 17:52
-噓 da1234527123: 垃圾 07/28 17:59
-推 YTVW: 穩穩的偷，股價崩崩 07/28 18:25
-推 black82465: 垃圾 穩懋要崩了嗎 07/28 18:38
-推 SaintsRow: 穩套 07/28 18:41
-推 bbbcccddd2: 難道偷AWSC的嗎？ 07/28 19:21
-噓 manlike: 說到這個就想到博達 07/28 20:24
-推 centra: 台灣人牽線過去的 07/28 21:11
-→ centra: 下一個說不定在四川 07/28 21:12
-推 mickl8101: 3105... 07/28 21:19
-噓 whizz:   路膩娘 07/28 21:50
-→ JamesForrest: 哇靠前幾樓真的住巷子內的，我都沒看到半個關鍵字 07/28 23:45
-→ popxpopxpop: 推前幾樓 07/29 00:46
-推 chen20: #1MsQBo9U (Tech_Job) 07/29 07:52
+�� �o�H��: �����~�{(ptt.cc), �Ӧ�: 42.77.29.66
+�� �峹���}: https://www.ptt.cc/bbs/Tech_Job/M.1532773362.A.BC0.html
+�� cplusplus426: ���i���ѻ��ܰ� 07/28 18:24
+�� cplusplus426: ���h���S 07/28 18:24
+�� michaelgodtw: �n�����n�R�h�i��!���s�O������!���]�� 07/28 18:36
+�� InvincibleK: ���s 07/28 18:36
+�� su27: �ڤ@�ӦP�ƥh���s�L�׳��M�u�����U�h 07/28 19:07
+�� emptyzzz: �i�������N���h���F�C�C�C 07/28 20:12
+�� emptyzzz: �`�� �A���a 07/28 20:12
+�� sai82320: �n �i�� 07/28 22:10
+�� stevenshih: N�O�h�� 07/28 22:25
+�� Sex5F: �i���a... 07/28 23:26
+�� Sex5F: �U������߻ݨD��A�Q�������٤j 07/28 23:26
+�� Sex5F: �n���л��]�K�y�A�Sԣ���I 07/28 23:27
+�� Sex5F: �u�ɴN....�ݭӤH 07/28 23:28
+�� ben31809: ���s�N���n�h�F�a�A���үu���� 07/29 00:02
+�� hunt543: ���s���O�u��*14�A�O���~*60�ѡA���O���~*2��C 07/29 00:04
+�� hunt543: �t�~�J�٤��O��H�г�A�i��2�H��3�H�@���M�� 07/29 00:05
 "
 "50" NA
 "51" NA
-"52" "作者coolboy945 (小魚)看板Tech_Job標題[請益] 慧榮 SSD FAE時間Sat Jul 28 18:14:13 2018
-朋友沒有 PTT 帳號
+"52" "�@��s910 (s910)�ݪOTech_Job���DRe: [�Q��] �綠�q�٬O����~�ɶ�Sat Jul 28 18:46:29 2018
+��ı�o�A�i�঳�I�~�|����~�����N��
 
-幫朋友問一下
+��p���x�Ӥu�{�v���~140��60�U����
 
-朋友近期接到 慧榮 SSD FAE 面試
+��~��15�U*14�Ӥ�
 
-想問一下專業測驗的部份
+�o�˥~���~�굲�c���í�w�]�n���~
 
-大概會考些什麼
+���O�e���O�~�~�t���h���p�U
 
-FAE 有需要考什麼專業嗎 QQ
+�~�~�t�W�L30�٬O��~�~�����a
+
+�� �ޭz�mcplusplus426 (c++)�n���ʨ��G
+: A���q 50K �ܩT�w14�Ӥ뤣�h�]����
+: �S���֧Q �d����  �}�ʭn�ܦh�~
+: B���q  38K ����j��20�Ӥ뤧��i���h�A���M�@�w�O�S�g�boffer�W�O�Ҧh��
+: ���ݪ��U�h�֩w�}�ʡA���[�Z�O�A�֧Q�ܦh
+: A�i��N�O�`�����ǲ�RD
+: B�j���N�OGG�Ψ�L�j�����b����
+: ���m���|�h����
+: �`ť��z�׬O���~�~�O�u���A��L���ܵ�
+: �i�O���D���H�ؼЬO��(�~�~)�ٶ]�hA����?
 
 --
-※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 122.116.232.174
-※ 文章網址: https://www.ptt.cc/bbs/Tech_Job/M.1532772856.A.F51.html
-→ InvincibleK: 你會紅 07/28 18:34
-推 hbkhhhdx2006: 慧榮讚讚讚 07/28 18:44
-推 GenesisXD: 慧榮真的讚 07/28 18:49
-推 BaaaSwin: 很操R 07/28 20:21
-推 clamperni: 錢超多的呀 07/28 20:42
-→ wu128pcman: 很火紅的單位 07/28 22:18
-推 gn01216674: 考買房要買五千萬好還六千萬好 07/28 22:33
-推 ccc15921: SMI讚讚讚 07/29 00:42
-推 togetherohho: 慧榮讚讚讚 07/29 02:53
-推 rfvujm: 這版現在是怎樣 推文都廢話一個建議也沒有 07/29 04:48
-推 kclvpc: 沒在那間公司 只在板上聽說過慧榮很好 是能給什麼建議 07/29 08:33
-→ physicsdk: 樓上r大可以去看以前慧榮的文章，都是這得性，自high 07/29 08:54
-→ physicsdk: 團無誤XD 沒問慧榮也硬要講 07/29 08:54
-推 gn01216674: pp員工氣噗噗 怒酸smi 07/29 12:10
-推 ywchenz: 超讚的公司 07/29 22:31
+�� �o�H��: �����~�{(ptt.cc), �Ӧ�: 42.72.68.239
+�� �峹���}: https://www.ptt.cc/bbs/Tech_Job/M.1532774792.A.C66.html
+�� �s��: s910 (42.72.68.239), 07/28/2018 18:47:07
+�� cplusplus426: �F�� �¤j�j���� 07/28 18:48
+�� wbw: ���M�侀�~���� �a�������A�Q���ѴN�|�ܵh�W 07/28 19:21
+�� boss0405: �S���A�O�b�~�~�t���h���e���U�A���MHTC���~��GG���A�n 07/28 19:30
+�� boss0405: ��HTC��? 07/28 19:30
+�� shadowppt: �A�o�|�ҬO�綠�q�a 07/28 23:26
+�� walilaV: �P�N�A����~���� 07/28 23:34
+�� JamesForrest: ��p�Ī��j�|�{�o�ۤv�� 07/28 23:44
+�� giantwinter: ��s��+1 07/29 09:28
+�� andy433268: ��p�Ī��j���ۤv�� 07/29 20:08
 "
 "53" NA
 "54" NA
-"55" "作者chengruei1 (R_ruei)看板Tech_Job標題[請益] Offer 選擇時間Sat Jul 28 18:22:39 2018
-年薪百萬大大你們好，小弟目前已有錄取幾間公司，想問問看大家意見，謝謝
-
-                 可成             大亞電線              正新
-
-單位     機構研發     漆包線工程師       輪胎研發
-
-工時   0830-2130     0810-1710        0800-1700
-
-交通        租屋             通勤30分       租屋(公司宿舍)
-
-薪資  (N+2)*13-17     (N-2)*13             (N+2)*14
-
-加班費      無           平日無假日有             有
-
-N非GG 新人價，可成方面有季獎金（包含在上述裡），租屋方面，雖然小弟臺南人，但離
-可成蠻遠的，還是需要租屋，之前爬過文，感覺這幾間大家都不太推，但還是希望大大們
-可以給個意見，覺得哪間比較好，謝謝
-
---
-※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 42.77.29.66
-※ 文章網址: https://www.ptt.cc/bbs/Tech_Job/M.1532773362.A.BC0.html
-推 cplusplus426: 正可成股價很高 07/28 18:24
-→ cplusplus426: 正多打惹 07/28 18:24
-→ michaelgodtw: 要錢不要命去可成!正新是環境爛!錢也爛 07/28 18:36
-→ InvincibleK: 正新 07/28 18:36
-推 su27: 我一個同事去正新印度竟然只有五萬多 07/28 19:07
-推 emptyzzz: 可成評價就不多說了。。。 07/28 20:12
-→ emptyzzz: 總之 再找找吧 07/28 20:12
-→ sai82320: 南 可成 07/28 22:10
-推 stevenshih: N是多少 07/28 22:25
-→ Sex5F: 可成吧... 07/28 23:26
-→ Sex5F: 垃圾手機殼需求比你想的市場還大 07/28 23:26
-→ Sex5F: 南部房價也便宜，沒啥缺點 07/28 23:27
-→ Sex5F: 工時就....看個人 07/28 23:28
-→ ben31809: 正新就不要去了吧，環境真的爛 07/29 00:02
-→ hunt543: 正新不是真的*14，是日薪*60天，不是全薪*2月。 07/29 00:04
-→ hunt543: 另外宿舍不是單人房喔，可能2人或3人一間套房 07/29 00:05
-"
-"56" NA
-"57" NA
-"58" "作者s910 (s910)看板Tech_Job標題Re: [討論] 選公司還是選月薪時間Sat Jul 28 18:46:29 2018
-我覺得你可能有點誤會選月薪高的意思
-
-比如說台商工程師底薪140＋60萬分紅
-
-跟外商15萬*14個月
-
-這樣外商薪資結構比較穩定也好談薪
-
-但是前提是年薪差不多情況下
-
-年薪差超過30還是選年薪高的吧
-
-※ 引述《cplusplus426 (c++)》之銘言：
-: A公司 50K 很固定14個月不多也不少
-: 沒有福利 責任制  破百要很多年
-: B公司  38K 初期大約20個月之後可能更多，當然一定是沒寫在offer上保證多少
-: 但待的下去肯定破百，有加班費，福利很多
-: A可能就是常見的傳產RD
-: B大概就是GG或其他大間的半導體
-: 那鄉民會去哪間
-: 常聽到理論是底薪才是真的，其他都很虛
-: 可是難道有人目標是錢(年薪)還跑去A的嗎?
-
---
-※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 42.72.68.239
-※ 文章網址: https://www.ptt.cc/bbs/Tech_Job/M.1532774792.A.C66.html
-※ 編輯: s910 (42.72.68.239), 07/28/2018 18:47:07
-推 cplusplus426: 了解 謝大大指教 07/28 18:48
-→ wbw: 當然選底薪高的 靠分紅當你想跳槽就會很痛苦 07/28 19:21
-推 boss0405: 沒錯，是在年薪差不多的前提下，不然HTC月薪比GG高，要 07/28 19:30
-→ boss0405: 選HTC嗎? 07/28 19:30
-→ shadowppt: 你這舉例是選公司吧 07/28 23:26
-推 walilaV: 同意，選月薪高的 07/28 23:34
-→ JamesForrest: 選小孩長大會認得自己的 07/28 23:44
-推 giantwinter: 月新高+1 07/29 09:28
-推 andy433268: 選小孩長大像自己的 07/29 20:08
-"
-"59" NA
-"60" NA

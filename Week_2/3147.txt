@@ -1,3544 +1,1559 @@
 "x"
-"1" "作者Lauwang (...)看板Tech_Job標題[請益] (代PO)中和電競業務與工業電腦PM時間Sun Jul 29 15:52:11 2018
+"1" "�@��Lauwang (...)�ݪOTech_Job���D[�Яq] (�NPO)���M�q�v�~�ȻP�u�~�q��PM�ɶ�Sun Jul 29 15:52:11 2018
 
-代PO
+�NPO
 
-想請益各位年薪百萬版友
-老妹最近有幸得到一家公司offer
-想請問工作氣氛環境 以及公司發展
-麻煩各位，謝謝謝
+�Q�Яq�U��~�~�ʸU����
+�ѩf�̪񦳩��o��@�a���qoffer
+�Q�аݤu�@��^���� �H�Τ��q�o�i
+�·ЦU��A������
 
-現職  資深業務專員
-中和  電競ODM（開車40~50分鐘單程）
-N*14M（09:00~18:00）
-工作氣氛：
-老闆常出差 為人客氣 願意教學
-跨部門同事還算給力支援 風氣還算自由
+�{¾  ��`�~�ȱM��
+���M  �q�vODM�]�}��40~50������{�^
+N*14M�]09:00~18:00�^
+�u�@��^�G
+����`�X�t ���H�Ȯ� �@�N�о�
+�󳡪��P���ٺ⵹�O�䴩 �����ٺ�ۥ�
 
 
 Offer
-中和  工業電腦領域第二大廠PJM
- (開車40~50分鐘單程)
-N+15K*13M （未知 不需打卡）
+���M  �u�~�q�����ĤG�j�tPJM
+ (�}��40~50������{)
+N+15K*13M �]���� ���ݥ��d�^
 
-由於沒有這產業的經驗 也沒有當過PM
-爬文都是比較舊的資訊
-但考量工業4.0的應用以及其發展性似乎不錯
+�ѩ�S���o���~���g�� �]�S�����LPM
+���峣�O����ª���T
+���Ҷq�u�~4.0�����ΥH�Ψ�o�i�ʦ��G����
 
-想請版友分享工作氣氛文化
-和環境是否需要加班或是其他相關資訊都可以感謝
+�Q�Ъ��ͤ��ɤu�@��^���
+�M���ҬO�_�ݭn�[�Z�άO��L������T���i�H�P��
 
 --
-※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 1.169.30.78
-※ 文章網址: https://www.ptt.cc/bbs/Tech_Job/M.1532850735.A.499.html
-推 Rics: ADLINK & MSI ? 07/29 16:10
-推 orangemiss: 差15k 差很大耶。adlink 應該還可以 07/29 16:15
-推 tigertiger: A公司就別去了 07/29 16:22
-推 chouvincent: 都不推 07/29 16:36
-→ eason77: ODM是什麼德嗎 07/29 17:21
-推 jakevin: b 工業電腦 07/29 18:10
+�� �o�H��: �����~�{(ptt.cc), �Ӧ�: 1.169.30.78
+�� �峹���}: https://www.ptt.cc/bbs/Tech_Job/M.1532850735.A.499.html
+�� Rics: ADLINK & MSI ? 07/29 16:10
+�� orangemiss: �t15k �t�ܤj�C�Cadlink �����٥i�H 07/29 16:15
+�� tigertiger: A���q�N�O�h�F 07/29 16:22
+�� chouvincent: ������ 07/29 16:36
+�� eason77: ODM�O����w�� 07/29 17:21
+�� jakevin: b �u�~�q�� 07/29 18:10
+�� terryroc: �t15K ..���Ӥ��άD�a 07/30 07:56
+�� eviljackchou: PM�S���M�~ �S���H�� �S����x �N�O������ 07/30 11:19
 "
 "2" NA
 "3" NA
-"4" "作者egnaro123 (原po是大叔)看板Tech_Job標題Fw: [新聞] 攜英特爾拚5G 台廠機會來了時間Sun Jul 29 16:35:51 2018
-※ [本文轉錄自 Stock 看板 #1RNNnQvi ]
+"4" "�@��egnaro123 (��po�O�j��)�ݪOTech_Job���DFw: [�s�D] ��^�S����5G �x�t���|�ӤF�ɶ�Sun Jul 29 16:35:51 2018
+�� [��������� Stock �ݪO #1RNNnQvi ]
 
-作者: egnaro123 (原po是大叔) 看板: Stock
-標題: Re: [新聞] 攜英特爾拚5G 台廠機會來了
-時間: Sun Jul 29 16:35:35 2018
+�@��: egnaro123 (��po�O�j��) �ݪO: Stock
+���D: Re: [�s�D] ��^�S����5G �x�t���|�ӤF
+�ɶ�: Sun Jul 29 16:35:35 2018
 
-唉,國家隊又來了,
+��,��a���S�ӤF,
 
-之前是透過科技專案養,之前wimax賠不少,wimax有幾百億
+���e�O�z�L��ޱM�׾i,���ewimax�ߤ���,wimax���X�ʻ�
 
-接續的雲端,巨量,sdn,車通訊也都不了了之,
+���򪺶���,���q,sdn,���q�T�]�����F�F��,
 
-這部份的預算走向金額都極難讓納稅人知道,
+�o�������w�⨫�V���B���������ǵ|�H���D,
 
-想也知道不合理, 但利益關係早已上下錯節了
+�Q�]���D���X�z, ���Q�q���Y���w�W�U���`�F
 
-目前5g還有在執行,
+�ثe5g�٦��b����,
 
-科專成果是要回歸國家的,幻想i幫忙養人才,
+��M���G�O�n�^�k��a��,�۷Qi�����i�H�~,
 
-甚或造成未M可以拿到關鍵技術是不切實際的,
+�Ʃγy����M�i�H��������޳N�O������ڪ�,
 
-走業界科專嗎? 這類的大家都各有盤算, 有國家預算恐怕才是主要目標吧
+���~�ɬ�M��? �o�����j�a���U���L��, ����a�w�⮣�Ȥ~�O�D�n�ؼЧa
 
 
 
-※ 引述《Conector (Conector)》之銘言：
-: 1.原文連結：
+�� �ޭz�mConector (Conector)�n���ʨ��G
+: 1.���s���G
 : http://www.chinatimes.com/newspapers/20180729000169-260202
-: 2.原文內容：
-: 經濟部透露，台灣將由政府出面，與英特爾（Intel）在5G兩大領域合作，讓台灣繼半導
-: 體、資通訊產業佔有全球一席之地之後，也能成為5G全球供應重鎮。
-: 經濟部表示，與英特爾的合作有兩大項，一，將共同成立5G性能實驗室（Performance
-: lab），由工研院資通所與英特爾在5G　NFVI（Network Functions Virtualization
-: infrastructure）性能開發事宜，協助台灣伺服器產業強化國際競爭力。其中，廣達旗下
-: 雲端伺服器公司雲達已宣布和英特爾合作。除此，英業達、緯創等伺服器大廠下半年開始
-: 來自5G國際市場的訂單也可望增溫。
-: 至於第二個合作案將串連多家台廠，利用英特爾的FlexRAN平台開發無人機及相關應用。
-: FlexRAN是一個全面虛擬化的無線接入網（RAN），可協助無人駕駛、無人機、智慧家居更
-: 廣泛的垂直開發及商業化。目前英特爾台廠概念股包括伺服器代工廠廣達、鴻海、英業達
-: 、緯創，零組件合作商新唐、系微、信驊、譜瑞、祥碩等。
-: 5G辦公室表示，5G來自物聯網、AI等應用商機相當龐大，台廠過去習慣於扮演ODM／OEM的
-: 角色，但是到了5G時代，台廠不能只用這種思維賺錢，所以，經濟部希望扮演引導廠商的
-: 角色，透過與國際大廠搭橋，讓台廠在5G市場除了設備商機，還可以透過與國際大廠合作
-: ，研發各種創新產品、服務或應用。
-: 尤其全球電信商已經厭倦了只當「笨水管」角色，例如最近市場傳出，Verizon打算與
-: Google、Apple合作，在5G網路提供電視內容服務，雖然尚未定案，但也更凸顯未來電信
-: 公司不會再只侷限在提供電信服務。
-: 換言之，來自電信公司除了建設5G網路的設備商機之外，更多創新應用、服務商機也隨著
-: 電信商的5G布局俏俏發酵中。
-: 3.心得/評論：
-: 全民瘋5G時代來臨
-: 1.成立實驗室加速5G發展
-: 2.打5G大聯盟，相關供應鏈起飛，2020飛高高。
+: 2.��夺�e�G
+: �g�ٳ��z�S�A�x�W�N�ѬF���X���A�P�^�S���]Intel�^�b5G��j���X�@�A���x�W�~�b��
+: ��B��q�T���~�������y�@�u���a����A�]�ন��5G���y���������C
+: �g�ٳ����ܡA�P�^�S�����X�@����j���A�@�A�N�@�P����5G�ʯ����ǡ]Performance
+: lab�^�A�Ѥu��|��q�һP�^�S���b5G�@NFVI�]Network Functions Virtualization
+: infrastructure�^�ʯ�}�o�Ʃy�A��U�x�W���A�����~�j�ư���v���O�C�䤤�A�s�F�X�U
+: ���ݦ��A�����q���F�w�ť��M�^�S���X�@�C�����A�^�~�F�B�n�е����A���j�t�U�b�~�}�l
+: �Ӧ�5G��ڥ������q��]�i��W�šC
+: �ܩ�ĤG�ӦX�@�ױN��s�h�a�x�t�A�Q�έ^�S����FlexRAN���x�}�o�L�H���ά������ΡC
+: FlexRAN�O�@�ӥ��������ƪ��L�u���J���]RAN�^�A�i��U�L�H�r�p�B�L�H���B���z�a�~��
+: �s�x�������}�o�ΰӷ~�ơC�ثe�^�S���x�t�����ѥ]�A���A���N�u�t�s�F�B�E���B�^�~�F
+: �B�n�СA�s�ե�X�@�ӷs��B�t�L�B�H�~�B�з�B���ӵ��C
+: 5G�줽�Ǫ��ܡA5G�Ӧ۪��p���BAI�����ΰӾ��۷��e�j�A�x�t�L�h�ߺD���tODM��OEM��
+: ����A���O��F5G�ɥN�A�x�t����u�γo�ث���ȿ��A�ҥH�A�g�ٳ��Ʊ��t�޾ɼt�Ӫ�
+: ����A�z�L�P��ڤj�t�f���A���x�t�b5G�������F�]�ưӾ��A�٥i�H�z�L�P��ڤj�t�X�@
+: �A��o�U�سзs���~�B�A�ȩ����ΡC
+: �ר���y�q�H�Ӥw�g���¤F�u���u�¤��ޡv����A�Ҧp�̪񥫳��ǥX�AVerizon����P
+: Google�BApple�X�@�A�b5G�������ѹq�����e�A�ȡA���M�|���w�סA���]��Y�㥼�ӹq�H
+: ���q���|�A�u�]���b���ѹq�H�A�ȡC
+: �������A�Ӧ۹q�H���q���F�س]5G�������]�ưӾ����~�A��h�зs���ΡB�A�ȰӾ��]�H��
+: �q�H�Ӫ�5G�����N�N�o�ä��C
+: 3.�߱o/���סG
+: ������5G�ɥN���{
+: 1.���߹���ǥ[�t5G�o�i
+: 2.��5G�j�p���A����������_���A2020�������C
 
 --
-※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 36.227.191.29
-※ 文章網址: https://www.ptt.cc/bbs/Stock/M.1532853338.A.E6C.html
+�� �o�H��: �����~�{(ptt.cc), �Ӧ�: 36.227.191.29
+�� �峹���}: https://www.ptt.cc/bbs/Stock/M.1532853338.A.E6C.html
 
-※ 發信站: 批踢踢實業坊(ptt.cc)
-※ 轉錄者: egnaro123 (36.227.191.29), 07/29/2018 16:35:51
-推 jp956956: 4g慘案 07/29 17:24
-→ rogergon: 中離王又來了 07/29 17:26
-→ chrno: Intel之前中離，政府還相信？ 07/29 18:38
-推 void0: 可以生出有多少預算 當然信啊 07/29 19:44
-噓 altonkhchen: 有大M不找，去找I, 犯蠢了嗎 07/29 20:11
-推 mscmobitai: WiMAX 讓政府虧了上千億。被騙第二次那就真的傻了 07/29 23:56
+�� �o�H��: �����~�{(ptt.cc)
+�� �����: egnaro123 (36.227.191.29), 07/29/2018 16:35:51
+�� jp956956: 4g�G�� 07/29 17:24
+�� rogergon: �������S�ӤF 07/29 17:26
+�� chrno: Intel���e�����A�F���٬۫H�H 07/29 18:38
+�� void0: �i�H�ͥX���h�ֹw�� ���M�H�� 07/29 19:44
+�N altonkhchen: ���jM����A�h��I, �����F�� 07/29 20:11
+�� mscmobitai: WiMAX ���F�����F�W�d���C�Q�F�ĤG�����N�u���̤F 07/29 23:56
 "
 "5" NA
 "6" NA
-"7" "作者oopFoo (3d)看板Tech_Job標題Re: [新聞] AI時代職業發展兩極化 一技之長是贏家關鍵時間Sun Jul 29 16:46:00 2018
-※ 引述《orz44444 (台灣會亂是因為修羅太多!)》之銘言：
+"7" "�@��oopFoo (3d)�ݪOTech_Job���DRe: [�s�D] AI�ɥN¾�~�o�i�ⷥ�� �@�ޤ����OĹ�a����ɶ�Sun Jul 29 16:46:00 2018
+�� �ޭz�morz44444 (�x�W�|�ìO�]����ù�Ӧh!)�n���ʨ��G
 : https://udn.com/news/story/7240/3277656
-: 2018-07-28 19:25      中央社 台北28日電
-: AI成了當代顯學，但台積電創辦人張忠謀一席AI可能影響就業、導致低薪論點，讓外界在
-: AI發展的狂熱中，產生了問號。誰會是AI時代的贏家，誰又會是輸家呢？
-: 即使有再多的疑慮與不確定性，專家學者一致認為，發展AI是不可逆的潮流，AI要取代人
-: 類沒有那麼快，過程中也將會創造新的就業機會，未來職業發展可能朝兩極化邁進，擁有
-: 一技之長是擁抱AI的關鍵。
-: 低階工作被取代 新工作機會應運而生
+: 2018-07-28 19:25      ������ �x�_28��q
+: AI���F���N��ǡA���x�n�q�п�H�i���Ѥ@�uAI�i��v�T�N�~�B�ɭP�C�~���I�A���~�ɦb
+: AI�o�i���g�����A���ͤF�ݸ��C�ַ|�OAI�ɥN��Ĺ�a�A�֤S�|�O��a�O�H
+: �Y�Ϧ��A�h���ü{�P���T�w�ʡA�M�a�Ǫ̤@�P�{���A�o�iAI�O���i�f����y�AAI�n���N�H
+: ���S������֡A�L�{���]�N�|�гy�s���N�~���|�A����¾�~�o�i�i��¨ⷥ���ڶi�A�֦�
+: �@�ޤ����O�֩�AI������C
+: �C���u�@�Q���N �s�u�@���|���B�ӥ�
 
-大部分的人不懂AI,就算是科技業的人。有聽過
+�j�������H����AI,�N��O��޷~���H�C��ť�L
 Moravec's paradox?
 
-基本上就是我們認為難的，高端的，其實對電腦很簡單，例如大量運算，下圍棋，
-高端邏輯。我們認為很簡單的sensorimotor skills, 其實反而需要龐大的運算。
+�򥻤W�N�O�ڭ̻{�������A���ݪ��A����q����²��A�Ҧp�j�q�B��A�U��ѡA
+�����޿�C�ڭ̻{����²�檺sensorimotor skills, ���Ϧӻݭn�e�j���B��C
 
-結論就是，律師，工程師，設計師，甚至醫師會先被取代。技工，清潔工，護士，
-需要勞動力的，反而是AI，Robotic的弱點，是無法取代。
+���״N�O�A�߮v�A�u�{�v�A�]�p�v�A�Ʀ���v�|���Q���N�C�ޤu�A�M��u�A�@�h�A
+�ݭn�ҰʤO���A�ϦӬOAI�ARobotic���z�I�A�O�L�k���N�C
 
-就像自動駕駛，每年花幾百億的研發費用，開車還沒三寶開的好。
-更不用講，更需要技術的二輪車。
+�N���۰ʾr�p�A�C�~��X�ʻ�����o�O�ΡA�}���٨S�T�_�}���n�C
+�󤣥����A��ݭn�޳N���G�����C
 
-Boston dynamics的蠢狗，也是不知n年後，才真正有可能有用。
+Boston dynamics�������A�]�O����n�~��A�~�u�����i�঳�ΡC
 
-所以台灣慣老闆想要的無人自動化工廠，反而是最後才有可能實現。
+�ҥH�x�W�D����Q�n���L�H�۰ʤƤu�t�A�ϦӬO�̫�~���i���{�C
 
-今天或明天的低薪環境，其實還是政策的原因，請不要怪罪到AI.
+���ѩΩ��Ѫ��C�~���ҡA����٬O�F������]�A�Ф��n�Ǹo��AI.
 
 --
-※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 61.230.160.6
-※ 文章網址: https://www.ptt.cc/bbs/Tech_Job/M.1532853963.A.9A7.html
-推 qmqmqm: 台商思維是以傳統便宜勞力做出AI品質 07/29 16:58
-推 squard: 台商的研發中心都設在台灣，因為相較國外的研發成本便宜 07/29 17:06
-→ willism: 下圍棋很簡單？ 從深藍到alphago跑了20年，20年叫很簡單 07/29 17:29
-→ willism: ？ 07/29 17:29
-對20年，可是兩隻腳可以走路的機器人，連影子都沒有。
-boston dynamics的蠢狗，2005年就發表了，現在還是廢物一隻。
-推 zaiter: 深藍和你媽主菜給你吃 智障也知道煮菜比較難 廢物ptt鄉民 07/29 17:31
-→ zaiter: 掃地阿姨掃廁所倒垃圾 機器人就不會了 廢物 07/29 17:31
-推 ipzerg: 台灣若還是用工廠的角度再推AI 大家薪水不會高到哪去 07/29 17:32
-→ ipzerg: 不能什麼都是生產，流程化啊 07/29 17:32
-→ willism: 清潔工很難取代？掃地機、拖地機，市面上都有成熟商品了 07/29 17:33
-→ willism: ，是有多難取代。製造業的機械手臂20年前就有了吧，這些 07/29 17:33
-→ willism: 科技都工業3.0水平而已，連AI都沾不上邊 07/29 17:33
-→ willism: 至於自動煮菜...炒飯機、漢堡機、壽司機、麵包機、披薩 07/29 17:39
-→ willism: 機、拉麵機等，區區自動化而已，youtube影片一堆，當然. 07/29 17:39
-→ willism: ..這也不是AI 07/29 17:39
-你講的都不是AI或很低的AI,掃地機能代替清潔工嗎？碰到障礙就卡住的玩具。
-機器手臂完全就固定program, 東西有誤差的時候，可以自動調整嗎？
-自動煮菜更是笑話，Moley Robotics的機器手，真的出貨的時候，我可能都死了。
-推 zaiter: 媽的 跟智障沒兩樣 掃地機 三小你人都不用擦 倒垃圾 清里 07/29 17:40
-→ zaiter: 你去死吧 腦子有洞 07/29 17:40
-→ jackal998: 誰可以跟我解釋一下樓上幾位大吵一波的點在哪裡...!? 07/29 17:58
-→ qmqmqm: 中間吵架可以略過 影響素質 07/29 18:15
-→ qmqmqm: 不過確實台商/傳統工廠思維本來就與高薪兩回事 07/29 18:16
-→ qmqmqm: 不管技術再怎麼進步 智能再怎麼導入 07/29 18:16
-→ qmqmqm: 這些都只是股價炒作的話題而已 蓋不了本質 07/29 18:16
-噓 callTM: 沒人噓嗎？ 根本顛倒吧...越多decision making 才是最難 07/29 19:15
+�� �o�H��: �����~�{(ptt.cc), �Ӧ�: 61.230.160.6
+�� �峹���}: https://www.ptt.cc/bbs/Tech_Job/M.1532853963.A.9A7.html
+�� qmqmqm: �x�ӫ���O�H�ǲΫK�y�ҤO���XAI�~�� 07/29 16:58
+�� squard: �x�Ӫ���o���߳��]�b�x�W�A�]���۸���~����o�����K�y 07/29 17:06
+�� willism: �U��ѫ�²��H �q�`�Ũ�alphago�]�F20�~�A20�~�s��²�� 07/29 17:29
+�� willism: �H 07/29 17:29
+��20�~�A�i�O�Ⱖ�}�i�H�����������H�A�s�v�l���S���C
+boston dynamics�������A2005�~�N�o���F�A�{�b�٬O�o���@���C
+�� zaiter: �`�ũM�A���D�浹�A�Y ���٤]���D�N������ �o��ptt�m�� 07/29 17:31
+�� zaiter: ���a�������Z�ҭ˩U�� �����H�N���|�F �o�� 07/29 17:31
+�� ipzerg: �x�W�Y�٬O�Τu�t�����צA��AI �j�a�~�����|������h 07/29 17:32
+�� ipzerg: ���र�򳣬O�Ͳ��A�y�{�ư� 07/29 17:32
+�� willism: �M��u�������N�H���a���B��a���A�����W���������ӫ~�F 07/29 17:33
+�� willism: �A�O���h�����N�C�s�y�~��������u20�~�e�N���F�a�A�o�� 07/29 17:33
+�� willism: ��޳��u�~3.0�����Ӥw�A�sAI���g���W�� 07/29 17:33
+�� willism: �ܩ�۰ʵN��...�������B�~�����B�إq���B�ѥ]���B���� 07/29 17:39
+�� willism: ���B���Ѿ����A�ϰϦ۰ʤƦӤw�Ayoutube�v���@��A���M. 07/29 17:39
+�� willism: ..�o�]���OAI 07/29 17:39
+�A���������OAI�ΫܧC��AI,���a����N���M��u�ܡH�I���ê�N�d��������C
+�������u�����N�T�wprogram, �F�観�~�t���ɭԡA�i�H�۰ʽվ�ܡH
+�۰ʵN���O���ܡAMoley Robotics��������A�u���X�f���ɭԡA�ڥi�ೣ���F�C
+�� zaiter: ���� �򴼻٨S��� ���a�� �T�p�A�H�������� �˩U�� �M�� 07/29 17:40
+�� zaiter: �A�h���a ���l���} 07/29 17:40
+�� jackal998: �֥i�H��ڸ����@�U�ӤW�X��j�n�@�i���I�b����...!? 07/29 17:58
+�� qmqmqm: �����n�[�i�H���L �v�T���� 07/29 18:15
+�� qmqmqm: ���L�T��x��/�ǲΤu�t������ӴN�P���~��^�� 07/29 18:16
+�� qmqmqm: ���ާ޳N�A���i�B ����A���ɤJ 07/29 18:16
+�� qmqmqm: �o�ǳ��u�O�ѻ����@�����D�Ӥw �\���F���� 07/29 18:16
+�N callTM: �S�H�N�ܡH �ڥ��A�˧a...�V�hdecision making �~�O���� 07/29 19:15
 https://en.wikipedia.org/wiki/Moravec's_paradox
-你手拿個東西的動作，decision making可能比AlphaGo下一盤棋還多，只是
-都是unconscious
-※ 編輯: oopFoo (61.230.160.6), 07/29/2018 19:42:24
-推 ptta: 樓上，原po說的沒錯 07/29 19:35
-推 callTM: 還是不懂怎麼下這結論....律師能夠理解...其他為啥比較簡 07/29 19:50
-→ callTM: 單能被替代？ 07/29 19:50
-推 morrislek: 你比較懂AI? 07/29 19:50
-推 thbygn98: 倒垃圾還需要用到狗屁ai，做個運輸管道就好了 07/29 19:51
-→ thbygn98: 之所以沒有機器取代人工倒垃圾只是因為成本考量，你請一 07/29 19:53
-→ thbygn98: 個阿姨才多少 07/29 19:53
-→ thbygn98: 一棟樓才請幾個阿姨？一間工廠請幾個工人？開銷大的肯定 07/29 19:54
-→ thbygn98: 先研究如何自動化 07/29 19:54
-推 thbygn98: 還有煮飯肯定比較簡單，在想什麼？小七的食物難道是阿姨 07/29 19:57
-→ thbygn98: 煮的？ 07/29 19:57
-→ thbygn98: 微波食品自動化幾年了？有什麼難的？ 07/29 19:59
-推 callTM: 基本上就像樓上說的完全不需要decision making 的更能跳過 07/29 20:00
-→ callTM: AI直接替代。 atm 不就很標準替代bank teller 07/29 20:00
-→ callTM: 你結論只能說...思考方面是做一個機器人最簡單的部分而已 07/29 20:01
-噓 SkyIsMyLimit: 哈哈 哈哈 嗯嗯 你好聰明喔！ 07/29 20:03
-→ callTM: 主要就是motor skill 太困難而已.... 07/29 20:03
-→ ckvir: 2隻腳走路的機器人不是早就有了 07/29 20:08
-噓 thbygn98: motor skill之所以難是因為他整個系統講究小、快速、準 07/29 20:13
-→ thbygn98: 確、多功能，工廠裡的自動化機器沒有這麼多限制 07/29 20:13
-→ willism: 我講的那些自動化機器，全都不是AI，那是工業3.0的產物 07/29 20:30
-→ willism: ，“50年前”就開始的新科技 07/29 20:30
-→ willism: 現在沒被自動化取代的基層勞工，只是因為“當年”取代成 07/29 20:32
-→ willism: 本高罷了，你還以為現今科技做不來嗎... 07/29 20:32
-→ willism: 工廠需要兩隻腳走路的機器人做啥? 你不知道人家是用AGV 07/29 20:36
-→ willism: 小車嗎...對了，這也是50年前的新科技 07/29 20:36
-推 thbygn98: w大觀念正確，取代公司的job跟取代一般人的housework需 07/29 20:38
-→ thbygn98: 要的技術不能混為一談 07/29 20:38
-推 callTM: 結果還是decision making 的東西更難生產出來...完全沒有 07/29 20:48
-→ callTM: 融會貫通 07/29 20:48
-→ holsety: 當然是政策問題，沒發現是從哪一年開始搞那些人事CD的嗎? 07/29 20:57
-推 MakeSITGreat: 李光復提的“三秒鐘原則”，人三秒內能做出判斷/做 07/29 21:36
-→ MakeSITGreat: 到的事情，AI現在都能取代。 07/29 21:36
-→ JamesForrest: 胡說八道喔 07/29 21:54
-噓 rodion: 你好像完全搞錯AI的能力了 07/29 22:22
-推 havochuman: 原po連阿發狗為啥能上頂尖期刊跟後續效應都不懂吧 07/29 22:44
-→ havochuman: 下圍棋絕對是件很難的事 07/29 22:44
-→ havochuman: 你的思考也只不過是電子在傳輸的效應而已，阿發狗也是 07/29 22:45
-→ havochuman: 喔 07/29 22:45
-推 tiuseensii: 自動駕駛會從專用道開始，軌道車運輸車十年內可以開始 07/29 22:54
-→ tiuseensii: 運營 07/29 22:54
-→ morrislek: 你講的只是過程中,科學家發現，目前用邏輯工具解析人類 07/29 23:13
-→ morrislek: 感知的困難，但不必然是ai未來的困境。也許有一天，我 07/29 23:13
-→ morrislek: 們發明了一種用肥宅腦漿做的電腦，有一開機就有十歲的 07/29 23:13
-→ morrislek: 智力，憂柔寡斷，多愁善感，容易相信辣妹，卻不會照顧 07/29 23:13
-→ morrislek: 自己。但計算邏輯卻一竅不通，比白癡還白癡。也許AI到 07/29 23:13
-→ morrislek: 時候會突飛猛進也說不定。我覺得目前只是找不到對的工 07/29 23:13
-→ morrislek: 具，來解決AI的問題。 07/29 23:13
-噓 jason401310: 看到下圍棋簡單就直接End了 07/29 23:35
-推 Sex5F: 期待skynet :D 07/29 23:49
+�A�⮳�ӪF�誺�ʧ@�Adecision making�i���AlphaGo�U�@�L���٦h�A�u�O
+���Ounconscious
+�� �s��: oopFoo (61.230.160.6), 07/29/2018 19:42:24
+�� ptta: �ӤW�A��po�����S�� 07/29 19:35
+�� callTM: �٬O�������U�o����....�߮v����z��...��L��ԣ���² 07/29 19:50
+�� callTM: ���Q���N�H 07/29 19:50
+�z�פW�A��ƾڤƪ��A������e���N���C���A��ı�o�S�X�Q�~���O���i�઺�C
+�{�b��AI�PŪX���� �q���_�h �Ϧ@���v�� ,��H���j�A�����n�۫H�A
+�����O��paper�g���S�ҡC�u���b��ȤW�A�ǽT�v�t�ܦh�C
+�� morrislek: �A�����AI? 07/29 19:50
+�� thbygn98: �˩U���ٻݭn�Ψ쪯��ai�A���ӹB��޹D�N�n�F 07/29 19:51
+�� thbygn98: ���ҥH�S���������N�H�u�˩U���u�O�]�������Ҷq�A�A�Ф@ 07/29 19:53
+�� thbygn98: �Ӫ����~�h�� 07/29 19:53
+�� thbygn98: �@�ɼӤ~�дX�Ӫ����H�@���u�t�дX�Ӥu�H�H�}�P�j���֩w 07/29 19:54
+�� thbygn98: ����s�p��۰ʤ� 07/29 19:54
+�� thbygn98: �٦��N���֩w���²��A�b�Q����H�p�C���������D�O���� 07/29 19:57
+�� thbygn98: �N���H 07/29 19:57
+�� thbygn98: �L�i���~�۰ʤƴX�~�F�H�����������H 07/29 19:59
+�� callTM: �򥻤W�N���ӤW�����������ݭndecision making �������L 07/29 20:00
+�� callTM: AI�������N�C atm ���N�ܼзǴ��Nbank teller 07/29 20:00
+�� callTM: �A���ץu�໡...��Ҥ譱�O���@�Ӿ����H��²�檺�����Ӥw 07/29 20:01
+�N SkyIsMyLimit: ���� ���� ��� �A�n�o����I 07/29 20:03
+�� callTM: �D�n�N�Omotor skill �ӧx���Ӥw.... 07/29 20:03
+�� ckvir: 2���}�����������H���O���N���F 07/29 20:08
+�S���A�u���b���省���W�A�����S��ê��demo. Asimo���u���������A�٫ܻ��C
+�N thbygn98: motor skill���ҥH���O�]���L��Өt�����s�p�B�ֳt�B�� 07/29 20:13
+�� thbygn98: �T�B�h�\��A�u�t�̪��۰ʤƾ����S���o��h���� 07/29 20:13
+�� willism: ���������Ǧ۰ʤƾ����A�������OAI�A���O�u�~3.0������ 07/29 20:30
+�� willism: �A��50�~�e���N�}�l���s��� 07/29 20:30
+�� willism: �{�b�S�Q�۰ʤƨ��N����h�Ҥu�A�u�O�]�������~�����N�� 07/29 20:32
+�� willism: �����}�F�A�A�٥H���{����ް����Ӷ�... 07/29 20:32
+�� willism: �u�t�ݭn�Ⱖ�}�����������H��ԣ? �A�����D�H�a�O��AGV 07/29 20:36
+�� willism: �p����...��F�A�o�]�O50�~�e���s��� 07/29 20:36
+�� thbygn98: w�j�[�����T�A���N���q��job����N�@��H��housework�� 07/29 20:38
+�� thbygn98: �n���޳N����V���@�� 07/29 20:38
+�� callTM: ���G�٬Odecision making ���F������Ͳ��X��...�����S�� 07/29 20:48
+�� callTM: �ķ|�e�q 07/29 20:48
+�� holsety: ���M�O�F�����D�A�S�o�{�O�q���@�~�}�l�d���ǤH��CD����? 07/29 20:57
+�� MakeSITGreat: �����_�������T������h���A�H�T�����వ�X�P�_/�� 07/29 21:36
+�� MakeSITGreat: �쪺�Ʊ��AAI�{�b������N�C 07/29 21:36
+�� JamesForrest: �J���K�D�� 07/29 21:54
+�N rodion: �A�n�������d��AI����O�F 07/29 22:22
+�� havochuman: ��po�s���o����ԣ��W���y���Z���������������a 07/29 22:44
+�� havochuman: �U��ѵ���O��������� 07/29 22:44
+�� havochuman: �A����Ҥ]�u���L�O�q�l�b�ǿ骺�����Ӥw�A���o���]�O 07/29 22:45
+�� havochuman: �� 07/29 22:45
+�� tiuseensii: �۰ʾr�p�|�q�M�ιD�}�l�A�y�D���B�騮�Q�~���i�H�}�l 07/29 22:54
+�� tiuseensii: �B�� 07/29 22:54
+�� morrislek: �A�����u�O�L�{��,��Ǯa�o�{�A�ثe���޿�u��ѪR�H�� 07/29 23:13
+�� morrislek: �P�����x���A�������M�Oai���Ӫ��x�ҡC�]�\���@�ѡA�� 07/29 23:13
+�� morrislek: �̵o���F�@�إΪΦv���߰����q���A���@�}���N���Q���� 07/29 23:13
+�� morrislek: ���O�A�~�X���_�A�h�T���P�A�e���۫H���f�A�o���|���U 07/29 23:13
+�� morrislek: �ۤv�C���p���޿�o�@¬���q�A���è�٥�è�C�]�\AI�� 07/29 23:13
+�� morrislek: �ɭԷ|�𭸲r�i�]�����w�C��ı�o�ثe�u�O�䤣��諸�u 07/29 23:13
+�� morrislek: ��A�ӸѨMAI�����D�C 07/29 23:13
+�ثeml, �O��nn����¦�ӵo�i�A�o�]�O5,60�~�e�������C
+ai�ثe�S����L��}�ʪ������C�w��]�I����F�C�᭱���o�i���|�ܺC�C
+�ڭ̳n��ɦ��ӻ��k�A�{���v���w���ɶ��nx2�Ax2�AxPI, �̫�ள��@�b�\��N�����F�C
+�N jason401310: �ݨ�U���²��N����End�F 07/29 23:35
+�� Sex5F: ����skynet :D 07/29 23:49
+�� kendiv: AI�O�ۤv�|�i�B�n��...�u�O��Τƭn�ݥL������O���� 07/30 08:58
+�� f41101: �ҥHAI���N��o�۾r�����u�{�v���٬O���N�}������ �u�໡ 07/30 09:18
+�� f41101: �ثeAI�u�o�i��ժ��M������ �ݭn�j�q�M�����u�@�ثe�Ӭ� 07/30 09:18
+�� f41101: ���ӬO�̮e���Q���N�� ���k�W���|���������N�H���M���� 07/30 09:18
+�N weitin7011: �S�O�ӥu���֤�A�N�o�����g�j�ת��H 07/30 09:24
+�N dearloser: ���U�A�u�����D�]�p�v�O��˪���~�ܡH 07/30 09:33
+�ڦb�n��~30�~�F�C
+���ٰO�o1980,90�~�N�A�饻5th generation�j�p�e�C���ɤ]�O��AI�n�p��p
+���N�H���A�M��deep blue���Ѧ�v�ѫa�x�A�w�j�j�n�j�C����N�O
+�ܪ��ܪ���AI winter. ���쪺prolog,experts system�A�{�b�򥻤W���S�ΤF�C
+���L�����Z���wprolog���A������M��ai���H�i�H�����C
+�o�X�~ai���j���A�S���~�رi�A�ӥB����U�h�A�O�h�n�h���C
+�o�@�������ε������~�n�A�������٬O�F����j�����ؼСC
+strong AI/AGI(artifical  general intelligence)�O�D�`�����C
+�w�g�ܦh�H�b��another AI winter is on it way.
+�� �s��: oopFoo (36.231.145.228), 07/30/2018 12:56:05
+�N BarryBai: AI �����٤�������H�������A�Ҧp�L�n�����L���j���� 07/30 12:40
+�N callTM: �¤H�ݸ��٦���N��....�]�p�v�O�H 07/30 13:21
+�]�p�v�z�פW�O�Qtransfer learning���N�A�����|�O���U�C
+��N�S��k�A�ҥH�~��񤺬�w���C
+�ڨS�����n�A�ڳo�g�N��Oai����������N�H�ܻ��C�۰ʤ�,ai���������Ϊ�
+�a��A���{�b�������O���N�A���N�A�u������ڮt�ӻ��F�C
+�� �s��: oopFoo (36.231.145.228), 07/30/2018 14:10:26
 "
 "8" NA
 "9" NA
-"10" "作者cherubx (DanzYam)看板Tech_Job標題[心得] 文組轉系統廠PM時間Sun Jul 29 16:56:30 2018
+"10" "�@��cherubx (DanzYam)�ݪOTech_Job���D[�߱o] �����t�μtPM�ɶ�Sun Jul 29 16:56:30 2018
 
-換了新工作，一路從試水溫面試到最近認真找，大概八個月面了十來家，跟大
+���F�s�u�@�A�@���q�դ��ŭ��ը�̪�{�u��A�j���K�Ӥ뭱�F�Q�Ӯa�A��j
 
-家分享下。有上的沒啥特別的就不說了
+�a���ɤU�C���W���Sԣ�S�O���N�����F
 
-我是文組的，30歲跳到科技業，1/3在研發公司，2/3在系統廠，整體經驗四年。
-
-
-履歷缺點
-1, 四年三家公司
-2. 考英文不太行，工作用倒是沒啥問題(跟日本、美國客戶meeting)
-
-以下是幾家面試的經驗
-
-1. 廣達 ─ 雲端server PM  (CN)
-
-   客戶是杭州某巴巴公司，面試是標準PM問題，經驗、做過的案子、解決過什
-
-   麼問題、怎麼解決的，另外就是個人特質。考慮到我沒有做server的經驗，
-
-   所以出了七題專業考題要我隔天下午給他。隔天要上班根本沒空弄，晚上弄
-
-   幾個小時查資料，結果直接爆炸。(應該面這部門都全都會考到，我查過有人
-
-   題目跟我一模一樣)
+�ڬO��ժ��A30�������޷~�A1/3�b��o���q�A2/3�b�t�μt�A����g��|�~�C
 
 
-2. 淇譽 ─ 音箱 PM  (CN)
+�i�����I
+1, �|�~�T�a���q
+2. �ҭ^�夣�Ӧ�A�u�@�έˬO�Sԣ���D(��饻�B����Ȥ�meeting)
 
-   標準PM面試問題，直接跟廠長面試。因為要做的產品某一部分技術我很熟，所
+�H�U�O�X�a���ժ��g��
 
-   以聊的也挺好的。面試時間大概兩小時，有半個小時全英文。(這是比較早的面
+1. �s�F �w ����server PM  (CN)
 
-   試，那時候工作很少用到口說，所以語態很亂)
+   �Ȥ�O�C�{�Y�ڤڤ��q�A���լO�з�PM���D�A�g��B���L���פl�B�ѨM�L��
 
-   面試完跟我說會找董事長跟另一個駐深圳同事跟我面試，然後.....沒了
+   ����D�B���ѨM���A�t�~�N�O�ӤH�S��C�Ҽ{��ڨS����server���g��A
 
+   �ҥH�X�F�C�D�M�~���D�n�ڹj�ѤU�ȵ��L�C�j�ѭn�W�Z�ڥ��S�ŧˡA�ߤW��
 
-3. 台灣立訊 ─ PM (TW)
+   �X�Ӥp�ɬd��ơA���G�����z���C(���ӭ��o�����������|�Ҩ�A�ڬd�L���H
 
-   面試前要求做PPT，不過沒有用到。也算是標準PM面試問題，還有case study。
-
-   共面試了人資、兩個同事外加主管。
-
-   臨走前人資還說我應該下星期就可以去上班了，然後.....沒了XD
-
-   估計我預期薪資開太高(一直都開的比均價高3~5K)
+   �D�ظ�ڤ@�Ҥ@��)
 
 
+2. �N�A �w ���c PM  (CN)
 
-4. 研華 ─ Business Developer (CN)
+   �з�PM���հ��D�A������t�����աC�]���n�������~�Y�@�����޳N�ګܼ��A��
 
-   原本丟的是PM，可是我之前的工作也兼sales，所以另一個部門找我面試。先
+   �H�᪺�]���n���C���ծɶ��j����p�ɡA���b�Ӥp�ɥ��^��C(�o�O���������
 
-   在台灣跟小主管簡單碰過面之後，給了我一個題目做簡報，說要看我的表達跟
+   �աA���ɭԤu�@�ܤ֥Ψ�f���A�ҥH�y�A�ܶ�)
 
-   邏輯能力。因為題目是我完全沒摸過的東西，我主要專注在邏輯跟簡報能力。
+   ���է���ڻ��|�丳�ƪ���t�@�Ӿn�`�`�P�Ƹ�ڭ��աA�M��.....�S�F
 
 
-   簡報完跟我說，我講得太簡單了，他們想知道我對於公司未來能做什麼的看法，
+3. �x�W�߰T �w PM (TW)
 
-   當下被拒絕了。回家越想越不對，我能接受能力不足被刷掉，但溝通誤會不行，
+   ���իe�n�D��PPT�A���L�S���Ψ�C�]��O�з�PM���հ��D�A�٦�case study�C
 
-   回家再弄了一天，寫了份產品規劃評估報告給他們。結果上了。
+   �@���դF�H��B��ӦP�ƥ~�[�D�ޡC
+
+   �{���e�H���ٻ������ӤU�P���N�i�H�h�W�Z�F�A�M��.....�S�FXD
+
+   ���p�ڹw���~��}�Ӱ�(�@�����}���񧡻���3~5K)
+
+
+
+4. ��� �w Business Developer (CN)
+
+   �쥻�᪺�OPM�A�i�O�ڤ��e���u�@�]��sales�A�ҥH�t�@�ӳ�����ڭ��աC��
+
+   �b�x�W��p�D��²��I�L������A���F�ڤ@���D�ذ�²���A���n�ݧڪ����F��
+
+   �޿��O�C�]���D�جO�ڧ����S�N�L���F��A�ڥD�n�M�`�b�޿��²����O�C
+
+
+   ²������ڻ��A�����o��²��F�A�L�̷Q���D�ڹ�󤽥q���ӯవ���򪺬ݪk�A
+
+   ���U�Q�ڵ��F�C�^�a�V�Q�V����A�گ౵����O�����Q�걼�A�����q�~�|����A
+
+   �^�a�A�ˤF�@�ѡA�g�F�����~�W���������i���L�̡C���G�W�F�C
 
    Offer get
-   說我沒經驗所以試用期變半年，另外扛4800萬業績。
-   但是薪水超低，直接回絕。
+   ���ڨS�g��ҥH�եδ��ܥb�~�A�t�~��4800�U�~�Z�C
+   ���O�~���W�C�A�����^���C
 
 
-5. 和碩─ Sustaining PM (CN)
+5. �M�Ӣw Sustaining PM (CN)
 
-   這也是比較早面試的，完全不知道要考英文，所以啥都沒準備，分數600 (各大公
+   �o�]�O��������ժ��A���������D�n�ҭ^��A�ҥHԣ���S�ǳơA����600 (�U�j��
 
-   司最高考過800，最低估計只有500)。跟主管面試，也是標準PM面試對話。還有20
+   �q�̰��ҹL800�A�̧C���p�u��500)�C��D�ޭ��աA�]�O�з�PM���չ�ܡC�٦�20
 
-   分鐘英文面試。
+   �����^�孱�աC
 
-   我猜是英文被刷掉的，摸清市場情況就開始練習口說了....
+   �ڲq�O�^��Q�걼���A�N�M�������p�N�}�l�m�ߤf���F....
 
 
-6. 緯創 ─ Mobile appliance PM (TW)
+6. �n�� �w Mobile appliance PM (TW)
 
-   跟我面試的應該是小主管，問題問得很細，跟他一位就面了兩小時。他一開始看到
+   ��ڭ��ժ����ӬO�p�D�ޡA���D�ݱo�ܲӡA��L�@��N���F��p�ɡC�L�@�}�l�ݨ�
 
-   我履歷時覺得有灌水，因為我上一份工作從前端包到後端，履歷寫很多。不過面試
+   �ڼi����ı�o������A�]���ڤW�@���u�@�q�e�ݥ]���ݡA�i���g�ܦh�C���L����
 
-   完看來是有說服他不是灌水。二面跟大主管面試，主要把重點經驗又說了一次，外
+   ���ݨӬO�����A�L���O����C�G����j�D�ޭ��աA�D�n�⭫�I�g��S���F�@���A�~
 
-   加了15分鐘的英文面試。
+   �[�F15�������^�孱�աC
 
 
    Offer Get
 
 
-7. 海華 ─ Camera Module PM (CN)
+7. ���� �w Camera Module PM (CN)
 
-   這家比較有趣。去年就跟主管面試過，不過另一家開的比較高就回絕了。去年面試
+   �o�a�������C�h�~�N��D�ޭ��չL�A���L�t�@�a�}��������N�^���F�C�h�~����
 
-   時，主管完全沒有問我經驗、案子、解決過啥問題，連個人特質我都沒介紹。雖然
+   �ɡA�D�ާ����S���ݧڸg��B�פl�B�ѨM�Lԣ���D�A�s�ӤH�S��ڳ��S���СC���M
 
-   人真的很好，但奇怪的感覺是我回絕的其中一個原因(難不成我爸是股東= =?)
+   �H�u���ܦn�A���_�Ǫ��Pı�O�ڦ^�����䤤�@�ӭ�](�������ڪ��O�ѪF= =?)
 
 
-   今年去的時候還是同一個部門，不過分別跟兩個小主管面試，討論到工作內容，流
+   ���~�h���ɭ��٬O�P�@�ӳ����A���L���O���Ӥp�D�ޭ��աA�Q�ר�u�@���e�A�y
 
-   程比較正常了XDDD，發現是我去年想太多
+   �{������`�FXDDD�A�o�{�O�ڥh�~�Q�Ӧh
 
    Offer get
 
 
-8. 鴻海系 ─  PM類
+8. �E���t �w  PM��
 
-   鴻海系算交手過五次吧...跟板上評價一樣XDD。前三次，跟我約時間，就沒了，一
+   �E���t����L�����a...��O�W�����@��XDD�C�e�T���A��ڬ��ɶ��A�N�S�F�A�@
 
-   整個被放鳥。
-
-
-   a.第四次  Mobile Fulfillment PM。
-
-     總面試時間15分鐘。
-
-     第一個問題是
-
-    「為啥reference的電話部分是寫錄取後提供」
-     (OS: 沒錄取你要電話做啥???，真的想問有公司、姓名、職位還不夠嗎?)
-
-     第二個問題是
-
-    「為啥填表時間沒寫」
-
-     完全感受的到台灣人資系統的專業
-
-     然後是，為啥爸媽沒寫、為啥職業規劃沒寫
-     (我104履歷有、鴻海HR系統也有、另外還有我另外的個人客製履歷)
-
-     不過確實，那兩個是我懶得寫，說的在理。
+   ��ӳQ�񳾡C
 
 
-     自我介紹的時候，我說到我因為更喜歡跟人接觸的工作，所以沒選擇讀博士
+   a.�ĥ|��  Mobile Fulfillment PM�C
 
-     HR 開始跳針!!!!!
+     �`���ծɶ�15�����C
 
-     「你喜歡跟人接觸的工作，你可以賣保險、做房仲阿」
+     �Ĥ@�Ӱ��D�O
 
-      15分鐘的面試，說了三次!!!   面到督覽。
+    �u��ԣreference���q�ܳ����O�g�����ᴣ�ѡv
+     (OS: �S�����A�n�q�ܰ�ԣ???�A�u���Q�ݦ����q�B�m�W�B¾���٤�����?)
 
+     �ĤG�Ӱ��D�O
 
-     另外，我說我不喜歡重複不思考的工作。
+    �u��ԣ����ɶ��S�g�v
 
-     人資說，可是我們公司 PM 每天都是做routine job，不適合你...
+     �����P������x�W�H��t�Ϊ��M�~
 
-     (OS：PM做routine工作???，你怎麼不找高中生就好)
+     �M��O�A��ԣ�����S�g�B��ԣ¾�~�W���S�g
+     (��104�i�����B�E��HR�t�Τ]���B�t�~�٦��ڥt�~���ӤH�Ȼs�i��)
 
-
-
-   b. 第五次 IOT/chatbot PM
-
-      這次沒透過人資，一開始就跟主管面試，因為剛好要做的東西我都很熟，所以
-
-      隔天就跟大主管面試，也很順利。我說兩天後要回一個offer希望HR流程可以
-
-      跑快點，他說鴻海怎樣都比另外一家好，叫我推掉其他的。覺得這次直接跟大
-
-      主管面試應該能信吧，就推掉了一個offer。
+     ���L�T��A����ӬO���i�o�g�A�����b�z�C
 
 
-      過了一周，我傳訊息給大主管，說我還有其他offer要回，已經一周了。最後就
+     �ۧڤ��Ъ��ɭԡA�ڻ���ڦ]������w��H��Ĳ���u�@�A�ҥH�S���Ū�դh
 
-      得到一封信「已將資料轉給HR部門」
+     HR �}�l���w!!!!!
 
-      現在都過快一個月了，幸好沒信
+     �u�A���w��H��Ĳ���u�@�A�A�i�H��O�I�B���Х���v
 
-
-9. 神準 ─ PM (TW)
-
-   精神時光屋，進去出來七小時沒了。順序是
-
-   英文考試→人資→直屬主管→合作部門主管→大主管
-
-   同樣的話講到有點精神錯亂，另外大主管那邊加了大概20分鐘的英文面試跟英文
-
-   case study。
-
-   這家算滿認真的，我等人的時間就是上一位交接訊息給下一位的時間，但是問題
-
-   又重問一次阿= =|||，交接辛酸的嗎。建議團面會好點。
+      15���������աA���F�T��!!!   ��������C
 
 
-   最後離開前大主管跟我說，他老闆比較喜歡技術底的
+     �t�~�A�ڻ��ڤ����w���Ƥ���Ҫ��u�@�C
 
-   (OS：聽說我歷史系畢業寫在第一行耶，然後你不是英文系的嗎???
+     �H�껡�A�i�O�ڭ̤��q PM �C�ѳ��O��routine job�A���A�X�A...
 
-        都出社會這麼久了，講真話不挺好的嗎???)
+     (OS�GPM��routine�u�@???�A�A��򤣧䰪���ʹN�n)
 
-以上~
+
+
+   b. �Ĥ��� IOT/chatbot PM
+
+      �o���S�z�L�H��A�@�}�l�N��D�ޭ��աA�]����n�n�����F��ڳ��ܼ��A�ҥH
+
+      �j�ѴN��j�D�ޭ��աA�]�ܶ��Q�C�ڻ���ѫ�n�^�@��offer�Ʊ�HR�y�{�i�H
+
+      �]���I�A�L���E����˳���t�~�@�a�n�A�s�ڱ�����L���Cı�o�o��������j
+
+      �D�ޭ������ӯ�H�a�A�N�����F�@��offer�C
+
+
+      �L�F�@�P�A�ڶǰT�����j�D�ޡA�����٦���Loffer�n�^�A�w�g�@�P�F�C�̫�N
+
+      �o��@�ʫH�u�w�N����൹HR�����v
+
+      �{�b���L�֤@�Ӥ�F�A���n�S�H
+
+
+9. ���� �w PM (TW)
+
+   �믫�ɥ��ΡA�i�h�X�ӤC�p�ɨS�F�C���ǬO
+
+   �^��Ҹա��H������ݥD�ޡ��X�@�����D�ޡ��j�D��
+
+   �P�˪������즳�I�믫���áA�t�~�j�D�ި���[�F�j��20�������^�孱�ո�^��
+
+   case study�C
+
+   �o�a�⺡�{�u���A�ڵ��H���ɶ��N�O�W�@��汵�T�����U�@�쪺�ɶ��A���O���D
+
+   �S���ݤ@����= =|||�A�汵���Ī��ܡC��ĳ�έ��|�n�I�C
+
+
+   �̫����}�e�j�D�޸�ڻ��A�L���������w�޳N����
+
+   (OS�Gť���ھ��v�t���~�g�b�Ĥ@��C�A�M��A���O�^��t����???
+
+        ���X���|�o��[�F�A���u�ܤ����n����???)
+
+�H�W~
 
 --
-※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 101.8.227.167
-※ 文章網址: https://www.ptt.cc/bbs/Tech_Job/M.1532854594.A.ABC.html
-→ owen5566: 鴻海一個月真的還好 07/29 17:08
-→ owen5566: 為啥你面的感覺都是__ 07/29 17:09
-推 chouvincent: 妳英文應該很爛無誤 07/29 17:27
-確實比很多人爛這我承認
-推 singingcloud: 也是文組轉職~~推受用!! 07/29 17:27
-推 SentLiTryPay: 海邊那個在別的地方也蠻常見的 07/29 17:44
-推 sai82320: 看來你應該是四大出身 07/29 17:46
-學校在我畢業時還是私立頭，現在不知道XD
-推 yann03250325: 很受用 07/29 18:12
-推 Dontco: 為何四年三家公司是劣勢 還好吧 07/29 18:14
-文組/30歲入行/待的時間短/非技術職  = 劣勢
-推 bluebird: 英文考試不行口說真的可以嗎？也許是客人默默忍受了吧 07/29 18:15
+�� �o�H��: �����~�{(ptt.cc), �Ӧ�: 101.8.227.167
+�� �峹���}: https://www.ptt.cc/bbs/Tech_Job/M.1532854594.A.ABC.html
+�� owen5566: �E���@�Ӥ�u���٦n 07/29 17:08
+�� owen5566: ��ԣ�A�����Pı���O__ 07/29 17:09
+�� chouvincent: �p�^�����ӫ���L�~ 07/29 17:27
+�T���ܦh�H��o�کӻ{
+�� singingcloud: �]�O�����¾~~������!! 07/29 17:27
+�� SentLiTryPay: ���䨺�Ӧb�O���a��]�Z�`���� 07/29 17:44
+�� sai82320: �ݨӧA���ӬO�|�j�X�� 07/29 17:46
+�Ǯզb�ڲ��~���٬O�p���Y�A�{�b�����DXD
+�� yann03250325: �ܨ��� 07/29 18:12
+�� Dontco: ����|�~�T�a���q�O�H�� �٦n�a 07/29 18:14
+���/30���J��/�ݪ��ɶ��u/�D�޳N¾  = �H��
+�� bluebird: �^��Ҹդ���f���u���i�H�ܡH�]�\�O�ȤH�q�q�Ԩ��F�a 07/29 18:15
 
-我英文都是工作養起來的，所以很多工作以外簡單單字我是不會的
-而且對英文客戶都是PM角色，不是sales，主要是
-解釋為什麼/介紹現在情況/介紹更動排程
-而且都限定在工作範圍內，其實不難掌握，也不太需要做簡報式的長段落描述
+�ڭ^�峣�O�u�@�i�_�Ӫ��A�ҥH�ܦh�u�@�H�~²���r�ڬO���|��
+�ӥB��^��Ȥ᳣�OPM����A���Osales�A�D�n�O
+����������/���в{�b���p/���Ч�ʱƵ{
+�ӥB�����w�b�u�@�d�򤺡A��ꤣ���x���A�]���ӻݭn��²���������q���y�z
 
-我面試也都坦誠地說我英文程度，所以通常有英文面試我反而比較舒服
+�ڭ��դ]���Z�ۦa���ڭ^��{�סA�ҥH�q�`���^�孱�էڤϦӤ���ΪA
 
-口說的話，我本身就研究發音的，所以只要一串英文給我，發音我想沒啥問題
+�f�����ܡA�ڥ����N��s�o�����A�ҥH�u�n�@��^�嵹�ڡA�o���ڷQ�Sԣ���D
 
-但，客人忍受我想也是有的XDDD，靠做人彌補
+���A�ȤH�Ԩ��ڷQ�]�O����XDDD�A�a���H����
 
 
-另外，主要也是運氣好吧，從內部寫英文信→跟日本客人meeting→美國客人
-一開始直接上美國客人應該也是爆炸
+�t�~�A�D�n�]�O�B��n�a�A�q�����g�^��H����饻�ȤHmeeting������ȤH
+�@�}�l�����W����ȤH���Ӥ]�O�z��
 
-知道缺點現在就在惡補<U+55BD>
+���D���I�{�b�N�b�c��<U+55BD>
 
-推 artorius: 謝謝大大熱心分享 07/29 18:23
-※ 編輯: cherubx (101.8.227.167), 07/29/2018 19:00:52
-推 KFD518: 推分享 07/29 19:01
-推 yamax: 精神時光屋去過,裡面HR跟主管不知道三小,連面試部門都帶錯 07/29 19:10
-→ wake7078: 我都30歲了 為什麼面試老問些相同問題 浪費時間欸 07/29 19:43
-有些還問我研究所呢...都畢業超久了
-推 Odoo: 想知道個人特質怎麼回的 07/29 19:53
-就依照自己的性格回阿XDDD
-我是性格跟PM這職位很合
-推 mathlover: 分享給推 07/29 20:10
-推 cklsn2: 有分享有推~ 07/29 20:36
-推 YahooTaiwan: routine? 07/29 21:18
-馬上改= =+
-→ bloodrain: 34歲 科技業相關四年/英文不好/非技術背景, 這真的面 07/29 21:41
-→ bloodrain: 試要很拚..... 07/29 21:41
-幸好這四年算是很拚的~還拿的到點入場券
-推 westron: 看你願不願意花兩，三個月去讀個語言學校 07/29 21:49
-→ westron: 之後再回來面試，英文就不會是阻礙了 07/29 21:50
-→ westron: 至少你已經會講，而且敢講 07/29 21:50
-→ westron: 因為你已經有工作經驗了，你不可像剛畢業的新鮮人一樣 07/29 21:52
-→ westron: 然還想拿較高的offer, 這樣人家找剛畢業的就好 07/29 21:53
-理解，所以努力學習!!!
-推 Sana: 恭喜拿到Offer!!! 07/29 22:00
-推 b122771: 面試過程覺得對方讓你很賭爛的，就直接走人就好好 ，不 07/29 22:01
-→ b122771: 用回太多 07/29 22:01
-推 yainman: 過了兩年多 研華還是一樣 以為自己給的很高薪 挑人眼睛長 07/29 22:44
-→ yainman: 頭頂 幸好當初沒去 07/29 22:44
-推 djboy: reference 電話，應該要先提供吧。他們就是在評估階段，會 07/29 22:56
-→ djboy: 打給你的reference。錄取後，就不用打了。 07/29 22:56
-→ djboy: 人家HR，是真的會call 推薦人的，不是寫好玩。 07/29 22:58
-所以等確定要錄取我會給電話，我不希望我前主管、同事一直接到我不去公司的電話
-而且有公司/職位/人名，打總機就找的到
+�� artorius: ���¤j�j���ߤ��� 07/29 18:23
+�� �s��: cherubx (101.8.227.167), 07/29/2018 19:00:52
+�� KFD518: ������ 07/29 19:01
+�� yamax: �믫�ɥ��Υh�L,�̭�HR��D�ޤ����D�T�p,�s���ճ������a�� 07/29 19:10
+�� wake7078: �ڳ�30���F �����򭱸զѰݨǬۦP���D ���O�ɶ��� 07/29 19:43
+�����ٰݧڬ�s�ҩO...�����~�W�[�F
+�� Odoo: �Q���D�ӤH�S����^�� 07/29 19:53
+�N�̷Ӧۤv���ʮ�^��XDDD
+�ڬO�ʮ��PM�o¾��ܦX
+�� mathlover: ���ɵ��� 07/29 20:10
+�� cklsn2: �����ɦ���~ 07/29 20:36
+�� YahooTaiwan: routine? 07/29 21:18
+���W��= =+
+�� bloodrain: 34�� ��޷~�����|�~/�^�夣�n/�D�޳N�I��, �o�u���� 07/29 21:41
+�� bloodrain: �խn�ܩ�..... 07/29 21:41
+���n�o�|�~��O�ܩ骺~�ٮ������I�J����
+�� westron: �ݧA�@���@�N���A�T�Ӥ�hŪ�ӻy���Ǯ� 07/29 21:49
+�� westron: ����A�^�ӭ��աA�^��N���|�O��ê�F 07/29 21:50
+�� westron: �ܤ֧A�w�g�|���A�ӥB���� 07/29 21:50
+�� westron: �]���A�w�g���u�@�g��F�A�A���i���貦�~���s�A�H�@�� 07/29 21:52
+�� westron: �M�ٷQ��������offer, �o�ˤH�a��貦�~���N�n 07/29 21:53
+�z�ѡA�ҥH�V�O�ǲ�!!!
+�� Sana: ���߮���Offer!!! 07/29 22:00
+�� b122771: ���չL�{ı�o������A�ܽ��ꪺ�A�N�������H�N�n�n �A�� 07/29 22:01
+�� b122771: �Φ^�Ӧh 07/29 22:01
+�� yainman: �L�F��~�h ����٬O�@�� �H���ۤv�����ܰ��~ �D�H������ 07/29 22:44
+�� yainman: �Y�� ���n����S�h 07/29 22:44
+�� djboy: reference �q�ܡA���ӭn�����ѧa�C�L�̴N�O�b�������q�A�| 07/29 22:56
+�� djboy: �����A��reference�C������A�N���Υ��F�C 07/29 22:56
+�� djboy: �H�aHR�A�O�u���|call ���ˤH���A���O�g�n���C 07/29 22:58
+�ҥH���T�w�n�����ڷ|���q�ܡA�ڤ��Ʊ�ګe�D�ޡB�P�Ƥ@������ڤ��h���q���q��
+�ӥB�����q/¾��/�H�W�A���`���N�䪺��
 
-我以前有公司入職打我給的推薦人。試用期完還直接打到公司去問非直屬主管，
-結果他說我壞話，是時任職公司的同事保我的。
+�ڥH�e�����q�J¾���ڵ������ˤH�C�եδ����٪������줽�q�h�ݫD���ݥD�ޡA
+���G�L�����a�ܡA�O�ɥ�¾���q���P�ƫO�ڪ��C
 
-我對臺灣人資打推薦人的能力沒啥信心XD
+�ڹ�O�W�H�ꥴ���ˤH����O�Sԣ�H��XD
 
-推 choufuyou: 煙華很雷阿……… 07/29 23:01
-推 pauline2045: 推 文組加油 07/29 23:11
-※ 編輯: cherubx (101.8.227.167), 07/29/2018 23:37:14
-推 kenblazes: 推 感謝分享  加油 07/30 00:17
+�� choufuyou: �ϵثܹp���K�K�K 07/29 23:01
+�� pauline2045: �� ��ե[�o 07/29 23:11
+�� �s��: cherubx (101.8.227.167), 07/29/2018 23:37:14
+�� kenblazes: �� �P�¤���  �[�o 07/30 00:17
+�N a000000000: �n���� 07/30 00:41
+�� XJY13: �ӤW�ХD �w�w �k�ͷ�PM ���ۨM�w�A��u�{�v���X�@ 07/30 00:51
+�� weitin7011: ���A�h��L�a��ոէa 07/30 09:49
+�� gototheptt: ���j�� 07/30 10:45
+�� physicsdk: ���@�綠�q�����@�M���@�M... �S�H���� 07/30 10:56
 "
 "11" NA
 "12" NA
-"13" "作者howard6066 (秘密)看板Tech_Job標題[新聞] 看到郭董的賣力，也看到郭董的壓力！時間Sun Jul 29 17:52:44 2018
-看到郭董的賣力，也看到郭董的壓力！
+"13" "�@��howard6066 (���K)�ݪOTech_Job���D[�s�D] �ݨ쳢������O�A�]�ݨ쳢�������O�I�ɶ�Sun Jul 29 17:52:44 2018
+�ݨ쳢������O�A�]�ݨ쳢�������O�I
 
 https://www.businesstoday.com.tw/article/category/80392/post/201806250002/
 
-一年一度的鴻海股東大會閉幕，郭董不但每年都出席，而且，非常有誠意地跟小股東面對
-面溝通，而且，對股東的詢問，除了阿土伯要他選總統這一項，幾乎都到知無不言，言無
-不盡的地步，他的努力與付出，應可感動所有出席的股東。
+�@�~�@�ת��E���ѪF�j�|�����A���������C�~���X�u�A�ӥB�A�D�`���۷N�a��p�ѪF����
+�����q�A�ӥB�A��ѪF���߰ݡA���F���g�B�n�L���`�γo�@���A�X�G���쪾�L�����A���L
+���ɪ��a�B�A�L���V�O�P�I�X�A���i�P�ʩҦ��X�u���ѪF�C
 
-這次幾個場景令人留下深刻印象，例如面對九十歲套牢的老伯，他說會努力讓他賺錢，但
-也告誡他不要每天看盤，其實我對外資在高檔喊目標價一直很有意見，通常這都是讓散戶
-套牢的血滴子，今後麥格理的張博凱會與鴻海200元緊密結合在一起。
-
-
-郭董對分拆FII，也對股東作了說明，也對未來的健康互聯網，智能製造，工業大數據，
-機器人等未來產業有所期待。70<U+6B73>的郭董天天都這麼拚命，股東應感佩。
+�o���X�ӳ����O�H�d�U�`��L�H�A�Ҧp����E�Q���M�c���ѧB�A�L���|�V�O���L�ȿ��A��
+�]�i�|�L���n�C�ѬݽL�A���ڹ�~��b���ɳۥؼл��@���ܦ��N���A�q�`�o���O������
+�M�c����w�l�A�������z���i�ճͷ|�P�E��200����K���X�b�@�_�C
 
 
+���������FII�A�]��ѪF�@�F�����A�]�良�Ӫ����d���p���A����s�y�A�u�~�j�ƾڡA
+�����H�����Ӳ��~���Ҵ��ݡC70<U+6B73>�������Ѥѳ��o���R�A�ѪF���P�ءC
 
-在股東大會上，也許大家稍注意一下，可以發現郭董雙手都配上佛珠，而且佛珠下也有雙
-鏈，兩手的珠鏈應有大師加持，我不是專家，不知珠鏈代表的內涵，在雙方珠鏈下，不難
-看出郭董的壓力。
+
+
+�b�ѪF�j�|�W�A�]�\�j�a�y�`�N�@�U�A�i�H�o�{�������ⳣ�t�W��]�A�ӥB��]�U�]����
+��A��⪺�]�������j�v�[���A�ڤ��O�M�a�A�����]��N�������[�A�b����]��U�A����
+�ݥX���������O�C
 
 --
-※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 114.198.161.145
-※ 文章網址: https://www.ptt.cc/bbs/Tech_Job/M.1532857967.A.93B.html
-推 jenwen: 本來只帶一手 兩手是要 殺很大了 阿彌陀佛 07/29 17:55
-推 squard: 郭董說要做到比李嘉誠還要久，辛苦了，比morris還要偉大 07/29 18:07
-→ qmqmqm: 這樣也可以是新聞? 07/29 18:15
-噓 windverb: 喔 07/29 18:34
-噓 EnosKP: 噁噁噁噁噁噁 07/29 18:35
-→ TedZec: 奸商快死一死 07/29 18:41
-推 siemen: 佛珠會不會是跟ACER買的？？要不然怎麼沒效果？ 07/29 18:50
-推 KMTATM: 超度跑步選手？ 07/29 18:51
-噓 shenmue1001: 把買新聞的錢拿去給員工當分紅好嗎 07/29 19:10
-→ luche: 這樣也一篇 版主還再混喔 07/29 19:13
-噓 remmurds: 海邊讚讚讚 07/29 19:39
-推 william826: 八卦酸民可以滾回去嗎 07/29 20:18
-噓 siemen: 哈哈哈 07/29 20:53
-噓 l81920: 有看到入豬嗎 07/29 21:10
-噓 s3f4e9g6aa7: 灶神灶起來 07/29 23:25
-推 SCLEE5566: 狗才去的糞公司 07/29 23:33
+�� �o�H��: �����~�{(ptt.cc), �Ӧ�: 114.198.161.145
+�� �峹���}: https://www.ptt.cc/bbs/Tech_Job/M.1532857967.A.93B.html
+�� jenwen: ���ӥu�a�@�� ���O�n ���ܤj�F �������� 07/29 17:55
+�� squard: �������n�������Ÿ��٭n�[�A���W�F�A��morris�٭n���j 07/29 18:07
+�� qmqmqm: �o�ˤ]�i�H�O�s�D? 07/29 18:15
+�N windverb: �� 07/29 18:34
+�N EnosKP: ������������ 07/29 18:35
+�� TedZec: �l�ӧ֦��@�� 07/29 18:41
+�� siemen: ��]�|���|�O��ACER�R���H�H�n���M���S�ĪG�H 07/29 18:50
+�� KMTATM: �W�׶]�B���H 07/29 18:51
+�N shenmue1001: ��R�s�D�������h�����u�������n�� 07/29 19:10
+�� luche: �o�ˤ]�@�g ���D�٦A�V�� 07/29 19:13
+�N remmurds: �����g�g�g 07/29 19:39
+�� william826: �K���ĥ��i�H�u�^�h�� 07/29 20:18
+�N siemen: ������ 07/29 20:53
+�N l81920: ���ݨ�J�޶� 07/29 21:10
+�N s3f4e9g6aa7: �_���_�_�� 07/29 23:25
+�� SCLEE5566: ���~�h���T���q 07/29 23:33
+�� qmqmqm: �o�g�S���ĥ��r �]���u�����򳣨S���r... 07/30 03:08
+�� qmqmqm: �̫�u���R�F������...��]?? �ٻ��ۤv���� 07/30 03:08
+�N wake01: �ݨ�̫�@�q�N���D�O���ϴ����m�M�ݪ������_���� XDDDDD 07/30 09:18
+�N REDX: �U�a���a 07/30 12:24
 "
 "14" NA
 "15" NA
-"16" "作者qazxc1156892 (QQ)看板Tech_Job標題[新聞] 去年研發經費台積電近800億　全台No1時間Sun Jul 29 18:18:20 2018
+"16" "�@��qazxc1156892 (QQ)�ݪOTech_Job���D[�s�D] �h�~��o�g�O�x�n�q��800���@���xNo1�ɶ�Sun Jul 29 18:18:20 2018
 
-經濟部昨日發表專題報告指出，台積電為我國研發經費最高的企業，去年研發經費近800
+�g�ٳ��Q��o���M�D���i���X�A�x�n�q���ڰ��o�g�O�̰������~�A�h�~��o�g�O��800
 
-億，以799億元遙遙領先居次的聯發科265億，共6家企業的研發經費超過百億。
-
-
-2017年台積電研發經費成長13.5%，佔營收比8.2%。排名第2的聯發科研發經費卻是年減
-
-8.1%。排名第3的鴻海為137億元，群創122億元第4，聯電121億元，緯創115億元。
+���A�H799������������~�����p�o��265���A�@6�a���~����o�g�O�W�L�ʻ��C
 
 
+2017�~�x�n�q��o�g�O����13.5%�A���禬��8.2%�C�ƦW��2���p�o���o�g�O�o�O�~��
 
-2017年我國製造業上市櫃公司研發經費為4165億元，續創新高， 年增5.3%，主要集中在
-
-電子零組件業(占58.1%)、電腦電子產品及 光學製品業(占29.2%)，兩者合占87.3%，較
-
-2013年增加0.5個百 分點，電力設備業占2.5%，居第3。
+8.1%�C�ƦW��3���E����137�����A�s��122������4�A�p�q121�����A�n��115�����C
 
 
 
-經濟部統計處27日專題報告指出，我國研發經費逐年成長，研發經費由2007年3318億元，
+2017�~�ڰ�s�y�~�W���d���q��o�g�O��4165�����A��зs���A �~�W5.3%�A�D�n�����b
 
-一路攀升至2016年達5414 億元，平均每年成長5.6%。研發經費之投入以企業部門為主，
+�q�l�s�ե�~(�e58.1%)�B�q���q�l���~�� ���ǻs�~�~(�e29.2%)�A��̦X�e87.3%�A��
 
-投入金額佔整體研發比重持續攀升，2016年達77.6%，較2007年增加8.4個百分點，政府部
-
-門占 13.1%，減5.2個百分點。
+2013�~�W�[0.5�Ӧ� ���I�A�q�O�]�Ʒ~�e2.5%�A�~��3�C
 
 
 
-2017年我國製造業上市櫃公司之研發經費佔營收比率為2.47%，為歷年新高，有助於推升
+�g�ٳ��έp�B27��M�D���i���X�A�ڰ��o�g�O�v�~�����A��o�g�O��2007�~3318�����A
 
-產業成長動能及競爭力；其中電子零組件業 為6.23%，呈向上攀升趨勢，較上年增加0.21
+�@���k�ɦ�2016�~�F5414 �����A�����C�~����5.6%�C��o�g�O����J�H���~�������D�A
 
-個百分點，主因台積電及聯發科均較上年提升，貢獻較多。
+��J���B�������o�񭫫����k�ɡA2016�~�F77.6%�A��2007�~�W�[8.4�Ӧʤ��I�A�F����
 
-
-
-2016年全球研發經費排名美國為5111億美元，排名第一，中國大陸4,512億美元居次，日
-
-本1,686億美元，居第3。
+���e 13.1%�A��5.2�Ӧʤ��I�C
 
 
 
-我國研發經費佔GDP比率於2013年達到3%，2016年升至3.16% ，高於上年3.05%。 與主要
+2017�~�ڰ�s�y�~�W���d���q����o�g�O���禬��v��2.47%�A�����~�s���A���U�����
 
-國家相比，2016年我國首度超越日本之3.14%，也高於美國 之2.74%、中國大陸之2.12%，
+���~�����ʯ���v���O�F�䤤�q�l�s�ե�~ ��6.23%�A�e�V�W�k���ͶաA���W�~�W�[0.21
 
-低於南韓之4.24%。
-
-
-
-2016年我國企業部門研發經費達4,200億元，創歷年新高，就行業別觀察，以電腦電子及
-
-光學製品業(含電子零組件業)最高，佔 73.0%，其他機械設備業、化學材料及化學製品業
-
-、電力設備業、 藥品醫用化學及植物製品業各佔2~3%。
+�Ӧʤ��I�A�D�]�x�n�q���p�o�짡���W�~���ɡA�^�m���h�C
 
 
 
-我國、南韓、中國大陸均以電腦電子及光學產品製造業投入研發經費最多，我國行業集中
+2016�~���y��o�g�O�ƦW���ꬰ5111�������A�ƦW�Ĥ@�A����j��4,512�������~���A��
 
-度較高；日本2016年以汽車業研發投入居首位，佔26.2%，電腦電子及光學產品業居次，
-
-佔9.7%。（林巧雁／台北報導）
+��1,686�������A�~��3�C
 
 
 
-新聞來源: https://goo.gl/drbJ54
+�ڰ��o�g�O��GDP��v��2013�~�F��3%�A2016�~�ɦ�3.16% �A����W�~3.05%�C �P�D�n
 
---
-生命的意義在不斷尋找樂趣
-生活的樂趣在不斷了解生命
+��a�ۤ�A2016�~�ڰꭺ�׶W�V�饻��3.14%�A�]������� ��2.74%�B����j����2.12%�A
+
+�C��n����4.24%�C
+
+
+
+2016�~�ڰ���~������o�g�O�F4,200�����A�о��~�s���A�N��~�O�[��A�H�q���q�l��
+
+���ǻs�~�~(�t�q�l�s�ե�~)�̰��A�� 73.0%�A��L����]�Ʒ~�B�ƾǧ��ƤΤƾǻs�~�~
+
+�B�q�O�]�Ʒ~�B �ī~��ΤƾǤδӪ��s�~�~�U��2~3%�C
+
+
+
+�ڰ�B�n���B����j�����H�q���q�l�Υ��ǲ��~�s�y�~��J��o�g�O�̦h�A�ڰ��~����
+
+�׸����F�饻2016�~�H�T���~��o��J�~����A��26.2%�A�q���q�l�Υ��ǲ��~�~�~���A
+
+��9.7%�C�]�L�������x�_���ɡ^
+
+
+
+�s�D�ӷ�: https://goo.gl/drbJ54
 
 --
-※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 182.233.154.8
-※ 文章網址: https://www.ptt.cc/bbs/Tech_Job/M.1532859505.A.82B.html
-推 vinsanity25: 十 07/29 18:25
-→ jksen: 斷! 07/29 18:27
-推 soaping: 水! 07/29 18:28
-推 godog: 看到 群創 緯創 就知道可信度不高 07/29 18:32
-推 fanfantu2016: 包子讚讚讚 07/29 18:32
-推 spirit119: 十 07/29 18:32
-推 cplusplus426: 緯創那麼高喔 07/29 18:34
-噓 SaintsRow: 包子最好有在研發 07/29 18:55
-推 m0955: 廢物海邊 07/29 18:59
-噓 mliao: 鴻海也有??  根本灌水買榜 07/29 19:00
-推 Lindeman5566: 包子讚讚讚  包子師傅熱愛開發，市場Z多 07/29 19:20
-推 louispasteur: 不是都叫機台跟材料商研發嗎 800億電話費 07/29 20:11
-推 gj942l41l4: 要先說研發經費包含什麼啊 07/29 20:39
-推 chiuwey: 推800yeee電話費XD 07/29 21:26
-→ MasterChang: 不是台積電太高，是台灣其他公司太魯。 07/29 22:47
-推 ggggggh: 買機台的錢吧 07/29 22:52
-推 Jerry469: 電話費笑了 07/29 23:09
-推 Demonic1013: 還是代* 07/29 23:56
+�ͩR���N�q�b���_�M��ֽ�
+�ͬ����ֽ�b���_�F�ѥͩR
+
+--
+�� �o�H��: �����~�{(ptt.cc), �Ӧ�: 182.233.154.8
+�� �峹���}: https://www.ptt.cc/bbs/Tech_Job/M.1532859505.A.82B.html
+�� vinsanity25: �Q 07/29 18:25
+�� jksen: �_! 07/29 18:27
+�� soaping: ��! 07/29 18:28
+�� godog: �ݨ� �s�� �n�� �N���D�i�H�פ��� 07/29 18:32
+�� fanfantu2016: �]�l�g�g�g 07/29 18:32
+�� spirit119: �Q 07/29 18:32
+�� cplusplus426: �n�Ш��򰪳� 07/29 18:34
+�N SaintsRow: �]�l�̦n���b��o 07/29 18:55
+�� m0955: �o������ 07/29 18:59
+�N mliao: �E���]��??  �ڥ�����R�] 07/29 19:00
+�� Lindeman5566: �]�l�g�g�g  �]�l�v�ż��R�}�o�A����Z�h 07/29 19:20
+�� louispasteur: ���O���s���x����ưӬ�o�� 800���q�ܶO 07/29 20:11
+�� gj942l41l4: �n������o�g�O�]�t����� 07/29 20:39
+�� chiuwey: ��800yeee�q�ܶOXD 07/29 21:26
+�� MasterChang: ���O�x�n�q�Ӱ��A�O�x�W��L���q�Ӿ|�C 07/29 22:47
+�� ggggggh: �R���x�����a 07/29 22:52
+�� Jerry469: �q�ܶO���F 07/29 23:09
+�� Demonic1013: �٬O�N* 07/29 23:56
+�� goheihaley: �ܦn�� �ĥ��N�u�|�� ��o���|�@�I�^�m�]�S 07/30 01:09
+�� ZhuBeiCity: �p�o��Q�x�n�q�]�Ƥu�{�v�a���� 07/30 06:35
+�� ZhuBeiCity: ��o�g�O�]�t�Ӧh�F�a 07/30 06:35
+�� amethystboy: �u���e2�W�i�H 07/30 07:28
+�� leoqoopili: gg����o�H 07/30 08:08
+�� WeCanGo: ��gg�S��o�O��ժ��H 07/30 08:21
+�� cobrasgo: �ݨ�N�u�G�r�N����F�a�K 07/30 12:08
+�� NTHU701631: �h�ê����ӨS���b���������~�W�Z�L�a~ 07/30 12:12
 "
 "17" NA
 "18" NA
-"19" "作者zoeqa (拉拉烏)看板Tech_Job標題[問卷]台灣敏捷軟體開發的成功因素時間Sun Jul 29 19:03:47 2018
-各位Tech Job的前輩們好
+"19" "�@��zoeqa (�ԩԯQ)�ݪOTech_Job���D[�ݨ�]�x�W�ӱ��n��}�o�����\�]���ɶ�Sun Jul 29 19:03:47 2018
+�U��Tech Job���e���̦n
 
-晚輩的畢業論文需要一些幫助，主題是台灣敏捷軟體開發的成功因素
-，由於有受測者背景限制，必須曾經有相關敏捷軟體開發經驗的台灣人，
-晚輩深知各位前輩工作非常忙碌，但各位前輩有空的話，
-懇請希望各位幫小弟一個忙，並給晚輩一個機會，撥允填寫一下調查問卷，
-本研究需要在八月三日前收集到150-200的回覆量，
-您的填寫不僅將對晚輩有著莫大的幫助，也對學術作出了貢獻，
-晚輩也將永遠感激，如有冒昧晚輩先說聲抱歉，再次感謝。
+�߽������~�פ�ݭn�@�����U�A�D�D�O�x�W�ӱ��n��}�o�����\�]��
+�A�ѩ󦳨����̭I������A�������g�������ӱ��n��}�o�g�窺�x�W�H�A
+�߽��`���U��e���u�@�D�`���L�A���U��e�����Ū��ܡA
+���ЧƱ�U�����p�̤@�Ӧ��A�õ��߽��@�Ӿ��|�A������g�@�U�լd�ݨ��A
+����s�ݭn�b�K��T��e������150-200���^�жq�A
+�z����g���ȱN��߽����۲��j�����U�A�]��ǳN�@�X�F�^�m�A
+�߽��]�N�û��P�E�A�p���_�N�߽������n��p�A�A���P�¡C
 
-問卷題目：台灣敏捷軟體開發的成功因素
-研究目的：本研究想探討台灣敏捷軟體從業人員對於採用敏捷軟體開發時，
-當中影響其專案成功因素的看法
-填答條件：曾經有相關『敏捷』軟體開發經驗的台灣人，
-可為PM，工程師，設計師，測試人員任何在有採用敏捷軟體開發團隊裡面的人都適用
+�ݨ��D�ءG�x�W�ӱ��n��}�o�����\�]��
+��s�ت��G����s�Q���Q�x�W�ӱ��n��q�~�H�����ĥαӱ��n��}�o�ɡA
+�����v�T��M�צ��\�]�����ݪk
+�񵪱���G���g�������y�ӱ��z�n��}�o�g�窺�x�W�H�A
+�i��PM�A�u�{�v�A�]�p�v�A���դH������b���ĥαӱ��n��}�o�ζ��̭����H���A��
 
-問卷時間約莫十分鐘！
-點選以下連結可開始！
+�ݨ��ɶ������Q�����I
+�I��H�U�s���i�}�l�I
 https://goo.gl/forms/UAyFjA8zaPnB5zlc2
 
 --
-※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 31.205.227.148
-※ 文章網址: https://www.ptt.cc/bbs/Tech_Job/M.1532862230.A.D1F.html
-推 xam: 題目訂錯了, 你題目反過來問才會有比較多案例可以研究 07/29 19:21
-推 Beramode: 失敗因素 07/29 19:42
-推 za755188: 我也覺得你題目訂錯了哈哈哈y 07/29 19:52
-→ bcew: 題目反了+1^^ 07/29 20:03
-謝謝各位前輩的建議，我知道失敗的案例也有很多，不過問卷裡面有很多因素，比較少人支持的就可能是跟成功是相反的，希望前輩們多多幫忙，晚輩心存感激，下次會研究失敗因素，晚輩敬上
-※ 編輯: zoeqa (31.205.227.148), 07/29/2018 20:20:32
-→ cactus1021: 題目反了，孩子 07/29 20:17
-推 ywbBetter: 失敗因素要求人少又要產出快比敏捷還要敏捷只是蟲抓不 07/29 20:20
-→ ywbBetter: 完 07/29 20:20
-推 Hecc: 敏捷自助餐比較多 07/29 20:22
-→ yolasiku: 有成功？ 07/29 20:23
-※ 編輯: zoeqa (31.205.227.148), 07/29/2018 20:25:47
-推 Nginx: 老實說....還滿想知道成功的案例.... 07/29 20:42
-→ ChungLi5566: 只有小案子才可能成功吧 07/29 20:46
-推 iq1000x: 加油 感覺很難收 而且你研究室要找一件事情的因素 07/29 21:48
-→ iq1000x: 最後解釋力不能太低 變數應該很多 這樣150-200份感覺不太 07/29 21:49
-→ iq1000x: 夠 07/29 21:49
-麻煩前輩支援了，小弟沒有什麼P幣能給貢獻的，但我會感激在心並幫助下一位需要幫助的人
-※ 編輯: zoeqa (31.205.227.148), 07/29/2018 22:04:17
-※ 編輯: zoeqa (31.205.227.148), 07/29/2018 22:14:59
-→ gcnet: 永遠都在第1個循環做改善 07/29 22:41
-→ gcnet: 當1張驗收單要20人簽名的時候 07/29 22:44
-推 now99: 一直追求速度bug單多到爆 07/30 00:19
+�� �o�H��: �����~�{(ptt.cc), �Ӧ�: 31.205.227.148
+�� �峹���}: https://www.ptt.cc/bbs/Tech_Job/M.1532862230.A.D1F.html
+�� xam: �D�حq���F, �A�D�ؤϹL�Ӱݤ~�|������h�רҥi�H��s 07/29 19:21
+�� Beramode: ���Ѧ]�� 07/29 19:42
+�� za755188: �ڤ]ı�o�A�D�حq���F������y 07/29 19:52
+�� bcew: �D�ؤϤF+1^^ 07/29 20:03
+���¦U��e������ĳ�A�ڪ��D���Ѫ��רҤ]���ܦh�A���L�ݨ��̭����ܦh�]���A����֤H������N�i��O�򦨥\�O�ۤϪ��A�Ʊ�e���̦h�h�����A�߽��ߦs�P�E�A�U���|��s���Ѧ]���A�߽��q�W
+�� �s��: zoeqa (31.205.227.148), 07/29/2018 20:20:32
+�� cactus1021: �D�ؤϤF�A�Ĥl 07/29 20:17
+�� ywbBetter: ���Ѧ]���n�D�H�֤S�n���X�֤�ӱ��٭n�ӱ��u�O�Χ줣 07/29 20:20
+�� ywbBetter: �� 07/29 20:20
+�� Hecc: �ӱ��ۧU�\����h 07/29 20:22
+�� yolasiku: �����\�H 07/29 20:23
+�� �s��: zoeqa (31.205.227.148), 07/29/2018 20:25:47
+�� Nginx: �ѹ껡....�ٺ��Q���D���\���ר�.... 07/29 20:42
+�� ChungLi5566: �u���p�פl�~�i�ন�\�a 07/29 20:46
+�� iq1000x: �[�o �Pı������ �ӥB�A��s�ǭn��@��Ʊ����]�� 07/29 21:48
+�� iq1000x: �̫�����O����ӧC �ܼ����ӫܦh �o��150-200���Pı���� 07/29 21:49
+�� iq1000x: �� 07/29 21:49
+�·Ыe���䴩�F�A�p�̨S������P���൹�^�m���A���ڷ|�P�E�b�ߨ����U�U�@��ݭn���U���H
+�� �s��: zoeqa (31.205.227.148), 07/29/2018 22:04:17
+�� �s��: zoeqa (31.205.227.148), 07/29/2018 22:14:59
+�� gcnet: �û����b��1�Ӵ`�����ﵽ 07/29 22:41
+�� gcnet: ��1�i�禬��n20�Hñ�W���ɭ� 07/29 22:44
+�� now99: �@���l�D�t��bug��h���z 07/30 00:19
+�� dewater: �A�i�H�h�X�ݥx�s richart�������� 07/30 01:44
+�� dewater: https://goo.gl/GRA4rT 07/30 01:44
+�� dantevergil: �b�x�W��²�� 07/30 09:10
+�� nickboy: �D�حq���F�A�Pı������� 07/30 09:27
+�� lichai: ���Y�s100���ݨ��������^�ӡA�o�g�פ�ϦӤ���n�g 07/30 10:28
+�� lichai: �o���D�����ӥ�case study 07/30 10:29
+�� songacowbe: �N������H�]�ӱ�,�@�ˬO�Sԣ�Ĳv,�]���W�椣�_�ܤ� 07/30 12:00
+�� songacowbe: PM�u�|�n�i��,�n����N�~��Q���~��}�|,��ꤣ�ӱ� 07/30 12:01
 "
 "20" NA
 "21" NA
-"22" "作者mandibular (顎的)看板Tech_Job標題[討論] 在gg當設備大概是什麼感覺？時間Sun Jul 29 19:32:48 2018
+"22" "�@��mandibular (�E��)�ݪOTech_Job���D[�Q��] �bgg���]�Ƥj���O����Pı�H�ɶ�Sun Jul 29 19:32:48 2018
 
-安安大家好 小弟去年剛畢業 在一家記憶體廠當設備
+�w�w�j�a�n �p�̥h�~�貦�~ �b�@�a�O����t���]��
 
-聽前輩說 在gg當設備很爽 因為幾乎都有簽contract 機台一壞掉call vendor就對了
+ť�e���� �bgg���]�ƫܲn �]���X�G����ñcontract ���x�@�a��call vendor�N��F
 
-連foup卡在port上都可以call vendor來搬之類的
+�sfoup�d�bport�W���i�Hcall vendor�ӷh������
 
-Pm幾乎都是助工在做的 gg的設備大部分只負責出report
+Pm�X�G���O�U�u�b���� gg���]�Ƥj�����u�t�d�Xreport
 
-請問是真的嗎？
+�аݬO�u���ܡH
 
-有沒有在gg的設備工程師可以介紹一下貴公司的生態？
+���S���bgg���]�Ƥu�{�v�i�H���Ф@�U�Q���q���ͺA�H
 -----
 Sent from JPTT on my iPhone
 
 --
-※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 110.50.143.93
-※ 文章網址: https://www.ptt.cc/bbs/Tech_Job/M.1532863970.A.348.html
-※ 編輯: mandibular (110.50.143.93), 07/29/2018 19:34:26
-推 deltarobot: 能當人就當人吧...... 07/29 19:37
-→ roy831116: 你以為vendor 不會敷衍你嗎 07/29 19:40
-推 Chufavy: 來 先學第一句話 我很忙 07/29 19:42
-噓 CC0303: 對啊超爽的，你說的都對 07/29 19:45
-推 lovebridget: 尊爵 榮耀 不凡的港覺 07/29 19:45
-噓 soi1dsnake: 爽歪了,偷偷跟你說的,千萬不要讓人知道 07/29 19:48
-噓 XiaoJustin: 當你Defect解不掉又掰不出新的理由應付上面 AR多如山 07/29 19:48
-→ XiaoJustin: 時就知道了 07/29 19:48
-推 s110269: 急貨卡在機台內還能等到廠商來嗎? 07/29 19:50
-推 b10342: 快來一起爽阿   缺你一個 07/29 19:51
-→ s110269: 大概像這影片一樣 https://youtu.be/2YfYHx0KzfA 07/29 19:52
-→ s110269: 交漂亮的女友、開好車 07/29 19:52
-噓 j5924524: 對啊，你說的都對，超爽的 07/29 19:52
-推 sai82320: 裡面當狗 外面當大爺 07/29 19:53
-推 ghost008: 大概就是狗王吧 真正的狗是設備商的FAE 或FSE 07/29 19:56
-推 hayato110224: 新竹酒店報你台積的 妹子會貼過來 07/29 19:56
-推 csgod1325: 超爽你都不知道，上班call Asml ;接下來進產線虧妹，下 07/29 20:02
-→ csgod1325: 班前叫Asml出整機報告；然後跟產線妹妹約跑去 07/29 20:02
-推 fg008kimo: 第一年就可以簽大牛或海神  不然就是直接預定房子 07/29 20:05
-→ Kyameron: 你前輩說錯了！因為連Report都可以叫Vendor做 07/29 20:12
-推 zchien: 你適合進來體驗看看 07/29 20:18
-推 Sheamus: 我是客戶的vendor 台積的設備都只能被電假的 07/29 20:19
-推 mlbay: 上班長眼點，不要狀況外，有事快call廠商就對了 07/29 20:23
-推 youkiller: 沒錯啊，但report很難出好嗎？ 07/29 20:28
-→ youkiller: 有人說外商多爽多爽，但FAE都碼巴不得跳GG 07/29 20:29
-→ Santander: 一堆唬爛 去看看停車場 07/29 20:32
-推 et00211: 想跳因為錢多吧 07/29 20:32
-→ Santander: 納智捷佔大宗 07/29 20:33
-推 smile12372: 好想進去 07/29 20:43
-推 angelvictor: 是 07/29 20:46
-推 NTUCS5566: 同學每年去歐洲 女友部分也幫出 07/29 20:56
-推 ntuabcd01: 粉討厭中英夾雜欸，欺負不懂喔 07/29 21:04
-推 WWIII: 國小初戀牽牽小手幸福的感覺 07/29 21:14
-噓 VortexSheet: 不要再豪小了一堆門外漢 07/29 21:23
-推 cplusplus426: 年薪破百 開名車 買房 07/29 21:27
-推 yoursteam: 就坐在外面刷刷CFM 看看漫畫新聞 有alarm摳vendor 累了 07/29 21:31
-→ yoursteam: 趴一下 交接前再打個電話問一下 然後 交接的很像有進去 07/29 21:31
-→ yoursteam: 看一樣 這麼簡單還不去丟履歷嘛 07/29 21:31
-噓 faust218243: 影片真假..設備人最好那麼好相處絕對是狗幹妳報告打 07/29 21:42
-→ faust218243: 到你倒 07/29 21:42
-推 owen5566: 朋友說gg設備都可以吃下午茶 超爽der 07/29 21:49
-→ JamesForrest: 工作一年就可以買車, hearsay 07/29 21:50
-推 JustWinslow: 工作一年買車 五年買房 十年退休 老婆ig追蹤破5000 07/29 22:16
-→ JustWinslow: 的那種 07/29 22:16
-→ Roderickey: 樓上錯了 極品的是低調的正妹 07/29 22:22
-→ Roderickey: 最好都沒什麼人認識也沒什麼朋友的 07/29 22:23
-推 ZXCWS: 哈哈 真的阿 Report都可以叫Vendor做 07/29 22:24
-推 ksvs73010182: 小弟vendor經驗 GG設備天兵連板手不見都要call你 07/29 22:31
-→ ksvs73010182: 有心的設備會自己去瞭解機台製程 沒心的只會撩妹靠 07/29 22:31
-→ ksvs73010182: 北vendor不夠力 呵呵過幾年如果離開GG還剩什麼 07/29 22:32
-→ ksvs73010182: 外商設備如果對上GG賽到不能再賽 別再被本版學生神 07/29 22:34
-→ ksvs73010182: 話有多爽了... 領別人少錢還這麼幹XD 07/29 22:34
-推 Jerry469: 連板手丟都要call xdddd。真的很會凹 07/29 22:36
-推 EOECLOT: 電腦程式重開 也被CALL過 超北爛 07/29 22:39
-推 a8989332: 不管啦 影片的包裝就是符合愛推GG的鄉民們 07/29 23:17
-推 kayhung8211: 台積的企業文化 就算廠長級也不會開海神上班好嗎... 07/29 23:18
-→ kayhung8211: 頂多買台中階雙B而已 07/29 23:18
-→ fanix21: 重開整批怕報廢推給vendor 吧 07/29 23:24
-推 Sorry5566: 真的超爽...就call vendor來幫忙洗殘廢澡 07/29 23:25
-推 defendor007: 沒錯沒錯 真的是醬喔 07/29 23:28
-推 lponnn: 推call vendor洗殘廢澡 我學長就做過 07/29 23:28
-噓 wzmildf: 媽的我聽過GG設備連initial都不敢按... 07/29 23:35
-噓 lp123gbaj: 還可以call vendor叫vendor幫你吹  超爽 07/29 23:37
-推 marksin: 當你連夢話都在報告機台回線的時候就神功大成了... 07/30 00:09
-推 Demonic1013: GG設備，哈哈 07/30 00:12
-推 kizfunk: 蝕刻設備，哈哈 07/30 00:20
-推 POCARI5566: 很屎好不好 每天都要進產線挑要上哪個挑12小時 血汗!! 07/30 00:21
+�� �o�H��: �����~�{(ptt.cc), �Ӧ�: 110.50.143.93
+�� �峹���}: https://www.ptt.cc/bbs/Tech_Job/M.1532863970.A.348.html
+�� �s��: mandibular (110.50.143.93), 07/29/2018 19:34:26
+�� deltarobot: ����H�N���H�a...... 07/29 19:37
+�� roy831116: �A�H��vendor ���|�ŭl�A�� 07/29 19:40
+�� Chufavy: �� ���ǲĤ@�y�� �ګܦ� 07/29 19:42
+�N CC0303: ��ڶW�n���A�A�������� 07/29 19:45
+�� lovebridget: �L�� �aģ ���Z����ı 07/29 19:45
+�N soi1dsnake: �n�n�F,������A����,�d�U���n���H���D 07/29 19:48
+�N XiaoJustin: ���ADefect�Ѥ����S�T���X�s���z�����I�W�� AR�h�p�s 07/29 19:48
+�� XiaoJustin: �ɴN���D�F 07/29 19:48
+�� s110269: ��f�d�b���x���ٯ൥��t�ӨӶ�? 07/29 19:50
+�� b10342: �֨Ӥ@�_�n��   �ʧA�@�� 07/29 19:51
+�� s110269: �j�����o�v���@�� https://youtu.be/2YfYHx0KzfA 07/29 19:52
+�� s110269: ��}�G���k�͡B�}�n�� 07/29 19:52
+�N j5924524: ��ڡA�A��������A�W�n�� 07/29 19:52
+�� sai82320: �̭����� �~�����j�� 07/29 19:53
+�� ghost008: �j���N�O�����a �u�������O�]�ưӪ�FAE ��FSE 07/29 19:56
+�� hayato110224: �s�˰s�����A�x�n�� �f�l�|�K�L�� 07/29 19:56
+�� csgod1325: �W�n�A�������D�A�W�Zcall Asml ;���U�Ӷi���u���f�A�U 07/29 20:02
+�� csgod1325: �Z�e�sAsml�X������i�F�M��򲣽u�f�f���]�h 07/29 20:02
+�� fg008kimo: �Ĥ@�~�N�i�Hñ�j���ή���  ���M�N�O�����w�w�Фl 07/29 20:05
+�� Kyameron: �A�e�������F�I�]���sReport���i�H�sVendor�� 07/29 20:12
+�� zchien: �A�A�X�i������ݬ� 07/29 20:18
+�� Sheamus: �ڬO�Ȥ᪺vendor �x�n���]�Ƴ��u��Q�q���� 07/29 20:19
+�� mlbay: �W�Z�����I�A���n���p�~�A���Ƨ�call�t�ӴN��F 07/29 20:23
+�� youkiller: �S���ڡA��report�����X�n�ܡH 07/29 20:28
+�� youkiller: ���H���~�Ӧh�n�h�n�A��FAE���X�ڤ��o��GG 07/29 20:29
+�� Santander: �@����� �h�ݬݰ����� 07/29 20:32
+�� et00211: �Q���]�����h�a 07/29 20:32
+�� Santander: �Ǵ������j�v 07/29 20:33
+�� smile12372: �n�Q�i�h 07/29 20:43
+�� angelvictor: �O 07/29 20:46
+�� NTUCS5566: �P�ǨC�~�h�ڬw �k�ͳ����]���X 07/29 20:56
+�� ntuabcd01: ���Q�����^�����١A�ۭt������ 07/29 21:04
+�� WWIII: ��p���ʲo�o�p�⩯�֪��Pı 07/29 21:14
+�N VortexSheet: ���n�A���p�F�@����~�~ 07/29 21:23
+�� cplusplus426: �~�~�}�� �}�W�� �R�� 07/29 21:27
+�� yoursteam: �N���b�~�����CFM �ݬݺ��e�s�D ��alarm��vendor �֤F 07/29 21:31
+�� yoursteam: �w�@�U �汵�e�A���ӹq�ܰݤ@�U �M�� �汵���ܹ����i�h 07/29 21:31
+�� yoursteam: �ݤ@�� �o��²���٤��h��i���� 07/29 21:31
+�N faust218243: �v���u��..�]�ƤH�̦n����n�۳B����O���F�p���i�� 07/29 21:42
+�� faust218243: ��A�� 07/29 21:42
+�� owen5566: �B�ͻ�gg�]�Ƴ��i�H�Y�U�ȯ� �W�nder 07/29 21:49
+�� JamesForrest: �u�@�@�~�N�i�H�R��, hearsay 07/29 21:50
+�� JustWinslow: �u�@�@�~�R�� ���~�R�� �Q�~�h�� �ѱCig�l�ܯ}5000 07/29 22:16
+�� JustWinslow: ������ 07/29 22:16
+�� Roderickey: �ӤW���F ���~���O�C�ժ����f 07/29 22:22
+�� Roderickey: �̦n���S����H�{�Ѥ]�S����B�ͪ� 07/29 22:23
+�� ZXCWS: ���� �u���� Report���i�H�sVendor�� 07/29 22:24
+�� ksvs73010182: �p��vendor�g�� GG�]�ƤѧL�s�O�⤣�����ncall�A 07/29 22:31
+�� ksvs73010182: ���ߪ��]�Ʒ|�ۤv�h�A�Ѿ��x�s�{ �S�ߪ��u�|���f�a 07/29 22:31
+�� ksvs73010182: �_vendor�����O �����L�X�~�p�G���}GG�ٳѤ��� 07/29 22:32
+�� ksvs73010182: �~�ӳ]�Ʀp�G��WGG�ɨ줣��A�� �O�A�Q�����ǥͯ� 07/29 22:34
+�� ksvs73010182: �ܦ��h�n�F... ��O�H�ֿ��ٳo��FXD 07/29 22:34
+�� Jerry469: �s�O��᳣�ncall xdddd�C�u���ܷ|�W 07/29 22:36
+�� EOECLOT: �q���{�����} �]�QCALL�L �W�_�� 07/29 22:39
+�� a8989332: ���ް� �v�����]�˴N�O�ŦX�R��GG���m���� 07/29 23:17
+�� kayhung8211: �x�n�����~��� �N��t���Ť]���|�}�����W�Z�n��... 07/29 23:18
+�� kayhung8211: ���h�R�x������B�Ӥw 07/29 23:18
+�� fanix21: ���}���ȳ��o����vendor �a 07/29 23:24
+�� Sorry5566: �u���W�n...�Ncall vendor�������~�ݼo�� 07/29 23:25
+�� defendor007: �S���S�� �u���O��� 07/29 23:28
+�� lponnn: ��call vendor�~�ݼo�� �ھǪ��N���L 07/29 23:28
+�N wzmildf: ������ť�LGG�]�Ƴsinitial��������... 07/29 23:35
+�N lp123gbaj: �٥i�Hcall vendor�svendor���A�j  �W�n 07/29 23:37
+�� marksin: ���A�s�ڸܳ��b���i���x�^�u���ɭԴN���\�j���F... 07/30 00:09
+�� Demonic1013: GG�]�ơA���� 07/30 00:12
+�� kizfunk: �k��]�ơA���� 07/30 00:20
+�� POCARI5566: �ܫ˦n���n �C�ѳ��n�i���u�D�n�W���ӬD12�p�� �妽!! 07/30 00:21
+�N st0809466: �믫�ɥ��Ϊ� �U�Z���ѤF���Ѧb�F�� 07/30 00:26
+�� oxygenlucky7: �o��n�٤@��H�����ӡH�٩Ȥ@��]�Ʋר��]�ơH�� 07/30 00:28
+�� oxygenlucky7: �����¾���D�F���H�n�F��h��N�n�� 07/30 00:28
+�� juangpeiyi: �A�����X�G�����O�ƹ�  �ӷP���j���N�O�Q�^���F �F�� 07/30 01:17
+�� juangpeiyi: ���� 07/30 01:17
+�N GMQQQ: �u���ܲn�AGG�]�Ƴ����۷F�� 07/30 03:09
+�� GMQQQ: �֨� 07/30 03:10
+�N SMDB: GG���۳Q�Y 07/30 04:11
+�� aadsl: �A�H��call�t�� �t�Ӱ��W�N�|�Ӷ�? 07/30 06:45
+�� mc2834: ���򳣼t�ӡA���٭n�ЧA�ӷF���H 07/30 08:24
+�� hbkhhhdx2006: �Ш�call�t�� 07/30 08:34
+�� hooorb: �ڬݹL�]�Ƥu�{�v���@���ŷ��U�u... 07/30 09:50
+�� piolet: ���b��W  �Y�W�|�o�X���~ 07/30 10:03
+�N biged: D�� 07/30 10:19
+�N ladisign: �n ��<U+9EBD>��<U+9EBD>�n �n����¾ �ܨ������U¾�� 07/30 10:53
+�� thumbe57068: �p�G�O�̷s���t �i��O�o�� ��L�N��F 07/30 11:29
+�� melove: ���i�H�H�ɨӳo�̬�PTT�^��F�A�o���ٺ⤣���n��!? 07/30 12:40
 "
 "23" NA
 "24" NA
-"25" "作者nnlisalive (nnlisalive)看板Tech_Job標題Re: [新聞] AI時代職業發展兩極化 一技之長是贏家關鍵時間Sun Jul 29 20:47:42 2018
-※ 引述《oopFoo (3d)》之銘言：
-: 大部分的人不懂AI,就算是科技業的人。有聽過
+"25" "�@��nnlisalive (nnlisalive)�ݪOTech_Job���DRe: [�s�D] AI�ɥN¾�~�o�i�ⷥ�� �@�ޤ����OĹ�a����ɶ�Sun Jul 29 20:47:42 2018
+�� �ޭz�moopFoo (3d)�n���ʨ��G
+: �j�������H����AI,�N��O��޷~���H�C��ť�L
 : Moravec's paradox?
-: 基本上就是我們認為難的，高端的，其實對電腦很簡單，例如大量運算，下圍棋，
-: 高端邏輯。我們認為很簡單的sensorimotor skills, 其實反而需要龐大的運算。
-: 結論就是，律師，工程師，設計師，甚至醫師會先被取代。技工，清潔工，護士，
-: 需要勞動力的，反而是AI，Robotic的弱點，是無法取代。
-: 就像自動駕駛，每年花幾百億的研發費用，開車還沒三寶開的好。
-: 更不用講，更需要技術的二輪車。
-: Boston dynamics的蠢狗，也是不知n年後，才真正有可能有用。
-: 所以台灣慣老闆想要的無人自動化工廠，反而是最後才有可能實現。
-: 今天或明天的低薪環境，其實還是政策的原因，請不要怪罪到AI.
+: �򥻤W�N�O�ڭ̻{�������A���ݪ��A����q����²��A�Ҧp�j�q�B��A�U��ѡA
+: �����޿�C�ڭ̻{����²�檺sensorimotor skills, ���Ϧӻݭn�e�j���B��C
+: ���״N�O�A�߮v�A�u�{�v�A�]�p�v�A�Ʀ���v�|���Q���N�C�ޤu�A�M��u�A�@�h�A
+: �ݭn�ҰʤO���A�ϦӬOAI�ARobotic���z�I�A�O�L�k���N�C
+: �N���۰ʾr�p�A�C�~��X�ʻ�����o�O�ΡA�}���٨S�T�_�}���n�C
+: �󤣥����A��ݭn�޳N���G�����C
+: Boston dynamics�������A�]�O����n�~��A�~�u�����i�঳�ΡC
+: �ҥH�x�W�D����Q�n���L�H�۰ʤƤu�t�A�ϦӬO�̫�~���i���{�C
+: ���ѩΩ��Ѫ��C�~���ҡA����٬O�F������]�A�Ф��n�Ǹo��AI.
 
-我認為不是高端低端誰會被取代
+�ڻ{�����O���ݧC�ݽַ|�Q���N
 
-理論上經過學習後的AI可以取代任何行業 所以不會一次性全部取代
+�z�פW�g�L�ǲ᪺߫AI�i�H���N�����~ �ҥH���|�@���ʥ������N
 
-而是人類認為那一種工作很需要被取代 該項工作就會先被取代
+�ӬO�H���{�����@�ؤu�@�ܻݭn�Q���N �Ӷ��u�@�N�|���Q���N
 
-背後有成本 技術 法律 倫理...很多問題要處理
+�I�ᦳ���� �޳N �k�� �۲z...�ܦh���D�n�B�z
 
-拿自駕車來講 其實交通規則設計的很好 路權觀念+號誌標示
+���۾r������ ����q�W�h�]�p���ܦn ���v�[��+���x�Х�
 
-只要每一個人都嚴格遵守交通的\"所有規則\"
+�u�n�C�@�ӤH���Y����u��q��\"�Ҧ��W�h\"
 
-意外事故發生率基本上趨近於零
+�N�~�ƬG�o�Ͳv�򥻤W�ͪ��s
 
-但為啥每天都有一堆交通事故?
+����ԣ�C�ѳ����@���q�ƬG?
 
-你他媽就是有人不好好開車 三寶為何會被稱為三寶?
+�A�L���N�O���H���n�n�}�� �T�_����|�Q�٬��T�_?
 
-因為人家在開汽車 三寶在開碰碰車
+�]���H�a�b�}�T�� �T�_�b�}�I�I��
 
-超速 龜速 蛇行 沒看燈號 亂換車道 違規停車....
+�W�t �t�t �D�� �S�ݿO�� �ô����D �H�W����....
 
-假如現在每一輛車都設計成自駕車 車上的感測器要判斷的東西非常少
+���p�{�b�C�@�������]�p���۾r�� ���W���P�����n�P�_���F��D�`��
 
-還可以跟附近自駕車做通訊 只要系統不故障 絕對不會相撞
+�٥i�H�����۾r�����q�T �u�n�t�Τ��G�� ���藍�|�ۼ�
 
-現在實務上自駕車的難點是 他除了要遵守交通規則
+�{�b��ȤW�۾r�������I�O �L���F�n���u��q�W�h
 
-還有一堆例外處理要做 寫程式最麻煩的就是要寫一堆例外處理
+�٦��@��ҥ~�B�z�n�� �g�{���̳·Ъ��N�O�n�g�@��ҥ~�B�z
 
-這些例外處理是啥? 就是那堆三寶在找麻煩
+�o�Ǩҥ~�B�z�Oԣ? �N�O����T�_�b��·�
 
-但就算這樣 世界上還是很多公司在研發自駕車
+���N��o�� �@�ɤW�٬O�ܦh���q�b��o�۾r��
 
-因為只要自駕車使用率越高 交通意外就會減少
+�]���u�n�۾r���ϥβv�V�� ��q�N�~�N�|���
 
-其實真相就只是避免三寶開車而已 而不是AI很厲害
+���u�۴N�u�O�קK�T�_�}���Ӥw �Ӥ��OAI�ܼF�`
 
-AI要練到可以跟賽車手在賽道上競爭我看還很遠
+AI�n�m��i�H���ɨ���b�ɹD�W�v���ڬ��٫ܻ�
 
-只是我們沒辦法立法來限制三寶開車 只好改讓AI來開
+�u�O�ڭ̨S��k�ߪk�ӭ���T�_�}�� �u�n����AI�Ӷ}
 
 
-張忠謀也講到醫師有可能被取代
+�i���Ѥ]������v���i��Q���N
 
-醫師這麼高度專業的東西怎麼可能被取代?
+��v�o�򰪫ױM�~���F����i��Q���N?
 
-因為醫療醫療上不容許\"失誤\"的存在
+�]�����������W���e�\\"���~\"���s�b
 
-像是判讀X光片 電腦斷層 磁共振影像
+���O�PŪX���� �q���_�h �Ϧ@���v��
 
-AI判讀的正確率可以比人類更高
+AI�PŪ�����T�v�i�H��H����
 
-再來是近年才有的達文西手臂
+�A�ӬO��~�~�����F�����u
 
-現在的控制流程是  醫師手指->達文西手臂->病患
+�{�b������y�{�O  ��v���->�F�����u->�f�w
 
-如果搭配機器學習後 一些簡單的手術應該可以讓達文西手臂自動操作
+�p�G�f�t�����ǲ߫� �@��²�檺��N���ӥi�H���F�����u�۰ʾާ@
 
-像自駕車一樣 以前是人在駕駛 之後是人看著機器駕駛
+���۾r���@�� �H�e�O�H�b�r�p ����O�H�ݵ۾����r�p
 
-醫師只需要在旁邊監看和例外處理 可以降低外科醫師工作量
+��v�u�ݭn�b����ʬݩM�ҥ~�B�z �i�H���C�~����v�u�@�q
 
-一些小感冒之類的小病小痛 AI用一些條件判斷式也能診斷出來
+�@�Ǥp�P�_�������p�f�p�h AI�Τ@�Ǳ���P�_���]��E�_�X��
 
-所以張忠謀又補充 醫術平庸的醫師很可能會被取代
+�ҥH�i���ѤS�ɥR ��N���e����v�ܥi��|�Q���N
 
-因為平庸醫師平常作的工作 AI也會
+�]�����e��v���`�@���u�@ AI�]�|
 
-結論就是
+���״N�O
 
-我認為最該被取代的就是性工作者
+�ڻ{���̸ӳQ���N���N�O�ʤu�@��
 
-Boston dynamics搞什麼蠢狗 後空翻機器人
+Boston dynamics�d�������� ���½�����H
 
-機器人只要會自己站立趴下跟翻身就夠了好嗎
+�����H�u�n�|�ۤv���߭w�U��½���N���F�n��
 
-剩下的是外觀! 外觀非常重要阿!
+�ѤU���O�~�[! �~�[�D�`���n��!
 
-看哪一家最先開發出由里亞100式
+�ݭ��@�a�̥��}�o�X�Ѩ���100��
 
-市值絕對大於Apple+Alphabet+Microsoft+Amazon+Facebook
+���ȵ���j��Apple+Alphabet+Microsoft+Amazon+Facebook
 
-好機器人 能不買嗎?
+�n�����H �ण�R��?
 
 --
-※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 36.238.102.83
-※ 文章網址: https://www.ptt.cc/bbs/Tech_Job/M.1532868465.A.188.html
-推 yougigun: 前面害我很認真看 後面是... 07/29 21:06
-推 CCOOGG: xd 前面真的認真 07/29 21:19
-不好意思>///<
-※ 編輯: nnlisalive (36.238.102.83), 07/29/2018 21:28:09
-推 s860134: 最後真的是遠見 07/29 21:28
-推 GTX9487: 乾XDDDDD 07/29 21:35
-推 abccbaandy: 由里亞100式好像不只會站立趴下跟翻身喔... 07/29 21:41
-推 ECZEMA: 前面那麼認真… 07/29 21:42
-推 a740125: 後面才是真正有價值的東西 07/29 21:45
-推 JamesForrest: 見鬼說鬼話 07/29 21:54
-推 zaiter: 非常正解 能創造價值 才有用 其他ai根本垃圾 跟區塊鍊都是 07/29 21:57
-→ zaiter: 垃圾白癡才會信 07/29 21:57
-推 squard: 前面的觀點正確，後面是怎樣啦 07/29 21:59
-推 eknbz: 前面看得很認真，結果倒數第三行害我笑出來XD 07/29 22:25
-推 Ashiev: 覺得後面那裡可以train個圖像的AI，用VR頂 07/29 22:55
-推 tiuseensii: 醫師駕駛難取代的關鍵在意外責任歸屬。在AI認證/責任 07/29 22:58
-→ tiuseensii: 險未確定以前，適用範圍很有限 07/29 22:58
-推 a8989332: 老司機 07/29 23:57
-推 sdbb: 站立 趴下 跪下 翻身 會下麵 07/29 23:57
-推 kmaster: 醫療的確是，AI缺乏的情緒/靈感反倒是最不需要的部份 07/30 00:01
+�� �o�H��: �����~�{(ptt.cc), �Ӧ�: 36.238.102.83
+�� �峹���}: https://www.ptt.cc/bbs/Tech_Job/M.1532868465.A.188.html
+�� yougigun: �e���`�ګܻ{�u�� �᭱�O... 07/29 21:06
+�� CCOOGG: xd �e���u���{�u 07/29 21:19
+���n�N��>///<
+�� �s��: nnlisalive (36.238.102.83), 07/29/2018 21:28:09
+�� s860134: �̫�u���O���� 07/29 21:28
+�� GTX9487: ��XDDDDD 07/29 21:35
+�� abccbaandy: �Ѩ���100���n�����u�|���߭w�U��½����... 07/29 21:41
+�� ECZEMA: �e������{�u�K 07/29 21:42
+�� a740125: �᭱�~�O�u�������Ȫ��F�� 07/29 21:45
+�� JamesForrest: ���������� 07/29 21:54
+�� zaiter: �D�`���� ��гy���� �~���� ��Lai�ڥ��U�� ��϶��峣�O 07/29 21:57
+�� zaiter: �U����è�~�|�H 07/29 21:57
+�� squard: �e�����[�I���T�A�᭱�O��˰� 07/29 21:59
+�� eknbz: �e���ݱo�ܻ{�u�A���G�˼ƲĤT��`�گ��X��XD 07/29 22:25
+�� Ashiev: ı�o�᭱���̥i�Htrain�ӹϹ���AI�A��VR�� 07/29 22:55
+�� tiuseensii: ��v�r�p�����N������b�N�~�d���k�ݡC�bAI�{��/�d�� 07/29 22:58
+�� tiuseensii: �I���T�w�H�e�A�A�νd��ܦ��� 07/29 22:58
+�� a8989332: �ѥq�� 07/29 23:57
+�� sdbb: ���� �w�U ���U ½�� �|�U�� 07/29 23:57
+�� kmaster: �������T�O�AAI�ʥF������/�F�P�ϭˬO�̤��ݭn������ 07/30 00:01
+�� michaelgodtw: �S���ԴN�O���۰ʤƦ�A��������A�]���L�̧�L�h 07/30 08:23
+�� michaelgodtw: ���귽�b��۰ʤƨ����A���~�����M�` 07/30 08:23
+�� michaelgodtw: ���n���Nԣ���i�H���N�A�A�N�۰ʨ����N�A�A�ݨ��� 07/30 08:24
+�� michaelgodtw: ���A�H���F��֪� 07/30 08:24
 "
 "26" NA
 "27" NA
-"28" "作者Reewalker (報告饅頭班長不夠)看板Tech_Job標題Fw: [新聞] 產能不是台灣面板廠突圍唯一關鍵 技術、時間Sun Jul 29 22:05:45 2018
-※ [本文轉錄自 Reewalker 信箱]
+"28" "�@��Reewalker (���i�C�Y�Z������)�ݪOTech_Job���DFw: [�s�D] ���ण�O�x�W���O�t���ߤ@���� �޳N�B�ɶ�Sun Jul 29 22:05:45 2018
+�� [��������� Reewalker �H�c]
 
-作者: Conector (Conector) 看板: Stock
-標題: [新聞] 產能不是台灣面板廠突圍唯一關鍵 技術、
-時間: Sun Jul 29 21:44:58 2018
+�@��: Conector (Conector) �ݪO: Stock
+���D: [�s�D] ���ण�O�x�W���O�t���ߤ@���� �޳N�B
+�ɶ�: Sun Jul 29 21:44:58 2018
 
 
-1.原文連結：
+1.���s���G
 https://news.cnyes.com/news/id/4174684?exp=a
-2.原文內容：
-隨著中國面板廠新產能陸續開出，未來在面板供需失衡的情況可能成為新常態，台灣面板
-廠面對韓廠及中國面板廠的競爭，如何找到突破口，是近年來業者努力的方向，友達
- (2409-TW) 董事長彭<U+53CC>浪坦言，面板景氣好時大家一起賺，不好時一起虧的時代已過，
-未來要靠三大策略突圍，除產能，技術創新及管理能力都是存活的重要關鍵。
+2.��夺�e�G
+�H�ۤ��ꭱ�O�t�s���೰��}�X�A���Ӧb���O�ѻݥ��Ū����p�i�ন���s�`�A�A�x�W���O
+�t�������t�Τ��ꭱ�O�t���v���A�p�����}�f�A�O��~�ӷ~�̧V�O����V�A�͹F
+ (2409-TW) ���ƪ��^<U+53CC>���Z���A���O����n�ɤj�a�@�_�ȡA���n�ɤ@�_�����ɥN�w�L�A
+���ӭn�a�T�j�������A������A�޳N�зs�κ޲z��O���O�s�������n����C
 
-友達第 2 季財報表現優於市場預期，維持連續 8 季獲利，且連續兩個季度賺嬴韓廠 LGD
-，彭<U+53CC>浪認為，友達採價值轉型策略，在營運相對同業表現較穩定，他表示，產業景氣上
-下起伏難免，旺季過後也要準備未來可能景氣循環的狀況，友達堅持最適規模、價值轉型
-、技術創新三個方向，成果顯現在營運效益上。
+�͹F�� 2 �u�]�����{�u�󥫳��w���A�����s�� 8 �u��Q�A�B�s���өu���Ⱦ����t LGD
+�A�^<U+53CC>���{���A�͹F�Ļ����૬�����A�b��B�۹�P�~���{��í�w�A�L���ܡA���~����W
+�U�_�����K�A���u�L��]�n�ǳƥ��ӥi�ഺ��`�������p�A�͹F�����̾A�W�ҡB�����૬
+�B�޳N�зs�T�Ӥ�V�A���G��{�b��B�įq�W�C
 
-彭<U+53CC>浪指出，在 1-2 年前就提過，已經看到整個面板市場接下來大家走的路會是不一樣
-的，中國大陸走應是以在政策及政府支持下，大規模在產能及規模上面競爭；韓廠除了政
-府以外還有集團力量支持，友達相對於在這部分是比較弱一點，所以就定自己的策略。
+�^<U+53CC>�����X�A�b 1-2 �~�e�N���L�A�w�g�ݨ��ӭ��O�������U�Ӥj�a�������|�O���@��
+���A����j�������O�H�b�F���άF������U�A�j�W�Ҧb����γW�ҤW���v���F���t���F�F
+���H�~�٦����ΤO�q����A�͹F�۹��b�o�����O����z�@�I�A�ҥH�N�w�ۤv�������C
 
-他強調，相對韓國競爭對手這兩季的虧損表現，友達則是維持獲利狀況，主要是在已經投
-資的產線、產品及技術上，在現有規模跟未來適度擴充優質產能規模下，走的不是規模競
-爭的路，走的是價值競爭的路，包括產品、客戶布局或是未來顯示技術布局上，希望能創
-造更多價值。
+�L�j�աA�۹������v�����o��u�����l���{�A�͹F�h�O������Q���p�A�D�n�O�b�w�g��
+�ꪺ���u�B���~�Χ޳N�W�A�b�{���W�Ҹ򥼨ӾA���X�R�u�貣��W�ҤU�A�������O�W���v
+�������A�����O�����v�������A�]�A���~�B�Ȥᥬ���άO������ܧ޳N�����W�A�Ʊ���
+�y��h���ȡC
 
-彭<U+53CC>浪說，未來可能看到，面板產業各家公司應該在不同的階段都會看到一些比較不一樣
-的結果，跟過去景氣好時大家一起賺，不好量大家一起虧的現象可能會比較不太一樣，因
-此，在 3 大策略下友達謹慎的執行，持續在進行，也看到成果。
+�^<U+53CC>�����A���ӥi��ݨ�A���O���~�U�a���q���Ӧb���P�����q���|�ݨ�@�Ǥ�����@��
+�����G�A��L�h����n�ɤj�a�@�_�ȡA���n�q�j�a�@�_�����{�H�i��|������Ӥ@�ˡA�]
+���A�b 3 �j�����U�͹F�ԷV������A����b�i��A�]�ݨ즨�G�C
 
-3.心得/評論：
-管理也是關鍵之一，那是指以前沒管理好嗎
-是那個頭兒這麼遜咖，早就該把他換掉。
-提早發現問題，就不會虧這麼大了
+3.�߱o/���סG
+�޲z�]�O���䤧�@�A���O���H�e�S�޲z�n��
+�O�����Y��o�򻹩@�A���N�ӧ�L�����C
+�����o�{���D�A�N���|���o��j�F
 
 --
-※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 150.116.107.18
-※ 文章網址: https://www.ptt.cc/bbs/Stock/M.1532871901.A.7DB.html
-推 nightwing: 台灣的面板技術早都移轉給中國了   剩下一堆病貓 07/29 21:49
-推 YKM519: 由盛轉衰就是因為抓耙仔三星吧。 就他一個沒被罰反托拉斯 07/29 21:55
-→ YKM519: 的樣子 07/29 21:56
+�� �o�H��: �����~�{(ptt.cc), �Ӧ�: 150.116.107.18
+�� �峹���}: https://www.ptt.cc/bbs/Stock/M.1532871901.A.7DB.html
+�� nightwing: �x�W�����O�޳N�������൹����F   �ѤU�@��f�� 07/29 21:49
+�� YKM519: �Ѳ���I�N�O�]����ҥJ�T�P�a�C �N�L�@�ӨS�Q�@�Ϧ��Դ� 07/29 21:55
+�� YKM519: ���ˤl 07/29 21:56
 
-※ 發信站: 批踢踢實業坊(ptt.cc)
-※ 轉錄者: Reewalker (1.200.198.147), 07/29/2018 22:05:45
-→ bluelive11: 台灣面板bug自己不解決，只會凹供應商想辦法，一屆不 07/29 23:05
-→ bluelive11: 如一屆，只會越來越爛 07/29 23:05
+�� �o�H��: �����~�{(ptt.cc)
+�� �����: Reewalker (1.200.198.147), 07/29/2018 22:05:45
+�� bluelive11: �x�W���Obug�ۤv���ѨM�A�u�|�W�����ӷQ��k�A�@���� 07/29 23:05
+�� bluelive11: �p�@���A�u�|�V�ӶV�� 07/29 23:05
+�� cena9988: �S�v���O���n���򳣩Ǥj���A�S�j���]������j�� 07/30 06:54
 "
 "29" NA
 "30" NA
-"31" "作者hope399331 (手淫救國)看板Tech_Job標題[請益] 面試離職原因說受不了加班可嗎時間Sun Jul 29 22:15:15 2018
-大家好
-小弟最近在新竹東區有個出社會以來第二份工作的面試
-想說應該會問我上一份做的好好的幹嘛離職
-如果直接誠實的跟他說受不了常態性加班到9.10點又沒加班費 會不會被面試主管覺得我很草莓
-這間也是責任制 不過裡面認識的學長說不會常加班 最晚也是到8點多 所以還可接受
+"31" "�@��hope399331 (��]�ϰ�)�ݪOTech_Job���D[�Яq] ������¾��]�������F�[�Z�i�ܮɶ�Sun Jul 29 22:15:15 2018
+�j�a�n
+�p�̳̪�b�s�˪F�Ϧ��ӥX���|�H�ӲĤG���u�@������
+�Q�����ӷ|�ݧڤW�@�������n�n���F����¾
+�p�G�����۹ꪺ��L�������F�`�A�ʥ[�Z��9.10�I�S�S�[�Z�O �|���|�Q���եD��ı�o�ګܯ��
+�o���]�O�d���� ���L�̭��{�Ѫ��Ǫ������|�`�[�Z �̱ߤ]�O��8�I�h �ҥH�٥i����
 
 --
-※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 175.96.114.242
-※ 文章網址: https://www.ptt.cc/bbs/Tech_Job/M.1532873717.A.F99.html
-→ avgirl: 就說沒照勞基法就好啦 07/29 22:16
-→ avgirl: 如果這家就是偷吃步，你進去還不是一樣離職 ~ 07/29 22:17
-推 barry610171: 離職原因都是最難跨過的 07/29 22:17
-推 Roderickey: 你要說每天回家要有時間充電 對自己對公司都好 07/29 22:18
-→ Roderickey: 隔天上班狀態才會好 白天效率才會高 07/29 22:18
-→ Roderickey: 如果因為這樣不錄取也剛好過濾掉 07/29 22:18
-推 Roderickey: 建議自己的中心思想不要在面試的時候為了錄取而違背 07/29 22:21
-→ Roderickey: 對自己對公司都不好 07/29 22:21
-推 cplusplus426: 可以 07/29 22:23
-→ cplusplus426: 但最好婉轉一點說 07/29 22:23
-推 ksxo: 大家都說不要講前公司的壞話 可是之前面試我說是覺得貴公司 07/29 22:27
-→ t64141: 實話實說，不然進去不久又要離職也是浪費時間 07/29 22:28
-→ ksxo: 有前景 業務也比較有興趣 這樣不過關 HR硬是要追問 說我回答 07/29 22:28
-→ ksxo: 的是應徵本公司的理由 但他要問的是\"離職的原因\" 07/29 22:29
-推 Roderickey: 離職的原因就是當初進去的原因消失了 07/29 22:29
-→ ken29228468: 你說我很久以前就想進貴公司就好,不要硬要回答為什 07/29 22:29
-→ ken29228468: 麼離職 07/29 22:30
-→ Roderickey: 公司是會變的 發展方向跟風氣如果走勢不如預期 07/29 22:30
-推 cplusplus426: 原因可以是說壞話以外的因素啊  回家鄉  顧女友一 07/29 22:30
-→ cplusplus426: 堆 07/29 22:30
-→ yamax: 說在自己決定在人,自己要不要這份工作而已,這有什麼問題? 07/29 22:30
-→ Roderickey: 在思考自己想要的之後 認為在這裡比較可以實現 07/29 22:30
-→ Roderickey: 找公司跟找男女朋友一樣 每天相處不要說謊不要勉強 07/29 22:31
-推 ksxo: 有些HR就是這麼刁 一堆理由都講了 他就是要你講前公司的問題 07/29 22:31
-推 cplusplus426: 覺得R大的回答會被細問欸 07/29 22:32
-→ Roderickey: 所以你要準備好你當初為什麼進上一間公司 07/29 22:32
-推 Roderickey: 其實說前一間公司不好也可以 但要具體 不能太含糊說 07/29 22:35
-→ Roderickey: 如果你要面的這間公司也有這個問題 那就不會錄取你 07/29 22:36
-→ Roderickey: 這樣對兩邊都好 不要浪費時間 07/29 22:36
-→ hope399331: 謝謝R大 你說得很有道理 我決定誠實回答 07/29 22:38
-推 TitanEric: 推R大 07/29 22:41
-推 water6: 同意R大 我也曾經在某板廠做不到半年就離職 後來第一家公 07/29 22:53
-→ water6: 司面試也是直接說工時太長，結果是有錄取的，然後就待了4 07/29 22:53
-→ water6: 年 07/29 22:53
-推 forfan: 心委屈了不行嗎？ 07/29 23:07
-推 aacs0130: 推Ｒ大，我也都老實說，太操的工作我也待不久 07/29 23:08
-推 mainsa: 如果這間會因為這原因不收你 不就擺明加班一樣扯 你就算進 07/29 23:18
-→ mainsa: 了也是撐不下去 覺得直接講沒啥問題 人家自然會取捨 互相 07/29 23:18
-→ mainsa: 都用騙的 對公司和員工都不是好事 07/29 23:18
-→ a8989332: 老實/說謊 各有好壞 還是得觀察對方愛聽什麼... 07/29 23:20
-推 cphe: R大的建議蠻好的，如果你打從心裡就不喜歡的工作型態卻說謊 07/29 23:21
-→ cphe: 接受，到時候如果真的遇到你還是會出來訐譙的 07/29 23:22
-→ wzmildf: 不要刻意說壞話，但正面說出問題點也無不可 07/29 23:28
-→ wzmildf: 我之前面試也是直接說因為薪水太低 想換工作 07/29 23:28
-推 myte: 我之前面試時說我受不了加班到半夜還沒加班費 07/29 23:36
-→ myte: 然後面試主管說我們有加班費 然後就當場錄取了.... 07/29 23:37
-→ myte: 另外一間我說我受不了一直加班 主管很高興地說我們不加班 07/29 23:39
-→ homyoa: 覺得你很草莓而忽略你能力的公司也很蝦 07/29 23:54
-推 larryrock: 就說想找高薪一點的工作就好啦 07/30 00:11
-推 Merkle: 直接講前任主管超她媽機掰就好 07/30 00:13
-→ marymeow: 老實講前公司的離職原因 若是他們不接受 覺得你爛草莓 07/30 00:14
-→ marymeow: 這種公司進去也都是進入同樣的輪迴 07/30 00:14
-→ marymeow: 面試不只是公司刷你 你同樣也要刷公司 面試者沒這麼卑微 07/30 00:15
-→ marymeow:  加油 07/30 00:15
-推 POCARI5566: 錢沒到位 07/30 00:19
-推 Hall: 面試你的人也是勞工 如果要面試你的人免錢加班他願意嗎? 07/30 00:21
-→ Hall: 而且通常會進步的公司 他想的不是要你免錢加班 而是想辦法 07/30 00:22
+�� �o�H��: �����~�{(ptt.cc), �Ӧ�: 175.96.114.242
+�� �峹���}: https://www.ptt.cc/bbs/Tech_Job/M.1532873717.A.F99.html
+�� avgirl: �N���S�ӳҰ�k�N�n�� 07/29 22:16
+�� avgirl: �p�G�o�a�N�O���Y�B�A�A�i�h�٤��O�@����¾ ~ 07/29 22:17
+�� barry610171: ��¾��]���O������L�� 07/29 22:17
+�� Roderickey: �A�n���C�Ѧ^�a�n���ɶ��R�q ��ۤv�綠�q���n 07/29 22:18
+�� Roderickey: �j�ѤW�Z���A�~�|�n �դѮĲv�~�|�� 07/29 22:18
+�� Roderickey: �p�G�]���o�ˤ������]��n�L�o�� 07/29 22:18
+�� Roderickey: ��ĳ�ۤv�����߫�Q���n�b���ժ��ɭԬ��F�����ӹH�I 07/29 22:21
+�� Roderickey: ��ۤv�綠�q�����n 07/29 22:21
+�� cplusplus426: �i�H 07/29 22:23
+�� cplusplus426: ���̦n����@�I�� 07/29 22:23
+�� ksxo: �j�a�������n���e���q���a�� �i�O���e���էڻ��Oı�o�Q���q 07/29 22:27
+�� t64141: ��ܹ껡�A���M�i�h���[�S�n��¾�]�O���O�ɶ� 07/29 22:28
+�� ksxo: ���e�� �~�Ȥ]��������� �o�ˤ��L�� HR�w�O�n�l�� ���ڦ^�� 07/29 22:28
+�� ksxo: ���O���x�����q���z�� ���L�n�ݪ��O\"��¾����]\" 07/29 22:29
+�� Roderickey: ��¾����]�N�O����i�h����]�����F 07/29 22:29
+�� ken29228468: �A���ګܤ[�H�e�N�Q�i�Q���q�N�n,���n�w�n�^������ 07/29 22:29
+�� ken29228468: ����¾ 07/29 22:30
+�� Roderickey: ���q�O�|�ܪ� �o�i��V�򭷮�p�G���դ��p�w�� 07/29 22:30
+�� cplusplus426: ��]�i�H�O���a�ܥH�~���]����  �^�a�m  �U�k�ͤ@ 07/29 22:30
+�� cplusplus426: �� 07/29 22:30
+�� yamax: ���b�ۤv�M�w�b�H,�ۤv�n���n�o���u�@�Ӥw,�o��������D? 07/29 22:30
+�� Roderickey: �b��Ҧۤv�Q�n������ �{���b�o�̤���i�H��{ 07/29 22:30
+�� Roderickey: �䤽�q���k�k�B�ͤ@�� �C�Ѭ۳B���n�������n�j�j 07/29 22:31
+�� ksxo: ����HR�N�O�o��N �@��z�ѳ����F �L�N�O�n�A���e���q�����D 07/29 22:31
+�� cplusplus426: ı�oR�j���^���|�Q�Ӱ��� 07/29 22:32
+�� Roderickey: �ҥH�A�n�ǳƦn�A���쬰����i�W�@�����q 07/29 22:32
+�� Roderickey: ��껡�e�@�����q���n�]�i�H ���n���� ����ӧt�k�� 07/29 22:35
+�� Roderickey: �p�G�A�n�����o�����q�]���o�Ӱ��D ���N���|�����A 07/29 22:36
+�� Roderickey: �o�˹���䳣�n ���n���O�ɶ� 07/29 22:36
+�� hope399331: ����R�j �A���o�ܦ��D�z �ڨM�w�۹�^�� 07/29 22:38
+�� TitanEric: ��R�j 07/29 22:41
+�� water6: �P�NR�j �ڤ]���g�b�Y�O�t������b�~�N��¾ ��ӲĤ@�a�� 07/29 22:53
+�� water6: �q���դ]�O�������u�ɤӪ��A���G�O���������A�M��N�ݤF4 07/29 22:53
+�� water6: �~ 07/29 22:53
+�� forfan: �ߩe�}�F����ܡH 07/29 23:07
+�� aacs0130: ����j�A�ڤ]���ѹ껡�A�Ӿު��u�@�ڤ]�ݤ��[ 07/29 23:08
+�� mainsa: �p�G�o���|�]���o��]�����A ���N�\���[�Z�@�˧� �A�N��i 07/29 23:18
+�� mainsa: �F�]�O�����U�h ı�o�������Sԣ���D �H�a�۵M�|���� ���� 07/29 23:18
+�� mainsa: �����F�� �綠�q�M���u�����O�n�� 07/29 23:18
+�� a8989332: �ѹ�/���� �U���n�a �٬O�o�[����Rť����... 07/29 23:20
+�� cphe: R�j����ĳ�Z�n���A�p�G�A���q�߸̴N�����w���u�@���A�o���� 07/29 23:21
+�� cphe: �����A��ɭԦp�G�u���J��A�٬O�|�X�ӰP�ת� 07/29 23:22
+�� wzmildf: ���n��N���a�ܡA���������X���D�I�]�L���i 07/29 23:28
+�� wzmildf: �ڤ��e���դ]�O�������]���~���ӧC �Q���u�@ 07/29 23:28
+�� myte: �ڤ��e���ծɻ��ڨ����F�[�Z��b�]�٨S�[�Z�O 07/29 23:36
+�� myte: �M�᭱�եD�޻��ڭ̦��[�Z�O �M��N���������F.... 07/29 23:37
+�� myte: �t�~�@���ڻ��ڨ����F�@���[�Z �D�ޫܰ����a���ڭ̤��[�Z 07/29 23:39
+�� homyoa: ı�o�A�ܯ���ө����A��O�����q�]�ܽ� 07/29 23:54
+�� larryrock: �N���Q�䰪�~�@�I���u�@�N�n�� 07/30 00:11
+�� Merkle: �������e���D�޶W�o�����T�N�n 07/30 00:13
+�� marymeow: �ѹ����e���q����¾��] �Y�O�L�̤����� ı�o�A���� 07/30 00:14
+�� marymeow: �o�ؤ��q�i�h�]���O�i�J�P�˪����j 07/30 00:14
+�� marymeow: ���դ��u�O���q��A �A�P�ˤ]�n�ꤽ�q ���ժ̨S�o����L 07/30 00:15
+�� marymeow:  �[�o 07/30 00:15
+�� POCARI5566: ���S��� 07/30 00:19
+�� Hall: ���էA���H�]�O�Ҥu �p�G�n���էA���H�K���[�Z�L�@�N��? 07/30 00:21
+�� Hall: �ӥB�q�`�|�i�B�����q �L�Q�����O�n�A�K���[�Z �ӬO�Q��k 07/30 00:22
+�� Hall: �ﵽ�y�{���˰Q�H�O�t�m ���j�������H���α`�A�ʥ[�Z 07/30 00:23
+�� XXXXHAMSTER: �ڭ̥[�Z��T�|�I�]�S�[�Z�O 07/30 00:32
+�� vi000246: �ѹ껡�� ���M�A�i�h�ܧִN�|�Q���F 07/30 01:15
+�� loveyanzi03: ��ı�o�ܦn 07/30 01:34
+�N typeking: �s�o������������]���n�W�ӵo�ݡH ��Ѩ� 07/30 01:40
+�� ALiGoo: �A���w�g���D�L�̤U�Z�ɶ��F ���M�N�������F�� 07/30 01:53
+�� ZhuBeiCity: �O���򥣦n�ܡH 07/30 06:31
+�� ZhuBeiCity: �ѹ껡�a�A���M�U�@�a�[�Z�A�N�h�W�F 07/30 06:32
+�� mathrew: �i�H  ��ı�o�ܦn 07/30 06:41
+�� gn01216674: �B�ͭ��մN���e�@���Ӿ� �Q��S����ު� ���Goffer�~ 07/30 07:26
+�� gn01216674: ���h�F�|�U ���A�Ѧ� 07/30 07:26
+�� zxc787848: �̨����F�X�t�� 07/30 07:38
+�� kevin82: �ѹ껡�Sԣ�n���n�A�ڦۤv�{�b���u�@�]�O�]���e���u�@�` 07/30 08:51
+�� kevin82: �[�Z�A�S�����ӽХ[�Z�O�A���ծɡA�������C 07/30 08:51
+�� Unicorn2: ���k�ܦh�ءA�ݧA�Q������N����� 07/30 09:19
+�� weitin7011: �ͲP�W���A�j�a���Ѧ���F�A�����߷Ӥ��� 07/30 09:31
+�� DowntoC: �����Ӥֳ��O���j 07/30 10:17
+�� LsugerI: �[���[�Z����HR�έ��եD�ޤ]���ֻ��a�A�u���b�N�N�ݤ@ 07/30 11:45
+�� LsugerI: �U�N�n�A���ӷ���¾�z�����|���ؤ��G�P 07/30 11:45
+�� bnd0327: ���F���Q�[�Z���u�@�A���G��U���u�@�٥[�Z���N�����˸m 07/30 11:48
+�� liuchengdar: �o��`�ȨS�����H�p�G�@�˥ͺA�����q�A�]�n�H 07/30 12:05
+�� liuchengdar: ���D���b�ण����F���@���ɶ��[�Z�A�ӬO�A���u�y 07/30 12:06
+�� liuchengdar: �z�v 07/30 12:06
+�� liuchengdar: �@�y�ܧƱ�a�x�ͬ��P�u�@�F�쥭��, �N�����F 07/30 12:08
+�� randystock: ���M�i�H�ڡA�S�[�Z�O�A�٭n�d 07/30 12:10
+�� xhung: �s�[�Z�O���S���L(�γ��캡) �ٻ��[�Z��XD 07/30 12:30
 "
 "32" NA
 "33" NA
-"34" "作者baseband112 (baseband)看板Tech_Job標題[請益] 個人的核心思想?時間Sun Jul 29 23:14:06 2018
+"34" "�@��baseband112 (baseband)�ݪOTech_Job���D[�Яq] �ӤH���֤߫�Q?�ɶ�Sun Jul 29 23:14:06 2018
 
-上班久了常有一種感覺
-很像身邊的人圍繞著一種模式
+�W�Z�[�F�`���@�طPı
+�ܹ����䪺�H��¶�ۤ@�ؼҦ�
 
-以前常會想自己想做什麼，喜歡什麼
-但是同事的話題常常偏向：
-哪邊的分紅好，哪邊的薪水高，哪家公司比較爽可以早下班
+�H�e�`�|�Q�ۤv�Q������A���w����
+���O�P�ƪ����D�`�`���V�G
+���䪺�����n�A���䪺�~�����A���a���q����n�i�H���U�Z
 
-慢慢的感覺生活就是這樣的一成不變，
-沒有新的思維，新的刺激，新的想法
+�C�C���Pı�ͬ��N�O�o�˪��@�����ܡA
+�S���s������A�s����E�A�s���Q�k
 
-從小我就是喜好閱讀書籍的人，科普，社會科學，經濟等等我都喜歡
+�q�p�ڴN�O�ߦn�\Ū���y���H�A�촶�A���|��ǡA�g�ٵ����ڳ����w
 
-我有點認為讀書不是只有為了學歷找工作這樣的想法，而是書本是紀錄作者的想法
-讓我們有系統性的透過一些方法去認識這個世界，上班後以為可以認識到有同樣喜好的同事，卻好像沒有
+�ڦ��I�{��Ū�Ѥ��O�u�����F�Ǿ���u�@�o�˪��Q�k�A�ӬO�ѥ��O�����@�̪��Q�k
+���ڭ̦��t�Ωʪ��z�L�@�Ǥ�k�h�{�ѳo�ӥ@�ɡA�W�Z��H���i�H�{�Ѩ즳�P�˳ߦn���P�ơA�o�n���S��
 
-大家的話題只剩案子，薪水，分紅，怎樣爽一點之類的
+�j�a�����D�u�Ѯפl�A�~���A�����A��˲n�@�I������
 
-工作的環境把人的想法變狹隘，是正常的嗎？
+�u�@�����ҧ�H���Q�k�ܯU�i�A�O���`���ܡH
 
 -----
 Sent from JPTT on my Samsung SM-N900U.
 
 --
-※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 27.242.198.77
-※ 文章網址: https://www.ptt.cc/bbs/Tech_Job/M.1532877249.A.423.html
-推 yumen: 跟著大家一樣日子比較輕鬆啊，不過成功的人應該不止這樣 07/29 23:19
-→ a8989332: 基頻哥開示 07/29 23:20
-推 wynight: 公司給你薪水做無聊的事是理所當然，真想要自由怎麼不去 07/29 23:22
-→ wynight: 當藝術家，不要看不起同事，因為你也不敢走向真正的自由 07/29 23:22
-推 jamiee87: 同事間很難卸下心防的 07/29 23:25
-噓 Dino14124: 來看看這次多快刪文 07/29 23:28
-推 guest0079: 幹 你之前刪掉了的文不都是案子薪水分紅想爽嗎 07/29 23:32
-推 squard: 哥，這是不正常的，你是跨多領域的人，這種人不多QQ 07/29 23:33
-推 manlike: 你跟理工宅講這些幹嘛~ 人生就是為了賺多點錢 開名車買房 07/29 23:33
-→ manlike: 他們的人生就能達到目標了~ 你不懂啦~ 07/29 23:35
-推 getone: 沒有核心思想的人，會少了原則與底線，不知道為何而戰 07/29 23:36
-→ JRD: 基頻大又厭世了嗎 07/29 23:39
-推 Iamjkc: 4 因為你看很多都是想升官  想拿高績效   但做的事情你可 07/29 23:45
-→ Iamjkc: 能無法認同   我是工程師我就是想解問題而已 07/29 23:45
-推 single4565: 有些人會從信仰中找方法啦，跟教會裡頭的人也比較好聊 07/30 00:11
-→ single4565: 之類的 07/30 00:11
-→ saladim: 那些話題不錯了 等你遇到只聊機加酒哪家飯店好的就知道 07/30 00:15
+�� �o�H��: �����~�{(ptt.cc), �Ӧ�: 27.242.198.77
+�� �峹���}: https://www.ptt.cc/bbs/Tech_Job/M.1532877249.A.423.html
+�� yumen: ��ۤj�a�@�ˤ�l������P�ڡA���L���\���H���Ӥ���o�� 07/29 23:19
+�� a8989332: ���W���}�� 07/29 23:20
+�� wynight: ���q���A�~�����L�᪺�ƬO�z�ҷ��M�A�u�Q�n�ۥѫ�򤣥h 07/29 23:22
+�� wynight: �����N�a�A���n�ݤ��_�P�ơA�]���A�]�������V�u�����ۥ� 07/29 23:22
+�� jamiee87: �P�ƶ��������U�ߨ��� 07/29 23:25
+�N Dino14124: �Ӭݬݳo���h�֧R�� 07/29 23:28
+�� guest0079: �F �A���e�R���F���夣���O�פl�~�������Q�n�� 07/29 23:32
+�� squard: ���A�o�O�����`���A�A�O��h��쪺�H�A�o�ؤH���hQQ 07/29 23:33
+�� manlike: �A��z�u�v���o�ǷF��~ �H�ʹN�O���F�Ȧh�I�� �}�W���R�� 07/29 23:33
+�� manlike: �L�̪��H�ʹN��F��ؼФF~ �A������~ 07/29 23:35
+�� getone: �S���֤߫�Q���H�A�|�֤F��h�P���u�A�����D����Ӿ� 07/29 23:36
+�� JRD: ���W�j�S���@�F�� 07/29 23:39
+�� Iamjkc: 4 �]���A�ݫܦh���O�Q�ɩx  �Q�����Z��   �������Ʊ��A�i 07/29 23:45
+�� Iamjkc: ��L�k�{�P   �ڬO�u�{�v�ڴN�O�Q�Ѱ��D�Ӥw 07/29 23:45
+�� single4565: ���ǤH�|�q�H�������k�աA��з|���Y���H�]����n�� 07/30 00:11
+�� single4565: ������ 07/30 00:11
+�� saladim: ���Ǹ��D�����F ���A�J��u����[�s���a�����n���N���D 07/30 00:15
+�� kuwanosan: ��A���P�˷Q�k�A����h�O�o�ئb��֥ͬ��n�L���@ 07/30 00:34
+�� kuwanosan: ���O�믫�h���B�M�~�A��i���H�ܤ� 07/30 00:35
+�� kuwanosan: ���F�P�ĥH�~�A�ڦۤv�٬O�����򪺾\Ū�H�Ϊ�ɶ��[�j 07/30 00:36
+�� kuwanosan: �ۤv���M�~�A����a�H�w�g�O�̭��n���Ʊ� 07/30 00:36
+�N benzaldehyde: �A�Q�Q�׳o�ǷF�����h�������M���A����S����? 07/30 00:40
+�N a000000000: �A�P�Ƥ��Q��A��Ӥw�K 07/30 00:46
+�� MRFROG: �ХD�I 07/30 00:49
+�N blackrays: �h��դh�� 07/30 00:54
+�N AlexLeee: ��ı���լO�ܥi�Ȫ� 07/30 01:13
+�� ywchenz: �ۤv��A�N���n�o��O�H 07/30 01:26
+�N kklarinet: ���u�O�A�����ݨ쪺�A�P�ơA�����w�H�a�]�o�ˬݧA�A�� 07/30 06:02
+�� kklarinet: �H�ۻ� 07/30 06:02
+�� AboveTheRim: �Q��޷~�Ի~����C 07/30 06:02
+�N yamax: �Ь��M�~���֤߽þ��c 07/30 06:52
+�� gn01216674: ���W�j�奲�� 07/30 07:24
+�N hbkhhhdx2006: �^�Y�� �ܦh�]�O���F�a�H�b�ȿ� ���O�u���A�����a�H 07/30 07:58
+�� hbkhhhdx2006: �I�X 07/30 07:58
+�� hbkhhhdx2006: �ӥB�A��������\Ū�M��i�M�~�򳭦�a�H��ԣ���Y? 07/30 07:59
+�N jason401310: �q�`�o�ؤH�өʳ���......�ᤣ�U�h 07/30 08:23
+�� tomatoholic: �i�z�� �N�O�����ܯ��F �P�N 07/30 09:35
 "
 "35" NA
 "36" NA
-"37" "作者cateran (雲川閒步)看板Tech_Job標題Re: [新聞] AI時代職業發展兩極化 一技之長是贏家關鍵時間Sun Jul 29 23:57:27 2018
-※ 引述《oopFoo (3d)》之銘言：
-: ※ 引述《orz44444 (台灣會亂是因為修羅太多!)》之銘言：
+"37" "�@��cateran (���t���B)�ݪOTech_Job���DRe: [�s�D] AI�ɥN¾�~�o�i�ⷥ�� �@�ޤ����OĹ�a����ɶ�Sun Jul 29 23:57:27 2018
+�� �ޭz�moopFoo (3d)�n���ʨ��G
+: �� �ޭz�morz44444 (�x�W�|�ìO�]����ù�Ӧh!)�n���ʨ��G
 : : https://udn.com/news/story/7240/3277656
-: : 2018-07-28 19:25      中央社 台北28日電
-: : AI成了當代顯學，但台積電創辦人張忠謀一席AI可能影響就業、導致低薪論點，讓外界在
-: : AI發展的狂熱中，產生了問號。誰會是AI時代的贏家，誰又會是輸家呢？
-: : 即使有再多的疑慮與不確定性，專家學者一致認為，發展AI是不可逆的潮流，AI要取代人
-: : 類沒有那麼快，過程中也將會創造新的就業機會，未來職業發展可能朝兩極化邁進，擁有
-: : 一技之長是擁抱AI的關鍵。
-: : 低階工作被取代 新工作機會應運而生
-: 大部分的人不懂AI,就算是科技業的人。有聽過
+: : 2018-07-28 19:25      ������ �x�_28��q
+: : AI���F���N��ǡA���x�n�q�п�H�i���Ѥ@�uAI�i��v�T�N�~�B�ɭP�C�~���I�A���~�ɦb
+: : AI�o�i���g�����A���ͤF�ݸ��C�ַ|�OAI�ɥN��Ĺ�a�A�֤S�|�O��a�O�H
+: : �Y�Ϧ��A�h���ü{�P���T�w�ʡA�M�a�Ǫ̤@�P�{���A�o�iAI�O���i�f����y�AAI�n���N�H
+: : ���S������֡A�L�{���]�N�|�гy�s���N�~���|�A����¾�~�o�i�i��¨ⷥ���ڶi�A�֦�
+: : �@�ޤ����O�֩�AI������C
+: : �C���u�@�Q���N �s�u�@���|���B�ӥ�
+: �j�������H����AI,�N��O��޷~���H�C��ť�L
 : Moravec's paradox?
-: 基本上就是我們認為難的，高端的，其實對電腦很簡單，例如大量運算，下圍棋，
-: 高端邏輯。我們認為很簡單的sensorimotor skills, 其實反而需要龐大的運算。
-: 結論就是，律師，工程師，設計師，甚至醫師會先被取代。技工，清潔工，護士，
-: 需要勞動力的，反而是AI，Robotic的弱點，是無法取代。
-: 就像自動駕駛，每年花幾百億的研發費用，開車還沒三寶開的好。
-: 更不用講，更需要技術的二輪車。
-: Boston dynamics的蠢狗，也是不知n年後，才真正有可能有用。
-: 所以台灣慣老闆想要的無人自動化工廠，反而是最後才有可能實現。
-: 今天或明天的低薪環境，其實還是政策的原因，請不要怪罪到AI.
+: �򥻤W�N�O�ڭ̻{�������A���ݪ��A����q����²��A�Ҧp�j�q�B��A�U��ѡA
+: �����޿�C�ڭ̻{����²�檺sensorimotor skills, ���Ϧӻݭn�e�j���B��C
+: ���״N�O�A�߮v�A�u�{�v�A�]�p�v�A�Ʀ���v�|���Q���N�C�ޤu�A�M��u�A�@�h�A
+: �ݭn�ҰʤO���A�ϦӬOAI�ARobotic���z�I�A�O�L�k���N�C
+: �N���۰ʾr�p�A�C�~��X�ʻ�����o�O�ΡA�}���٨S�T�_�}���n�C
+: �󤣥����A��ݭn�޳N���G�����C
+: Boston dynamics�������A�]�O����n�~��A�~�u�����i�঳�ΡC
+: �ҥH�x�W�D����Q�n���L�H�۰ʤƤu�t�A�ϦӬO�̫�~���i���{�C
+: ���ѩΩ��Ѫ��C�~���ҡA����٬O�F������]�A�Ф��n�Ǹo��AI.
 
-其實就是一些需要極高端思考能力的工作（比如說下圍棋）
-現代AI已經以取代 成本可能也比頂尖棋士的出場費還低
+���N�O�@�ǻݭn�����ݫ�ү�O���u�@�]��p���U��ѡ^
+�{�NAI�w�g�H���N �����i��]�񳻦y�Ѥh���X���O�٧C
 
-但現在的AI還沒辦法產生出任何正常人類都有的情緒情感反應
-更重要的是 機械的發展還遠遠落後計算能力的發展
-所以理髮師 保母 看護 小學老師之類的勞力職業二十年內還不會被取代
-一來這類工作需要與人接觸 二來原本人員薪資就不高 廠商沒誘因研發
-一些薪資很高的坐辦公室腦力工作是第一波最容易被取代的對象
-推文有人說掃地機器人 基本上功能與成本還是落後真正的清潔阿姨很遠
-辦公室就算買十隻掃地機器人 你還是得請一個清潔阿姨來掃廁所
+���{�b��AI�٨S��k���ͥX���󥿱`�H���������������P����
+�󭫭n���O ���񪺵o�i�ٻ�������p���O���o�i
+�ҥH�z�v�v �O�� ���@ �p�ǦѮv�������ҤO¾�~�G�Q�~���٤��|�Q���N
+�@�ӳo���u�@�ݭn�P�H��Ĳ �G�ӭ쥻�H���~��N���� �t�ӨS���]��o
+�@���~��ܰ������줽�Ǹ��O�u�@�O�Ĥ@�i�̮e���Q���N����H
+���妳�H�����a�����H �򥻤W�\��P�����٬O����u�����M������ܻ�
+�줽�ǴN��R�Q�����a�����H �A�٬O�o�Ф@�ӲM������ӱ��Z��
 
 
 --
-※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 100.0.196.193
-※ 文章網址: https://www.ptt.cc/bbs/Tech_Job/M.1532879850.A.3D2.html
-→ BarryBai: 所以辦公室腦力很高的工作有哪些？！ 07/30 00:08
+�� �o�H��: �����~�{(ptt.cc), �Ӧ�: 100.0.196.193
+�� �峹���}: https://www.ptt.cc/bbs/Tech_Job/M.1532879850.A.3D2.html
+�� BarryBai: �ҥH�줽�Ǹ��O�ܰ����u�@�����ǡH�I 07/30 00:08
+�� willy0206: �ӤW��}���I�F 07/30 06:58
 "
 "38" NA
 "39" NA
-"40" "作者sticktight (棒棒都打狗)看板Tech_Job標題[請益] 找工作時機點時間Mon Jul 30 00:07:04 2018
-小弟四大學碩
-為國效力接近尾聲了
-之前大約三四月時接到很多通面試邀約
-考慮到還有約半年的兵期都一一回絕了
-現在半退伍狀態把104打開認真寄履歷
-到現在快一個月一通電話都沒有
-是最近科技業出了問題還是時間點的問題？
+"40" "�@��sticktight (�δγ�����)�ݪOTech_Job���D[�Яq] ��u�@�ɾ��I�ɶ�Mon Jul 30 00:07:04 2018
+�p�̥|�j�Ǻ�
+����ĤO������n�F
+���e�j���T�|��ɱ���ܦh�q�����ܬ�
+�Ҽ{���٦����b�~���L�����@�@�^���F
+�{�b�b�h��A��104���}�{�u�H�i��
+��{�b�֤@�Ӥ�@�q�q�ܳ��S��
+�O�̪��޷~�X�F���D�٬O�ɶ��I�����D�H
 
 --
-※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 27.247.76.131
-※ 文章網址: https://www.ptt.cc/bbs/Tech_Job/M.1532880427.A.F32.html
-推 LEVEL101: 是不是黑了？ 07/30 00:09
-→ manlike: 四大碩怎麼可能沒半通電話 07/30 00:21
-→ manlike: 104打開電話接到手軟 07/30 00:22
+�� �o�H��: �����~�{(ptt.cc), �Ӧ�: 27.247.76.131
+�� �峹���}: https://www.ptt.cc/bbs/Tech_Job/M.1532880427.A.F32.html
+�� LEVEL101: �O���O�¤F�H07/30 00:09
+�� manlike: �|�j�ӫ��i��S�b�q�q��07/30 00:21
+���|�j�]���O����U��
+�� manlike: 104���}�q�ܱ����n07/30 00:22
+�w�g���}�n�@�}�l�F
+�� kuohungting: �䦳������Ǫ��B�P�Ǥ�������07/30 00:26
+�� manlike: ���ӬO�A�q�ܸ��X�g���F07/30 00:28
+�ˬd�L�F�A�S��
+�� lolitass: �̨ήɶ��I�N�O�H���H�a07/30 00:34
+�� cocoyan: ��linkedin�a~07/30 00:47
+�� seafloor: �s�Hlinkin���ӨSԣ�Χa07/30 07:22
+�� Godfrey0216: �|�j�Ǻ�ok�աI�K��A�ɶ����D07/30 07:48
+�� nicofox: �i�����s�W��07/30 08:12
+�� wkc0908: �C�������}�Ҥ@���~07/30 08:54
+�� jackson55678: �P���p+1 ��e�X�Ӥ�֦n�h07/30 08:59
+�� Sana: �P���p+1.....�L�^��07/30 09:02
+�P�O�ѲP�_���H
+�� �s��: sticktight (27.247.76.131), 07/30/2018 09:30:41
+�� �s��: sticktight (27.247.76.131), 07/30/2018 09:31:44
+�� �s��: sticktight (27.247.76.131), 07/30/2018 09:37:33
+�� sintyy: ���`�� �V����~���N�|�V���� �n�ɤH�q�`�A��~�L���� 07/30 09:44
+�� sintyy: �ɺ��F �{�b���ʤj���N���H��¾�θU�~�˯� 07/30 09:44
+�� Sex5F: �U�~�˯ʥ����a? 07/30 09:58
+�� ilovedaodao: �˯ʲ{���A�䰵��� 07/30 10:16
+�� aimjvc: �O���O���񲦡H�q�ꤣ�ӥi��o�� 07/30 10:51
+�� myboyfriend: �i�����e�P�Ӥ����D�� 07/30 11:07
+�� monofather: �@���}�}�����A�N�|������Q�ݨ쪺���|�I 07/30 11:08
+�� Mompig: �o�ګܦ�fu �w���i�h�@�˯ʤF�]���O���зǰա^ 07/30 11:48
+�� ggg1356114: �h��N��F 07/30 11:58
+�� hapahapa: �ڬO���j����Ǻӳ̪�]�@�ˡA�貦�~�S�����򭱸��ܬ��A 07/30 11:59
+�� hapahapa: ���e�}�l���f�ժ��ɭԦ��@�� 07/30 11:59
+�� havochuman: �ǮըS�� �n�����Ǩt��...���P�t�Ҫ��p�S���@�� 07/30 12:37
 "
 "41" NA
 "42" NA
-"43" "作者pzs ()看板Tech_Job標題律師為您解惑－線上勞動法免費諮詢即日為勞工<U+AA20>…時間Thu May 26 21:47:00 2011
-註：此宣傳文案已經版主同意發表
+"43" "�@��neverpass ()�ݪOTech_Job���DRe: [�Q��] �bgg���]�Ƥj���O����Pı�H�ɶ�Mon Jul 30 01:11:18 2018
+�� �ޭz�mmandibular (�E��)�n���ʨ��G
+: �w�w�j�a�n �p�̥h�~�貦�~ �b�@�a�O����t���]��
+: ť�e���� �bgg���]�ƫܲn �]���X�G����ñcontract ���x�@�a��call vendor�N��F
+: �sfoup�d�bport�W���i�Hcall vendor�ӷh������
+: Pm�X�G���O�U�u�b���� gg���]�Ƥj�����u�t�d�Xreport
+: �аݬO�u���ܡH
+: ���S���bgg���]�Ƥu�{�v�i�H���Ф@�U�Q���q���ͺA�H
+: -----
+: Sent from JPTT on my iPhone
 
-http://laborvision.pixnet.net/blog/post/61239927
+�ܦ��쪺���D, �]���ڧ̴N�b gg ���]�Ƥu�{�v, ���O�Pı�L�ܾ�
+�`�`���O���X���k, �ݤF�@�U�L���g��, �b�o�̸�j�a����
+(��:�L�b�x������ gg �w�g�ܤ֦� 6�B7 �~�F)
 
+�H�U�O�L�ݨ�o�g�峹���Q�k:
 
-裁員減薪、外包派遣、無薪休假、強迫補休不給加班費、想請育嬰假卻被解雇……上班族
-在職場上遇到的問題無奇不有，卻總是不懂如何解決、為自己爭取。老闆、人資總是理直
-氣壯，受雇者難道只能忍氣吞聲？
+���O�s�� RD fab ����|���o�ت��p�A�ܦh���x���b����A
+�ण�ள��q��v�T�ܤj�A�ҥH vendor �� support,
+�ڭ̳o�ضq���ݤ��i��o�ˡA�O�T�N�O�@�~�A�L�O�T�A���h�O��Z�Ӭݰ��D�Ӥw
 
-即日起，勞動視野工作室邱羽凡律師與本工作室法律顧問林垕君律師、徐承蔭律師為勞工
-朋友提供免費勞動法諮詢線上服務，只要您是遇有勞資爭議的勞工，歡迎至勞動視野工作
-室的留言版(http://laborvision.pixnet.net/guestbook)留言，寫下您的問題，我們將
-會提供參考意見給您。
+�D�n�O�ܦh�귽�b�t�Ӥ�W�Aalarm ����ݭn�L�̸���
+���D�O�� vendor, ���M�q�`�O�ڭ̤� vendor �ټ����x
 
-若您有進一步的勞動權益上疑問，也可直接洽詢邱羽凡律師、林垕君律師、徐承蔭律師，
-尋求法律訴訟上的協助。
+�x�n�q�]�Ƴ̤j�����O�O�}�v��i�A��L���q���O�b�s�{�u�{�v��W
 
+�� defect �~�O�@�y���H���A�B�z alarm�A�u�O�G�y��
+�٦��s alarm �����|�ѡA�u�| follow ��
+���ꪺ�O�s follow �� follow ���n
+�o�ؤH�q�`�|�Q�G���A��֤j�a
+�q�`�|�� call vendor �����O�泾�A�p�G�O�ѤH�A���N���ܥL�ܮz
 
-
-勞動視野工作室簡介
-
-勞動視野工作室成立於2011年1月，由數名關心台灣勞動事務與工會/工運發展之工會實務
-工作者與勞動法研究者等所組成。
-
-工作室以基層勞動者的立場出發，希冀藉由協同勞方組織工會以發展勞動者之集體力量，
-提升勞動者與資方抗衡談判的知識與能力，以減輕並進而消弭資方對勞動者壓迫；此外，
-工作室亦以推動勞工視野之勞動法為職責，以扭轉台灣長期以來，由人力資源管理主宰勞
-資關係的變態思維方向，從而讓勞動者得以擺脫在勞動關係中的被支配地位，重新奪回勞
-動果實與尊嚴！
-
-
-我們的工作項目
-
-＊協助勞工籌組工會、提供勞工組織工會所需資訊。
-
-＊協處勞工解決勞資糾紛，提供勞資爭議調解、勞資仲裁、勞動訴訟、不當勞動行為之裁
-決，以及勞資團體協約協商之諮詢。
-
-＊編寫與出版勞工教育相關教材，辦理勞工教育課程。
-
-＊為勞工提供勞動法令諮詢，包含勞動基準法、工會法、勞資爭議處理法、團體協約法與
-勞工保險條例等相關法令。
-
-＊進行各行業之勞動實況調查，提出勞動政策建議。
 
 
 --
-※ 發信站: 批踢踢實業坊(ptt.cc)
-◆ From: 220.136.49.18
-※ 編輯: pzs             來自: 220.136.49.18        (05/26 21:50)
-推 buddar:推 05/26 22:35
-推 suyisan:這個怎沒啥人推..科技人都一堆冷漠自顧自的? 05/27 00:57
-推 bandee:推~ 05/27 07:16
-推 amcee:推 05/27 11:23
-推 philfeel978:推~ 05/27 11:46
-推 hongxin:推~~~Y 05/27 12:26
-推 lsp1201:推... 05/27 14:40
-→ s984847:大推!!!!!!!!!! 05/27 15:34
-推 jackygogo07:推!!! 05/27 23:30
-推 catch217:推 05/28 00:09
-推 zenk0113:推~ 05/28 01:28
-推 therest:推 05/28 01:55
-推 F1yinsky:推 05/28 13:10
-推 OKEplus:推! 05/28 13:49
-推 L3M:推!! 05/28 17:24
-推 linbey:推! 05/28 22:11
-推 cherry611:超讚的 05/28 23:49
-推 l8lcm:讚呀 05/28 23:57
-推 HLiNaKRbCsFr:實際一點了 05/29 08:48
-推 fytnship:服務勞工這要推一下 05/30 10:26
-推 scheduling:大堆!! 05/31 08:42
-推 Interpoint:推~~~ 05/31 12:04
-推 SunLair:推！ 05/31 16:53
-推 estrawberry:推~~ 05/31 23:35
-推 shiva999:推~  ====杜絕黑心商品 請多支持\"消費者文教基金會\"===== 06/02 03:58
-推 takingblue:推推 06/02 09:29
-推 iceman5566:推 06/02 19:43
-推 azukitw:推 借轉勞工版 06/02 21:37
-※ azukitw:轉錄至看板 Employee                                     06/02 21:37
-推 ami9897:推啊. 06/04 16:41
-推 nivii:good!! 06/05 08:46
-推 penchu:讚 06/06 16:05
-→ shuvaliya:推喔~ 06/07 21:07
-推 sakoakihisa:推 非常有心 06/09 10:28
-推 kaihua:讚 06/13 00:24
-推 a872024:推推推 ^^ 06/14 00:00
-推 jimabc:推! 希望以後能慢慢擴大 能成立勞工基金 讓更多人受益! 06/14 22:07
-推 kumokao:大推！ 06/17 10:36
-推 JanBun:推 ~~~ 06/17 23:42
-推 m00m:推! 06/18 11:57
-推 rtg193:推~ 06/23 18:52
-推 yannkea:推!! 06/29 00:27
-推 mouse711217:推！！ 06/29 16:58
-推 life0411:大推! 07/07 01:39
-推 sink23834:推!! 07/13 17:32
-→ bbup:大推~ 07/18 12:39
-推 kyoangel:推~ 07/22 14:34
-推 gary73183:超推 07/25 15:25
-推 cloudjacktw:推阿 07/29 11:31
-推 h5210h:推推 08/01 22:07
-推 morrischen2:感恩 借轉勞工版 08/02 01:25
-※ morrischen2:轉錄至看板 Employee                                 08/02 01:26
-推 kukutu:大推~~!!!! 08/07 15:10
-推 winnie74429:推!! 08/15 15:22
-推 densen:這一定要大推的  勞工加油 08/22 22:24
-推 nhtyjm:聰明 這個業務保證做不完 08/28 20:07
-推 fongn:希望次舉可以讓台灣業界導向正常的方向! 08/30 19:28
-推 EntHeEnd:推 09/03 06:07
-推 blue69221:大推~ 09/04 17:16
-推 redtiger:推 09/15 10:24
-推 HuangJS:gj 09/17 08:48
-推 hongxin:推 09/30 22:01
-推 taozhong:讚! 10/27 17:32
-推 sqt:推～ 11/07 20:47
-推 qliver:推！ 12/07 10:19
-推 lucusccc:大推!! 12/10 19:13
-推 Elly: 12/13 20:20
-推 sunnymiruko:推一下!! 12/26 02:05
-推 bunjie:先推一個 01/11 08:54
-推 Sanger:推薦!! 01/22 12:59
-推 yjchyan:讚!!! 01/25 11:52
-噓 testutw:一月四號之後就沒回了 02/01 22:05
-推 stilery:大推邱律師,我以前同事,對勞動法很專業~! 02/18 00:48
-推 online199:推呀 02/24 13:34
-推 howru:推！ 03/22 22:19
-推 calmsea31:免費幫推 04/20 22:28
-噓 mincain:謝謝 05/07 09:46
-推 Assing:大推 05/15 19:28
-推 jason0123:推~~ 05/17 23:41
-推 mincain:推 05/19 11:39
-推 jakky1:讚啦～ 05/19 15:21
-推 sioumi:讚！ 06/02 09:44
-推 sygate30:讚 06/05 01:59
-推 hotorn:推一下~~ 06/05 21:56
-推 davidbright:nice 06/09 17:27
-推 byebye0714:明明現在是上班時間.... 06/18 11:52
-※ SaraV:轉錄至看板 ServiceInfo                                    07/15 18:43
-推 wtshu:推 07/17 23:43
-推 chungminchun:大推大推 07/20 12:17
-推 take99999:推 07/28 00:45
-※ revelation:轉錄至看板 eJob                                      08/01 20:11
-推 max6:推 08/02 11:47
-推 gamesame7711: 08/03 21:41
-推 bigair888:推 08/03 23:29
-推 swatch3484: 08/04 16:45
-推 hookhook:推 08/08 08:53
-→ skysail:源源不絕的新鮮肝,台灣學子的宿命嗎! 這些政客 08/12 01:32
-推 Artemisl:大推~ 08/12 14:40
-推 gbug:推薦這篇文章!! 08/12 17:00
-推 tai0622:大推阿~~ 08/15 18:04
-推 rtg193:推 08/16 00:23
-推 gink11400:推！ 救肝心~ 08/30 17:41
-推 Artist:寫的好~推 09/03 00:53
-推 poasdm:推 09/05 15:30
-推 adenadam1:不推不行啊~~ 09/08 17:49
-噓 kalapon:已經停止回應了,該停止幫他廣告了吧 09/11 15:29
-推 linching:推 09/16 21:06
-→ flyjc:已停止回應了 09/16 21:18
-推 fukada0916:mail裡面有說著正式服裝  軟硬體工程師面試是要多正式? 09/18 10:44
-推 SWORDKISS:你可以著全副武裝啊 09/26 06:12
-推 chang1105:大推阿!! 09/28 15:56
-推 smartpaul:給推 10/05 22:04
-推 pollop951:推~~~~ 10/16 22:57
-→ Deltaguita:他要我印出來給他看過先XD 10/17 17:48
-推 bobabc513:有心~~!大推!! 10/31 11:28
-推 zu6vm0:推 11/09 13:53
-推 n6150:公平正義! 12/03 02:50
-推 afrahsu:推!!! 12/04 19:52
-推 beloved20:GOOD 12/05 22:29
-推 glve:推一下 12/06 04:30
-推 mini666:推!!! 12/12 11:13
-推 okbon:大推 12/16 16:47
-推 abby282928:推 12/25 22:02
-推 sos99995:推一個！！ 01/02 11:32
-推 innokiwi:這個不推不行丫，遇到問題的話，我一定發問~~~真是明燈 01/07 12:37
-推 freeskyd:推 01/10 20:56
-推 irene771:推 01/16 13:53
-→ s8095324:推 01/16 15:36
-推 angress:真的!! 一定要大推的也謝謝他們....!!!! 01/21 00:35
-推 gamehacker:推!! 01/24 16:09
-推 CuteAmi:大推推推推推~~~~~!!!! 01/29 18:31
-推 Sirctal:推 02/02 17:43
-推 orangejase:推 02/03 00:10
-推 benxyz:推 02/03 14:54
-推 oliviology:推！ 02/07 23:26
-噓 sdshow:目前暫停服務了 02/08 09:48
-推 angel198817:爆 02/08 11:07
-推 manbing214:推~ 02/20 00:47
-→ ruthertw:又是韓國... 03/07 09:23
-噓 syen:很久沒 回應了不是嗎? 03/18 17:20
-推 xximab:有心!推一下! 03/19 10:15
-推 chevalier153:推 04/12 00:05
-推 voodoo0406:讚! 04/14 13:11
-推 Beetch:推推 04/16 13:11
-推 janjan523:推!! 04/21 19:32
-推 yeshow23th:推推 05/07 16:41
-推 tlcnor:推啊!!~ 05/14 00:50
-推 spla:大推 06/02 22:24
-推 shummi1226:狂推!!! 06/25 22:53
-推 philosiphy:帶你面試的人資的確是蠻可愛的..+1 07/19 12:18
-推 andyroc1911:讚推 08/07 00:40
-推 NeuesLeben:推!!!!!!!!!!!!!!!!!!!!!!!!! 08/17 21:50
-推 dog54317:大推~~ 08/21 09:45
-→ vvppqqvv:去面試看看 因為成本分析難不倒你才對 09/03 10:46
-→ littlemao12:但心中希望能還是有個底~\"~ 09/06 16:21
-推 rfv5tgb:沒保十四 朝三暮四 09/13 10:02
-推 sendtony6:推~ 09/30 23:28
-推 runslow:神腦 10/03 20:45
-推 bossouk386:推拉 10/20 05:29
-推 lhz135:不推不可 10/29 18:54
-推 happymelon:讚！！！ 11/05 04:03
-推 hidelin:可是瑞凡...鋰鐵是我好幾年前的碩士論文 11/21 08:09
-推 zszsdd:勞工要團結 12/14 08:49
-推 sychang0807:推 12/14 09:39
-→ Xery:先把派遣行業公司從台灣根除在說吧~剝奪人民血汗的派遣 12/14 14:02
-推 cck1:推                    樓上好想法 但是不可能根除其實 01/07 13:37
-推 silufear:給推 01/15 01:30
-推 su35:太忠肯了 我看到第一篇就覺的 自己做不來怎麼不趕快自己滾 01/15 22:21
-推 bbqsandwich:推 01/29 19:38
-推 Alouba:推一下 02/06 08:13
-推 stud60432:大推 02/09 20:55
-推 zenk0113:非免費...還有加入會員阿= = 02/14 10:00
-推 lovewsc:已確認 加入會員是免費的 02/23 18:43
-推 jmlw:大推!! 05/21 00:11
-→ mythsoul:推推 05/28 20:24
-推 MeiHS:MFG NO.1! 05/31 22:52
-推 forgotit:感謝善心人士！大推！ 06/03 23:39
-推 xz0208:推！ 06/06 17:50
-推 zfksonerk:推!! 07/23 10:11
-推 QK199: 推 08/10 13:55
-噓 supertyphoon: 感覺沒有開特例給新竹資工服務 08/14 10:17
-推 ramses990: 推!以前很需要這種資源 不過現在不用了 08/16 09:04
-推 albee9930868: 推 08/18 18:35
-推 supertyphoon: 一直找不到機會趁亂出櫃 08/20 21:00
-推 booster816: 推!! 08/21 11:53
-→ juliantaipei: 推～ 08/26 13:12
-推 willzheng: WOW推推 09/04 01:12
-[部份違規或廣告推文已被系統自動刪除]
-[部份違規或廣告推文已被系統自動刪除]
-推 iori00000: 推 09/08 11:07
-→ rockSHAME: https://sites.google.com/site/ccunottop/home 09/26 09:55
-推 a511061: 1 10/02 22:54
-[部份違規或廣告推文已被系統自動刪除]
-推 gary800512aa: 推 10/14 16:31
-推 nerv596: 推 11/12 01:19
-推 xsky00y: 推 11/21 11:31
-推 longanchang: 推 11/24 00:19
-推 cain5485: 推 11/25 23:57
-推 CrazyKill: 工程師被強迫每天晚上10點下班,可否申訴? 11/26 08:33
-推 kingofage111: 推 12/02 18:49
-推 sean12345678: 大推. 我們資方打手最怕這種的. 12/04 18:18
-推 william0126: 追求公平與正義！！ 12/10 23:12
-推 supertyphoon: 追求同志公平與正義多元成家！！ 12/11 20:32
-推 e124973686: 推 12/12 12:16
-推 leacks: 貴老闆：最好連機構都要會 12/29 14:37
-推 PIG900615: 推 12/31 19:41
-推 wasidada: 大推 01/02 15:40
-推 bigbaby0529: 大推 01/12 01:43
-推 QUIKSILVER: PUSH 01/14 21:39
-推 qaz4910111: 少林功夫好野~ 02/01 16:28
-推 diem2006: 推 02/06 18:17
-推 Kevinpon: 推 02/08 00:39
-推 ice011524: 推 02/16 18:54
-推 topahot: 估得 02/21 18:48
-推 wearst55123: 推 02/28 10:38
-推 VensonTzeng: 推 03/10 22:17
-推 jqpp3210: 推！！！ 03/13 09:30
-推 moon6815: 推 03/21 15:12
-推 beareni: 推 03/26 10:24
-推 don2147: 推 03/28 17:09
-→ mmkntust: 樓上案件已處理 04/06 19:57
-推 a770513tw: 艾oo 04/20 11:35
-推 supertyphoon: 多元成家！ 04/20 12:26
-推 muzikku1730: 推 05/02 22:57
-推 OAVAYAVAO: 推阿 05/05 00:44
-推 july2009: 推 05/08 13:30
-推 pinkygill: 推 05/12 01:36
-推 tina7996: 推 05/19 20:15
-推 leo793153: 推 05/22 14:34
-推 b7510623: 推 05/27 00:01
-推 wow5942018: 工商服務推 05/28 08:17
-推 supertyphoon: 要約砲的請站內信 05/31 11:00
-推 supertyphoon: 開玩笑的別真的寄信過來(˙＿˙) 05/31 13:01
-推 rodndy666: 再推 07/02 00:42
-噓 FcuKobe: 同上 07/28 18:57
-推 pomacanthus: 推，謝謝律師 08/16 08:47
-推 bbuc: 而且賠的不止5%喔 5%是預繳稅額 你稅率在12%的話隔年還要補 08/23 16:38
-推 wch6858: 約 不對 是推 08/26 22:56
-推 supertyphoon: 推多元成家 08/28 23:18
-推 cjc0212: 推 08/31 06:53
-推 supertyphoon: 我一直以同志為榮因此十分感謝父母生下我 我愛交大 09/01 18:02
-推 lon39611: 推 09/07 14:33
-推 tusks: 推 09/10 07:14
-推 papapoa2006: 推 09/12 23:01
-推 plum1234: 推 09/18 01:15
-推 hugolin: 推～ 09/28 01:04
-推 b69: 推～ 09/29 23:45
-推 bubu: 推!! 10/03 23:47
-→ niceeasy: 推 祝生意興隆 10/06 14:39
-推 susong: 推～～ 10/07 02:36
-推 poiutrew: 推 10/07 21:59
-推 stage0317: 推 10/11 03:29
-噓 deltarobot: 反串得很爛 再去練練吧 10/13 21:32
-噓 deltarobot: 你以為世界第一這麼好當哦ㄏㄏ 10/13 21:55
-推 Wing7512: 推 10/26 21:54
-推 pjason: 補血。推 11/07 08:52
-推 kj540715: 感覺不錯 11/27 18:52
-推 malidgirl: 太棒了！！ 11/30 12:05
-推 smily7109: 不是科技人也推 12/03 11:34
-推 Mrhh: 推 12/05 12:50
-→ youarestupid: 講難聽一點 不爽你可以辭職來考 OK? 12/10 20:24
-→ youarestupid: 抱歉推錯 12/10 20:24
-推 suya081212: 大推啊！謝謝服務 12/20 21:43
-推 wetee: 推推推啊啊 12/28 14:12
-推 ncueBenson: 因為那個時間點還沒下班 12/29 19:00
-推 supertyphoon: 拿著同志當擋箭牌的文化大革命即將開跑你會怎麼應對 12/29 19:39
-推 english1237: 推~ 01/10 19:12
-推 js751001: 推 01/29 12:24
-推 a889123: 推!! 01/29 15:37
-→ SETL: 不難買禮拜五就簽約啦   還被打臉優先談判權 02/08 20:59
-推 anny1313: 推~ 02/09 09:01
-推 skyword: 推 02/14 21:53
-推 js751001: 推 02/16 12:27
-推 hsin49812035: 推 02/16 18:05
-推 sherry201106: 推~ 02/22 16:17
-推 amazing2014: 推 02/23 23:03
-推 cihsiao: 推 02/27 08:30
-推 Ephraim: 大推 03/06 16:04
-推 weijay0502: 推推推 03/09 21:31
-推 oasisrose: 03/26 20:58
-推 suyisan: 推 04/03 18:27
-推 Dogingness: 推推 04/04 20:47
-推 pyps88123: 不是這樣嗎 04/05 19:05
-推 mwiei: 推 04/14 14:45
-推 andy50808: 推推 04/18 01:03
-推 ShaqVayne: 推! 04/27 08:34
-推 andrewkey: push 05/07 12:35
-推 jungyou86: 佛心阿！ 05/20 22:49
-推 andy123205: 太佛心拉 05/21 00:49
-推 gorich: 大推 05/24 09:44
-推 tjsz220831: 大推～～ 05/24 23:05
-推 tpjou: 推 06/02 17:09
-推 nj283e: 大推 06/06 19:30
-推 xx5203025: 推 06/08 18:46
-推 scasper: 推! 06/15 12:27
-推 joybee: 推推 06/17 13:47
-推 xsky00y: 推 06/18 09:18
-推 york0206: 謝謝幫助勞工的人們 07/06 20:38
-推 evaji548: 大推~~~~~~~~~~ 07/08 23:05
-推 a92300: 推 07/10 14:11
-推 ifooleru: 讚 07/17 21:02
-推 joety1103: 佛 07/19 11:35
-推 rcak801: 預告是雇主解雇你才要 受雇者不受這條限制啊 07/24 11:38
-推 supertyphoon: 113甲甲推 08/02 22:49
-推 ziziday: 推 08/13 21:24
-推 eaison: 推！ 08/19 06:57
-推 GoogleMan: 推 08/20 19:45
-推 godlikeking: 推！！！！！！！！ 08/20 22:09
-推 gomenba: 推 08/23 14:12
-推 f59111390: 推推! 09/05 21:46
-推 jerryjiang: 推 09/11 21:00
-推 leo07172737: 推 09/12 06:42
-推 tmdggyygan: 請問28號如果公司沒放假是不是要以兩倍薪資計算，並且 09/12 07:57
-→ tmdggyygan: 事後補假？ 09/12 07:57
-推 eddylin: z 09/16 10:13
-推 dc2008sp: 大推 09/17 02:03
-推 LOVETW0424: 推 09/18 12:47
-推 kevinwei0907: 推 09/27 11:57
-推 kf207010: 我想要詢問 09/27 12:19
-推 nm8: 推 10/02 18:54
-推 good234561: 推 10/03 08:25
-推 leon1234567: 推 10/05 16:39
-推 eros01: 公益  推 10/08 20:48
-推 jeromeshih: 推 10/10 22:40
-推 qazbamboo: 推 10/11 13:50
-推 frank11118: push 10/12 12:31
-推 lhz135: 感謝邱律師的學弟張律師 替我們討回一點公道~ 10/14 00:21
-推 qqqwxl: 推！ 10/23 12:33
-推 child1991: 大推 11/12 13:00
-推 freelifetime: 推! 11/13 19:50
-推 dv6: 推 11/20 12:41
-推 haswell425: 推 11/25 22:03
-推 howie5071712: 有用資訊推 11/26 10:05
-推 Badwoman: 有用推！ 11/26 22:02
-推 Scofie1d: 讚讚讚 11/28 17:57
-推 situation319: 請問勞保新制的退休准備金，業主應每月提存6%的月薪 12/20 13:56
-→ situation319: 提播，但是這6%是依據勞保的最高薪資級距的6% （最 12/20 13:56
-→ situation319: 高約48000）或是應該依實際的月薪資的6%....如果員 12/20 13:56
-→ situation319: 工的實既月薪是$10萬的話 12/20 13:56
-推 wingture: 推 12/21 17:47
-推 cliff00059: 推～ 12/29 00:03
-推 qkboy0813: 大推 01/02 15:04
-推 mojia: good 01/04 01:11
-推 vickifff: 推 01/07 11:45
-推 talesh35624: 推 01/17 22:04
-推 coldchild: 推 01/24 19:21
-推 supertyphoon: 現在想起來以前113教授同學根本一堆人X X是啥自己填 02/06 09:25
-推 davidyang1: 感恩 02/10 11:36
-推 suyisan: 連結連過去沒東西啊? 02/10 22:57
-推 andrenvq57: 推爆 03/10 12:28
-推 HackSWC: 推 03/12 03:09
-推 babaccc: 推 03/24 08:43
-推 evaji548: 推 04/02 15:51
-推 DongDongXD: 推 04/12 08:06
-推 nj283e: 推 05/07 11:00
-推 Technician: 推！ 05/13 20:46
-推 seven0323: 推 05/14 15:57
-推 auo5566: 四千多q  q  z  z  d 05/14 16:52
-推 fion2202: 推 05/26 21:23
-推 Portentera: 推 05/28 22:14
-推 s02315129: 推 06/17 17:40
-→ bighead0326: 照片，煩請刪除該文章或刪除照片 06/22 19:16
-推 fhes027: 大推 06/23 00:51
-推 cces101138: 推 06/26 08:06
-→ ming0828: 推 07/11 21:32
-推 GotoDelta: 台達棒 07/19 19:32
-推 Jimmychen001: 推！！！ 07/26 09:51
-推 hewittboy: 推 07/29 21:20
-推 gusu877: 推 08/18 17:58
-推 cutebo2017: 推 08/20 15:07
-推 aa2fjoy: 推 08/23 15:16
-推 jaywifepatty: 推，之後我可能需要詢問 08/27 02:53
-推 js751001: 推 08/29 12:21
-推 win5978: 推 09/20 08:04
-推 linbur: 控 09/21 11:53
-推 jtyang888: 推 09/24 07:04
-※ bluejade123:轉錄至看板 Gossiping                                10/01 01:05
-推 qoopoki: 河口裕湊湊歐 10/09 15:08
-推 jarrynara: 支持 10/27 16:52
-推 panyuwei: 推 11/04 23:57
-推 chuck81424: 推 11/14 16:03
-※ wer11:轉錄至看板 Examination                                    11/20 13:18
-推 h610418g: ！勞工教育的相關教材跟課程如何取得或參加？ 11/30 07:20
-推 drinkthesea: 推啊！ 12/09 06:55
-→ kunchung: 我是看不懂在抗議什麼,連刷卡都沒有,還在那算休幾小時 12/23 21:38
-推 jason7724: 推推推，太棒了 01/11 17:48
-推 luisapple: 推 01/22 12:53
-推 eric1044: 推 01/25 22:42
-推 twopa2: 推 02/17 06:54
-推 weliem: 群燿 03/16 15:15
-推 quad204: 推 03/17 11:16
-推 shineling: 推 遇到才知道能夠諮詢有多重要 03/21 18:24
-→ iloveyian: 推 03/27 22:16
-推 aoc7175: 太神拉 推 04/25 23:03
-推 friend3319: 推 04/27 16:24
-噓 Sunnyfu: 留言板是不是不能用了 05/29 10:14
-推 abc17034: 推 05/31 00:28
-→ alonzo: 嗯是 07/08 12:32
+�� �o�H��: �����~�{(ptt.cc), �Ӧ�: 114.38.128.170
+�� �峹���}: https://www.ptt.cc/bbs/Tech_Job/M.1532884280.A.7FA.html
+�� �s��: neverpass (114.38.128.170), 07/30/2018 01:12:59
+�� O3Ob: �]�Ƴ̤j���O�u���@�ӴN�O���x�L�k�ٽu 07/30 01:45
+�� O3Ob: ���D�A�Omother fab���H ���M���x�����]�N�n 07/30 01:47
+�� O3Ob: �Q�G�����H �q�`�O���|���Ʊ����H 07/30 01:50
+�� sendtony6: �A�̧A�̡C�C�C���A�ݹL�� 07/30 07:27
+�� sendtony6: �x�nfab�ݦ��@�y�H�~???? 07/30 07:27
+�� sendtony6: �Ѥ~�i�h����87 07/30 07:27
+�� drift024: 1��+1 07/30 07:39
+�� drift024: �泾call�o��vendor? 07/30 07:40
+�� wzmildf: �A�̡A�ҥH���O�A�˨��g�� 07/30 07:56
+�� wondtty: �ݳo�g���^��ĦX�o����۵M�A���ӬO�xgg�H�L�~�a�H 07/30 08:07
+�� lponnn: ��supportive �~��a... 07/30 08:24
+�� fkman0831: �s�ۤv�������ӻ{ �ȳQ�� �u�n���˧̧̤F�I 07/30 09:28
+�� cijaytheone: �u�x�n�q�]�Ƴ̤j�����O�O�}�v��i�v�]���̤G�y���H 07/30 09:45
+�� cijaytheone: �~���b������ 07/30 09:45
+�� cijaytheone: ����P �����N���UHL �~�~ 07/30 09:47
+�� z2243390: �o�d���ꪺ���@�췥�I�A��ު��C�p�U�U 07/30 10:17
+�� et00211: �A�̷|��vendor�����x... �O�x�F 07/30 10:45
+�� thumbe57068: Vendor���ɤ�A�ٵ� �A���n�� �n���Y 07/30 11:28
+�� Randy1230: ���h�{���������u�O Fae�����o�O���x���x���u�{�v 07/30 12:22
+�� melove: �n�ʼt�O�J�즳Vendor(�k��?)����Chamber�A�S���y���� 07/30 12:31
+�� melove: ���U�hAlarm���A�����D�]�ưӬ�����|��Ӥk�ͧ@CE... 07/30 12:33
+�� Satansblessi: Vendor���T����G�K����   �ӥB�ޭz�L�̪��ܫ��@ 07/30 14:01
+�� Satansblessi: ���Q��@@ 07/30 14:01
 "
 "44" NA
 "45" NA
-"46" "作者mmkntust (Blue Bleaching)看板Tech_Job標題[公告] Tech_Job板板規 2015.01.16時間Sat Mar  1 11:55:32 2014
+"46" "�@��z2378041 (�s��W��)�ݪOTech_Job���D[�Яq] �x�� �E�K��ޮɶ�Mon Jul 30 02:34:55 2018
 
-一、 禁止討論與科技業無關的話題。
-
-     a. 依據#1J4LJM4N此公告，禁止'如何逼退'等此類主題。
-
-     其餘規定:#1GyZ6pe7
-
-二、 禁止人身攻擊、挑釁、歧視或引戰意味之言詞用語。
-
-     註冊/設定特定ID或暱稱進行人身攻擊、挑釁、歧視或引戰亦同。
-     如非事證明確者，當事者告訴乃論；檢舉請一併附上說明。
-     若非版主發現。請至#1Ej_C7ua推文檢舉，其餘不受理。
-
-     a. 噓文不算挑釁
-     b. 未經所有當事人的允許，不可公佈水球或者信件，違反者屬於挑釁。
-
-     其餘規定:#1GyZ6pe7
-
-三、 禁止不明連結、廣告文或政治文。
-
-     注音文、拼音文若有造成誤會，必須主動解釋，不然屬於鬧板。版主對發文者處罰。
-     未交代連結內容者視為不明連結。
-     允許討論勞資政策，但不得超出本版討論範圍。
-     若非版主發現。請至#1Ej_C7ua推文檢舉，其餘不受理。
-
-     其餘規定:#1FptSvJs、#1GyZ6pe7
-
-四、 禁止一文多po或手動置底 (以兩週為單位)。
-
-五、 禁止刪除、竄改推噓文
-     (惟他方公佈私人資料、張貼十八禁網址、恐怖連結含病毒網址、
-　　　廣告、不明連結、推文者本人要求不在此限）
-
-     檢舉請一併附上說明。
-
-六、 文章字數在30字以下一律刪除。未滿60字將視內容決定是否保留。
-
-     網址不算字數，英文以單字為單位。
-     因字數過少而刪除之文章將不予保留及退還。
-     發文者有效篇數五篇以下 且違反版規六者
-     文章劣退不公告
-
-七、 版主對於惡意鬧版之版眾將依版規罰則處理。
-
-     版主對上述行為有主觀認定之權力，必要時將給予劣文一篇。
-　　 PTT官方公告不受歡迎人物及廣告文章一律劣退+水桶且不另行公告。
-
-八、 禁止學校科系文、軍公教醫相關文章。
-
-     任何「與科技業進行比較的文章」也包含在內。
-     相關文章請至《Graduate》、《Master-D》、《CareerPlan》…等專門版面討論。
-
-九、 徵才文務必附上徵才公司名稱及薪資範圍。
-
-     a. 初犯者刪文+水桶兩週反省，累犯依版規罰則水桶一個月累計。
-     b. 薪資範圍需有明確數值，不限制範圍，但不得低於法定最低薪資。
-        薪資未明確列出數值範圍者(ex:比照XXX標準)視同違規。
-     c. 同公司類似性質工作請發於同一篇 (使用shift+e修改文章)。
-        相同文章勿手動置底，可重複PO文的期限請參考板規四。
-     d. 獵人頭公司徵才需加附該職缺網址。
-     e. 公司徵才文，聯絡信箱/電話必須為該公司信箱/電話。
-        若無公司信箱/電話，請留與留給人力銀行相同的聯絡信箱/電話。
-        ex:若是京元電子就要留[email<U+00A0>protected]的信箱。
-
-     依據#1HpcPPEZ此篇公告
-     沒有附上公司信箱連結者
-     ex. [email<U+00A0>protected]
-     一律刪文 水桶三個月
-
-十、 轉錄相關規定。
-
-     a. 轉錄文章限上站次數30次以上，文章數10篇以上的版友。
-     b. 一個帳號一日最多只能轉/貼/發一則新聞。
-     c. 文章需附原文連結。
-        網址超過一行建議縮網址以方便點閱 (可參考 http://0rz.tw http://ppt.cc )
-
-十一、 問卷相關規定。
-
-     一律使用 [問卷] 分類標題，不得任意更改。
-     所有問卷文比照板規四，有效期間為兩個星期，請勿在期間內重複張貼。
-     未使用 [問卷] 分類標題者，直接刪除。
-
-十二、 非版主請勿回覆 [公告] 標題。
-
-     包含\"[Tech_Job] 看板 選情報導\"
-
-十三、 請勿回覆任何標記「S」之討論串。
-
-十四、 禁止單日灌水文章，版主除外。
-
-       a. 一天中發文四篇屬於鬧板。
-       b. 已被警告過的人，一天中發文三篇屬於鬧板。
-       c. 被浸過水桶的人，一天中發文兩篇屬於鬧板。
-
-十五、 [offer]詢問的文章，三個月才可以發一次。
-
-       不論是代發或是自己發表。違規者，文章劣退。
-
-十六、 禁止揭露個人資料相關信息
-
- ‧ 文章/推文內容有以下情事者該文退回併水桶三個月：
-
-    1.凡未經原發文者同意轉入、未經同意公布個人資料、私人信件及水球紀錄者。
-
-      註：此條例包含任何轉網址、原始網址之提供，或任何關鍵字影射，使一般使用
-          者可簡單查詢到個人資料、私人信件、水球紀錄等，皆違反此條例。
-
-    2.意圖以影射、諧音字或近似字公開非公開使用者一部或全部之個人資料，如：自
-      然人之姓名、出生年月日、國民身分證統一編號、護照號碼、住址與電話號碼等
-      行為遊走於板規十六公佈個人資料規定之處者。
-
-
-罰則、 文章以及推文懲處依據如下：
-
-        由版主判定等級1 / 第一次 - 警告
-                  等級2 / 第二次 - 水桶一個月
-                  等級3 / 第三次 - 水桶三個月
-                  其他  / 超過三次 - 水桶半年或永久水桶
-
-        違規文章懲處依據如下：
-
-        由版主判定等級1 / 第一次 - 刪文
-                  等級2 / 第二次 - 以上劣退
-                  等級3 / 第三次 - 廣告文及不明連結直接劣退+永久水桶
-
-以上兩種懲處可同時進行，就是亂板者在被刪文劣退同時也會被警告或進水桶。
-
-此篇推文僅限反映版規問題，相關回應會在回覆後定期清理
+�аݦU��j�j�x���E�K��� ���H���D�̭��u�@���Ҥ��~��ݹJ�ܡH�u���D�o�����q�b���L�H�\�U���۰ʤƳ]�ơI����o���c�u�{�v�ݹJ�p��H
+-----
+Sent from JPTT on my iPhone
 
 --
-※ 發信站: 批踢踢實業坊(ptt.cc)
-◆ From: 118.233.74.14
-推 Kamiya:我喜歡這個版就是因為版主會管事 03/01 20:16
-→ Kamiya:倒是 能不能管管那種射後不理或灌水的[請問某某公司風氣福 03/01 20:17
-→ Kamiya:利]文 03/01 20:17
-→ mmkntust:謝謝~但以上問題好像無解..只要不違反版規六 03/01 22:31
-推 lovewsc:支持支持 03/03 01:16
-噓 rea1:現在要挑英文與病挑成這樣唷? 03/04 15:59
-→ ddss:哪一點要跟香港一樣?  憑你只認為跟你想法一樣的才叫台灣人 03/26 01:55
-→ ddss:抱歉  推錯 03/26 01:56
-※ 編輯: mmkntust        來自: 64.138.129.95        (03/27 12:28)
-推 weasi28:似乎傳產不能在這po 05/03 23:57
-推 brook0604:版主，我要推文，弄到文章回覆，可以幫我刪5/18的文嗎 05/18 20:52
-推 RickChiou:對設計有興趣其實abb Honeywell 不錯 06/08 10:39
-推 lucas01: push 板規酒 08/16 11:20
-※ 編輯: mmkntust (42.61.81.2), 10/11/2014 22:52:15
-推 cloud7515: 當初對於傳產的規定記得不會嚴格 因為沒有傳產版可以去 10/19 23:45
-※ 編輯: mmkntust (220.137.9.41), 10/28/2014 10:08:33
-→ mmkntust: 版規二微調 01/16 16:59
-※ 編輯: mmkntust (36.225.40.77), 01/16/2015 17:00:43
-推 mickeyha: 請問這個版有代 po嗎～ 02/22 20:40
-→ mmkntust: 本版無代PO服務 謝謝 02/23 22:55
-→ LOVEMS: #1LXPrMmk 請問breakheart這樣的推文有沒有違反版規二? 06/21 11:50
-→ LOVEMS: 上面那句推錯篇，可以的話請協助刪除 06/21 11:54
-→ ion100000: n先生）或暱稱進行人身攻擊、挑釁、歧視或引戰亦同。 12/25 23:24
-→ santorini: #1Mtk_j2n (Tech_Job) 無關科技版 03/09 08:57
-推 irvinglui: 推 非常詳細 03/22 11:29
-噓 mlda888: 為什麼obov那篇有違反版規3? 我覺得還好吧= = 04/18 20:41
-噓 dyt123: obov那篇在描述工作事實，也沒有多描述政治，沒違規吧! 04/18 21:41
-推 jb679123: 檢舉 #1N5crauL 板規六 04/20 08:51
-推 alau: 文字獄??? 04/26 18:13
-推 YHman: 的ㄘ看好了ㄍㄔ 07/11 08:29
-推 supertyphoon: 這版最棒了 某黃最棒 某陳最棒 09/28 14:33
-推 asd7514261: 推推 11/21 17:04
-推 sullivan01: 推推推 02/08 23:10
-推 yamax: #1O_M5mWB (Tech_Job)版規六，文章數/字數 04/24 10:59
-推 chuegou: 新聞 05/03 19:58
-→ erikk7788: 為何會突然看不到推文了？ 05/31 09:54
-推 ToyaErina: #1PsWteTV 使用者：lianki於文章中連續惡意噓文挑釁 10/09 00:53
-→ ToyaErina: 檢舉違反版規二 10/09 00:54
-→ ToyaErina: 且該留言為連續無意義之回文 10/09 00:58
-→ ToyaErina: lianki已承認自己中二鬧版，請速做出違反版規處置 10/09 12:33
-噓 yolasiku:  https://i.imgur.com/QoQ7VtS.jpg 11/11 13:41
-→ owen5566: #1QlAhZyD  kusahara 版規二 人身攻擊 03/29 17:56
-推 redonego: 這 04/05 10:57
-推 tanakataro: #1Qo46dRB hfptt 版規二 辱罵台灣人 04/08 15:58
-→ wzmildf: #1Qrkv20B  TouchBB於推文散布不實訊息且為累犯 04/18 21:14
-→ bruce1eee: 原文版規一，推文版規三 06/22 14:24
-※ 編輯: mmkntust (211.23.25.43), 07/02/2018 12:20:12
-→ mmkntust: 2018/07/02-依據公告#1RC7EvDt 編修第五條新增第十六條 07/02 12:21
+�� �o�H��: �����~�{(ptt.cc), �Ӧ�: 111.82.244.154
+�� �峹���}: https://www.ptt.cc/bbs/Tech_Job/M.1532889298.A.9BD.html
+�� sc1: �j��إq��e�a ���g�窺���U�H�W���� 07/30 10:55
 "
 "47" NA
 "48" NA
-"49" "作者mmkntust (老王廚房)看板Tech_Job標題[公告] 置底 檢舉/推薦 文章時間Sun Sep  7 11:54:29 2014
-感謝前版主 harrygp 辛苦付出
-為便於文章管理編輯
-重開 推薦/檢舉 置底文
+"49" "�@��qmqmqm ()�ݪOTech_Job���DRe: [�s�D] AI�ɥN¾�~�o�i�ⷥ�� �@�ޤ����OĹ�a����ɶ�Mon Jul 30 02:58:09 2018
+��ı�o�e���n�����O�ثe�j�a�ڥ����ηQ�Ӧh
+�]���x�Ӧ���n���O�۰ʤu�t�̦n�Q��2%��20%�o��
+�M�ᤣ�n�t�ζV�K�y�V�n, �̦n��]�]�n�n�u�n�u�W���U = ����
 
-為避免過去文章未被版主收錄，以及違反板規之推文或文章未被注意
-此篇提供板友推薦好文/檢舉用
+���ثeAI�i�H�U�ѫo�s���Z�ҳ�����
+�ϭ˾��AI, �j�ƾ�, XX�X�I�s����r�s�o�����ƪ�, �з~�C�~�Υ��~�H�h������ԣ�@��
+���b�^��W���H���٬O�ѤѤ�u�줣��, �s�򥻨t�μƦr���n�A��L, ��O�׶¤�
+�ӥB�o�᭱�٭n�ܦh�H�O�h�����t��, �ثe��H�������`���p�]�S��k����
 
-推文格式請依下列規定
+�C����:
 
-1.推薦好文
-→ ID:好文 #xxxxxxxx
+�۰ʨ�     vs �T�_�ɧ��ݨ쨮�N�y�s, �M���o��(?)
+���a�����H vs �Z�ҫ˶üQ����W���H��(?)�M�ᰨ���̦�����r�άO��������(?)
+�\�������H vs ���ƭn�����n���[�h�h��1/3�}�֦B�h�h�@�b�M���ü�Ѥ��n��ü���n����
 
-2.檢舉文章/推文
-→ ID:檢舉 #xxxxxxxx 文章/推文 某某某 違反 板規X
-
-#xxxxxxxx 為文章代碼
-文章代碼可於文章前按 shift + q (Q) 查詢
-
-┌─────────────────────────────────────┐
-│ 文章代碼(AID): #1ArdzNQP (Tech_Job) [ptt.cc] [公告] Tech_Job板板規 2009. │
-│ 文章網址: http://www.ptt.cc/bbs/Tech_Job/M.1255571287.A.699.html         │
-│ 特殊文章，無價格記錄                                                     │
-└─────────────────────────────────────┘
+�H�K�@�ӱ��p���i��ncall�u�{�v��service, ���G�S�O22k�ȪA�u�{�v�j�x��
 
 
-請注意！本板允許板友以噓文的方式表達不認同或不同意見
+������:
 
-故僅以噓文(而非噓文內容)來檢舉一律不受理
+��v    vs �I���޿�κ믫�����`�����٬G�N�~�ɸˮa�x�d�@���f�H?
+�|�p�v  vs �{�������b�٦������l���i�p�T�^�ŶR���v�O���`���e����?
+�߮v    vs �I��V�Q�V����l��XX (�o�̥i�ۦ�M�J�U��, �N���h���F)?
+
+�o�i��u�{�v�Ӥ]�S��, ���n����X���t�d���F
+
+
+�ӥB�o�٭n�ݤ��������٦���a����, �����a�軡���w�H�W���O���`�{�H(?)
+�M��D����S�b�۷Q2%�ܦ�20%, �٭n���~�ФH�{�����O���X�z, �֨��b�e���֭˷�?
+�ثe�٨S��k��}��, �٬O�H���ۤv�r
 
 --
-※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 118.233.81.57
-※ 文章網址: http://www.ptt.cc/bbs/Tech_Job/M.1410062073.A.1B6.html
-推 flame00: 讚啦 09/07 11:59
-推 zelkova: 檢舉 rockSHAME 在多篇文章推不明連結 違反板歸三 09/26 13:05
-※ 編輯: mmkntust (220.137.26.47), 09/26/2014 13:10:00
-→ mmkntust: 樓上案件已處理 09/26 13:10
-※ 編輯: mmkntust (42.61.81.2), 10/11/2014 22:51:55
-推 chivvy: 檢舉本版文章29340，為本版無關之文章，違反板歸一、七。 10/27 02:32
-→ chivvy: 檢舉 #1KJHr5T9 ，為本版無關之文章，違反板歸一、七。 10/27 02:35
-→ chivvy: 檢舉 #1KJJrX8c ，為本版無關之文章，違反板歸一、七。 10/27 02:44
-→ mmkntust: 樓上案件已處理 10/28 10:08
-→ ljsnonocat2: #1KLvvaVI (Tech_Job)  thm369541謾罵無意義推文 11/04 17:07
-→ mmkntust: 樓上案件已處理 11/04 19:35
-推 CoolPotato: yarrie問到答案就砍文 沒品 11/06 13:30
-→ mmkntust: 上面案例不違反板規 11/07 14:21
-推 c1823akimo: 檢舉#1KW2RL ID:e2000 鬧版,連續噓文 12/05 13:15
-→ mmkntust: 樓上案例 版規二,噓文不算挑釁 12/05 16:32
-推 ming5566: 檢舉#1KXA78zW ID:e2000，違反板規二，言帶挑釁， 12/08 16:45
-→ ming5566: 說一堆電子研究生最後只能宅在家尻、明示輪班家庭不美滿 12/08 16:46
-→ mmkntust: 樓上案件已處理 12/08 21:48
-推 ming5566: 檢舉#1KXA78zW ID:e2000，違反板規二，言詞侮辱碩士生， 12/09 10:01
-→ ming5566: 其中明示大多碩士生為洗學歷，個人感到受污辱。 12/09 10:01
-→ mmkntust: 同一案件不重複受理 12/09 21:44
-推 jillmai: ㄎ 12/14 08:41
-推 robler: #1KhJuE2b sai0720的推文涉及人身攻擊 01/07 22:52
-→ mmkntust: 樓上案件 沒有針對性 不予以處分 01/07 23:50
-推 pony666: 檢舉 #1Khu3PxM 文章與本版無關 01/09 15:58
-→ pony666: 無關 01/09 15:59
-→ mmkntust: 樓上案件 科技人工作型態與此版相關 不受理 01/09 18:26
-推 sweetfov: #1KmWvCYU ID: kkeeennnn，違反板規二，人身攻擊 01/23 23:54
-→ mmkntust: 樓上案件 找不到何處違反版規二?! 01/24 15:19
-推 wyvernlee: 檢舉 orz44444 文章以簽名檔方式違反板規二 02/22 23:39
-→ mmkntust: 樓上案件已處理 02/23 19:16
-→ ljsnonocat2: #1Kwt3UwV  板規一和八 02/24 11:33
-→ ljsnonocat2: 好文 #1KwVVHAC 02/24 11:34
-→ mmkntust: 樓上文章已收錄 02/24 16:31
-→ mmkntust: 樓上另一案件已處理 02/24 16:32
-推 keith780902: #1L3g2-F3  板規八 03/22 19:26
-→ mmkntust: 樓上案件已處理 03/22 21:24
-推 wish6729: 好文 #1L3iln4U 03/23 21:16
-→ mmkntust: 樓上案件已收錄 03/23 21:36
-推 rabbit2233: 檢舉##1L4tM4VU (Tech_Job)  ，Id bec5566違反版規2， 03/26 18:58
-→ rabbit2233: 人身攻擊 03/26 18:58
-→ mmkntust: 樓上案件已處理 03/26 20:53
-推 Narcissuss: 檢舉#1L8Xepn6 ID lngagg 違反板規2 人身攻擊 04/06 15:37
-→ mmkntust: 樓上案件已處理 04/06 21:18
-→ shaoweei: #1L9GrNNg 版規8 學校科系文 04/08 19:16
-→ mmkntust: 樓上本文已刪除 04/08 19:48
-→ wellkom: #1LBV9tNX 違反版規九 04/15 15:28
-→ mmkntust: 樓上案件 本文已修正 04/15 16:52
-推 Chi780121: #1LDFIxHi 作者自行刪除推文 04/21 00:00
-推 Chi780121: #1LDFIxHi 文章字數未滿30，違反版規六 04/21 01:29
-推 c137596: #1LDFIxHi 作者自行刪除推文 04/21 10:12
-→ mmkntust: 樓上案件已處理 04/21 16:36
-推 dust1204: 檢舉 id f121446推文廣告 04/23 00:19
-→ mmkntust: 樓上案件 無法得知哪篇文章推文 04/23 11:01
-→ dust1204: #1LDxZyR7 #1LDuk1Hj #1LDb2B0g #1LDI4mch 04/23 11:23
-→ mmkntust: 樓上案件 無法認定明確廣告嫌疑 不予以處分 04/23 12:48
-→ shaoweei: #1LETvAOC 版規8 學校科系文 04/24 14:18
-→ shaoweei: #1LEFAfAm 版規8 學校科系文 04/24 14:18
-→ mmkntust: 樓上文章已刪除 04/24 20:50
-→ besomebodyy: 檢舉#1LErX1IR  ID wtmi  人身攻擊 04/25 20:37
-→ mmkntust: 樓上案件已處理 04/26 14:53
-→ wzmildf: 檢舉 #1LFYWzzG (Tech_Job) 板規七 鬧板文 04/27 23:05
-→ wzmildf: 板眾應該都知道這人的由來，跑來PO文自稱資深工程師 04/27 23:06
-→ wzmildf: 有鬧板誤導板眾之嫌 04/27 23:06
-→ mmkntust: 樓上此篇文章仍在可接受範圍 不予以處分 04/28 13:10
-→ pimday: 檢舉 #1LIUyJ-H 版規四 文章內容相似且反覆自刪重PO置底 05/06 20:07
-→ mmkntust: 樓上案件已處理 05/06 20:18
-推 ken771209: #1LIsvguL 推 ting301: 我也希望南部人通通滾回去 05/07 23:56
-→ mmkntust: 樓上案件已處理 05/08 13:22
-→ shaoweei: #1LL5nBrf 板規八 05/14 17:03
-→ mmkntust: 樓上案件已處理 05/14 18:32
-→ flqb: #1LLrpTuZ kill2400推文 應該有違反板規2 05/17 10:19
-→ mmkntust: 樓上案件已處理 05/17 13:10
-→ s860134: #1LMgbLJI  bgiiu123 廣告推文 05/19 20:08
-→ mmkntust: 樓上案件已處理 05/19 21:37
-→ s860134: #1LNEWsN7 bgiiu123 廣告推文 05/21 15:49
-→ mmkntust: 樓上案件已處理 05/21 16:23
-→ shaoweei: #1LNXVtOc板規八 05/22 01:40
-→ mmkntust: 樓上案件已處理 05/22 09:50
-→ shaoweei: #1LNY2tsF 板規八 05/22 09:51
-→ mmkntust: 樓上案件已刪除 05/22 14:22
-→ HBK: #1LO7u6dr 板規二 引戰意味 05/24 22:39
-推 rabido: 不行 又射惹 05/25 02:53
-→ mmkntust: 樓上上案件已鎖文處理 05/25 11:45
-→ LOVEMS: #1LPJv0p7   pipi1983 政治推文 05/27 14:44
-→ mmkntust: 樓上案件已處理 05/27 18:32
-→ shaoweei:  #1LRRqELt 版規2 MMMB4219: (略) 其他鳥系也不會上 06/03 17:00
-→ mmkntust: 樓上案件已處理 06/03 22:10
-推 Focus788: #1LRmCF4z MMMB4219 一直在報假消息  可搜尋艾克爾文章 06/05 01:49
-→ mmkntust: 樓上案件,煩請提供證明文章連結 06/05 10:13
-推 shaoweei: #1LSS0ZRR ID:MMMB4219 堆文內容明顯挑釁及引戰 06/06 00:52
-→ shaoweei: MMMB4219: 既然你都發討拍文了就祝福你們兩個打官司順利 06/06 00:53
-→ mmkntust: 不是我不判..這樣文字敘述無法判定挑釁引戰 06/06 11:20
-推 ewwe: #1LSzo3Sy (Tech_Job) 版規二 與本版無關 06/07 16:44
-→ ewwe: 檢舉 #1LSzo3Sy (Tech_Job) 更正* 板規一 與本板無關 06/07 16:45
-推 Honinbo2007: 檢舉 #1LT1ZkQd 推文 piano9913 板規二 06/07 22:23
-推 roamer1005: #1LT5IipO  #1LT57_XL #1LSzo3Sy  f121446廣告推文 06/07 23:19
-→ mmkntust: ewwe案件 文章已刪除 06/08 12:12
-→ mmkntust: 樓上上兩案件已處理 06/08 12:17
-推 mogii: #1LTK8Enf 誤按到刪除指令 文章出現D了 煩請版主修正 06/08 15:42
-→ mmkntust: 請在文章前按小寫t 06/08 20:39
-→ ljsnonocat2: #1LUNr5fu  廢文 06/11 21:35
-→ mmkntust: 樓上按件已處理 06/12 00:22
-→ LOVEMS: #1LXPrMmk 請問breakheart這樣的推文有沒有違反版規二? 06/21 11:51
-→ mmkntust: 樓上案件已處理 06/21 19:28
-→ LOVEMS: #1LXQuZap 請問KMTATM 這樣的推文有沒有違反版規二? 06/21 23:26
-→ mmkntust: 樓上案例尚可接受 06/22 13:22
-推 besomebodyy: 檢舉 #1LgcVSkw (Tech_Job) 推文 tedrabbit 版規二 07/19 04:03
-→ besomebodyy:  引戰戰學校 07/19 04:03
-推 applejone: #1LkQ-5at 請問obov推文有無違反版規?這裡並不是黑特版 07/30 13:27
-→ applejone: 而且該篇文章水桶ID並非obov本人 07/30 13:27
-→ summer08818: #1LkneDXP 張爸文 07/31 14:54
-推 joh: besomebodyy 已經處理 08/01 10:44
-推 tonyhq: 感謝 08/04 08:37
-→ mmkntust: applejone 案件已處理 08/06 13:12
-推 applejone: 謝謝版主處理 08/06 14:13
-→ shaoweei: #1Louazy7 版規8 08/13 08:07
-→ mmkntust: 樓上案件已處理 08/13 10:04
-→ shaoweei: #1LpBnK7m 板規八 08/14 00:29
-→ mmkntust: 樓上案件已處理 08/14 09:57
-推 GodIronman: #1LpLajnJ 是否違反版規二? ID:englishman 08/14 13:14
-→ GodIronman: 回應內容對人不對事，刻意引戰。 08/14 13:14
-→ GodIronman: 不針對文章主題，反而對對方公司與人做挑釁與引戰。 08/14 13:18
-→ mmkntust: 查看樓上案件,內容為眾人互相交詰,鎖文處理 08/14 19:47
-推 ee820849: #1LrVI5JB 版規六與七，另該ID 常po 一些無意義文 08/21 11:41
-→ ee820849: 該ID 有時說自己在工研院，有時說在博班，有時說在台積 08/21 11:43
-→ ee820849: 感覺常來亂 08/21 11:43
-→ mmkntust: 樓上案件,以文章內容來說,無法判定違反版規 08/21 13:58
-推 ee820849: 了解 08/21 14:06
-→ LOVEMS: #1Ls9H_0F 徵才沒附電話信箱只有站內信聯絡 08/23 01:20
-→ mmkntust: 樓上案件已處理 08/25 09:58
-推 graceangel: 檢舉 #1Lv8vdXi 版規七 09/01 01:42
-→ mmkntust: 樓上案件,依違反版規一已處理 09/01 13:21
-→ LOVEMS: #1LvSwdnA 版規1跟2 09/02 01:02
-→ LOVEMS: #1LvK_DJA 版規1跟2 09/02 01:05
-→ mmkntust: 樓上案件已處理 09/02 09:59
-→ summer08818: #1Lw0IDv- 徵才不符格式 轉往外部連結 薪資也不明確 09/03 17:55
-→ mmkntust: 樓上案件已處理 09/03 23:05
-→ shaoweei: #1LwSxbEs 板規八 09/05 10:09
-→ s1346: #1Lmkofk7 版規二 09/06 03:42
-→ mmkntust: 樓上上案件已處理,樓上案件已結案 09/06 09:28
-推 wxWidgets: #1Lwn8pYp  wtmi 版規2 09/06 09:41
-→ mmkntust: 樓上案件已處理 09/06 09:49
-推 TedZec: 版主  wtmi已是累犯 #1LEwDuln 09/06 09:55
-→ mmkntust: 感謝提醒,已修正判決 09/06 09:58
-→ gogohc: 推薦M #1Lxj8UqR 09/08 22:17
-→ mmkntust: 已M並收錄精華區 09/09 09:48
-→ fan0417: 檢舉#1LyDLpMi 版規二 09/10 21:03
-→ mmkntust: 樓上案件已處理 09/11 09:54
-→ shaoweei: #1Lz5Lo_U 板規八 09/13 01:54
-→ mmkntust: 樓上案件已刪除 09/13 17:09
-推 gogohc: 好文 #1L-0EVs8 09/16 07:29
-→ mmkntust: 樓上文章已收錄至精華區 09/16 09:47
-推 Dino14124: #1M4eDaU 惡意文章 10/06 20:18
-→ mmkntust: 樓上文章已刪除 10/06 23:12
-→ Dino14124: 抱歉 是#1M4eDaU-  文章代碼錯誤，多一個「-」 10/07 16:03
-→ mmkntust: 樓上案件已刪除並警告 10/07 16:12
-推 gogohc: 請再次確認是否有M #1L-0EVs8 10/07 23:40
-推 joh: 已經m文了 10/08 20:46
-推 wait: #1M8WeK6a 版規八 學校科系文 10/17 21:29
-→ mmkntust: 樓上案件已處理 10/19 11:06
-→ vic89c: 檢舉 #1M9uyRpV ID Isaac202 版規二 10/22 21:42
-→ mmkntust: 樓上案件已處理 10/22 22:23
-→ vic89c: 檢舉 #1M9uyRpV ID Isaac202 連續無意義噓文，惡意亂版， 10/23 20:56
-→ vic89c: 警告後毫無悔意，建議水桶 10/23 20:56
-→ mmkntust: 樓上案件,原文鎖文,若有再犯再行處理 10/23 22:51
-→ yujawe: 檢舉 #1MAY9qE8 板規二 10/24 13:29
-推 catvsdog: 檢舉 #1MBBXfnE 推文 thm369541 違反 板規二 人身攻擊 10/26 17:32
-→ mmkntust: 樓上上文章已自行刪除 10/26 21:24
-→ shaoweei: #1MBZT92c 版規八 10/26 23:34
-推 joh: 樓上已經處理 10/27 22:30
-→ mmkntust: catvsdog檢舉案,多數推文已偏移主題,鎖文處理 10/28 09:41
-→ mmkntust: catvsdog檢舉案 改判 已處理 10/28 13:39
-推 LOVEMS: #1MD4qDUt 這篇不准推文但可以讓原PO修改嗆人? 10/31 23:14
-推 joh: 樓上已經處理 11/01 19:51
-→ shaoweei: #1MJhU33Y  板規2  MMMB4219: 寫了薪資你也上不了 11/20 14:41
-→ mmkntust: 樓上連結與檢舉內容不符 11/20 20:28
-→ mlda888: #1MJ-4gOh (Tech_Job) 板規8 11/21 13:03
-→ mmkntust: 樓上案件已處理 11/21 20:00
-→ QQ101: #1MMP6ef1 這篇是來亂的嗎 11/28 23:05
-推 joh: 樓上已經處理 11/29 14:52
-→ cherysaor: #1MMksd1e 推文:自己 請求版主代刪圖片推文 願受處罰 11/30 00:29
-→ mmkntust: 樓上案件,版主無權力刪修推文 11/30 10:53
-→ faniour: 檢舉 #1MMcIQ89 p00o99o 板規二 挑釁 11/30 12:12
-→ mmkntust: 樓上案件已處理 11/30 13:26
-推 MOSHEMT: #1MT094Nf id:ting301 版規二 戰四大 12/19 01:38
-→ mmkntust: 樓上案件文章鎖文處理 12/20 22:26
-推 treman: 但 12/22 11:11
-→ huhu5566: #1MUhx3WW titigirl 刪除推文 12/24 01:03
-→ mmkntust: 樓上案件 原文已刪除 12/24 11:28
-推 ion100000: 檢舉本版40761文章違反版規九！徵才文未附公司信箱與 12/25 23:21
-→ ion100000: 公司名稱 12/25 23:21
-推 ion100000: 檢舉本版40769文章推文違反版規三-註冊/設定特定ID（io 12/25 23:24
-→ ion100000: 先生）或暱稱進行人身攻擊、挑釁、歧視或引戰亦同。 12/25 23:25
-推 ion100000: 檢舉#1MVHiVvZ (Tech_Job)違反版規九，徵才文未附公司 12/25 23:38
-→ ion100000: 信箱 12/25 23:38
-→ ion100000: 檢舉#1MVK-Ruj (Tech_Job)推文違反版規三 12/25 23:40
-推 joh: 樓上兩篇已經砍文 12/26 10:21
-推 qqq04737084: 不小心刪到文章 可否請板主幫忙復原 01/03 08:38
-→ mmkntust: 樓上案件,已將原文寄回信箱,請自行重PO 01/04 10:39
-→ santorini: #1MZ0n_yj (Tech_Job) 版規八 科系文 01/06 08:40
-→ mmkntust: 樓上案件已處理 01/06 15:12
-推 jb679123: 檢舉 #1Ma8DdYi (Tech_Job) 01/09 15:39
-推 joh: 樓上已經處理 01/09 16:00
-推 jb679123: 檢舉 #1Mbap09N (Tech_Job) 01/13 21:19
-→ mmkntust: 樓上案件已處理 01/14 13:12
-推 jb679123: 檢舉 #1Md6tvOi (Tech_Job) 01/18 13:43
-→ mmkntust: 樓上案件已處理 01/19 14:59
-→ jb679123: 檢舉 #1MeaqB0c (Tech_Job) 01/23 13:32
-推 joh: 樓上已經處理 01/24 14:37
-→ jb679123: 檢舉 #1MhG4vrv (Tech_Job) 01/31 15:54
-→ mmkntust: 樓上案件已處理 01/31 16:55
-推 QQ101: #1MhXlm_0 #1MhY5o3v  看推文還以為我在八卦... 版風已變質 02/01 01:42
-→ mmkntust: 樓上案件已處理 02/01 11:10
-→ jb679123: 檢舉 #1Mhmfec_ (Tech_Job) 02/01 16:03
-→ mmkntust: 樓上案件已處理 02/01 16:26
-→ jb679123: 檢舉 #1Mi6eJsd (Tech_Job) 02/02 16:36
-→ mmkntust: 樓上案件未違反版規 02/03 09:51
-→ jb679123: 檢舉 #1Mj31dCM (Tech_Job) 02/05 13:39
-→ mmkntust: 樓上案件已處理 02/05 18:30
-推 straggler7: 檢舉 #1MkC4MFl 推文 creulfact 違反版規2 02/09 01:22
-→ straggler7: 檢舉 #1MkC4MFl 推文 yudofu 違反版規2 02/09 01:22
-推 joh: 樓上已經處理,另外若有遺漏處,請多多檢舉 02/09 22:03
-→ jb679123: 檢舉 #1MkqPZZ3   #1Mkksekv 02/11 12:57
-→ jb679123: 檢舉 #1Ml1OBv2 02/11 13:23
-→ jb679123: 檢舉 #1MlBx4KP 02/12 11:49
-→ santorini: #1MlPKL_K (Tech_Job) 字數不滿三十 02/12 18:17
-→ mmkntust: 樓上全部案件已處理 02/12 21:21
-→ jb679123: 檢舉 #1Mlm0r90 02/13 21:20
-→ mmkntust: 樓上案件已處理 02/13 23:01
-→ jb679123: 檢舉 #1MlykR80 02/14 09:42
-→ mmkntust: 樓上案件已處理 02/14 10:49
-→ jb679123: 檢舉 #1Mm2w17k 版規15 02/14 19:25
-推 jb679123: 檢舉 #1Mm6o-Dl 02/14 20:18
-→ mmkntust: 樓上案件已處理 02/14 20:24
-推 jb679123: 檢舉 #1Mm78h_C 02/14 20:27
-→ mmkntust: 樓上案件可接受範圍 02/14 20:51
-推 jb679123: 檢舉 #1MmNuLXc 02/15 15:37
-→ mmkntust: 樓上案件已處理 02/15 15:46
-推 deepwoody: 檢舉 #1MmJsUun   TalkToMe版規二 挑釁 02/16 06:31
-推 joh: 樓上案件已經處理,下一次自己別再挑釁,雙方自己就此打住 02/16 12:15
-推 joh: 如果下一篇你自己也有挑釁推文,我會兩方一起處分 02/16 12:15
-→ santorini: 檢舉 #1MnmKF2q 推文 corrona 多次廣告 02/19 23:18
-推 joh: 樓上可否提出多次廣告推文的位址? 02/19 23:31
-推 joh: 目前只看到一篇 02/19 23:31
-→ santorini: #1Mmiyugg (Tech_Job) 02/20 06:32
-→ santorini: #1MmfrXDe (Tech_Job) 02/20 06:33
-→ santorini: 最新回文 02/20 06:34
-→ santorini: #1MmUVKta 看到快一周了才檢舉 麻煩摟 02/20 06:35
-→ mmkntust: 樓上案件已處理 02/20 16:25
-→ jb679123: 檢舉 #1MoqLdIM 02/23 09:57
-→ mmkntust: 樓上案件已標記,視後續推文處理 02/23 10:23
-推 mimi0254didi: 檢舉 42089 刪推文 02/25 09:54
-推 mimi0254didi: 請永久水桶 42089 連刪3次推文 02/25 10:40
-→ mmkntust: 樓上案件原文已刪除 02/25 12:31
-→ GL552VW: 刪除還有辦法處理嗎?我也有看到他刪好幾次推文 02/25 15:42
-→ mmkntust: 基本上只處理仍存在之文章 02/26 10:57
-→ jb679123: 檢舉 #1MrdlLME 03/02 13:54
-→ mmkntust: 樓上案件,若跟科技版面試相關,不違反版規 03/02 14:48
-推 mlda888: #1MrlitrF PO文的a870301tim40 刪除底下數位板友的噓文 03/02 23:11
-→ mlda888: 檢舉 #1MrlitrF a870301tim40 刪除底下數位板友的噓文 03/02 23:12
-→ santorini: #1MrlitrF (Tech_Job) 板規八 03/03 07:10
-→ mmkntust: 樓上s板友案件已處理 03/03 11:34
-→ mmkntust: 樓上m板友案件原文已刪除 03/03 11:35
-推 S0031104: 讚 03/03 14:59
-推 gogohc: 請 M 完全點出工工的優勢弱勢 #1Mt5j0CH (Tech_Job) [ptt. 03/07 10:39
-→ gogohc: cc] R: [請益]工工如何進電商 03/07 10:39
-→ mmkntust: 樓上案件已收錄精華區 03/07 13:17
-→ santorini: #1MtfSf0B (Tech_Job) 無關科技版 03/08 17:17
-→ mmkntust: 樓上文件已刪除 03/08 19:42
-→ santorini: #1MtsbgiJ (Tech_Job) 未提供公司信箱 03/09 08:56
-→ santorini: #1Mtk_j2n (Tech_Job) 無關科技版 03/09 08:58
-→ mmkntust: 樓上案件已處理 03/09 12:33
-→ kf282558: 昂下 03/10 20:39
-→ santorini: #1Mvl88qC (Tech_Job) 版規八 03/15 08:48
-→ santorini: #1MvlSo9V (Tech_Job) 版規八 03/15 08:48
-→ mmkntust: 樓上案件已處理 03/15 09:55
-→ jb679123: 檢舉 #1Mx7RJGP 科系文 03/19 09:45
-→ jb679123: 檢舉 #1Mwzl4YB 科系文 03/19 10:08
-→ mmkntust: 樓上案件已處理 03/19 21:05
-推 santorini: #1MxadPZN (Tech_Job) 科系文 03/20 15:03
-→ santorini: #1MxbOTMo (Tech_Job) 科系文 03/20 16:11
-推 joh: 樓上已經處理 03/20 17:48
-→ santorini: #1Mxxh36B (Tech_Job) 科系文 03/21 18:09
-→ mmkntust: 樓上案件已處理 03/22 13:02
-→ santorini: #1MyJiY-z (Tech_Job) 科系文 03/22 20:33
-→ mmkntust: 樓上案件已處理 03/22 21:36
-→ jb679123: 檢舉 #1My-NafE 03/24 21:25
-→ mmkntust: 請問樓上檢舉違反哪條版規?! 03/24 23:27
-→ jb679123:  思考過後應該是沒有違規 請版主無視 謝謝 03/25 01:46
-→ gogohc: pls m #1M-EWarF 日商獵人頭公司 03/28 22:21
-推 joh: 樓上已經處理 03/28 23:26
-→ st930617: rick030215最近四篇回的內容都差不多算一文多po嗎 03/31 22:01
-→ mmkntust: 樓上案件已處理 03/31 23:03
-→ kerorofrog: 43087那篇推文在吵架 板規二 04/02 15:04
-→ mmkntust: 樓上案件已處理 04/02 20:15
-推 st930617: 43074 版規六 有效文章只有一篇 04/05 20:04
-→ mmkntust: 樓上案件已處理 04/05 20:19
-→ st930617: 42150 版規六 有效文章不到五篇 04/07 13:44
-推 mlda888: 檢舉 #1N1XEbw0 板規4+6+7 04/07 16:07
-→ mlda888: 檢舉 #1N1XHals 板規4+6+7 04/07 16:07
-→ mlda888: 檢舉 #1N1XEbw0 + #1N1XHals 連續兩篇鬧版 04/07 16:08
-→ mmkntust: 樓上案件原文已不存在 04/07 20:58
-推 jb679123: 檢舉 #1N4EKdIj 板規6 04/15 21:13
-→ jb679123: 檢舉 #1N4F9zIx 板規1 04/16 09:09
-推 gogohc: #1N11CiIw 設備好文 請M 04/16 16:39
-→ mmkntust: 樓上案件皆已處理 04/16 17:00
-→ mlda888: 為什麼obov那篇有違反版規3? 我覺得還好吧= = 04/18 20:41
-推 mlda888: 而且也沒人檢舉那篇，顯然應該沒有版友覺得那篇不洽當 04/18 20:43
-推 mlda888: 詳細看了那篇推噓文，也沒有版友互相吵起來，所以請問版 04/18 20:47
-→ mlda888: 主您鎖文的依據為何？還是這也是您的自由心證 04/18 20:47
-→ mmkntust: 基本上只要有特別提到政府政治問題,皆已板規三判定 04/18 22:20
-推 obov: 版主喔  你要鎖我沒意見喇 04/18 23:07
-→ obov: 反正你爽就好  不過我問你喔  照你這邏輯 04/18 23:08
-→ obov: 政府科技業政策不就不能討論？  分紅費用化這種月經文也算? 04/18 23:08
-→ mmkntust: 主要是針對幾任總統那一段判定政治文 04/19 13:58
-→ mmkntust: 沒有規定不能針對政策進行討論 04/19 13:58
-→ obov: 幾任總統只是描述時代  跟政治傾向無關 04/20 01:10
-→ jb679123: 檢舉 #1N5crauL 板規六 04/20 08:52
-→ mmkntust: 樓上案件已處理 04/20 10:07
-推 jb679123: 檢舉 #1N5m6oel 有效文章不到五篇 04/20 12:31
-→ mmkntust: 樓上案件滿三十字,觀察 04/20 13:28
-→ santorini: #1N5xE7XV (Tech_Job) 版規一 04/21 08:18
-→ mmkntust: 樓上案件已處理 04/21 11:20
-→ gogohc: #1N6IUBfJ 簡單扼要8吋廠帶線跟整合差別 請M 04/22 09:06
-→ mmkntust: 已M並收錄至精華區 04/22 09:49
-推 mlda888: 好文 #1N7Vl8LY (Tech_Job) 04/25 20:26
-→ mmkntust: 樓上文章,非一般版友能理解,不予以收錄 04/25 21:39
-推 kitune: 檢舉 #1N7n6LIu poiu1234 版規2 以loser字眼對我人身攻擊 04/26 15:40
-→ mmkntust: 樓上案件已處理 04/26 16:38
-噓 ziggi: 版規有規定非本人PO文章版主可以刪文+鎖公告? 04/28 05:16
-→ neal997: 被和諧了 04/28 09:31
-推 joh: 1.當事人要求砍除  2.當事人說明這些並不是事實 04/28 12:59
-推 joh: 所以為避免日後糾紛,還是先行砍除 04/28 12:59
-推 joh: 當然雙方有甚麼疑慮,可自行循管道溝通 04/28 13:00
-推 st930617: 43770未滿三十字 有效文章不到五篇 該退了 05/01 21:49
-推 joh: 樓上已經處理 05/01 22:58
-推 jb679123: 43775未滿30字 05/02 00:26
-推 joh: 樓上已經處理 05/02 23:42
-推 jb679123: 檢舉 43843 版規1 05/03 11:54
-→ mmkntust: 樓上案件原文已刪除 05/03 15:19
-推 jb679123: 檢舉43858 版規1 05/03 22:53
-推 joh: 樓上已經自行砍除 05/03 23:19
-推 jb679123: 檢舉43935 科系文 05/05 20:54
-→ mmkntust: 樓上案件已處理 05/05 20:59
-推 jb679123: 檢舉44004 版規6 05/07 16:13
-推 war11: 檢舉 #1NBLVc8J 違反版規五: 竄改版友推噓文 05/07 17:15
-→ mmkntust: 樓上案件皆已處理 05/07 20:33
-推 gogohc: #1N9ogAEJ 請M回憶臺灣科技史 05/08 01:14
-推 jb679123: 檢舉 43922 版規一 05/08 08:52
-→ mmkntust: 樓上案件已處理 05/08 13:25
-→ santorini: #1NBvMHKL (Tech_Job) 科系文 05/09 07:40
-→ mmkntust: 樓上文章已不存在 05/09 11:25
-推 bryon: 檢舉 44027 版規2 05/11 23:24
-→ mmkntust: 樓上案件已處理 05/12 10:18
-推 jb679123: 44051 板規一 05/15 11:39
-→ mmkntust: 樓上案件已處理 05/16 10:57
-推 jb679123: 44272 板規一 05/20 09:14
-→ mmkntust: 已查無樓上文章 05/22 14:13
-推 jb679123: 44309 版規一 05/23 22:38
-→ mmkntust: 樓上案件已處理 05/24 10:16
-推 jb679123: 44451 44452 未滿30 05/26 23:51
-→ mmkntust: 樓上案件已處理 05/27 08:35
-→ gogohc:  M 影像出路 #1NIJeCbf 05/29 01:00
-→ mmkntust: 已M文 05/29 09:50
-推 gn01216674: 檢舉 #1NIe7X8o 推文 fireman 違反版規2 05/29 17:15
-→ mmkntust: 樓上案件已處理 05/29 21:05
-推 gogohc: 資工網路出路討論 #1L1c5vg8 請M 05/29 21:30
-→ mmkntust: 已m文並收錄於各科系出路 05/30 10:54
-推 chaoyu: 檢舉 #1NMNd3CD 推文 zaiter 違反板規2  這樣可以嗎? 06/09 22:48
-推 chaoyu: 檢舉 #1NMNd3CD 板規2 第一句就針對我啦~ 06/09 23:01
-推 chaoyu: 此外，我的山文是否能還給我，我不重PO但要向人致謝 06/09 23:28
-推 chaoyu: 檢舉 #1NMGtPe_ 板規2，第一句即針對我。上面推錯了... 06/10 02:51
-→ santorini: #1NMYbz3Y 廣告文 06/10 13:06
-推 joh: 樓上已經處理 06/12 13:31
-推 joh: 另外文章自己砍除的人,若沒備份我不會提供 06/12 13:36
-→ gogohc: 請 M #1NNLqehS 日本CS工作討論 06/14 00:39
-推 joh: 樓上已經處理 06/14 00:48
-推 fotumbra: #1NPKJZXP  學校科系文 06/18 22:25
-推 mlda888: 檢舉#1NPKJZXP 版規8 06/18 22:37
-推 joh: 樓樓上已經砍文,樓上文章已砍 06/19 20:24
-推 KOF98992000: 99 06/20 17:18
-→ santorini: #1NQG6Ccu 廣告文 累犯 6/10已經有過了 06/21 22:18
-→ mmkntust: 樓上案件已處理 06/22 16:43
-推 jb679123: 檢舉 45222 版規一 06/24 08:48
-推 joh: 樓上指哪一篇? 06/29 22:14
-→ GL552VW: 45434 徵才沒有寫薪資 07/03 10:46
-推 mlda888: 檢舉 #1NYtPD4X (Tech_Job)  文章，版規8 07/17 20:34
-→ mmkntust: 樓上案件已自行刪除 07/18 00:16
-推 hank830320: 哥四大化工過來人 高中化學隨便考都第一名 進化工系之 07/18 00:28
-→ hank830320: 後年年都差點被1/2 單操修了五次 給你參考 07/18 00:28
-推 ccy102: 檢舉 45876 #1NZ72Ff0 未滿30字 07/18 14:17
-→ mmkntust: 樓上文章已刪除 07/18 16:34
-推 ccy102: 檢舉 46156 #1NcEy1QT 板規一 與科技版無關 07/28 10:56
-推 joh: 樓上已經砍除 07/28 22:03
-推 jb679123: 檢舉 46211 學校文 07/31 23:15
-推 KurakiMaki: 檢舉#1Ne6E2Y6   Hikkiaholic 版規二，挑釁攻擊 08/02 23:30
-→ mmkntust: 樓上案件已處理 08/03 09:44
-推 KurakiMaki: 感謝版主～ 08/03 13:41
-→ greatgatsby: 檢舉ID Hogg10 對岸的人跑來酸什麼台巴子 08/03 23:21
-推 Ommm5566: #1NefvbUG 版規九 不合格式 08/04 10:03
-→ mmkntust: greatgatsby案件,請提供具體文章內容 08/04 12:44
-→ mmkntust: 樓上上案件已處理 08/04 12:44
-推 jb679123: 檢舉46450 和科技版無關 08/11 22:51
-推 joh: 樓上請給文章代碼 08/28 14:43
-→ NTUSTNash: 檢舉46997，問Toeic還在硬凹 09/02 17:08
-推 bruce1eee: 檢舉#1Now3FqU   damm 版規二，挑釁、歧視或引戰 09/04 13:22
-→ mmkntust: 樓上案件,文章推文已流於爭辯,鎖文處理 09/05 15:30
-推 voya: 檢舉 #1NpKXIkB 版規一 與科技版無關 09/05 20:14
-→ mmkntust: 樓上案件已處理 09/06 10:03
-推 whocallyou: #1NrG4iRu (Tech_Job) 推文引戰 09/12 18:49
-→ mmkntust: 樓上案件,原文無關科技版已刪除 09/12 21:02
-推 yun1907lin: 檢舉#1NraxdQu (Tech_Job) twice899660 惡意挑釁 回 09/13 19:05
-→ yun1907lin: 覆與文章無關內容 09/13 19:05
-→ mmkntust: 樓上案件已處理 09/14 09:58
-推 p00o99o: 檢舉 #1NtGwohd 文章 違反 板規五 09/17 23:33
-→ mmkntust: 樓上案件已處理 09/19 10:06
-→ LOVEMS: #1NuN1zPV  版規9.e 09/21 01:34
-→ mmkntust: 樓上案件已處理 09/21 11:30
-推 tsingpo: 10/01 12:34
-噓 fotumbra: 檢舉 #1NxwB_F3 文章違反 板規1 10/01 22:50
-推 lovewsc: 樓上案件,原文無關科技版已刪除 10/01 23:43
-推 LOVEMS: #1N_xnYjr 板規9-e 10/14 01:52
-→ mmkntust: 樓上案件已處理 10/14 15:55
-推 holishing: 檢舉 #1ODJRpSf 推文 板規七 11/24 20:42
-→ holishing: 檢舉 #1ODJRpSf 推文 maingjo 板規七 11/24 20:42
-→ mmkntust: 樓上案件,不符合板規七,不予以處理 11/25 10:05
-推 nicoro: 48840 文章違反板規六 11/25 19:04
-推 nicoro: 48855文章違反板規六 11/26 04:53
-→ ffreakoo: 檢舉 #1OGXBAYa sendtony6 版規二 12/03 11:15
-→ ffreakoo: 趁年輕多多利用你那兩粒，等你過30了就沒人理你了 12/03 11:16
-→ ffreakoo: 人身攻擊、歧視、挑釁、引戰之回文 12/03 11:16
-→ ffreakoo: sendtony6: 就讓她去被科科業的垃圾玩個幾次，就會知道 12/03 11:24
-→ ffreakoo: 什麼叫人心<U+9669>惡 12/03 11:25
-→ ffreakoo: 檢舉 #1OGXBAYa 推文 obov 違反版規二 12/03 15:37
-→ ffreakoo: 不是金融業都是屎   是某人是屎  呵呵 12/03 15:37
-→ ffreakoo: 人身攻擊、挑釁、歧視或引戰回文 12/03 15:38
-推 canandmap: 檢舉#1NXGa8Cb #1Nioxh2f #1NlTMI7z #1NrEtIpH 12/04 01:22
-→ canandmap: #1NyfWdQt #1O0bMu7H #1O2Q2Sqy #1NjRXCtJ #1NVzx8sc 12/04 01:23
-→ canandmap: #1NShdwV7 #1NL5KBJu #1NI7G3XS #1NyZesGY #1NtN85JQ 12/04 01:23
-→ canandmap: #1NZF3xJK #1OC7tR6m #1O7dt7UG #1OBObRZA #1O1FXkZn 12/04 01:24
-→ canandmap: #1NwKj04E 推/噓文 Darius 板規一與板規七 12/04 01:25
-→ canandmap: 內容:http://i.imgur.com/1dLJrsd.png  抄襲王Truespac 12/04 01:25
-→ canandmap: e分身 又來洗新聞 12/04 01:26
-→ ffreakoo: 檢舉 #1OGXBAYa thm369541 版規二 12/04 09:48
-→ ffreakoo: 有推文說原Po又唸119又唸國外野雞~~推測原Po也是偽公主 12/04 09:48
-→ ffreakoo: 哈哈~~不太懂假掰公主ㄉ意思~~難道假掰公主是爛校畢業? 12/04 09:48
-→ ffreakoo: 檢舉 #1OGXBAYa thm369541推文 版規二 12/04 09:49
-→ ffreakoo: 檢舉 #1OGXBAYa obov 回文 版規二 12/04 09:51
-→ ffreakoo: 好喇  理專等級的工作就不用上網自慰惹 12/04 09:52
-→ ffreakoo: 不是理專喔    反正跟理專差不多 12/04 09:52
-→ ffreakoo: 你說差滿多就差滿多喔   是要笑死誰 12/04 09:52
-→ ffreakoo: 背業績的是會差到哪裡去   你當大家傻子喔 12/04 09:52
-→ ffreakoo: 還不是一樣背業績   你還真以為我不懂壘 12/04 09:52
-→ ffreakoo: 不是金融業都是屎   是某人是屎  呵呵 12/04 09:52
-→ ffreakoo: 國外三流大學剛畢業的是有捨摸專業   你是認真的嗎? 12/04 09:53
-→ ffreakoo: 檢舉 #1OGXBAYa sneakytofu推文 版規二 12/04 09:53
-→ ffreakoo: 等妳應徵上再說吧，不然現在說只是欠嗆的而已 12/04 09:54
-→ ffreakoo: 其實看到大學畢業就該End了...呵呵 12/04 09:54
-→ ffreakoo: 原來..原po之前念119 後來念沒名氣的美國大學啊^_^ 12/04 09:54
-→ ffreakoo: 勸妳別戰了或換支帳號再來吧@@ 12/04 09:55
-→ ffreakoo: 上面自己回應 還沒投履歷，現在卻說要去報到了XDDDD 12/04 09:55
-推 ffreakoo: 檢舉 #1OGXBAYa CodyBro 回文 版規二:台大也是一堆廢物 12/04 09:57
-→ ffreakoo: 檢舉 #1OGaQHl1 pig2014噓文 版規二：腦妹無敵 12/04 10:01
-→ ffreakoo: 檢舉 #1OGXBAYa yytseng 回文 版規二:女人做什麼一看老 12/04 10:27
-→ ffreakoo: 爸二看臉，其他都比男人差一些。事實 12/04 10:27
-→ ffreakoo: 陳述不用反駁 12/04 10:27
-噓 GodIronman: 檢舉 #1OGXBAYa ffreakoo 回文 板歸二： 12/05 00:41
-→ GodIronman: 只是個托福89的渣、什麼都不是的渣、破英文學渣 ...等 12/05 00:42
-→ GodIronman: 我都不知道這文組是不是來釣魚的，這麼嘴還想幹FAE!? 12/05 00:42
-→ mmkntust: 樓上案件已處理 12/05 12:26
-推 canandmap:               感謝板主群抽空處理 12/05 20:58
-→ naminono: 檢舉 #1OJhz7xK 與本版無關 12/13 01:28
-→ mmkntust: 樓上案件已處理 12/13 11:19
-推 yocoolman: 檢舉 SONIX 洗文章,多篇無意義之發問文 12/14 10:45
-→ mmkntust: 樓上案件已處理 12/14 11:31
-推 yocoolman: 辛苦版主了 12/14 11:54
-推 s08k521: 艾克 12/16 01:15
-→ smailzhu: #1OC5tXB1 (Tech_Job) 空白文 12/28 10:27
-推 superabea: #1OOz_Qqv 版規九，徵才文分類錯誤，且無薪資福利等 12/29 08:38
-推 superabea: 且文章內容易造成對立，立場過於明確 12/29 08:41
-→ mmkntust: 樓上兩案件已處理 12/29 10:24
-推 superabea: 謝謝版主 12/29 14:56
-→ litcurler: 檢舉 #1OPqvRcu 有刪推文嫌疑違反版規五,煩請版主確認. 12/31 15:45
-→ litcurler: 看錯版..煩請忽略這個申請 sorry 12/31 16:20
-→ naminono: 檢舉 #1OVW6P5w 與科技版無關 01/18 22:54
-→ mmkntust: 樓上案件,勉強和科技業有關 01/19 09:56
-推 zzzxxx382: 檢舉#1OZua-dB ballyeah5566: 學店學士到科技板po廢文 01/31 21:13
-→ zzzxxx382: ballyeah5566: 他應該覺得受過4個月軍事訓練就很猛一 01/31 21:14
-→ zzzxxx382: 一樣吧 井底小青蛙 01/31 21:14
-→ zzzxxx382: ballyeah5566: 學店學士QQ 慢慢呱呱叫吧！呱 01/31 21:15
-→ zzzxxx382: 回文 版規二 01/31 21:15
-→ mmkntust: 樓上案件已處理 01/31 22:21
-→ mimicat0228: 檢舉 #1OZua-dB (Tech_Job) 與科技版無關 02/01 11:00
-→ mimicat0228: 違反版規一 02/01 11:01
-→ mmkntust: 樓上案件未違反版規一 02/02 21:12
-→ naminono: #1Of4_k9G 與科技版無關 02/15 22:31
-→ mmkntust: 樓上案件已處理 02/16 12:28
-→ mlda888: 檢舉  #1OnhKuRY 文章 違反 版規8 03/13 23:47
-→ mmkntust: 樓上案件已處理 03/14 10:00
-推 c1823akimo: 檢舉：#1O_r0Kbi，id：stevenmanjj，推文違反版規二 04/25 23:30
-→ c1823akimo: ，廢物HR，#156樓 04/25 23:30
-推 s0914714: 檢舉 #1OoJSEdH id:garlicbetty windsaga 違反板規二 04/26 22:45
-→ mmkntust: 樓上上案件已處理,樓上案件已過七日追溯期 04/27 14:34
-推 hang724: 。 05/14 17:13
-→ zxcv4321: #1P7-jXZt gong0304: zxcv4321,你的邏輯才可笑咧 版規2 05/23 16:07
-推 liebeu: 讚！好心人 06/02 12:45
-推 zxcv512: 版主請問可否幫我刪文#1P6ON5sp (Tech_Job) 06/07 12:39
-→ mmkntust: 樓上案件已處理 06/07 23:01
-推 nekoni: #1PEFDDNJ (Tech_Job) 推文  eatingshit 06/08 15:45
-推 rtwodtwo: 檢舉 #1PEEdBCi 政治文 與本板無關 06/08 16:14
-→ mmkntust: 樓上案件已處理,樓上上文章已不存在 06/12 10:52
-推 kkkx: 檢舉 #1PGTjMfx (Tech_Job) 抱怨文 跟本版無關 06/15 11:41
-→ mmkntust: 樓上案件已處理 06/19 10:18
-推 nekoni: #1PIeSzqT (Tech_Job) thbw666 他板恩怨 06/22 10:21
-→ mmkntust: 樓上案件尚在可接受範圍 06/22 12:13
-推 bighead0326: 檢舉 #1KiK1X2c (Tech_Job) 在本人未同意情況下散佈 06/22 19:16
-→ bighead0326: 照片，煩請刪除該文章或僅刪除照片 06/22 19:18
-推 nekoni: #1PIeSzqT (Tech_Job) XYZP 06/23 06:45
-→ mmkntust: 樓上上案件已處理 06/23 11:47
-→ mmkntust: nekoni 案件上在可接受範圍 06/23 11:48
-→ Dino14124: #1PMAjXCT (Tech_Job) 07/02 18:42
-→ Dino14124: #1PM61Z7I (Tech_Job) 07/02 18:43
-→ Dino14124: 以上兩篇 guest0079 引戰加上噁心用語 其他亂戰的都桶 07/02 18:44
-→ Dino14124: 一桶 07/02 18:44
-→ mmkntust: 樓上案件已處理 07/03 11:00
-→ Dino14124: 板主 還有其他亂戰違規的都該桶 07/03 15:18
-→ Dino14124: #1PMUlDb5 (Tech_Job) 07/03 15:26
-→ Dino14124: 這篇累犯 永桶可以嗎 令人無言 07/03 15:26
-→ lovewsc: 樓上案件已處理 07/04 00:08
-噓 rewqasdf: 爛版僕，選擇處理 07/05 07:09
-→ rewqasdf: 幾個月當空氣 07/05 07:10
-→ misq2011: 檢舉 #1PTSI1tG (Tech_Job) 推文 megumirei 07/24 20:13
-→ mmkntust: 樓上案件已處理 07/25 08:25
-→ checkmarx: #1PWAUzkY 加重毀謗 08/03 10:42
-推 james725: #1PWg5uTy 假徵才真廣告文 08/03 18:08
-→ lovewsc: 樓上案件已處理 08/04 00:09
-推 si5111: 檢舉 #1PYMQJDD (Tech_Job) 違反版規五 亂刪他人推文 08/08 17:00
-→ lovewsc: 找不到文章代碼(AID)，可能文章已消失，煩請確認，謝謝 08/08 22:52
-→ yamax: #1PYnpv7i (Tech_Job)yamakazi無關科技 08/09 22:52
-→ mmkntust: 樓上文章已不存在 08/10 14:06
-→ yamax: #1PaR4a0a (Tech_Job)版規八 08/15 00:37
-→ mmkntust: 樓上案件已處理 08/15 09:04
-推 goodsun: 檢舉 #1PafHGvy 推文vinsh: 還開玩笑的是智障還是有病? 08/15 15:30
-→ goodsun: 這就是理工男的水準???    引戰 08/15 15:37
-→ mmkntust: 樓上案件尚可接受 08/16 10:12
-推 Dino14124: #1Pbl2eNQ    guest0079一樣亂噴人身攻擊，累犯謝謝 08/18 23:55
-→ yamax: #1Pc8Py3t (Tech_Job)無關科技業 08/20 20:18
-→ mmkntust: 樓上上文章已不存在,樓上案件已處理 08/21 10:46
-→ checkmarx: #1PbIUAqQ (Tech_Job) [ptt.cc] [徵才] 中華電 違反版 08/21 15:25
-→ mmkntust: 樓上案件已處理 08/22 11:17
-推 Battie: #1PdHHG4V (Tech_Job) W980推文 罵人廢物 已經累犯 08/24 20:42
-→ didicoco1004: #1Pc_b0vV 推文ryousu0857 人身攻擊並指名道姓， 08/25 01:08
-→ didicoco1004: 並做不實指控，引戰 08/25 01:09
-→ didicoco1004: #1Pc_b0vV 推文 victor777人身攻擊，不實指控無關 08/25 01:11
-→ didicoco1004: 科技 08/25 01:11
-→ didicoco1004: #1Pc_b0vV 推文naligono 不實指控，無關科技，引戰 08/25 01:14
-→ mmkntust: 樓上文章已刪除,結案 08/25 10:29
-→ victor777: 不知資料真偽又加班到很晚而且當課長是樓上上自己講的 08/25 18:37
-→ victor777: 除非閣下說謊 不然不實指控哪成立咧!?? 08/25 18:38
-推 Dino14124: #1PcGJCIx (Tech_Job)   guest0079 辱罵累犯 08/27 08:52
-推 Dino14124: 還有時常發文亂板然後刪文的可以建立機制防範嗎？ 不 08/27 08:55
-→ Dino14124: 能因為刪文就不處理吧？ 就幾個ID一直在亂而已 應該不 08/27 08:55
-→ Dino14124: 難防範吧 不然每次都罵完然後刪文 08/27 08:55
-→ mmkntust: 樓上案件已處理 08/28 12:06
-推 nekoni: #1Pe_UW1s (Tech_Job) charogne 他板個人恩怨，人身攻擊 08/29 05:43
-→ mmkntust: 樓上文章已不存在 08/29 09:57
-→ Busufu: #1PfIKHdk 推文W980 連續謾罵 人身攻擊 08/31 01:33
-→ mmkntust: 樓上案件已處理 08/31 12:58
-推 mlda888: #1PhhD-LJ 文章 版規8 09/05 22:30
-→ mmkntust: 樓上案件已處理 09/06 12:56
-→ yamax: #1PkZnv9j (Tech_Job) 規一 09/14 16:37
-→ mmkntust: 樓上文章已刪除 09/14 21:01
-→ luche: 檢舉板主海邊公告 沒敘明理由及沒完善投票活動且推文多數 09/20 14:30
-→ luche: 認為板主打算刪文妨礙科技板言論自由 09/20 14:30
-推 luche: #1PmVZuok 違反板規一 09/20 14:32
-→ luche: 取消檢舉 因為有開始敘明理由@@ 09/20 14:39
-推 lpoijk: 檢舉版主妨礙言論自由 什麼時候版主權利這麼大了 09/21 12:55
-推 ToyaErina: #1PsWteTV 使用者：lianki於文章中連續惡意噓文挑釁 10/11 11:54
-→ ToyaErina: 檢舉違反版規二 10/11 11:54
-→ ToyaErina: 且該留言為連續無意義之回文 10/11 11:55
-→ ToyaErina: lianki已承認自己中二鬧版，請速做出違反版規處置 10/11 11:55
-→ mmkntust: 樓上案件已處理 10/11 21:20
-→ cocopupu: 樓上要下台了嗎? 10/12 21:55
-→ mmkntust: 繼續根據板規&公告 水桶/刪文囉! 10/13 10:09
-噓 cococat1028: 樓上要下台了嗎? 10/23 11:32
-推 kbt2720: 檢舉#1PzEXqN ID:thumba87295 人身攻擊、挑釁 10/29 14:30
-→ mmkntust: 樓上文章已不存在 11/03 11:08
-→ kbt2720: 怎麼會不存在 11/03 21:06
-推 Gaussuron: #1PtDwdvk sana 無意義推噓文 11/04 21:39
-→ mmkntust: 樓上案例未違反版規 11/06 11:33
-→ owen5566: #1Q1cvqQE 版規八 11/11 11:45
-推 lovewsc: 樓上案件以處理 11/11 20:58
-推 Reventon: 檢舉 #1Q2GxRbr 與科技板無關文章 11/13 15:39
-→ mmkntust: 樓上案件在可接受範圍 11/13 16:06
-→ K7: 檢舉#1QCXXxdF ID:pp830121，違反板規四 12/14 16:16
-→ K7: 抄襲我的徵才文(#1QBtcLUp),一字不漏,僅更改了聯絡方式 12/14 16:17
-推 icqff: 請協助刪除（#1Q0ez5JY ），因此篇在公司在公司被議論 12/15 08:13
-→ zzzz8931: gioiechang 12/18 新聞超貼 12/19 14:21
-推 apley: 檢舉 #1QESGiHg 推文 haworz 違反板規二罵意見不同者白痴 12/22 01:16
-推 NTUCS112: #1QL5m6Gk (Tech_Job) 原Po jie82911 未經同意刪除推文 01/09 18:33
-→ owen5566: #1QTkhNsx  板規三  廣告文 02/04 20:44
-→ foreverkn: #1QVW8kmw 捐精與本版無關 02/10 10:02
-→ mmkntust: 樓上案件已處理 02/10 22:28
-→ BlueBird5566: #1QWhIHFu 文章 違反板規六 02/13 20:00
-推 xyz30317: #1QWmtqgr (Tech_Job) 有人連續無意義噓文 不用管？ 02/14 10:25
-→ hizuki: #1QdM_KWc dicfishfish使用歧視與無理言語稱呼中國 03/06 11:57
-→ s00852578: #1QcUmiXi  l81920/chiefoflaw嗆人/歧視/不雅言語 03/09 15:32
-→ alan722: #1QgnPxXC 與科技板無關文章 03/17 09:50
-→ wzmildf: touchBB 整天在各個文章底下刻意誤導推文 能否處理 03/23 21:14
-推 heartbeat123: 讚 03/28 15:43
-推 Dino14124: touchBB是要處理了沒啊？？ 04/03 10:50
-→ mmkntust: 目前無明顯事證懲處TouchBB,請檢舉附上例證 04/03 14:10
-推 tanakataro: #1Qo46dRB hfptt 版規二 辱罵台灣人 04/08 17:25
-→ mmkntust: 樓上案件已處理 04/09 10:11
-→ cphe: #1QpQAbrV  與科技版無關文章 04/11 14:05
-→ mmkntust: 樓上案件已處理 04/11 14:39
-→ wzmildf: TouchBB整天在推文提一些明顯有違現實狀況的發言，這些 04/11 22:41
-→ wzmildf: 叫做無違規事證?  隨便幾篇文章都看得到他這樣叫無法處理 04/11 22:42
-→ wzmildf: ? 先不提對於公司的評價，連客觀事實都能扭曲的發言無 04/11 22:42
-→ wzmildf: 違規? 隨便開幾篇文都能看到他在講屁話還要人提供證據 04/11 22:43
-→ wzmildf: 那要你當版主幹嘛 04/11 22:43
-→ mmkntust: 樓上檢舉請附上例證,文章代碼,違規事證,有就會處理 04/11 22:49
-→ wzmildf: #1Qrkv20B  TouchBB於推文散布不實訊息且為累犯 板規七 04/18 21:15
-→ mmkntust: 樓上請提供至少一則非四中案例,即可依板規處理 04/19 09:53
-→ wzmildf: 我非四中碩剛從神教離職，裡面一堆地名和義守，我不懂你 04/22 16:55
-→ wzmildf: 到底要什麼證據和案例呢 04/22 16:55
-→ mmkntust: 提供一篇Offer裡面提及非四中錄取神教即可 04/23 11:42
-→ wzmildf: 我自己都現身說法了要什麼offer文 04/23 19:33
-→ wzmildf: 還是要他媽的看薪資單工作證還有畢業證書? 影響板面可讀 04/23 19:36
-→ wzmildf: 性的不去處理 遇到海邊就會主動出來滅火? 04/23 19:36
-→ wzmildf: #1PgeGqJl  #1QIsDWwY 隨便搜尋都兩篇 接下來還要刁什麼? 04/23 19:38
-→ mmkntust: 樓上案件已處理 04/24 12:30
-推 ss910126: #1Qw_iPDB 版規七 之C 言之無物 05/04 16:01
-→ mmkntust: 樓上案例已處理 05/04 16:04
-→ cgfan: #1Qx7umYr  erial 人身攻擊 05/05 11:46
-→ ctx705f: #1Qx6ierf 未告知或同意刪除多則推文 05/05 16:40
-→ elesai0956: #1QxKqWmm 手動置底 05/05 17:04
-→ yamax: #1QwHOMnN,#1QwjrFRn,#1Qx0Apsy 三篇挑釁引戰國罵，版規二 05/05 18:23
-→ cgfan: #1QxKqWmm NTUTW 人身攻擊 05/05 18:30
-→ yamax: 檢舉#1QxSG_iA, #1QxcJq0N, 文章違反版規1,2,4，如不版規7 05/06 10:59
-→ yamax: 處理，只好再轉版務 05/06 10:59
-推 ddLimin: #1QxSbkfo shotholisi 推文版規二 05/06 13:31
-→ ddLimin: #1QxD7JbE shotholisi 發文內容版規二 05/06 13:32
-推 ddLimin: #1Qx45qog shotholisi 回覆推文部分版規二 05/06 13:36
-推 ddLimin: #1Qxf9Jg4 shotholisi 推文版規二 05/06 13:54
-推 ddLimin: #1QxD7JbE 修改內文部分針對特定id 版規二 05/07 04:22
-→ mmkntust: cgfan案件文章不存在 05/07 10:48
-→ mmkntust: ctx705f案件已處理 05/07 10:48
-→ mmkntust: elesai0956案件已處理 05/07 10:55
-→ mmkntust: yamax案件已處理 05/07 10:55
-→ mmkntust: cgfan 板規二案件已處理 05/07 10:58
-→ mmkntust: ddLimin 案件已處理 05/07 11:08
-→ demonhell: #1Q-G8nzw qazxc1156892 發文違反版規三 05/14 18:46
-→ mmkntust: 樓上案件請補充說明 05/14 21:45
-推 demonhell: 你說是政治文就是政治文，你說不是就不是嚕 ^_< 05/14 22:17
-→ mmkntust: 樓上案件已結案 05/14 22:24
-推 DarkIllusion: #1Q_v98LV shinshanmer 板規九 無薪資資訊 05/19 11:15
-→ wzmildf: #1Q-OH5vh  ruthertw 惡意噓文挑釁 板規二 05/19 13:52
-→ mmkntust: Dark案件原文已刪除 05/20 21:26
-→ mmkntust: wzmildf 案件已處理 05/20 21:57
-推 YU9527: #1Q_HaGYL 說要發P幣沒發 寄信關切裝死 涉嫌詐欺 05/21 23:45
-→ mmkntust: 樓上案例考倒我了..請問要以版規幾檢舉他?! 05/22 00:04
-→ YU9527: 哈 算了 個人誠信問題 還好心幫他問了新思的朋友 05/22 00:31
-→ mmkntust: 樓上案件已結案 05/22 08:40
-→ yamax: #1R75O48J 版規1,2 06/11 04:37
-→ mmkntust: 樓上案件已處理 06/11 10:37
-推 jessee780522: #1R7YVEN0 (Tech_Job) 板規3 同帳號幾乎都是這種連 06/11 19:44
-→ jessee780522: 結 06/11 19:44
-→ mmkntust: 樓上案件已處理 06/12 08:54
-→ bruce1eee: #1RB6fgwF 推文樓歪了變戰文，而且整篇跟科技版也無關 06/22 14:24
-→ bruce1eee: 原文版規一，推文版規三 06/22 14:24
-→ mmkntust: 樓上案件已處理 06/22 15:07
-→ denniswave: 檢舉 #1RBE4UQw ksjobtell 板規九 無薪資資訊 06/23 12:19
-→ mmkntust: 樓上案件已處理 06/25 10:12
-→ bruce1eee: #1RCaH2Tz  版規一、版規三 06/26 22:25
-→ mmkntust: 樓上文章已不存在 06/27 12:33
-→ bruce1eee: #1RDDBvio 推文的 stevenshih  gototheptt  版規二 06/29 14:12
-→ bruce1eee: 挑釁、歧視或引戰意味 06/29 14:12
-推 bruce1eee: #1RDoQM4p 推文 → stevenshih: 娘炮一堆 07/01 12:34
-→ bruce1eee: 版規二，人身攻擊、引戰，累犯該水桶了 07/01 12:35
-→ mmkntust: 樓上案件已處理 07/02 12:34
-推 cityhunter04: #1RKXIl6v 推文->Sober921：碩士再洗就好，讀元智 07/21 09:10
-→ cityhunter04: 那種*糞校*也是只要洗上青椒就行.... 違反版規二： 07/21 09:10
-→ cityhunter04: 禁止人身攻擊、挑釁、歧視或引戰意味之言詞用語。 07/21 09:10
-推 cityhunter04: 版主放假中嗎？ 07/22 15:00
-→ mmkntust: 樓上案件已處理 07/22 22:30
-→ willism: 檢舉#1RNNxBcd，推文者zaiter違反版規二 07/29 17:47
+�� �o�H��: �����~�{(ptt.cc), �Ӧ�: 36.227.169.125
+�� �峹���}: https://www.ptt.cc/bbs/Tech_Job/M.1532890692.A.051.html
+�� �s��: qmqmqm (36.227.169.125), 07/30/2018 03:11:45
+�� a000000000: �������²��@�I  �[���n���֦B�������ܮe�� 07/30 03:53
+�� a000000000: ���L�n������Ҷ��ƾ��@�����ۤv�˷S 07/30 03:54
+�� seafloor: ��ı�o�o�u�O�U�@�Ӻ����w�j�C�����D���Ѳ��C��갵�� 07/30 07:17
+�� seafloor: �ƨS�����P�CAI. �వ�쪺�٬O�����C����AI. �S���O�b 07/30 07:17
+�� seafloor: �ݤp���A�@�U�l�N����}�F 07/30 07:17
+�� seafloor: ���O�[�@�I����Τ@�I�J�ڽ��N���O�@�Ӱ��W�j���޳N 07/30 07:19
+�� willism: �Q���O�o��h�F�A�n���V�@���l�� 07/30 07:36
+�� willism: ���@�Z�Ҫ��M���O��²�檺�A�]���\�]���ѧA�M�w�C�S�O�] 07/30 07:38
+�� willism: �p���Z�ҡA�����麡���[�M�侯�A���~����@�ˬ~�N�n�աA 07/30 07:38
+�� willism: �ݭnԣ��AI... 07/30 07:38
+�� willism: �ܩ��I�\�Ať�L�I�\����?���ﶵ�������వ�A�P�ˤ��ݭn 07/30 07:40
+�� willism: ԣ��AI... 07/30 07:40
+�� microhard: �̦n�����٬O�Y���ƪ��F XD 07/30 09:06
+�� a000000000: ���a�����H���X���N�[�S   �M��u�����~�� 07/30 09:15
+�� bengobingo: AI���Ӱ��M�������Ӥw�a 07/30 09:48
+�� bengobingo: �ϭˬO�u�{�v�ۤv����e���Q���N�p�G�X�A �άO�e�ݪ� 07/30 09:51
+�� bengobingo: ���۰ʥͦ�code 07/30 09:51
+�� squard: �H��O���Щ�+�зǩʪ��u�@�|�Q���N�A���O�Ⲽ�� 07/30 09:57
+�� visa9527: �۰ʰⲼ�����X�ӳo��[�F�٬O�@��H�h�H�u�Ⲽ���f 07/30 10:12
+�� visa9527: �C���f���K���ݨ�Ⲽ���S�H�����f�e�Ƥ@��H 07/30 10:12
+�� Eric0605: ����j���w�g�ݨ�ܦh�{�n���ƾ��� 07/30 10:14
+�� willism: �]���۰ʰⲼ������ѨM�h�������D�A���M�n���d�x�ƶ��� 07/30 11:19
+�� willism: ...���s�]�p�N��F�A�x�K�w�}�l�ۤ��F�Cn�~�eatm�]�� 07/30 11:19
+�� willism: ��s�ڡA�{�b�s���ھ���B���O�A�o�ؤ��A��AI���۰ʤơA 07/30 11:19
+�� willism: �q�`�O�����Ҷq�A�ӫD�޳N�����C 07/30 11:19
+�� willism: �L�W����������AI�A���G�ۤv�@���A��50�~�e�N�}�l������ 07/30 11:20
+�� willism: �ʤơA�쩳�O�ֵL���H 07/30 11:20
+�� oopFoo: �ھ���sanisetteť�L�ܡH�۰ʬ~�������N�X�ӤF�A�������� 07/30 13:02
+�� oopFoo: �S���ΡH 07/30 13:03
+�� oopFoo: �]���ܶQ�A�ܥe�Ŷ��C�٬O�вM��u�E��C����O�ܷ|�⪺ 07/30 13:07
+�� qmqmqm: �S��, �H�W������h�ˤ��p�Ф@�Ӫ����άO�uŪ�ͧr 07/30 13:52
 "
 "50" NA
 "51" NA
-"52" "作者zodiac (天輕輕)看板Tech_Job標題[免費]工作人生顧問時間Fri Oct 14 18:58:36 2016
+"52" "�@��negohsu (�M�����M�~����)�ݪOTech_Job���DRe: [�s�D] AI�ɥN¾�~�o�i�ⷥ�� �@�ޤ����OĹ�a����ɶ�Mon Jul 30 08:07:19 2018
+AI�b1950�~�A�q����}�l�ϥήɴN�Q���X�A���ɪ��H�{��AI���N�H���O���ߪ��ơA��O��
+�F�ܦh����AI�A�̫�H���Q���N�F��?�j�a���ܲM���AAI�b���ɷj���F���֬�s�g�O�A�i
+�H���O��AI����N�C
+
+��Ӫ�AI��h�������ǲߡA�{�b�N���ܦh�u�@���|�Q�۰ʤƾ�����N�A�o�⤣��AI���N�H
+��?�Y��ӻ��A��C�����ǲ��ݩ�AI�����A���O����h�ƬO�����L�k���N���C
+���өO?���u�����A�V�ӶV�h���q�|���ҿת����O�u�t�A�o�Ǥu�t���ަ��S��AI�A���`�w
+���h�H�O�ݨD����֡C
+
+�{�b��AI�A��ı�o���b�^�Y��1950�~�Ĥ@��AI����N�����A����F�賣�nAI�@�U�A�Ʀܦ�
+�ǤHı�o�A�u�n�V�m�n�@��AI���ҫ��A��ӳ������u�{�v���i�H�����A�\�xAI�q���A���
+�����N�i�H�B�@�F�C���O�ƹ�W�A�o�O���i�઺�C
+
+�{�b��AI�ڻ{���O�ΨӸɨ��H���������a��A�z�LAI�Ӥ��R�W�j�q(big data)��ƪ��@�q
+�ʡA��X�H���b����W�q��ƮɵL�k�ֳt�PŪ���@�q�ʩίS���ʡA���ϥΪ̥i�H���Ǫ�
+�P�_���U�Ӹӫ�򰵡A�Ӱ�����CAI�O���U�P�_���u��A���O�{�b�Ӧh�H(����)�{���AAI
+�|�۰ʧP�_�A�õ��X�M�wfor everything�C�ҥH�o�X�u�n��AI�A�N���ݭn�u�{�v�����סC
 
 
-被 Studyabroad 版一篇佛心的文章引出來
-
-工作多年來碰到一些貴人
-無論是激勵、壓榨或者是刺激我的
-多多少少都提供了不少助力
-讓我得以從一個清寒家庭之子小孩到今天可以養活家人
-因此今天也想提供一個工作顧問, 人生方向諮詢的協助
-
-
-
-========
-自我介紹
-
-我叫K, 公館大學大學部研究所畢業
-曾考慮出國念書, 拿到 Berkely, Michigan offer
-但因為家裡需要我的經濟支援, 也沒有獎學金而作罷
-
-歷任工作研發, PM, BD
-專長是硬體, BD, 市場分析等
-做過的產品有電子書, 電視, LED, 照明, IoT, 車用電子以及環境監測等
-曾跟朋友開過公司(我沒錢...純技術股)
-最高時有過億營收, 但因經營理念不同而拆夥
-也跟朋友做過幾個 kickstarter 產品, 仍在努力當中...
-
-現在是大陸某中型公司在美國的 BD, 以及台灣 2 間小公司的 HW consultant
-以及日本某 NGO 的 HW consultant
-一方面接案維生, 同時也在找下個方向
-
-
-
-=========
-守備範圍
-
-基本上沒有範圍
-小到聽你吐吐苦水, 中到修改履歷, 甚至找工作方向及人生方向等
-基本上透過 Skype 或者 e-mail
-雖然不一定有多大幫助, 但這幾年也陸續幫朋友找到適合的工作
-也有人建議自己的弟弟妹妹來跟我諮詢
-效果應該還算可以XDD
-
-1. 履歷修改
-2. 自我進修技巧以及方向
-3. 工作/領域別建議(電子業及製造業相關)
-4. 心理建設
-5. 海外工作經驗(常出差/長出差, 非外派)
-
-
-
-========
-目標
-
-我希望這件事可以延續下去
-所以加入這個計劃的人, 希望你可以朝著一個標竿前進
-有朝一日提供這樣的服務給別人
-累積的個案夠多, 彼此之間就會形成一股向上的力量
-也許可以互相幫忙, 引薦不同領域互相協助
-
-
-
-========
-服務對象
-
-我是個在大公司裡吃不開的人XD
-所以如果你已經事業有成, 平步青雲, 已享有高薪者
-我不見得能提供很多協助
-
-但是對於人生目標不明確, 工作目標不明確, 不知道自己可以走哪一條路
-或者研究生不知道自己要做甚麼
-在人生的某個關卡突然卡住, 需要有個不認識的人跟你聊聊
-我想我可以是那個對象
-
-人少比較好處理, 人多我也一樣會根據急迫性來選擇
-畢竟還是有工作的, 每天只有少少的幾個小時可以處理其他事情
-
-
-
-========
-聯繫方式: 站內信, e-mail, Skype 等
-
-
-
-========
-費用: 免費
-
-我也會提供帳戶, 1塊, 2塊都不介意
-重點只是結個善緣, 希望有朝一日對方也可協助其他人
-
-
-祝大家找工作順利
-有任何建議請不吝提出~
-
-
-PS. 我沒想到會有這麼多信, 100+...我已經盡力回覆了, 如果時間上晚一些請別介意
-PS2. 麻煩信中自我介紹, 說明現況以及想問的問題. 我會慢慢回覆的
 
 --
-※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 125.227.238.74
-※ 文章網址: https://www.ptt.cc/bbs/Tech_Job/M.1476442719.A.187.html
-推 ohmypig: 推推！ 10/14 19:04
-推 pda3020899: 推～ 10/14 19:10
-推 howhow801122: 救台灣！ 10/14 19:13
-推 orotot: 讚 10/14 19:17
-推 blackhammer: 推，嗚嗚最近受到英文測驗挫折啦，努力振作 10/14 19:18
-推 bird9527: 推 10/14 19:21
-推 lammin: 用心推 10/14 19:22
-推 clouder0628: 大推 10/14 19:23
-推 wolf0000: 推 10/14 19:23
-推 FATZZZ: 推 10/14 19:23
-推 kelly16: 推 10/14 19:25
-推 ss15669659: 推 10/14 19:26
-推 hmanb: 高手佛心推 10/14 19:27
-推 cpr369: 推，很難有願意這樣做的人，再次推推 10/14 19:28
-推 m69536: 大推 10/14 19:29
-推 SLAMDUNK: 作好事 推 10/14 19:29
-推 mars1994: 推~~~ 10/14 19:31
-推 s1001326: 推推 10/14 19:31
-推 pajero: 推啊！ 10/14 19:32
-推 stud20806: 推 10/14 19:32
-推 kikkoko: 推 10/14 19:32
-推 tonykuo721: 推 10/14 19:32
-推 h25126: 推 10/14 19:33
-推 windble: 高手又佛心就是要推～ 10/14 19:33
-推 sjclivelo: 優質 10/14 19:33
-推 JunErZz: 推 有心 10/14 19:34
-推 z89062: 推！ 10/14 19:34
-→ ws830130: 必須推～ 10/14 19:35
-推 aaaxxxaaa: 推 10/14 19:36
-推 EngRookie: 推 10/14 19:36
-推 mrmtk: 謝謝原po願意這樣付出！ 10/14 19:37
-推 sxskr1001: 推 10/14 19:39
-推 donvito: 太佛心啦 10/14 19:40
-推 m7321780: 推 10/14 19:41
-推 kiwi90310: 感謝 10/14 19:42
-推 bcew: 推有心 10/14 19:42
-推 metroways: 感謝您 10/14 19:43
-推 AppleVv: 推 10/14 19:44
-推 chadcoco1222: 推 10/14 19:44
-推 c40110y: 大推 10/14 19:44
-推 davidyang1: 感恩 10/14 19:45
-推 Dong0129: 正能量推 10/14 19:46
-推 gacktson1102: 推 10/14 19:47
-推 jk820912168: 推～ 10/14 19:48
-推 ck321: 你人真好 10/14 19:49
-推 aertina: 佛心 10/14 19:52
-推 zyatk: 推～ 好心人 10/14 19:54
-推 sweet222: 推好心 10/14 19:54
-推 thoseyears: 推好心QQ 10/14 19:55
-推 luckyBF: 推一下 10/14 19:56
-推 whitebk: 推 感恩 10/14 19:57
-推 dadader30cm: 感謝你讓社會又更進步 10/14 19:57
-推 kenji455325: 推一波 10/14 19:59
-推 mimipig: 佛心～～ 10/14 19:59
-推 jeffrey07520: 推QQ 10/14 19:59
-推 maple388: 推推推 10/14 20:01
-推 bonchou: 嗚嗚...覺得感動！ 10/14 20:01
-推 xz80919: 推高手 10/14 20:01
-推 asd86251: 推！ 10/14 20:01
-推 tylershu: 有好報 10/14 20:02
-推 jnth5566: 推 10/14 20:03
-推 panda04056: 好心推 10/14 20:04
-推 NIKElove: 10/14 20:07
-推 shihsquare: 推 10/14 20:09
-推 asadman1523: 推 10/14 20:09
-推 havochuman: 索命黃道帶 10/14 20:09
-推 gomenba: 推好心人 10/14 20:11
-推 conshelity: 很棒 10/14 20:11
-推 choral: 推!! 10/14 20:12
-推 pmes9866: 推 10/14 20:13
-推 meteorboy: 推 10/14 20:14
-推 ax26818263: 感恩惜福推! 謝謝您 10/14 20:14
-推 loveboa01: 感恩 10/14 20:14
-推 skyconquer: 推善人! 10/14 20:15
-推 skyabsence: 推個 10/14 20:17
-推 wwe6416: 推 好心 10/14 20:20
-推 creulfact: 你人好好喔 推 10/14 20:20
-推 bla: 推，正向的力量 10/14 20:21
-推 artorius: 辛苦你了 感謝你 10/14 20:24
-推 qazwsx82128: 推 10/14 20:24
-推 h321123aa: 推，好心人 10/14 20:25
-推 rex510: 人也太好了 10/14 20:25
-推 ts5203405: 推 10/14 20:25
-推 energy4924: 推推善心人士 10/14 20:26
-推 a855099: 推 10/14 20:26
-推 secret90202: 推好心人!! 10/14 20:28
-推 flybspy: 推 10/14 20:28
-推 rfmax: 推 10/14 20:28
-推 timtu: 推啊台灣有你真好 10/14 20:29
-推 ai80115: 推 10/14 20:30
-推 giantwinter: 正向力量 10/14 20:30
-推 shamogo: 推 10/14 20:30
-推 tn00710191: 善心推 10/14 20:31
-推 gidige: 推正能量 10/14 20:32
-推 hardis094: 推推推！！！ 10/14 20:33
-推 SuperRoMay: 嗚嗚995 10/14 20:34
-推 he00244945: 謝謝您大大 10/14 20:34
-推 FuwafuwaCAT: 推 10/14 20:35
-推 LK444456: 感謝你讓台灣有更多的希望 10/14 20:36
-推 deltarobot: 推喔 10/14 20:36
-推 sh405: 推推 真的是科技版良心 10/14 20:37
-推 ssin616: 真的好人～～ 10/14 20:38
-推 Ellsbury2: 推好心 10/14 20:39
-推 dinotea: 感恩~ 10/14 20:39
-推 psychicaler: 推 10/14 20:39
-推 kobe200525: 推好心人~ 10/14 20:39
-推 kynoko: 期待科技版強者們跟教主組一個夢幻顧問團！ 10/14 20:40
-推 MAXjames: 大推!! 10/14 20:40
-推 sally2002: 推!!!!原po人好好~~~ 10/14 20:40
-推 Fjallravens: 推 10/14 20:41
-推 a72737363: 推好心人 10/14 20:43
-推 KobeEatShit: 己立立人 己達達人 真的是最高境界 請受小弟一拜 10/14 20:43
-推 DChun: 推 10/14 20:46
-推 zxcvb0003: 大推 10/14 20:48
-推 pantim5661: 好心人，推一個 10/14 20:48
-推 SkyFee: 團結! 10/14 20:48
-推 NTUCS112: 推一個！ 很棒的想法 10/14 20:49
-推 cocoyan: 推 10/14 20:49
-推 elisa5184: 推!!好人 10/14 20:50
-推 vayeate: 佛心來著的 10/14 20:52
-推 RLH: 好心人 可惜我完全跟科技業無關 =( 10/14 20:54
-推 frank11118: 推 10/14 20:54
-推 Melody818: 推佛心 10/14 20:55
-推 DDemi: 推 10/14 20:58
-推 FlySher: 推好人！！！ 10/14 21:02
-推 baccys: 推 10/14 21:04
-推 nothintolose: 佛心推 10/14 21:05
-推 shungjj: 推好心 10/14 21:05
-推 kalt: 推 10/14 21:06
-推 shan1470: 推 10/14 21:06
-推 balaking: 推!! 10/14 21:08
-推 y2d2213: 推 好心人 10/14 21:08
-推 bookerx: 推～～ 10/14 21:10
-推 b9211028: 推 10/14 21:13
-推 tomlin2004: 推大大熱心 10/14 21:14
-推 aoiogrean21: 大推～新鮮人最需要啊！！ 10/14 21:14
-推 loveyet: 佛心推！ 10/14 21:15
-推 heuer: 推 10/14 21:15
-推 lin802311: 推 10/14 21:15
-推 FaceMook: 推 10/14 21:17
-推 loach98: 推 10/14 21:17
-推 a251012002: 推~真希望公司能多有您這這種人!! 10/14 21:17
-推 Panda5566: 好事  推 10/14 21:18
-推 wsk018: 推!!!! 10/14 21:19
-推 canonring151: 推 10/14 21:20
-推 darkelecy: 推推 10/14 21:27
-推 mathrew: 推好心人 10/14 21:27
-推 ptlove1222: 台灣需要你~~~ 10/14 21:28
-推 noisymute: 佛 10/14 21:29
-推 jim8426: 用心推 10/14 21:29
-推 jo4fu3p: 推 10/14 21:30
-推 g9911761: 推 10/14 21:31
-噓 feng77: 免費最貴 10/14 21:31
-推 kcf004152: 推 10/14 21:32
-推 bigbigfrog: 跪推 10/14 21:33
-推 a30014: 推 10/14 21:33
-推 f800830: 推！ 10/14 21:33
-推 sacra: 推 10/14 21:33
-推 soAlpaca: 佛心推 10/14 21:35
-推 nicoro: 大推~ 10/14 21:36
-推 M033090025: 推佛心 10/14 21:39
-推 f800311: 推一個! 10/14 21:40
-推 eric525498: 推 10/14 21:42
-推 vestige1994: 推 10/14 21:42
-推 yef900386: 推 10/14 21:43
-推 zuzudot: 推 10/14 21:45
-推 hans736: 推 10/14 21:47
-推 iamonmyway: 推 10/14 21:50
-推 ymcee: 推 10/14 21:50
-推 kbshin: 推 10/14 21:52
-推 abyepi: 推.. 10/14 21:53
-推 konichiwaman: 好心人幫推 10/14 21:53
-推 a9041208: 只能推了 10/14 21:54
-推 jimnno: 推,很有心 10/14 21:56
-推 kaibaseto: 好心人 10/14 21:56
-推 DellSale999: 推推 10/14 21:56
-推 p00717171: 推 10/14 21:57
-推 LeoPan: 推好心 10/14 21:57
-推 z22622003: 推~ 10/14 21:59
-推 jackie0804: 推 10/14 21:59
-推 yuping: 推正面 10/14 22:01
-推 pttresident: 推佛心 10/14 22:01
-推 gx15687: 偉哉~讚! 10/14 22:02
-推 makeing0922: 推 10/14 22:04
-推 asd801001: 推 10/14 22:04
-推 DrTech: 直接成為本年度最佳優文了 10/14 22:06
-推 fgcvb: 推 10/14 22:08
-推 james732: 推有心 10/14 22:08
-推 c890317: 推 10/14 22:10
-推 cang40237: 推 10/14 22:10
-推 smallmelon: 推 謝謝您的這一份心意 10/14 22:13
-推 xru03: 感謝您的付出 10/14 22:15
-推 hsujerry: 10/14 22:16
-推 xcri0922: 好棒 推 10/14 22:16
-推 jimmy007: 推 10/14 22:17
-推 NIKElove: 10/14 22:20
-推 erial: ID是某黃道12宮 10/14 22:21
-推 lion88645: 淚推 10/14 22:22
-推 juiceaa: 推 大愛 10/14 22:22
-推 notbeloser: 推好心 10/14 22:23
-推 chrisgod: 有心  推！ 10/14 22:27
-推 Cindyhaha: 推～ 10/14 22:30
-推 ReBegin: 流淚了 私訊 10/14 22:31
-推 maydaychaaaa: 推 10/14 22:31
-推 YALOWS: 推好心人 好人有好報 10/14 22:34
-推 aakkdd: 10/14 22:34
-推 eric01060784: 推 10/14 22:37
-推 qtest: 推好心！ 10/14 22:39
-推 mark61117: 推 10/14 22:47
-推 ppsboy001: 推佛心！救青年迷惘者 10/14 22:47
-推 sslmsslm: 推 10/14 22:49
-推 davidzxcv: 推 10/14 22:49
-推 yoyok: 推推 10/14 22:52
-推 winken2004: 推 10/14 22:55
-推 james80522: 推 10/14 22:57
-推 wtfconk: 你這種應該只能對鑽研技術職的給意見,如果要廣泛一點可能 10/14 22:57
-→ wtfconk: 還是會有思考侷限,我有個表親就是這樣,所以蠻後悔當年浪 10/14 22:57
-→ wtfconk: 費時間去問他什麼規劃,好在後來看通了自己突破思考,不然 10/14 22:57
-→ wtfconk: 根本一直在同一個圈圈裡打轉...XD 10/14 22:57
-
-
-您好, 好歹在電子業做過了 RD, PM, Sales, BD
-以前在公司帶過 20 多人, 包含生產, 採購以及研發
-所以我想應該是已經脫離技術職的考慮範圍
-
-不過我承認領域的確有所限制, 所以才在 Tech-job 版 Post
-傳產電子業以及 Startup 比較有接觸
-
-我相信您也有很多這方面的經驗, 不妨提出來給後進一些指導 :)
-
-
-推 iamian: 推 10/14 22:58
-推 AlphaMC: 推，感謝你讓社會多一分正面力量 10/14 23:00
-推 docker: 佛心來der 10/14 23:01
-推 orz16jim: 推 10/14 23:05
-推 littleca: 推 10/14 23:05
-推 Coolvvg: 善心推！ 10/14 23:05
-推 pisay: 推 10/14 23:05
-推 mouse952715: 推~ 10/14 23:12
-推 vchenkoshe: 推 10/14 23:12
-推 usapuma123: 推好心 10/14 23:12
-推 obov: 我都不這摸麻煩  直接建議人家去買amd股票  超爽der 10/14 23:12
-推 kagimayo: 樓上教主 10/14 23:16
-推 abc61336: 大推好心 10/14 23:18
-推 Gadd: 推 10/14 23:20
-推 lolmap: 推 10/14 23:22
-推 FESTUM: 推 10/14 23:23
-推 ReallExin: 推推 10/14 23:24
-推 hauhauster: 推 10/14 23:28
-推 cg1436: 推好心 10/14 23:28
-推 doranako: 強者，推好心 10/14 23:28
-推 dryada23548: QQ 10/14 23:28
-推 veteranbone: 推一個 10/14 23:28
-推 BalloonBa: Push 10/14 23:30
-推 roy415012: 推 10/14 23:31
-推 JoJo56: 推 10/14 23:31
-推 loveu8: 彿心阿！！ 10/14 23:32
-推 wytmi54: 推 10/14 23:35
-推 original310: 推推推~~~ 10/14 23:36
-推 s0930194: 大推 10/14 23:38
-推 pj721911: 一塊你的帳戶會被鎖，然後警察上門 10/14 23:48
-
-真的嗎 @@
-那還是不要好了XDD
-
-推 wsx556623: 幫推 10/14 23:49
-推 sss81521: 推 10/14 23:49
-推 DIPPER232003: 大堆 10/14 23:50
-推 zxcvbnmnbvcx: 推 10/14 23:53
-推 didipon: 非常好！good job 10/14 23:58
-推 andyssfresh: 推 10/15 00:06
-推 jupitersha: 豪 10/15 00:06
-推 iditiror: 讚啦 10/15 00:10
-推 comawu: 佛心啊 10/15 00:13
-→ jeromeshih: 推 10/15 00:13
-推 wwwsky: 超佛的 10/15 00:18
-推 boardsee: 你很偉大 !!比教授還值得尊敬 10/15 00:18
-推 siba727: 推 10/15 00:22
-推 w1981419: 推推！ 10/15 00:22
-推 jumpingjump: 推 10/15 00:23
-推 per456: 推 10/15 00:24
-推 moris123: 超佛 10/15 00:32
-推 confused23: 太正向惹，謝謝你讓世界更好 :) 10/15 00:32
-推 dalinman: 太正面了 推！ 10/15 00:32
-推 sun1037600: 推好心 10/15 00:33
-推 ken16049: 我需要,遇到很多挫折.卡關中 10/15 00:37
-推 ract1436: 推好心人 10/15 00:39
-推 guyliu: 推好心 10/15 00:44
-推 wayrisk: 推!! 10/15 00:44
-推 hdtp: 推好心人!! 10/15 00:45
-推 a23444452: 推 10/15 00:46
-推 Murasaki0110: 強.. 10/15 00:49
-推 kivvq98: QQ 好感動 10/15 00:52
-推 Rippi: 推~ 10/15 00:52
-推 meow4ni: 推 10/15 00:53
-推 a122435105: 推推 10/15 00:55
-推 hhyt: 推 人好好～～ 10/15 00:56
-推 ntp915619: 推 10/15 00:59
-推 kaoyoshuai: 推推 10/15 00:59
-推 bala73: 推推 10/15 01:01
-推 Leeeli: 大推！ 10/15 01:01
-推 eayterrr: 推推推 10/15 01:03
-推 buci: 推 10/15 01:07
-推 makohasa: 推好心 10/15 01:07
-推 sowhat11914: 推 10/15 01:07
-推 s51020610: 大推 10/15 01:12
-推 Jogozui: 推 10/15 01:13
-推 gsinin: 引路人 10/15 01:20
-推 inoo: 推推 10/15 01:28
-推 jason710068: 感謝有你這樣付出！推推！ 10/15 01:29
-推 bopanda: 推 10/15 01:41
-推 RogerKao: 佛心推 QQ 10/15 01:50
-推 gfwflstar: 推 10/15 01:50
-推 shower13: 謝謝 10/15 01:55
-推 sam05487: 推 10/15 01:55
-推 Highgogo: 推好心 10/15 02:02
-推 simpal0221: 好心有好報~台灣職場需要你這樣正向的力量!! 10/15 02:05
-推 stonecolor: 真神人 10/15 02:12
-推 CB400SF: 謝謝你。 10/15 02:15
-推 eec2132469y: 推 10/15 02:16
-推 suyvonne: 推佛心 10/15 02:24
-推 mrmoneyc: 推，最近很需要燈塔指引QQ 10/15 02:24
-推 lawlai: 真的很棒！ 10/15 02:34
-推 mark9038: 推 10/15 02:48
-推 Submarine31: 推！ 10/15 02:48
-推 k199180: 推！謝謝你 10/15 02:50
-推 rs36579tidus: 推好心 10/15 02:55
-推 NTPU5566Kobe: 大推 10/15 02:58
-推 fliesdog: 推 10/15 03:03
-推 NovemberRain: 推推  祝原po萬事順心 10/15 03:09
-推 dk094: 佛心推一個QQ 10/15 03:19
-推 holydc: 推好人 10/15 03:24
-推 XROCKER: 推 10/15 03:31
-推 asas12345627: 大推一波好心 10/15 03:36
-推 JoSue: 推！ 10/15 03:48
-推 VarX: 佛... 10/15 04:28
-推 andy502116: 推 10/15 04:35
-推 passTWth: 痛哭流涕 10/15 04:46
-推 remember17: 推推 10/15 04:52
-推 forkimi: 推，好人不多了！ 10/15 06:11
-推 mickeyyaya: 推 10/15 06:37
-推 tom0710: 有你真好 讚！ 10/15 06:47
-推 woowoomay: 推 10/15 07:01
-推 qqsp4: 最美的風景 10/15 07:18
-推 xz016000: 佛心推 10/15 07:26
-推 obagon: 謝謝 已使用>< 10/15 07:43
-推 joe890: 推 10/15 07:48
-推 gn01657736: 佛心啊～ 10/15 07:54
-推 windhiei: 推 ！強者！ 10/15 07:57
-推 honulala: 推 10/15 08:06
-推 planktonfan: 推 10/15 08:12
-推 davian0118: 希望你能成為Tech版的明燈 10/15 08:38
-推 play173173: 推...... 10/15 08:46
-推 haw561676: 累牛滿面 10/15 08:53
-推 egopop: 有能力做這樣的事情 推 10/15 09:11
-推 s13503: 推 10/15 09:14
-推 kkll886: 推 10/15 09:19
-推 CCben: 推推 10/15 09:25
-推 babypanda: 推 10/15 09:32
-推 wormcantfly: 推 10/15 09:40
-推 leinru: 樓主一生平安 10/15 09:53
-推 tennyleaz: 佛佛佛佛佛 10/15 10:04
-推 chouvincent: push 10/15 10:13
-推 converseking: 推推推 10/15 10:21
-推 cotbel: 太佛了，先推再說 10/15 10:22
-推 lukuboy: 推 10/15 10:23
-推 asv52330: 推  好心人 10/15 10:28
-推 HaoHow: 推 好心！ 10/15 10:36
-推 vicsmile: 推推 10/15 10:37
-※ 編輯: zodiac (1.171.41.120), 10/15/2016 10:52:08
-推 zx15992: 推 讓正面能量傳承下去 10/15 10:42
-推 trash42: 推 10/15 10:55
-推 weairch: 推推 10/15 10:56
-推 TTjason: 雖然不知道真實心態，但的確是歷年PPT最正向能量 10/15 11:00
-推 bluewill: 讚美! 10/15 11:06
-推 gureen72: 給推 10/15 11:07
-推 blue88247: 哇塞… 10/15 11:09
-推 tim91411: 推推 10/15 11:11
-推 b20415: 推 10/15 11:18
-推 feely2011: 推推 10/15 11:19
-推 sacist: 狂！推推！ 10/15 11:20
-推 james852: 推 10/15 11:23
-推 gvles1210: 推 10/15 11:37
-推 Sensu: 推推推 10/15 11:39
-推 IamWea: 大推一個 10/15 11:43
-推 hsiung1226: 佛心推 10/15 11:47
-推 newkey: 推推! 10/15 11:51
-推 ericwen: 推 10/15 11:57
-推 skyboy320: 大推~~~廣結善緣~~太棒了~ 10/15 11:59
-推 selected: 不推不行 10/15 12:04
-推 Mompig: 推推 10/15 12:08
-推 a2768387: 推推 10/15 12:08
-推 coolwind4410: push 10/15 12:13
-→ meltice: 假設某人聽了你的建議照著做結果失敗了 請問你要負責嗎 10/15 12:14
-推 jht0903: 推 10/15 12:14
-推 yiemagic: 清流不得不推了 10/15 12:18
-→ yiemagic: 某樓，原po也是給個建議，又沒收錢，聽聽建議，做不做 10/15 12:19
-→ yiemagic: 還是在個人吧 10/15 12:19
-推 tongzhou: 推好心人 10/15 12:34
-推 eju901677: 推 10/15 12:38
-推 LCY1128: 推。。。 10/15 12:40
-推 TommyWu1991: 推！ 10/15 12:44
-推 haveawood: 必須推 10/15 13:11
-推 parrylin: 推 10/15 13:16
-推 jaren: 純推好心 10/15 13:30
-推 vi000246: 推 10/15 13:37
-推 resab: 推 10/15 13:40
-推 sunck: 熱心推！ 10/15 13:47
-推 loalan123: 好人推 10/15 13:48
-推 y4268: 推 謝謝你 10/15 14:12
-推 xz7320829: 推推推 10/15 14:37
-推 tkb7878: 推 10/15 14:42
-推 coldfrost: 推 10/15 14:42
-推 starry505: 推 10/15 14:47
-推 lucasbapu123: 推 10/15 15:03
-推 l87083739: 推高手佛心 10/15 15:18
-推 uu780818: 推 10/15 15:36
-推 frog111831: 推好人 台灣需要很多這樣的你 10/15 15:57
-推 henrysmile: 推! 10/15 16:26
-推 allnun: 推!!! 10/15 16:35
-推 gary77755: 大推佛心 10/15 16:53
-→ windlll: 只能推了 10/15 17:07
-推 allenlu34: 先謝謝你的付出 10/15 17:10
-推 syu007: 推 10/15 17:21
-推 huei0716: 推 10/15 17:36
-推 teardropbox: 好心人 10/15 17:51
-推 damm: 您很不錯，會找方向 10/15 18:07
-推 tony60138: 推好心人 10/15 18:13
-推 sphigh: 推 10/15 18:22
-推 mario253ttp: 這經歷OP 10/15 18:51
-推 ataim: 這太棒了!! 10/15 19:01
-推 KuangChao: 推! 10/15 19:05
-推 xjapan100: 推！！！ 10/15 20:04
-推 pudhow: 推好心原PO 10/15 20:35
-推 nate1107: 推 10/15 20:36
-推 sfh: 推 10/15 20:46
-推 nwkasim: 推！ 10/15 21:13
-推 toypoodle007: 好心人士 10/15 21:15
-推 milord: 推推搡搡 10/15 21:16
-推 dinayogi11: 純推 領域不同 推好心L(^o^)」 10/15 21:22
-推 f41301891: 推 10/15 21:24
-推 raja1003: 支持 10/15 21:30
-推 sqt: 感謝你讓社會又更進步 10/15 21:33
-推 sam40026: 推 10/15 21:41
-推 capucine520: 推好心 ！！ 10/15 21:46
-推 Neal121: 推啊 10/15 21:53
-推 gallanttoy: 推QQ 10/15 22:13
-推 yihanderman: 推 10/15 22:16
-推 Cosas: 推 10/15 22:36
-推 zenV: 佛心大推！ 10/15 22:51
-推 isoow: 好心  推推 10/15 22:57
-推 FJHS: 好溫馨！推！ 10/15 22:58
-推 nihonn714: 佛心人 10/15 23:03
-推 GoloNurm: 推 10/15 23:09
-推 cecret123: 推!!! 10/15 23:42
-推 Crazypop: 推！！ 10/15 23:58
-推 p1227426: 推 好人 10/16 00:16
-推 a331432534: 推 10/16 00:43
-推 nomimono155: 推 10/16 01:17
-推 s09587: 太好心了！推！ 10/16 01:47
-推 sam50289: 推 10/16 01:55
-推 andiran: 推 好心人 10/16 02:18
-推 whocallyou: 有心 10/16 03:54
-推 cxzvfdsa: 推 10/16 04:04
-推 harryrain: 推 10/16 05:45
-推 NCKUyju: 推!! 10/16 07:14
-推 RyanH2619: 推 10/16 08:32
-推 pedro501: 推 10/16 10:11
-推 kkdawnyun: 推! 10/16 10:20
-推 musheng: 推好心人 10/16 11:13
-推 tivl: 大推 10/16 11:24
-推 shiujj: ^^ 10/16 12:20
-推 Dis76757: 這一定要推,太好心了 10/16 13:06
-推 k6427402: 推 10/16 13:18
-推 kairy: 推 10/16 13:25
-推 crazyjamie: 推一下好心人 10/16 14:05
-推 hugowind: 這一定要推的！好心大大一生平安~ 10/16 14:18
-推 bubu: 推 善心人士! 10/16 14:25
-推 buci: 推~ 10/16 15:20
-推 qq1217: 佛心 10/16 15:28
-推 bigone88: 太佛啦 10/16 15:30
-推 abc3168: 好心推！ 10/16 15:59
-推 TFnight: 推阿QQ 10/16 16:22
-推 windnebula: 推! 10/16 16:31
-推 mickl8101: Push 10/16 17:57
-推 reglin: Push~ 10/16 18:11
-推 m13m13m: 推 請大神幫忙 10/16 18:56
-推 chizone: 佛心 10/16 20:04
-推 a41307: 推佛心啊!!! 10/16 21:41
-推 johtom811113: 推阿 10/16 21:49
-推 qwrt: 推好心人 10/16 22:11
-推 m2922918: 推好心~ 10/16 22:12
-推 timyanzi: 救台灣!!! 10/16 22:39
-推 u9u9aa2: 推 10/17 00:30
-推 CE9A: 推 10/17 00:52
-推 alexfann: 推啊 10/17 01:11
-推 hankgtr: 推 10/17 01:49
-推 fmnip0331: 佛陀轉世 10/17 03:30
-推 DrumMania: 推佛心 10/17 10:32
-推 frostaw: 佛心給推 10/17 10:34
-推 jokn1717: 推 10/17 10:42
-推 b69: 推 10/17 11:41
-推 agoodlife: 必須推 10/17 13:25
-推 eric1990: 純推不下 10/17 13:43
-推 d22453256: 推！！ 10/17 14:24
-推 user1120: 推！ 10/17 14:29
-推 serval623: 正好人 10/17 14:33
-推 CrazyCup: 推 10/17 16:03
-推 poorviv: 好人 推！ 10/17 16:34
-推 tangerine36: 推 10/17 16:42
-推 Ray0428: 好心 推推 10/17 20:43
-推 kick81126: 推 10/17 22:19
-推 AbcdefG18: 推 10/17 23:05
-推 skydream30: 推佛心~!! 10/18 00:43
-推 popxpopxpop: 正向循環大推！！另外某樓說給建議的人要對人負責， 10/18 02:50
-→ popxpopxpop: 請問某樓出社會了嗎？ 10/18 02:50
-推 wg1095: 推好心~ 10/18 08:47
-推 XiaoJustin: 推!!結善緣 10/18 09:49
-推 qetuo4862: ㄊㄨㄟˉ 10/18 12:28
-推 TKW5566: 怒推 10/18 15:25
-推 a123b456c788: 推 10/18 16:37
-推 coolricky: 大推好心人。 10/18 17:37
-推 k078787878: 溫馨 10/18 20:57
-推 steed: 推!! 10/18 22:33
-推 F1ower: 純推好心人 10/18 23:26
-推 sour399: 推佛心 10/19 00:09
-推 knightlin: 推 10/19 00:39
-推 splendid1011: 推推 10/19 00:55
-推 tim92087p: 佛菩薩 10/19 03:55
-推 asdg62558: 推!! 10/19 04:11
-推 horb: 推 10/19 18:10
-推 luck9987: 佛心。中年茫然著 10/19 21:12
-推 sai0720: 嗯 10/19 21:33
-推 cebelas: 推 10/20 00:38
-噓 liuhan: 我被拒絕的原因竟然是 104的職能測驗中 抗壓性零分 認真負 10/20 10:35
-→ liuhan: 責零分 其他的項目均遠高於平均水準 無言 10/20 10:35
-推 ryo942634: 我是需要幫助的人 mail:[email<U+00A0>protected] 10/20 12:14
-推 turtle2740: 佛心 10/20 18:45
-推 oooppps: 好心推 10/20 20:09
-推 carrie10014: 可是我剛剛打去有位子耶 先推再說 10/20 21:07
-→ carrie10014: 前面那句請忽略 10/20 21:08
-推 yoo73219: 正能量 10/20 23:10
-推 verthalis: 推推推~ 10/20 23:54
-推 louislai080: 感謝 推 10/21 00:56
-推 pr1nK2bAi: 推 這種人真的很少 10/21 03:10
-推 Circle1021: 溫馨推 10/21 08:03
-推 ahwait: 推推 感動 10/21 13:55
-推 martinezcp3: 推 10/21 17:02
-推 mylove1018: 推 好心人 10/21 20:39
-推 lynn5133: 推 10/21 21:35
-推 maxsv45: 推！ 10/21 22:50
-推 MissB: 推推 10/21 23:01
-推 pettylikesu: 推 10/21 23:17
-推 XDXD1221: 推 10/22 06:47
-推 yah0330: 再推 10/22 10:30
-推 hulkren: 大推 10/22 11:20
-→ heuristics: 不懂訴求，您幫助的不見得是清寒家庭之子，在路上遇 10/22 16:12
-→ heuristics: 到這樣的幫助，我會先起一份戒心，網路亦同，抱歉我 10/22 16:12
-→ heuristics: 很直 10/22 16:12
-推 shadow77: 推 10/22 18:22
-推 Sana: 直你老師 10/22 20:12
-推 zzss2003: 推 10/22 22:44
-推 ss1107: 推推! 10/22 23:50
-推 tt0407: 推好心 10/23 01:57
-推 popo14777: 推 10/23 08:23
-推 popo510691: 推. 佛心  願你一生平安 10/23 12:21
-推 ffggzz2: 推推 10/23 22:56
-→ fantasywater: 的錢 也也許你心中就會有答案了 話說7點下班 你要再 10/23 23:05
-→ fantasywater: 偷偷唸個學位或做其他的事情 時間也很充足 10/23 23:05
-推 Aaliyah: 讚 10/24 06:27
-推 guteres: 大推 10/24 06:59
-推 yvettia: 推推 10/24 12:27
-推 giraffehan: 推好心人 10/24 20:12
-推 ak47love1: 推～～ 10/24 22:19
-推 michung: 推推~ 10/25 11:10
-推 michael5182: 好心人！希望這個風氣能延續 10/25 20:43
-推 hotcute: 佛心來著 感動 10/25 23:53
-推 TeddyWu: 推！好心人 10/26 10:18
-推 icetofux: 這是我近期內看過最有正面力量的發文了 不推不行 10/27 00:10
-推 dantevergil: 推！ 10/27 00:17
-推 judyoo: 做公德，你會有福報~ 10/27 04:34
-推 eanan: 人生明燈，推!! 10/27 08:21
-推 w90908: 推 10/27 17:53
-推 abip1d: 讚啦！！ 10/27 21:21
-推 s921619: 推推～ 10/28 11:30
-推 m821215: 推!!! 10/30 00:51
-推 a2902793: 這叫人怎麼不推呢？ 10/31 12:30
-推 pei28: 大推，真是佛心來著的大善人啊。 10/31 23:27
-推 kaihung80: 推 11/01 18:15
-推 ANCZ: 推 11/01 21:45
-推 mike01019: 推 11/02 12:40
-推 titati520: 讚 11/03 00:17
-推 iamasmartkid: 用心推 11/03 12:17
-→ iamasmartkid: 感謝你!! 11/03 12:17
-推 goodevelyn: 推 11/03 17:33
-推 FJR1300AS: 推!! 11/04 02:30
-推 justin1943: 真的有人被回信了嗎? 11/04 08:20
-→ justin1943: 上線次數不到200 有效文章1 11/04 08:21
-推 air1943: 推 11/04 21:36
-推 pttstrider: 推 11/05 17:47
-推 nl0119: 推 11/05 23:10
-推 Blaker: 推！ 11/06 07:14
-推 qwerwef5535: 推推 11/06 20:01
-推 qetuo4862: 很感謝你的回信 謝謝 大家要稍等一下我也等很久 11/07 12:47
-推 yang8696: 感謝樓上大大  讓我燃起一線希望  哈哈 11/07 13:26
-推 gloomymy: 推 11/08 00:32
-推 jackson9453: 推 11/08 22:55
-推 ginochu331: 佛心 11/09 04:06
-推 jimly: 佛心推 11/09 12:19
-推 k5508520: 推 想完站內你 11/10 17:58
-推 lebronlp097: 推 11/11 05:10
-推 kellyyayakao: 人真好！ 11/11 23:30
-推 hopeygal: 推 11/12 17:57
-推 harukay08: 推佛心！ 11/12 18:32
-推 PottyMouth: _ 11/13 08:32
-推 karta0681608: 推 11/14 11:14
-推 zx2132837: 推呀 11/15 08:42
-推 js751001: 推 11/15 17:20
-推 pig92138: 推 台灣救星 11/16 10:51
-推 ett91: 大推 11/16 15:20
-推 kingdom03: 推 11/16 21:15
-推 azsxqw1234: 給推支持 11/17 17:09
-推 szk: 激推 11/21 13:17
-推 antiarko: 清流推~ 11/23 01:26
-推 cutetyc: 滿滿正能量 大推 11/23 02:06
-推 PTT1774: 推 11/23 22:52
-推 DIPPER232003: 推 寫完站內你 11/24 17:22
-推 kiwi86862000: 推 11/25 19:22
-推 seal46825: 推佛心 好人會有好報的 11/25 22:31
-推 topjay: 太大心了！大大感恩! 11/27 17:47
-推 otapiggy: 佛心。 11/27 22:02
-→ PowerCable: 真的棒 太晚知道 11/28 00:41
-推 fayfashion: 推 11/28 13:44
-推 qqnumber: 推 11/28 23:10
-推 ResGVirus: 推 11/29 09:02
-推 yamanwu: 11/29 13:42
-→ yamanwu: good 11/29 13:42
-推 PassthebyLai: 推 11/30 12:37
-推 leonard123: 感恩！！ 12/01 01:30
-推 woko: 佛心推!! 12/01 11:37
-推 beautynina: 推推 12/01 18:57
-推 michaelyu103: 推社會的正能量！有朝一日向你看齊！ 12/01 22:34
-推 taegatakisin: 大推！ 12/02 12:59
-推 starpiano102: 推 12/04 13:51
-推 carryout: 推推 12/04 16:40
-推 joy810324: 天使來著！ 12/06 01:05
-推 pig96383: 推 12/06 18:16
-推 glowbu: 感謝大大無私的付出 12/07 01:46
-推 k2604810: 推好心 12/07 20:15
-推 fight741: 推推 12/08 00:13
-推 bendon: 排 12/09 18:11
-推 jeromeshih: 推 12/10 15:48
-推 iamshiao: 先推 12/11 10:43
-推 wargods8402: 推……… 12/15 10:30
-推 louis70109: 頂 12/15 11:53
-推 luckymore: 推推推 12/17 20:54
-推 paul800526: 這人也太好了 12/18 01:39
-推 jonathanhuan: 好心前輩 推 12/18 06:47
-推 hyp0413: 推 12/18 09:59
-推 hhh20508: 推佛心 12/18 11:19
-推 qaws1404004: 讚 12/18 19:18
-推 wunclass: 推 12/20 11:35
-推 qq15: 推 12/20 22:57
-推 hui2708: 正能量 推 12/26 23:40
-推 WeiJyue: 祝您平安喜樂 12/28 17:21
-推 William1332: 推 12/29 17:14
-推 daniel810118: 讚   私信交流～ 12/30 09:03
-推 starpiano102: 佛心 12/31 16:57
-推 ceansin: 推推 01/01 20:37
-推 boy955403: 推推 01/02 13:09
-推 leomu: 淚惹淚惹 01/02 21:23
-推 johnse5533: 推 01/03 06:46
-推 gjccing: 推佛心 01/03 11:30
-推 Ryan1994: 龍騎士團 01/04 07:03
-推 MXICat: 推 01/04 12:46
-推 QK199: 推 01/04 14:45
-推 cocosophia: 推 01/06 16:45
-推 tina007836: 推 01/06 20:57
-推 kusp: 推  人真好! 01/07 10:53
-推 yuanshishi: 推！ 01/11 18:34
-推 vvoty810: 推 01/12 10:16
-推 susy8234: 推 01/15 11:06
-推 kent1018: 必須推~~~ 01/16 18:47
-推 dennyslee: 推 01/17 02:17
-推 maiayuami1: 需要+1 01/18 17:42
-推 ParkerWind: 先推一個 01/18 22:52
-推 dkallen: 推推 01/19 12:08
-推 uopsdod: 推 01/19 21:15
-推 eanan: 需要諮詢，推推推！！ 01/20 01:34
-推 STARKUO: 推 01/20 01:35
-推 ruchieh: 推！需要明燈 01/20 17:27
-推 xbcke12345: 啊啊啊啊...第一份工作快2年彷徨中 01/21 18:55
-推 medowo: 推 01/22 19:22
-推 fu0927: 推 01/23 10:52
-推 Quor: 先推 01/24 12:26
-推 danny0411: 推 01/26 14:33
-推 SARALINN: 推 感恩 01/27 15:56
-推 pjc202: 推 01/30 13:23
-推 apple830927: 推 02/02 17:33
-推 mark13312: 推 02/03 18:39
-→ smilekerker: 火 02/03 21:42
-推 haha58: 推 02/04 20:58
-推 clay141: 推個 不知道還有沒有機會 02/06 15:41
-推 datouge: 推一個 02/07 08:15
-推 blt5945130: 推! 02/07 22:42
-推 freedom101: 推 02/09 22:33
-推 tacosang: 推 02/10 19:16
-推 magic81813: 推 02/11 15:08
-推 EggD: 先推再說 02/12 04:10
-推 jj0321: PUSH 02/12 21:23
-推 powei0913: 已哭 02/13 01:36
-推 qswitch: 推 02/13 01:42
-推 jj828526: 感謝你的付出 02/14 12:23
-推 whhgn139: 推～ 02/14 21:13
-推 seanflower: 正向推 02/15 11:34
-推 Mike80310: 大推 02/15 18:18
-推 teruhyde12: 推你 謝謝 02/19 21:27
-推 dodo8511: 推推 02/21 11:12
-推 wesllychiou: 推好人 02/24 10:43
-推 exu0882300: 推 02/25 12:50
-推 goasttubain: 已哭 準備求助～ 02/26 00:21
-推 vincent0965: 推 可以直接站內信嗎？ 03/02 14:01
-推 cc11560: 推啊 03/04 09:45
-推 Unis: 推 03/05 01:15
-推 QBisaCat: 推 03/05 08:04
-推 eateat000: 推推推 03/06 13:29
-推 blaster: 推推 03/06 14:41
-推 wikinson168: 推 03/06 17:36
-推 silence569: 感謝有您 03/06 20:39
-推 supertyphoon: 蔥鹹聰賢鮪魚你們看到了嗎 03/07 21:42
-推 lukedick5566: 推 03/08 14:46
-推 happinessmo: 好棒 03/10 10:37
-推 jj0321: 上次上站 2/20 QQ 尚未回 03/11 19:56
-推 aliciarubylu: 推 03/13 23:34
-推 kaiserfhu: 推 03/14 18:34
-推 b80571: 佛心推 03/14 23:43
-推 s921619: 推 03/15 08:16
-推 Aegislee0912: 推推 03/19 19:20
-推 battlecandy: 佛心推 03/20 06:40
-推 snowin: 推 03/21 02:58
-推 linlinjiang: 推推 03/21 20:02
-推 yujun5284: 推 03/22 19:13
-推 ddqq995: 佛心推推 03/23 23:58
-推 ntddt: 狂推 佛心來著 03/24 01:26
-推 zxcv512: 推 03/25 09:49
-推 huai21512: 推 佛心人士 03/26 13:56
-推 Gbyteman: 推 03/26 20:40
-推 jayfei2000: 推 03/28 00:13
-推 a85501030221: 推,已寄信,期望能幫到我 03/29 00:17
-推 awage: 推好心前輩 03/30 15:13
-推 William1332: 推 04/07 09:05
-推 dahead: 推強者樓主 04/16 23:22
-推 floata: 推佛心 04/17 20:23
-推 supertyphoon: 錢不是最重要的 道德才是 04/19 18:48
-推 staynero8007: 推 佛心 04/22 14:10
-推 lolicat: 好心人推 04/23 19:40
-推 badkitty: 我現在才看到這篇文章...就不會走1年多的冤枉路了QQ 04/23 21:22
-推 eric610253: 好心人推推 04/25 21:44
-推 peter0611: 推，用心好心人 04/26 01:12
-推 hat13201: 推動台灣的那隻手！！ 04/26 14:35
-推 kaylotede: 推佛心! 05/01 01:39
-推 peter45654: 推 05/02 10:15
-推 boylee7023: 推～～ 05/02 20:50
-推 AK47shoot: 很熱心，但我寄信給您已經兩週，都沒回 05/03 00:26
-→ qweqq: 真的會回? 05/03 21:13
-推 h840311: 推 05/05 09:07
-推 x55331: 已經寄信了，求大大開示哈哈 05/08 01:41
-推 llkk1: 傳產也能尋求您的幫助嗎？ 05/09 12:24
-推 dogs8745: 推推推 突然看到曙光了～ 05/13 10:23
-推 ladygreen: 推 05/17 11:25
-推 pluto3595: 推 05/17 15:07
-推 jim152kimo: 推 05/17 20:49
-推 lsyy405: 推 05/19 17:16
-推 amyyeh0312: 推～ 05/21 16:31
-推 TruthFinder: 推好心人～ 05/23 09:45
-推 yang8696: 可能原PO太忙了，我去年11/6寄信，尚未回覆，給各位參 05/23 22:59
-→ yang8696: 考XD 05/23 22:59
-推 SJYJ: 推~ 05/31 16:39
-推 chen4chin: 用心推 05/31 16:48
-推 cosrabbit: 佛心 05/31 22:01
-推 alastorlin: 推好心 06/01 01:00
-推 narkey: 推 佛心 06/05 07:52
-推 guia0226: 很棒～～～ 06/05 23:53
-推 cyndidi: 推～ 06/07 21:54
-推 supertyphoon: 推 我是土粒 06/10 14:24
-推 yalelee: 推 06/14 23:04
-推 tenpoinyuki: 推 06/16 21:36
-推 a607162001: 推 06/16 22:27
-推 ndmimi: 用心推，照顧後人 謝謝 06/18 08:45
-推 Sana: 多謝您的回函！ 06/22 04:01
-推 nora429tt: 推 06/24 16:03
-推 blackmenmail: 推好心人 06/29 10:56
-推 iamlea227: 佛心來著的！ 06/30 01:10
-推 pan9281225: 推推 06/30 10:51
-推 peter0103: 推 用心的大大 謝謝你的付出與貢獻 06/30 22:20
-推 stevenchen12: 是微積分最低75可以進到面試關嗎？ 07/01 23:34
-推 po497210194: 推 07/02 12:32
-推 a8989522: 推推，超佛 07/02 16:16
-推 Roys: 狂推 07/03 19:08
-推 shuiyi: 推 07/03 22:43
-推 adamyoyo: 佛 QAQ 07/05 12:04
-推 handshangx: 可以請問一下聯絡方式嗎 找不到email 07/05 19:29
-推 shleylee: 好欸 07/07 08:36
-推 ews90123: 推，我也好想找人生方向 07/11 06:56
-推 Keney99: 太佛了不推不行啊 07/11 09:36
-推 ming0828: 推推 07/11 21:32
-推 jirry901: 推！！！ 07/12 09:47
-推 pinkgun: 推!!! 07/12 14:20
-推 pangnini: 推 07/13 19:49
-推 gene3706: 推 07/13 20:05
-推 chas8197: 可以請問一下聯絡方式嗎 找不到email +1 07/14 10:11
-推 xxx16597: 推 07/21 02:06
-推 harry280500: 推，一個開始最後會成果的 07/21 21:06
-推 afrit25: 推 07/24 14:45
-推 yji4y4ru3080: 可以請問一下聯絡方式嗎 找不到email +1 07/25 00:51
-推 schalin86062: 太感動了QQ 07/26 11:50
-推 a1982213: 看了一下原po今年是有上線... 07/30 10:16
-推 delirious: 有你真好 07/31 18:54
-推 a8989332: 這位大大可能在國外忙到忘了有PTT這件事了 QQ 08/04 23:06
-推 a2005414: 好偉大 08/10 04:14
-推 ntddt: 請問怎加入giver? 08/19 02:51
-→ cutebo2017: 推 感謝 08/20 15:08
-推 ll1117: 寫個roop固定回覆\"10萬青年十萬肝~~GG輪班就台灣 08/25 15:34
-推 wei4ch: 推 08/25 19:35
-推 nickhsu1234: 推 08/26 13:34
-推 erokui: 推 有你真好 08/27 23:13
-推 pkch15: push 08/29 21:39
-推 hui921109: 推 08/30 01:50
-推 jack7872309: 推好心 08/31 01:37
-推 nat791031: 很有心～推 09/04 22:08
-推 bigfoothenry: 好需要你的出現！ 09/04 23:03
-推 yji4y4ru3080: 有人被成功回覆的可提供信箱嗎 09/05 00:02
-推 swt821201: 想資訊<U+FD3F> 09/07 00:20
-推 water5251: 推推 09/11 20:32
-推 alex0334: 推 09/13 22:17
-推 Sana: 感謝回函 09/15 07:23
-推 air7755: 再推 09/18 15:17
-推 azxt1468: 推 09/18 18:46
-→ happyman2015: 的資方狗？ 09/21 11:13
-推 tim963741: 推!! 09/25 16:50
-推 missylin0612: 人真好！ 09/26 18:23
-推 ozakij: 推佛心 09/26 20:04
-推 fcolin1990: 推 09/28 15:20
-推 aiming: 推 09/28 20:58
-推 happyman2015: https://goo.gl/yFHbST 持續連署展現真民意 09/29 12:19
-→ sampsonhugh: 歡迎善用勞動部信箱　https://goo.gl/lSRVOP 09/30 14:54
-→ riva6690: 另類的心靈導師 推～ 10/02 21:36
-推 xzzzz1024: 推！ 10/06 19:35
-推 ted31013: 推！ 10/08 16:54
-推 jpg74568: 推 10/13 16:54
-推 pinkdo: 推 10/16 00:23
-推 waterchia: 推 10/16 22:00
-推 joe91928: 推 10/16 22:53
-推 newstyle2011: 猛 10/17 23:15
-推 jhtseng: 推 10/18 01:40
-推 QualTime: 推好心 10/18 09:28
-推 lance1502: 推 10/20 19:47
-推 qswitch: 推 10/23 01:59
-推 peter555: 推 11/05 01:43
-推 anemowaves: 推推 11/07 14:09
-推 ert4785: 推 11/14 23:38
-推 ga525457: 推推 11/15 21:33
-推 xlance: 推 11/16 12:33
-→ Sana: 2017.9.25 有上線喔! 11/17 00:51
-推 s3893616: 推 11/25 16:01
-推 uranus0125: 淚推 11/25 21:37
-推 popo14777: 推 12/02 15:14
-推 damore030322: 推!! 12/03 05:18
-推 hsbtw: 推 12/03 12:01
-推 xd963741: 推～ 12/11 11:13
-推 Sana: 正!!! 12/12 20:10
-推 dragonrose: 推佛心 12/16 11:42
-推 whhgn139: 推 12/16 22:01
-推 maycee: 讚 12/19 00:03
-推 s3893616: 推 12/20 03:10
-推 jk2056jk: 推 12/23 02:58
-推 blackmaninEE: 推 12/26 16:19
-推 zgmfx001: 推 12/28 23:07
-推 mm2362578: 推 12/31 08:16
-推 clownhorizon: 推推 正能量耶 12/31 10:19
-推 zodiak: 名子很像路過 01/04 14:33
-推 explan: 原po好善良 01/16 00:06
-推 s869225: 推 01/20 19:52
-推 Aquariusyi: 大推善心人!!!! 01/23 21:44
-推 q817262004: 好人 01/28 11:42
-推 BunuN: 推 02/01 20:34
-推 kungba: 正能量 02/04 11:15
-推 michelle130: 佛心耶 02/05 21:14
-推 yhily: 推 02/25 07:45
-推 jay82217: 推推 02/25 11:11
-推 LEVEL101:  ㄎㄢ 03/02 12:45
-推 trizombies: 推推 03/04 02:43
-推 jackal998: 推 03/04 08:12
-推 osme2000xp: 推 03/04 09:27
-推 LBJ1744990: 推 03/04 10:42
-推 Baileys: 推 03/04 21:41
-推 skyprograms: 推啊 03/06 23:50
-推 m10301108: 推 03/20 00:14
-推 zeal08146: 推推 晚點再寄信給你 03/21 00:12
-推 qpalzokm: 推推推 03/21 17:05
-推 ntutworm: 推 03/22 15:24
-推 ttoo7936: 大推！都該向你學習 03/23 11:56
-→ sampsonhugh: 任何諮詢歡迎善用勞動部信箱　https://goo.gl/lSRVOP 03/23 15:04
-→ uhawae:      好屌 03/24 18:14
-推 abc85216923: 推 03/25 13:31
-推 calm182258: 大推 03/31 22:48
-推 seewant: 推！ 04/01 21:39
-推 leo19870418: 推 04/02 21:06
-推 steven507055: 請問2018現在還可以詢問嗎 04/06 13:44
-推 hiitskon: 推～ 04/09 00:11
-推 sumsum: 推推也想求助 04/18 20:57
-推 rty315: 推 迷失方向想請教 04/20 15:27
-推 Xexanot: 推，佛心 04/21 07:08
-推 askingsky: 佛心，推 04/21 18:25
-推 skrskr: 推 請問現在還能問ㄇ 04/24 13:21
-推 ericalin94: 推 請問還能問嗎？ 04/26 19:05
-推 migo1217: 推～～ 05/06 10:53
-推 guy4409: 需要更多您這樣的人 05/13 00:50
-推 iamlea227: 推 05/19 00:29
-推 baizy806: 推 05/22 01:57
-推 iporsche: 推推 05/25 12:51
-推 hdk8431965: 推 05/27 02:38
-推 deo685: 推 05/27 18:34
-推 yohohenry: 推推推 06/19 14:07
-推 TsYa8489: 感動推 06/25 01:37
-推 Michael12186: 推 07/08 09:25
-推 a4839500: 你好 07/16 21:37
-→ a4839500: 我有在ptt看到你的文章 07/16 21:37
-→ a4839500: 目前在猶豫要不要念碩 07/16 21:37
-→ a4839500: 可以向你諮詢嗎？ 07/16 21:37
-推 yolo12345: 用心 07/18 13:00
-推 toothlesses: 推 07/21 12:16
-推 susumiya: 推 07/22 14:33
-推 flyingair: 推推 07/29 06:06
-推 gototheptt: Seafood 07/29 07:19
-推 zxc820829: 推一個 07/29 08:19
+�� �o�H��: �����~�{(ptt.cc), �Ӧ�: 27.242.199.15
+�� �峹���}: https://www.ptt.cc/bbs/Tech_Job/M.1532909242.A.9A3.html
+�� visa9527: ���X�����g�����������ɥN�B��O��{�b����� 07/30 09:49
+�� visa9527: ��~ AI ����}�I�N�O��� GPU �Ӥ��O CPU 07/30 09:49
+�� visa9527: ���~�� AI �A���@�y�ܥL�i��n�Q�@�p�ɤ~�వ�X�H���^�� 07/30 09:53
+�� visa9527: �{�b�� AI �P�˪��H���^���i�H�b�A�����ᰨ�W��ҧ��� 07/30 09:54
+�� visa9527: �٦����۰ʾr�p�B�z�h�� sensor data ���W�P�_�r�p�欰 07/30 09:55
+�� visa9527: �o�بƤ]���O���~�� AI �B��t�ץi�H���쪺 07/30 09:55
+�� visa9527: ���~�� AI �}�W���i��C�@���شN���U�ӭp��n���}... 07/30 09:55
+�� bab7171: �o�g������@�ӭ��I�A�b�ּƾڪ����p�Uai�ڥ��L�k�u�@ 07/30 09:59
+�� visa9527: ���̫�@�q�������O�@���ϥΫܦh�~���M���䴩�t�ΰ� 07/30 10:02
+�� visa9527: �ͬ����̱`�������Φa��N�O�Ѯ�w���F 07/30 10:03
+�� visa9527: ���L�Ѯ�w�����T�O�v�~�֭p��ƫ�w���V�ӶV�ǽT 07/30 10:03
+�� visa9527: �ӥB��Ƥ��R���n���V�ӶV�h�A���䭷�s���ų����ΤW�F 07/30 10:05
+�� visa9527: �Ѯ�w���T��O�A�Ŧ��t�ΨS���H�e�Ѯ�ƾڴN�L�k�u�@ 07/30 10:06
+�� visa9527: �u�໡�H�̷Q������AI�M�{��u�@��AI�O���@�˪��F�� 07/30 10:07
+�� ericsung: ���ܦh���~��AI�֤߷Q�k�A�S�j�q�ƾڤ]�b��AI 07/30 10:34
 "
 "53" NA
 "54" NA
+"55" "�@��Angels5566 (�g�k�p�ѹ�)�ݪOTech_Job���D[�s�D] �q�v���O���e�L�b �͹F��Q�Ƶ��P�~�ɶ�Mon Jul 30 08:36:03 2018
+https://bit.ly/2OrPLmz
+
+
+�u�Ӯɳ��i�K�V�x���x�_���ɡj
+
+��~�q�v�����[�šAPC�~�P�t�Ӭ��~���X���~�P�m�i�C�͹F�����q�v�ʵ����������ɶ���
+
+�A�㦳���i���u�աA���~���e�v�����F50�H�H�W�C�W�b�~�q�����O���檽�����A�͹F���
+
+�h������i���k�o�i���q�v���β��~�A����Q�Ƶ��P�~�C
+
+
+
+������s���cNewzoo���i���X�A���~�q�v���ȱN�|������9�������]���s�x��270 �����^
+
+�A�P�h�~�ۤ�W���F38�H�C�䤤77�H�O�Ӧ۩��٧U�B�s�i�H�α��v�C�Ӿ��鲣�~������B
+
+�N�F��6.94�������A�P�h�~�ۤ�W���F48�H�C���~��h�j���q�v�ɨƶ}�l�|��A���p���y
+
+���q�v�[���H�ƱN���F3.8���H���A�䤤�]�t1.65����q�v�R�n�̡A�H��2.15���줣�T�w
+
+�[�ݪ̡C
+
+
+
+�͹F�O�̦��ѯйq�v�ʵ��������O�t�A�L�h�b����q�v�ʵ������O�������e���v���F90�H
+
+�C��~�ӥ����ֳt�����A�]�l�ޤF�h�a���O�t�[�J�ԧ��A���L�͹F�����i���u�աA���~�W
+
+�b�~���e�v���W�L50�H�Aí�~�����s�Y�C�͹F���T���~�Ʒ~�s�`�g�z���۪߭��ܡA�ĤG�u
+
+�q�v�ʵ������O�X�f�ФU��u�s���A�۸���Ĥ@�u����30�H�C
+
+
+
+
+���~6��Computex�W�̼������D�N�O�q�v�A�]�A�غӡB���֡B�޹ŵ��j�t���w��q�v���~
+
+�u���X���~�P�C�{�b�����q�v���q�n�D144Hz��s�v�A�W�L9�����O�ĥΤ͹F�����O�C���M
+
+���~���ꭱ�O�t�h�X���q���O�����A���L�͹F���~��j�հ������q�������ݮi�A�U�b�~��
+
+�sLTPS���O�t�A�͹F�n���վ㲣�~�զX�A���q���O�X�f�񭫤]�W�[�C
+
+
+
+�t�~�W���FMiniLED���q���O�q���A���~�͹F�bSID�W�i�X2�TVR�B6�T����B15.6�T���q�B
+
+27�T�ʵ������t�CMiniLED���~�A�z�L���G�סB���ʺA���B�ϰ�ե����W��A���Φb��
+
+�����~�A�U�b�~�|�������X�A�v�����Φb�q�v�ʵ����B���q�C
+
+--
+�� �o�H��: �����~�{(ptt.cc), �Ӧ�: 61.218.53.138
+�� �峹���}: https://www.ptt.cc/bbs/Tech_Job/M.1532910968.A.776.html
+�N lponnn: �q�v�ʵ����Oԣ�p 07/30 08:43
+�� arrond: �i�H�b�����Ǻʱ��ù������q�v���~ 07/30 08:54
+�� b20026106: �q�v�ù��� monitor��½ 07/30 08:54
+�� Sex5F: �]�l�X�f�q�Ĥ@!! �]�l�g�g�g 07/30 09:23
+�� xyz30317: �]�l�X�f�h �X�G���C�� �Q���C�~��t 07/30 09:47
+�� jp956956: �]�l�����@�Ǥ����ȿ����p��l�K 07/30 12:24
+�� jp956956: �S���O�p���ӧ�h �d��@��H�] 07/30 12:25
+�� lianki: ���[ 07/30 12:33
+�� o760823: �]�l�t�h���ϲ���A�ҥH�N�O�Q���C����l�K�H 07/30 12:40
+�� nvsr: �h���\���R�]�l�N�Ocost down�r 07/30 13:23
+�� xyz30317: �]�l��������L �u�O���� 07/30 14:03
+�N john65240: �O�̤��� 07/30 14:34
+"
+"56" NA
+"57" NA
