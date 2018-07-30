@@ -3,7 +3,8 @@ title: "HW3_Part1"
 output: html_document
 ---
 
-# Data From: https://www.kaggle.com/niyamatalmass/google-job-skills
+# Data From: https://www.kaggle.com/gloriousc/ios-app-store/data
 ```{r}
-
+AppData = read.csv("./Apple_Store.csv/AppleStore.csv")
+Apps <- AppData[1:530, ]
 ```
