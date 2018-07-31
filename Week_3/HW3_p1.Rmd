@@ -3,8 +3,25 @@ title: "HW3_Part1"
 output: html_document
 ---
 
-# Data From: https://www.kaggle.com/gloriousc/ios-app-store/data
+### Data From: https://www.kaggle.com/gloriousc/ios-app-store/data
 ```{r}
-AppData = read.csv("./Apple_Store.csv/AppleStore.csv")
+AppData = read.csv("./Apple_Store.csv/AppleStore(Ver.1).csv")
 Apps <- AppData[1:530, ]
+```
+
+# The Rating of the Apps For Free
+```{r}
+library(dplyr)
+Apps %>%
+  filter(price==0.00) %>%
+  arrange(desc(user_rating))
+```
+
+# The Genre of the Apps
+```{r}
+library(dplyr)
+Apps %>%
+  filter(prime_genre==Games) %>%
+  arrange(price) %>%
+  arrange(desc(user_rating))
 ```
