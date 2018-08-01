@@ -30,9 +30,29 @@ CS+X Data Science Programming
 自己動手做分析（R語言）__ https://www.youtube.com/watch?v=3k0FPGNhTOY  
 	Understand the function of “chunk” and the principle of R  
 	Try to draw different plots/bars to complete HW2_Part1  
+	Add HW2_Part1  
+	Search and select the topic in PTT  
+	Get the topic: Tech_Job Class  
+	Text Mining  
+	Add HW2_Part2  
 
 
 ### [Class_Practice1](https://lulu-lee.github.io/106-Summer-Class/Week_2/practice1)
 
 ### [HW2_Part1](https://lulu-lee.github.io/106-Summer-Class/Week_2/HW2_p1)
 ### [HW2_Part2](https://lulu-lee.github.io/106-Summer-Class/Week_2/HW2_p2)
+
+## Week_3:
+
+### Progress
+	Learn Introduction to R Tidyverse in Datacamp (pipe/filter/mutate)  
+	EDA in Kaggle  
+	Select the topic: iOS in App Store  
+	Look for the “points” and compare the items inside the .csv  
+	My opinion  
+	Add HW3_Part1  
+	TFIDF  
+
+
+### [HW3_Part1](https://lulu-lee.github.io/106-Summer-Class/Week_3/HW3_p1)
+### [HW3_Part2](https://lulu-lee.github.io/106-Summer-Class/Week_3/HW3_p2)

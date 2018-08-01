@@ -9,7 +9,7 @@ pttTestFunction <- function(URL, filename)
   href  = html_attr(title, "href")
   data = data.frame(title = toUTF8(html_text(title)),
                        href = href)
-  data = data[-c(1:10),]
+  data = data[-c(2418:2430),]
   getContent <- function(x) {
     url  = paste0("https://www.ptt.cc", x)
     tag  = html_node(read_html(url), 'div#main-content.bbs-screen.bbs-content')
