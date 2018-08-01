@@ -4,24 +4,61 @@ output: html_document
 ---
 
 ### Data From: https://www.kaggle.com/gloriousc/ios-app-store/data
+
+# 因資料有瑕疵，所以取前530較完整之資料
 ```{r}
 AppData = read.csv("./Apple_Store.csv/AppleStore(Ver.1).csv")
 Apps <- AppData[1:530, ]
 ```
 
-# The Rating of the Apps For Free
+# 新增Size_MB讓資料更具可讀性，並觀察版本與容量關係
 ```{r}
 library(dplyr)
 Apps %>%
+mutate(size_MB=size_bytes/1000000) %>%
+arrange(ver) %>%
+  select(X, id, size_MB, ver) %>%
+tail()
+```
+###### 註:Apps名稱過長，改用id以及編號(X)列出
+#### My Opinion:不同Apps無法比較版本差異與容量大小的關係，但可以確定並無絕對差異
+
+--------------------------------------------------------------------------------------------------
+
+# 比較免費的APP與使用者評價的排名
+```{r}
+library(dplyr)
+  select(Apps, X, id, price, user_rating) %>%
   filter(price==0.00) %>%
   arrange(desc(user_rating))
 ```
 
-# The Genre of the Apps
+## 承上，畫圖看看
+```{r}
+library(ggplot2)
+ggplot(data=Apps, aes(x=user_rating, y=price)) + geom_point(color="blue")
+```
+
+#### My Opinion:免費軟體不一定是無用爛貨，須付費的軟體也並非完消使用者喜愛；所謂物美價廉，由此可看出真實存在
+
+--------------------------------------------------------------------------------------------------
+
+# 比較Games類別的APP的價格->使用者評價->適用年齡
 ```{r}
 library(dplyr)
-Apps %>%
-  filter(prime_genre==Games) %>%
+select(Apps, X, id, prime_genre, price, user_rating, cont_rating) %>%
+  filter(prime_genre=="Games") %>%
+  arrange(cont_rating) %>%
+  arrange(desc(user_rating)) %>%
   arrange(price) %>%
-  arrange(desc(user_rating))
+  head()
+```
+#### My Opinion:免費的遊戲APP大部分評價良好且適合4+以上的小孩，因此家長大可放心在未付費的情況下，無意間下載到兒童不宜的遊戲；絕大多數的遊戲保持在3顆星的不錯評價
+
+--------------------------------------------------------------------------------------------------
+
+# 了解各類別的APP與費用
+```{r}
+library("knitr")
+kable(table(Apps$prime_genre, Apps$price))
 ```
