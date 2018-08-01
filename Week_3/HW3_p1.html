@@ -130,14 +130,13 @@ $(document).ready(function () {
 <div id="data-from-httpswww.kaggle.comgloriouscios-app-storedata" class="section level3">
 <h3>Data From: <a href="https://www.kaggle.com/gloriousc/ios-app-store/data" class="uri">https://www.kaggle.com/gloriousc/ios-app-store/data</a></h3>
 </div>
-</div>
-<div id="530" class="section level1">
-<h1>因資料有瑕疵，所以取前530較完整之資料</h1>
+<div id="530" class="section level2">
+<h2>因資料有瑕疵，所以取前530較完整之資料</h2>
 <pre class="r"><code>AppData = read.csv(&quot;./Apple_Store.csv/AppleStore(Ver.1).csv&quot;)
 Apps &lt;- AppData[1:530, ]</code></pre>
 </div>
-<div id="size_mb" class="section level1">
-<h1>新增Size_MB讓資料更具可讀性，並觀察版本與容量關係</h1>
+<div id="size_mb" class="section level2">
+<h2>新增Size_MB讓資料更具可讀性，並觀察版本與容量關係</h2>
 <pre class="r"><code>library(dplyr)</code></pre>
 <pre><code>## 
 ## Attaching package: 'dplyr'</code></pre>
@@ -167,8 +166,8 @@ tail()</code></pre>
 <hr />
 </div>
 </div>
-<div id="app" class="section level1">
-<h1>比較免費的APP與使用者評價的排名</h1>
+<div id="app" class="section level2">
+<h2>比較免費的APP與使用者評價的排名</h2>
 <pre class="r"><code>library(dplyr)
   select(Apps, X, id, price, user_rating) %&gt;%
   filter(price==0.00) %&gt;%
@@ -398,6 +397,7 @@ tail()</code></pre>
 ## 222 493 391965015     0           2
 ## 223 440 381722077     0         1.5
 ## 224 492 391947489     0           0</code></pre>
+</div>
 <div class="section level2">
 <h2>承上，畫圖看看</h2>
 <pre class="r"><code>library(ggplot2)
@@ -408,9 +408,8 @@ ggplot(data=Apps, aes(x=user_rating, y=price)) + geom_point(color=&quot;blue&quo
 <hr />
 </div>
 </div>
-</div>
-<div id="gamesapp--" class="section level1">
-<h1>比較Games類別的APP的價格-&gt;使用者評價-&gt;適用年齡</h1>
+<div id="gamesapp--" class="section level2">
+<h2>比較Games類別的APP的價格-&gt;使用者評價-&gt;適用年齡</h2>
 <pre class="r"><code>library(dplyr)
 select(Apps, X, id, prime_genre, price, user_rating, cont_rating) %&gt;%
   filter(prime_genre==&quot;Games&quot;) %&gt;%
@@ -430,8 +429,8 @@ select(Apps, X, id, prime_genre, price, user_rating, cont_rating) %&gt;%
 <hr />
 </div>
 </div>
-<div id="app" class="section level1">
-<h1>了解各類別的APP與費用</h1>
+<div id="app" class="section level2">
+<h2>了解各類別的APP與費用</h2>
 <pre class="r"><code>library(&quot;knitr&quot;)
 kable(table(Apps$prime_genre, Apps$price))</code></pre>
 <table>
@@ -1040,6 +1039,7 @@ kable(table(Apps$prime_genre, Apps$price))</code></pre>
 </tr>
 </tbody>
 </table>
+</div>
 </div>
 
 

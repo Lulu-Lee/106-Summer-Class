@@ -5,13 +5,13 @@ output: html_document
 # 探討在Apple Store裡的APP
 ### Data From: https://www.kaggle.com/gloriousc/ios-app-store/data
 
-# 因資料有瑕疵，所以取前530較完整之資料
+## 因資料有瑕疵，所以取前530較完整之資料
 ```{r}
 AppData = read.csv("./Apple_Store.csv/AppleStore(Ver.1).csv")
 Apps <- AppData[1:530, ]
 ```
 
-# 新增Size_MB讓資料更具可讀性，並觀察版本與容量關係
+## 新增Size_MB讓資料更具可讀性，並觀察版本與容量關係
 ```{r}
 library(dplyr)
 Apps %>%
@@ -25,7 +25,7 @@ tail()
 
 --------------------------------------------------------------------------------------------------
 
-# 比較免費的APP與使用者評價的排名
+## 比較免費的APP與使用者評價的排名
 ```{r}
 library(dplyr)
   select(Apps, X, id, price, user_rating) %>%
@@ -43,7 +43,7 @@ ggplot(data=Apps, aes(x=user_rating, y=price)) + geom_point(color="blue")
 
 --------------------------------------------------------------------------------------------------
 
-# 比較Games類別的APP的價格->使用者評價->適用年齡
+## 比較Games類別的APP的價格->使用者評價->適用年齡
 ```{r}
 library(dplyr)
 select(Apps, X, id, prime_genre, price, user_rating, cont_rating) %>%
@@ -57,7 +57,7 @@ select(Apps, X, id, prime_genre, price, user_rating, cont_rating) %>%
 
 --------------------------------------------------------------------------------------------------
 
-# 了解各類別的APP與費用
+## 了解各類別的APP與費用
 ```{r}
 library("knitr")
 kable(table(Apps$prime_genre, Apps$price))
