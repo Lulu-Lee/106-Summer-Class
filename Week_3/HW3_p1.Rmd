@@ -2,7 +2,7 @@
 title: "HW3_Part1"
 output: html_document
 ---
-
+# 探討在Apple Store裡的APP
 ### Data From: https://www.kaggle.com/gloriousc/ios-app-store/data
 
 # 因資料有瑕疵，所以取前530較完整之資料
