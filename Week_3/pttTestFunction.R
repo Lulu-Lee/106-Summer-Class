@@ -3,7 +3,7 @@ library(tmcn)
 library(rvest)
 pttTestFunction <- function(URL, filename)
 {
-  #URL   = "https://www.ptt.cc/bbs/Eng-Class/index.html"
+  #URL   = "https://www.ptt.cc/bbs/SENIORHIGH/index"
   html  = read_html(URL)
   title = html_nodes(html, "a")
   href  = html_attr(title, "href")
