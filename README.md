@@ -51,13 +51,17 @@ CS+X Data Science Programming
 	Look for the “points” and compare the items inside the .csv  
 	My opinion  
 	Add HW3_Part1  
-	Text mining in PTT: Senior Class
-	Read the code and Debug to write my own code
-	See the results and add my opinion
-	TFIDF→PCA→Kmeans
-	Add HW3_Part2
+	Text mining in PTT: Senior Class  
+	Read the code and Debug to write my own code  
+	See the results and add my opinion  
+	TFIDF→PCA→Kmeans  
+	Add HW3_Part2  
 	  
 
 
 ### [HW3_Part1](https://lulu-lee.github.io/106-Summer-Class/Week_3/HW3_p1)
 ### [HW3_Part2](https://lulu-lee.github.io/106-Summer-Class/Week_3/HW3_p2)
+
+## Week_3:
+
+### Progress
