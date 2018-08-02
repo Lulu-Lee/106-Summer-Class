@@ -62,6 +62,6 @@ CS+X Data Science Programming
 ### [HW3_Part1](https://lulu-lee.github.io/106-Summer-Class/Week_3/HW3_p1)
 ### [HW3_Part2](https://lulu-lee.github.io/106-Summer-Class/Week_3/HW3_p2)
 
-## Week_3:
+## Week_4:
 
 ### Progress
