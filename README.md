@@ -96,3 +96,16 @@ https://www.youtube.com/watch?v=8PAlrHCM_Fg
 ### [EDA to T-test](https://lulu-lee.github.io/106-Summer-Class/Week_4/HW4_p1)
 ### [EDA to ANOVA to Statistics and Regression](https://lulu-lee.github.io/106-Summer-Class/Week_4/HW4_p2)
 
+---  
+
+## Week 5
+
+###Progress
+
+	Speech sharing  
+	Shiny  
+	Prepare the report for the next week  
+	Topic  
+	Motivation  
+	Coding  
+	PPT  
