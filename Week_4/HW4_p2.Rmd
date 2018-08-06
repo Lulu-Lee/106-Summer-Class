@@ -1,0 +1,275 @@
+---
+title: "EDA to ANOVA to Statistics and Regression"
+output: html_document
+---
+##前言:由上週我們可以得知，免費(price=0.00)的Apps與使用者的評價(user_rating)，以及遊戲(Games)普遍的評價都不錯；因此這週將進行更多筆資料，並用ANOVA進行討論
+#####註:ANOVA所檢驗的必須是連續數值，又後續探討資料需要多項條件，因此叫出上週EDA資料進行統計與回歸圖
+
+---
+
+##Packages
+```{r}
+library(knitr)
+library(ggplot2)
+library(Hmisc)
+library(heplots)
+library(MASS)
+library(corrplot)
+library(effects)
+library(lattice)
+library(lm.beta)
+```
+
+##延續HW3的EDA資料來源，並擴充取材1000筆資料
+```{r}
+AppData = read.csv("./Apple_Store.csv/AppleStore(Ver.1).csv")
+Apps <- AppData[1:1000, ]
+```
+
+##觀察Apps的基本結構
+```{r}
+str(Apps)
+head(Apps)
+summary(Apps)
+```
+
+---
+
+##看看軟體類別與下載次數的關聯性
+```{r}
+#先把軟體類別欄位內各個類別順序定下來(order of factors)
+Apps$prime_genre <- factor(Apps$prime_genre, 
+                       levels = c('Book',
+                                  'Business',
+                                  'Education',
+                                  'Entertainment',
+                                  'Finance',
+                                  'Food & Drink',
+                                  'Games',
+                                  'Health & Fitness',
+                                  'Lifestyle',
+                                  'Medical',
+                                  'Music',
+                                  'Navigation',
+                                  'News',
+                                  'Photo & Video',
+                                  'Productivity',
+                                  'Reverence',
+                                  'Shopping',
+                                  'Social Networking',
+                                  'Sports', 
+                                  'Travel',
+                                  'Utilities',
+                                  'Weather',
+                                  'Catalogs'))
+```
+
+###看不同軟體類別下的下載次數平均數
+```{r}
+tapply(Apps$rating_count_tot, Apps$prime_genre, mean)
+```
+#####My Opinion:平均下來，是 Social Networking 最多！當然，因為網路發達，大家都需要透過社交媒體互相聯絡感情
+
+
+###同軟體類別下的下載次數平均數，加上信賴區間
+#####Error 1, a problem in "binary operator"
+```{r cache=TRUE, warning=FALSE}
+# ggplot(data = Apps, 
+#       aes(x = prime_genre, y = rating_count_tot) +
+#  stat_summary(fun.data = 'mean_cl_boot', size = 1) +
+#  scale_y_continuous(breaks = seq(0, 10000, by = 1000)) +
+#  geom_hline(yintercept = mean(Apps$rating_count_tot) , 
+#             linetype = 'dotted') +
+#  labs(x = '軟體類別', y = '下載次數') +
+#  coord_flip())
+
+```
+
+###查看是不是價錢所影響的
+```{r cache=TRUE, warning=FALSE}
+anova(m1 <- lm(rating_count_tot ~ prime_genre, data = Apps))
+ggplot(data = Apps, 
+       aes(group = prime_genre, 
+          y = rating_count_tot, x = price)) +
+  geom_point() +
+  stat_smooth(method = 'lm', se = F) +
+  stat_smooth(aes(group = prime_genre, 
+          y = rating_count_tot, x = price), 
+          method = 'lm', se = F) + 
+  facet_grid( . ~  prime_genre) +
+  labs(x = 'price', y = 'rating_count_tot')
+```
+
+##ANOVA
+```{r cache=TRUE, warning=FALSE}
+#把價錢加進模型
+anova(m2 <- update(m1, . ~ . + 
+            price, data = Apps))
+#或許不是類別而是價錢造成...?
+anova(m3 <- update(m2, . ~ . - prime_genre,  data = Apps))
+```
+
+###將ANOVA結果做成圖表輸出，先計算一些需要的數據
+```{r cache=TRUE, warning=FALSE}
+#將結果放在一個list中
+res_lm <- lapply(list(m1, m2, m3), summary)
+#比較在控制價錢下，類別的效果
+(res_lm[[2]]$r.sq - res_lm[[3]]$r.sq)/res_lm[[2]]$r.sq
+```
+#####Error 2, not all fitted to the same size of dataset
+```{r}
+#anova(m3, m2)
+#比較在控制類別下，價錢的效果
+#(res_lm[[2]]$r.sq - res_lm[[1]]$r.sq)/res_lm[[1]]$r.sq
+#anova(m1, m2)
+```
+
+##畫圖
+```{r cache=TRUE, warning=FALSE}
+require(coefplot)
+m2 <- lm(rating_count_tot ~ prime_genre + price- 1, 
+         data = Apps)
+coefplot(m2, xlab = '估計值', ylab = '迴歸變項', title = '反應變項 = 下載次數')
+```
+
+###把資料與迴歸分析的預測值、殘差與影響度放進資料
+#####Error 3, arguments imply differing number of rows
+```{r cache=TRUE, warning=FALSE}
+#fit_m2 <- data.frame(Apps[, c(2, 12, 13)], fitted = fitted(m2), resid = resid(m2),
+#                     infl = influence(m2)$hat )
+```
+
+###依類別疊合真實觀測值與預測值
+#####Error 4 due to Error 3, no fit_m2
+```{r cache=TRUE, warning=FALSE}
+#ggplot(data = fit_m2, aes(x = rating_count_tot, group = prime_genre )) +
+# stat_density(geom = 'path', position = 'identity') +
+# stat_density(geom = 'path', position = 'identity', aes(x = fitted)) +
+# geom_vline(xintercept = c(with(dta, tapply(rating_count_tot, prime_genre, mean))), linetype = 'dotted')+
+# facet_grid(prime_genre ~ .) +
+# scale_x_continuous(breaks = seq(200, 900, by = 100))+
+# labs(x = '下載次數', y = '機率密度')
+```
+
+##看殘差分配，依類別，檢視常態與變異數同質假設
+#####Error 5 due to Error 3, no fit_m2
+```{r cache=TRUE, warning=FALSE}
+#ggplot(data = fit_m2, aes(x = scale(resid)), group = prime_genre ) +
+# stat_density(geom = 'path', position = 'identity', aes(linetype = prime_genre)) +
+# scale_linetype_manual(values = 5:1) +
+# guides(linetype = guide_legend(reverse = TRUE)) +
+# labs(x = '標準化殘差', y = '機率密度') +
+# theme(legend.position = c(.15, .8))
+```
+
+##Q-Q 圖，依類別檢視常態假設
+#####Error 6 due to Error 3, no fit_m2
+```{r cache=TRUE, warning=FALSE}
+#qqmath(~ scale(resid) | prime_genre, data = fit_m2, type = c('p', 'g', 'r'),
+#       xlab = '常態位數', ylab = '標準化殘差', layout = c(2, 3),
+#       pch = '.', cex = 2)
+```
+
+###畫預測值與殘差的散佈圖，檢查線性與等分散假設
+#####Error 7 due to Error 3, no fit_m2
+```{r cache=TRUE, warning=FALSE}
+#ggplot(data = fit_m2, aes(x = fitted, y = scale(resid), group = prime_genre )) +
+#  geom_point(pch = 20, size = 1) +
+#  stat_smooth(method = 'rlm', se = F) +
+#  facet_grid(prime_genre ~ .) +
+#  labs(x = '類別預測值', y = '標準化殘差')
+```
+
+###呈現影響值（影響估計結果過大的值）與標準化殘差
+#####Error 8 due to Error 3, no fit_m2
+```{r cache=TRUE, warning=FALSE}
+#ggplot(data = fit_m2, aes(x = infl, y = scale(resid), group = prime_genre)) +
+# geom_text(aes(label = rownames(fit_m2)), cex = 2) +
+# geom_hline(yintercept = 0, linetype = 'dotted') +
+# facet_grid(prime_genre ~ .) +
+# labs(x = '影響值', y = '標準化殘差')
+```
+
+###看看影響值
+```{r cache=TRUE, warning=FALSE}
+summary(influence(m2)$hat)
+```
+
+---
+
+#PART C:接下來分析資料集當中的其他變項是否和下載次數有關
+```{r cache=TRUE, warning=FALSE}
+Apps_count <- Apps[, c('rating_count_tot', 'user_rating', 'sup_devices.num', 'lang.num' )]
+```
+
+###看看基本統計量
+#####Error 9, for 'x' not being numeric
+```{r cache=TRUE, warning=FALSE}
+#colMeans(Apps_count)
+```
+
+## 呈現兩兩散佈圖
+```{r cache=TRUE, warning=FALSE}
+scatterplotMatrix(~ rating_count_tot + user_rating + sup_devices.num + lang.num, data= Apps_count,
+  pch = '.', cex = 3, smooth = FALSE, reg.line = FALSE, ellipse = TRUE,
+  diagonal = 'none', lower.panel = NULL)
+
+```
+
+###利用corrplot 套件，以圖形顯示相關性的大小
+#####Error 10, for not being numeric
+```{r cache=TRUE, warning=FALSE}
+#corrplot(cor(Apps_count), method = 'ellipse', order = 'hclust', addrect = 4,
+#        type = 'upper', tl.pos = 'tp')
+#corrplot(cor(Apps_count), add = TRUE, type = 'lower', method = 'number',
+#         order = 'hclust', col = 'black', diag = FALSE, tl.pos = 'n', cl.pos = 'n')
+```
+
+###放進三個解釋變項
+```{r cache=TRUE, warning=FALSE}
+summary(m4 <- lm(rating_count_tot ~ rating_count_tot + user_rating + sup_devices.num + lang.num, data= Apps_count))
+```
+
+```{r cache=TRUE, warning=FALSE}
+coefplot(m4, predictors = c('user_rating', 'sup_devices.num', 'lang.num'),
+ xlab = '估計值', ylab = '迴歸變項(去除截距)', title = '反應變項是下載次數')
+```
+
+#####Error 11, could not find function "allEffects"
+```{r}
+#plot(allEffects(m4), main = '', ylim = c(550, 670), grid = T)
+```
+
+###利用 lm.beta 套件，計算標準化迴歸係數
+```{r cache=TRUE, warning=FALSE}
+summary(lm.beta(m4))
+```
+
+##看看控制語言供應與裝置供應後，評價分數的效果
+```{r cache=TRUE, warning=FALSE}
+summary(m5 <- update(m4, . ~ . - user_rating , data = Apps_count))
+anova(m5, m4)
+```
+
+#####Error 12, for unknowing how to debug
+```{r  cache=TRUE, warning=FALSE}
+#m5 <- lm(rating_count_tot ~ user_rating + lang.num + sup_devices.num + price, data = Apps)
+#fit_m5 <- data.frame(Apps[, c(2, 3, 6, 4, 13)], fitted = fitted(m5), resid = resid(m5), infl = influence(m5)$hat)
+
+#ggplot(data = fit_m5, aes(x = rating_count_tot, group = lang.num )) +
+# stat_density(geom = 'path', position = 'identity') +
+# stat_density(geom = 'path', position = 'identity', aes(x = fitted)) +
+# geom_vline(xintercept = c(with(Apps, tapply(rating_count_tot, lang.num, mean))), linetype = 'dotted')+
+# facet_grid(lang.num ~ .) +
+# scale_x_continuous(breaks = seq(200, 900, by = 100))+
+# labs(x = '下載次數', y = '機率密度')
+```
+
+
+
+
+#####My Opinion:這次出現很多的error，嘗試過很多次依然無法解決，但依舊還是能夠run出一些結果，初步了解關係
+
+
+
+

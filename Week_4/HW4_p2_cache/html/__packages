@@ -1,0 +1,15 @@
+base
+knitr
+ggplot2
+lattice
+survival
+Formula
+Hmisc
+carData
+car
+heplots
+MASS
+corrplot
+effects
+lm.beta
+coefplot

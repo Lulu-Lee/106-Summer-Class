@@ -10,6 +10,8 @@ CS+X Data Science Programming
 對於未來充滿微妙的新奇，也因此想藉由學習獲得額外的「個人資產」  
 目前目標：希望能對程式設計運籌帷幄，在此如魚得水、享受悠遊其中！  
 
+---  
+
 ## Week 1
 
 ### Progress  
@@ -21,6 +23,8 @@ CS+X Data Science Programming
 
 
 ### [HW1](https://lulu-lee.github.io/106-Summer-Class/Week_1/HW1)  
+
+---  
 
 ## Week 2
 
@@ -37,10 +41,12 @@ CS+X Data Science Programming
 	Add HW2_Part2  
 
 
-### [Class_Practice1](https://lulu-lee.github.io/106-Summer-Class/Week_2/practice1)
 
+### [Class_Practice1](https://lulu-lee.github.io/106-Summer-Class/Week_2/practice1)
 ### [HW2_Part1](https://lulu-lee.github.io/106-Summer-Class/Week_2/HW2_p1)
 ### [HW2_Part2](https://lulu-lee.github.io/106-Summer-Class/Week_2/HW2_p2)
+
+---  
 
 ## Week_3:
 
@@ -62,6 +68,31 @@ CS+X Data Science Programming
 ### [HW3_Part1](https://lulu-lee.github.io/106-Summer-Class/Week_3/HW3_p1)
 ### [HW3_Part2](https://lulu-lee.github.io/106-Summer-Class/Week_3/HW3_p2)
 
+---  
+
 ## Week_4:
 
 ### Progress
+
+	Make up the class  
+	Find the data last week unusable  
+	Search for the new data (←it’s a hard work I)  
+	Select the new data and debug (←it’s a pretty hard work II)  
+	Merge and compare the list in the data ”10408”  
+	T-test  
+	My opinion  
+	Add EDA to T-test (HW4_Part1)  
+	Got some problems in ANOVA with the data “10408”  
+	Recall the data ”Apps” last week and do statistics and regression  
+	Watch the clips on teaching film  
+利用R語言進行ANOVA __  
+https://www.youtube.com/watch?v=8PAlrHCM_Fg  
+	Try to turn the code into my own and debug while working on it  
+	My opinion  
+	Add EDA to ANOVA to Statistics and Regression (HW4_Part2)  
+
+
+
+### [EDA to T-test](https://lulu-lee.github.io/106-Summer-Class/Week_4/HW4_p1)
+### [EDA to ANOVA to Statistics and Regression](https://lulu-lee.github.io/106-Summer-Class/Week_4/HW4_p2)
+

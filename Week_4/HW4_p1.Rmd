@@ -1,0 +1,166 @@
+---
+title: "EDA to T-test"
+output: html_document
+---
+##前言:民國104年(2015年)6月底發生八仙粉塵爆炸事件，因此假設有效時間為2個月後的8月，來觀察全國出生死亡人數，此資料也包括男女數、婚姻狀態等
+
+---
+
+###Packages
+```{r}
+library(ggplot2)
+library(reshape2)
+library(gridExtra)
+library(Hmisc)
+library(dplyr)
+library(coefplot)
+```
+
+##Data From:https://data.gov.tw/dataset/8411
+```{r}
+pop <- read.csv('10408.csv', header = TRUE, fileEncoding = "UTF-8")
+#See New Taipei City only
+NTP <- pop[1:1032,]
+```
+
+##看看資料的基本資訊
+```{r}
+str(NTP)
+head(NTP)
+summary(NTP)
+```
+
+---
+
+##先畫圖看看NTP各個比較(興趣知道而已XD)
+###Female vs Male
+```{r}
+F <- NTP[,c("Area","Birth_girl","Death_girl")]
+F <- melt(F, id.vars="Area")
+M <- NTP[,c("Area","Birth_boy","Death_boy")]
+M <- melt(M, id.vars="Area")
+
+plotF <- ggplot(F, aes(Area,value, col=variable)) + 
+  geom_point() + 
+  ylim(0, 15)
+plotM <- ggplot(M, aes(Area,value, col=variable)) + 
+  geom_point() + 
+  ylim(0, 15)
+grid.arrange(plotF, plotM, ncol=2)
+```
+
+###Birth vs Death
+```{r}
+B <- NTP[,c("Area","Birth_num")]
+B <- melt(B, id.vars="Area")
+D <- NTP[,c("Area","Death_num")]
+D <- melt(D, id.vars="Area")
+
+plotB <- ggplot(B, aes(Area,value, col=variable)) + 
+  geom_point() + 
+  ylim(0, 15)
+plotD <- ggplot(D, aes(Area,value, col=variable)) + 
+  geom_point() + 
+  ylim(0, 15)
+grid.arrange(plotB, plotD, ncol=2)
+```
+
+###Marriage vs Divorce
+```{r}
+Mar <- NTP[,c("Area","Marriage")]
+Mar <- melt(Mar, id.vars="Area")
+Div <- NTP[,c("Area","Divorce")]
+Div <- melt(Div, id.vars="Area")
+
+plotMar <- ggplot(Mar, aes(Area,value, col=variable)) + 
+  geom_point() + 
+  ylim(0, 15)
+plotDiv <- ggplot(Div, aes(Area,value, col=variable)) + 
+  geom_point() + 
+  ylim(0, 15)
+grid.arrange(plotMar, plotDiv, ncol=2)
+```
+
+---
+
+#PART A:觀察出生死亡與男女數量的關係
+###先建立GenderDF讓資料完整
+```{r}
+area = ("Area")
+gender = c(rep("M", each=3096), rep("F", each=3096))
+catagory = c(rep("Birth_boy", each=1548), rep("Death_boy", each=1548), rep("Birth_girl", each=1548), rep("Death_girl", each=1548))
+rate = c(F$value, M$value, B$value, D$value)
+GenderDF <- data.frame(area, gender, catagory, rate)
+```
+
+##盒狀圖
+```{r}
+ggplot(data = GenderDF, aes(x = gender, y = rate)) +
+ geom_boxplot() + coord_flip() +
+ labs( y = 'rate', x = 'gender', 
+       title = 'Birth & Death Rate Box')
+```
+
+##95%信任曲線
+```{r}
+with(GenderDF, 
+     tapply(rate, gender,
+     function(x) 
+       c(mean(x) + c(-2, 2) * sd(x)/sqrt(length(x)))))
+```
+
+##用T-test檢驗
+```{r}
+t.test(rate ~ gender, data = GenderDF)
+
+#if the variable are eual
+t.test(rate ~ gender, data = GenderDF, var.equal = TRUE)
+```
+####My Opinion:看來是沒有關聯的，因 P value > 0.05
+
+---
+
+#PART B:觀察婚姻狀態與男女數量的關係
+###建立GenderDF2
+```{r}
+
+area = ("Area")
+gender = c(rep("M", each=3096), rep("F", each=3096))
+catagory = c(rep("Birth_boy", each=1548), rep("Death_boy", each=1548), rep("Birth_girl", each=1548), rep("Death_girl", each=1548))
+rate = c(F$value, M$value, Mar$value, Div$value)
+GenderDF2 <- data.frame(area, gender, catagory, rate)
+
+GenderDF2$catagory <- factor(GenderDF2$catagory, 
+                       levels = c('Birth_boy','Death_boy', 'Birth_girl', 'Death_girl'))
+tapply(GenderDF2$rate, GenderDF2$catagory, mean)
+```
+
+##畫圖
+```{r}
+ggplot(data = GenderDF2, 
+       aes(x = catagory, y = rate)) +
+  stat_summary(fun.data = 'mean_cl_boot', size = 1) +
+  scale_y_continuous(breaks = seq(0, 10, by = 2)) +
+  geom_hline(yintercept = mean(GenderDF2$rate) , 
+             linetype = 'dotted') +
+  labs(x = 'gender', y = 'condiction') +
+  coord_flip()
+```
+
+##Anova
+```{r}
+anova(m1 <- lm(rate ~ catagory, data =GenderDF2))
+
+ggplot(data = GenderDF2, 
+       aes(group = catagory, 
+          y = rate, x = area)) +
+  geom_point() +
+  stat_smooth(method = 'lm', se = F) +
+  stat_smooth(aes(group = catagory, 
+          y = rate, x = area), 
+          method = 'lm', se = F) + 
+  facet_grid( . ~  catagory) +
+  labs(x = 'Area', y = 'condiction')
+```
+
+####My Opinion:資料與我的邏輯無法搭軋，這份暫時只能做到這邊，看出一些(奇怪的?)端倪
