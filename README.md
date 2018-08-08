@@ -110,7 +110,15 @@ https://www.youtube.com/watch?v=8PAlrHCM_Fg
 	Coding  
 	PPT  
 
+---  
+
+Week 6
+
+### Progress  
+
+	Project
 
 
-### [Shiny]
+
+### [Shiny] ——→ (view the file in Week_6/app.R)
 ### [PPT](https://drive.google.com/open?id=10PS03M5A2FszLJna8Lb9TwEcez2zIH6a)
