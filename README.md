@@ -104,7 +104,7 @@ https://www.youtube.com/watch?v=8PAlrHCM_Fg
 
 	Speech sharing  
 	Shiny  
-	Prepare the report for the next week  
+	Prepare the project for the next week  
 	Topic  
 	Motivation  
 	Coding  
